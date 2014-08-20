@@ -1,0 +1,222 @@
+id: 23.01.054.044-2013
+law: 17(I)/2013
+sources:
+  - id: praktiko24
+    text: >
+      Συνεδρίαση 21ης Μαρτίου 2013. Ι' Βουλευτική Περίοδος - Σύνοδος Β'. Πρακτικά της Βουλής των Αντιπροσώπων. Αρ. 24. http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-03-21.doc
+  - id: praktiko25
+    text: >
+      Συνεδρίαση 22ας Μαρτίου 2013. Ι' Βουλευτική Περίοδος - Σύνοδος Β'. Πρακτικά της Βουλής των Αντιπροσώπων. Αρ. 25. http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-03-22.doc
+  - id:
+    text: >
+      «Η Συνεδρίαση της Κυπριακής Βουλής - 22/3/2013». YouTube. https://www.youtube.com/watch?v=FKov5xcy5Wc
+  - id:
+    text: >
+      «Πέρασαν και τα εννέα νομοσχέδια από το κοινοβούλιο». Philenews. 23 Μαρτίου 2013. http://www.philenews.com/el-gr/oikonomia-kypros/146/137986/perasan-ta-prota-nomoschedia-apo-to-koinovoulio
+  - id: philenews
+    text: >
+      «Πώς ψήφισε η Βουλή το επίμαχο νομοσχέδιο». Philenews. 23 Μαρτίου 2013. http://www.philenews.com/el-gr/eidiseis-politiki/39/138038/pos-psifise-i-vouli-to-epimacho-nomoschedio
+summary:
+  el_GR: |
+    Το συγκεκριμένο σχέδιο νόμου (νομοσχέδιο) ορίζει την Κεντρική Τράπεζα της Κύπρου ως «Αρχή Εξυγίανσης», η οποία θα «λαμβάν[ει] και [θα] εφαρμόζ[ει] μέτρα εξυγίανσης πιστωτικών και άλλων ιδρυμάτων κάτω από συγκεκριμένες προϋποθέσεις» (απόσπασμα από την έκθεση επιτροπής).
+tags:
+  - μνημόνιο
+  - τραπεζικό σύστημα
+events:
+  - date: '2013-03-21'
+    description:
+      el_GR: >
+        το νομοσχέδιο κατατέθηκε μαζί με οχτώ άλλα συναφή νομοσχέδια με την εισήγηση «να κηρυχθούν επείγοντα και να ψηφιστούν σήμερα» ([#praktiko24](#praktiko24):161)
+  - date: '2013-03-21'
+    description:
+      el_GR: >
+        η ψηφοφορία αναβλήθηκε για την επόμενη μέρα. « ... κρίνει το σώμα ότι πράγματι εμπεριέχουν επείγοντα χαρακτήρα τα κατατεθέντα νομοσχέδια και ταυτόχρονα, επειδή θεωρεί το σώμα ότι θα πρέπει να υπάρξει μια ουσιαστική ή στοιχειώδης έστω μελέτη αυτών των νομοθετημάτων, θα συνεχίσει η παρούσα συνεδρία αύριο το πρωί, στις 10.00 π.μ.» (Πρόεδρος της Βουλής· [#praktiko24](#praktiko24):162)
+  - date: '2013-03-22'
+    description:
+      el_GR: >
+        προτεινόμενη τροπολογία του ΑΚΕΛ–ΝΔ απορρίφθηκε ([#praktiko25](#praktiko25):203)
+  - date: '2013-03-22'
+    description:
+      el_GR: >
+        το νομοσχέδιο υπερψηφίστηκε ([#praktiko25](#praktiko25):204–5)
+status:
+  date: '2013-03-22'
+  description:
+    el_GR: υπερψηφίστηκε
+title: Ο περί Εξυγίανσης Πιστωτικών και Άλλων Ιδρυμάτων Νόμος του 2013
+votes:
+  - count:
+      for: 19
+      against: 25
+      abstained: 6
+    result: fail
+    on_:
+      el_GR: Προτεινόμενη τροπολογία εκ μέρους της κοινοβουλευτικής ομάδας ΑΚΕΛ-Αριστερά-Νέες Δυνάμεις
+  - breakdown:
+      - name: Αδάμου Αδάμος
+        parlGroup: ΑΚΕΛ–ΝΔ
+        option: abstained
+      - name: Αντωνίου Αντώνης
+        parlGroup: ΔΗΚΟ
+        option: abstained
+      - name: Βαρνάβα Γιώργος
+        parlGroup: ΕΔΕΚ
+        option: abstained
+      - name: Γαβριήλ Γιαννάκης
+        parlGroup: ΑΚΕΛ–ΝΔ
+        option: abstained
+      - name: Γεωργίου Γιώργος
+        parlGroup: ΑΚΕΛ–ΝΔ
+        option: abstained
+      - name: Δαμιανού Άριστος
+        parlGroup: ΑΚΕΛ–ΝΔ
+        option: abstained
+      - name: Δημητρίου Μισιαούλη Στέλλα
+        parlGroup: ΑΚΕΛ–ΝΔ
+        option: abstained
+      - name: Ευαγόρου Σταύρος
+        parlGroup: ΑΚΕΛ–ΝΔ
+        option: abstained
+      - name: Κατσουρίδης Νίκος
+        parlGroup: ΑΚΕΛ–ΝΔ
+        option: abstained
+      - name: Καυκαλιάς Αντρέας
+        parlGroup: ΑΚΕΛ–ΝΔ
+        option: abstained
+      - name: Κουκουμά Κούτρα Σκεύη
+        parlGroup: ΑΚΕΛ–ΝΔ
+        option: abstained
+      - name: Κυπριανού Άντρος
+        parlGroup: ΑΚΕΛ–ΝΔ
+        option: abstained
+      - name: Κώστα Κώστας
+        parlGroup: ΑΚΕΛ–ΝΔ
+        option: abstained
+      - name: Λαμάρης Γιάννος
+        parlGroup: ΑΚΕΛ–ΝΔ
+        option: abstained
+      - name: Λουκαΐδης Γιώργος
+        parlGroup: ΑΚΕΛ–ΝΔ
+        option: abstained
+      - name: Μέσης Χρίστος
+        parlGroup: ΑΚΕΛ–ΝΔ
+        option: abstained
+      - name: Μαυρονικόλα Ρούλα
+        parlGroup: ΕΔΕΚ
+        option: abstained
+      - name: Νικολαΐδης Νίκος
+        parlGroup: ΕΔΕΚ
+        option: abstained
+      - name: Ομήρου Γιαννάκης
+        parlGroup: ΕΔΕΚ
+        option: abstained
+      - name: Περδίκης Γιώργος
+        parlGroup: Οικολόγοι
+        option: abstained
+      - name: Σαρίκας Φειδίας
+        parlGroup: ΕΔΕΚ
+        option: abstained
+      - name: Σταυριανός Πανίκκος
+        parlGroup: ΑΚΕΛ–ΝΔ
+        option: abstained
+      - name: Τζιοβάνης Χριστάκης
+        parlGroup: ΑΚΕΛ–ΝΔ
+        option: abstained
+      - name: Φακοντής Αντρέας
+        parlGroup: ΑΚΕΛ–ΝΔ
+        option: abstained
+      - name: Χαραλαμπίδου Ειρήνη
+        parlGroup: ΑΚΕΛ–ΝΔ
+        option: abstained
+      - name: Κουλίας Ζαχαρίας
+        parlGroup:
+        option: against
+      - name: Κουτσού Νίκος
+        parlGroup: ΕΥΡΩΚΟ
+        option: against
+      - name: Γεωργίου Γεώργιος
+        parlGroup: ΔΗΣΥ
+        option: for
+      - name: Δίπλαρος Ευθύμιος
+        parlGroup: ΔΗΣΥ
+        option: for
+      - name: Ζαχαρίου Ζαχαρίας
+        parlGroup: ΔΗΣΥ
+        option: for
+      - name: Θεμιστοκλέους Ανδρέας
+        parlGroup: ΔΗΣΥ
+        option: for
+      - name: Καρογιάν Μάριος
+        parlGroup: ΔΗΚΟ
+        option: for
+      - name: Κυπριανού Ανδρέας
+        parlGroup: ΔΗΣΥ
+        option: for
+      - name: Κυριακίδου Αθηνά
+        parlGroup: ΔΗΚΟ
+        option: for
+      - name: Κυριακού Μαρία
+        parlGroup: ΔΗΣΥ
+        option: for
+      - name: Κωνσταντίνου Κώστας
+        parlGroup: ΔΗΣΥ
+        option: for
+      - name: Κωνσταντίνου Νεόφυτος
+        parlGroup: ΔΗΚΟ
+        option: for
+      - name: Μαππουρίδης Ρίκκος
+        parlGroup: ΔΗΣΥ
+        option: for
+      - name: Μαυρίδης Μάριος
+        parlGroup: ΔΗΣΥ
+        option: for
+      - name: Μισός Αριστοτέλης
+        parlGroup: ΔΗΣΥ
+        option: for
+      - name: Μιχαηλίδης Ανδρέας
+        parlGroup: ΔΗΣΥ
+        option: for
+      - name: Νεοφύτου Αβέρωφ
+        parlGroup: ΔΗΣΥ
+        option: for
+      - name: Νουρής Νίκος
+        parlGroup: ΔΗΣΥ
+        option: for
+      - name: Παπαδόπουλος Νικόλας
+        parlGroup: ΔΗΚΟ
+        option: for
+      - name: Προδρόμου Πρόδρομος
+        parlGroup: ΔΗΣΥ
+        option: for
+      - name: Προκοπίου Γεώργιος
+        parlGroup: ΔΗΚΟ
+        option: for
+      - name: Σαμψών Σωτήρης
+        parlGroup: ΔΗΣΥ
+        option: for
+      - name: Τάσου Γεώργιος
+        parlGroup: ΔΗΣΥ
+        option: for
+      - name: Τορναρίτης Νίκος
+        parlGroup: ΔΗΣΥ
+        option: for
+      - name: Φυττής Σοφοκλής
+        parlGroup: ΔΗΚΟ
+        option: for
+      - name: Χατζηγιάννης Κυριάκος
+        parlGroup: ΔΗΣΥ
+        option: for
+      - name: Χριστοφόρου Λευτέρης
+        parlGroup: ΔΗΣΥ
+        option: for
+    date: '2013-03-22'
+    count:
+      abstained: 25
+      against: 2
+      for: 26
+    remarks:
+      el_GR: |
+        Από το ΕΥΡΩΚΟ εναντίον τάχθηκε ο Νίκος Κουτσού ([#philenews](#philenews))· ο Δημήτρης Συλλούρης αποχώρησε από την αίθουσα πριν διεξαχθεί η ψηφοφορία ([#praktiko25](#praktiko25):190,193–4). Από το ΔΗΚΟ τήρησε αποχή ο Αντώνης Αντωνίου λέγοντας ότι η σύζυγός του είναι υπάλληλος τράπεζας που θα επηρεαζόταν από αυτό το νομοσχέδιο ([#praktiko25](#praktiko25):190).
+    result: success
+    on_:
+      el_GR: Σύνολο

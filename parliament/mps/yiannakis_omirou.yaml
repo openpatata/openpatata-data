@@ -1,0 +1,19 @@
+name:
+  el_GR: Ομήρου Γιαννάκης
+  en_GB: Omirou Giannakis
+affiliation:
+  - ['2011-06-02'. ~, 'ΕΔΕΚ']
+contact:
+  - type: email
+    value: president@parliament.cy
+  - type: email
+    value: yomirou@parliament.cy
+links:
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/187'
+    note:
+      el_GR: Ιστοσελίδα Βουλής
+      en_GB: Parliament webpage
+  - url: 'http://www.giannakisomirou.com/'
+    note:
+      el_GR: Προσωπική ιστοσελίδα
+      en_GB: Personal webpage

@@ -1,0 +1,215 @@
+explanatoryNote:
+  authors:
+    - capacity: Γενικός Εισαγγελέας της Δημοκρατίας
+      name: Πέτρος Κληρίδης
+  text: |
+    Με το παρόν νομοσχέδιο υλοποιείται το μέτρο του Μνημονίου Συναντίληψης μεταξύ της Δημοκρατίας και του Διεθνές Νομισματικού Ταμείου, της Ευρωπαϊκής Κεντρικής Τράπεζας και της Επιτροπής της Ευρωπαϊκής Ένωσης, που αφορά τη διασφάλιση επιπλέον δημόσιων εσόδων από το φόρο ακίνητης ιδιοκτησίας. Το πιο πάνω μέτρο αφορά την επικαιροποίηση της αξίας της ιδιοκτησίας επί της οποίας επιβάλλεται ο φόρος σύμφωνα με τον πληθωρισμό μέχρι την 31η Δεκεμβρίου 2012, καθώς και την τροποποίηση της φορολογικής κλίμακας και των φορολογικών συντελεστών.
+id: 23.01.054.078-2013
+law: 33(I)/2013
+sources:
+  - id:
+    text: >
+      Συνεδρίαση 25ης Απριλίου 2013. Ι' Βουλευτική Περίοδος - Σύνοδος Β'. Πρακτικά της Βουλής των Αντιπροσώπων. Αρ. 30. σελ. 1689. http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-04-25.pdf
+  - id:
+    text: >
+      Έκτακτη συνεδρίαση 30ής Απριλίου 2013. Ι' Βουλευτική Περίοδος - Σύνοδος Β'. Πρακτικά της Βουλής των Αντιπροσώπων. Αρ. 31. http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-04-30.pdf
+  - id:
+    text: >
+      Νομοσχέδια – Παράρτημα Έκτο. Επίσημη Εφημερίδα της Δημοκρατίας. 22 Απριλίου 2013. σελ. 61–62. http://www.mof.gov.cy/mof/gpo/gpo.nsf/All/B121DABFC001B068C2257B55002946FA/$file/4128%20%2022%204%202013%20%20PARARTIMA%20%206o.pdf
+  - id:
+    text: >
+      «Και με τη βούλα της Βουλής η νέα φορολογία στα ακίνητα». Philenews. 30 Απριλίου 2013. http://www.philenews.com/el-gr/oikonomia-kypros/146/143363/kai-me-ti-voula-tis-voulis-i-nea-forologia-sta-akinita
+summary:
+  el_GR: |
+    Το συγκεκριμένο σχέδιο νόμου (νομοσχέδιο) αυξάνει τον φόρο ακίνητης ιδιοκτησίας. Είναι μέτρο που είχε απαιτήσει η Τρόικα για την εκταμίευση της πρώτης δόσης του μνημονιακού δανείου.
+tags:
+  - μνημόνιο
+  - μνημόνιο (1η δόση)
+events:
+  - date: '2013-04-25'
+    description:
+      el_GR: κατατέθηκε από τον Υπουργό Οικονομικών· παραπέμφθηκε στην Επιτροπή Οικονομικών και Προϋπολογισμού
+  - date: '2013-04-30'
+    description:
+      el_GR: επανήλθε στην Ολομέλεια
+  - date: '2013-04-30'
+    description:
+      el_GR: υπερψηφίστηκε
+title: Ο περί Φορολογίας Ακινήτου Ιδιοκτησίας (Τροποποιητικός) (Αρ. 2) Νόμος του 2013
+votes:
+  - breakdown:
+    - name: Αδάμου Αδάμος
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Βαρνάβα Γιώργος
+      parlGroup: ΕΔΕΚ
+      option: against
+    - name: Γαβριήλ Γιαννάκης
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Γεωργίου Γιώργος
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Δαμιανού Άριστος
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Δημητρίου Μισιαούλη Στέλλα
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Ευαγόρου Σταύρος
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Κατσουρίδης Νίκος
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Καυκαλιάς Αντρέας
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Κουκουμά Κούτρα Σκεύη
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Κουλίας Ζαχαρίας
+      parlGroup: null
+      option: against
+    - name: Κουτσού Νίκος
+      parlGroup: ΕΥΡΩΚΟ
+      option: against
+    - name: Κυπριανού Άντρος
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Κώστα Κώστας
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Λαμάρης Γιάννος
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Λουκαΐδης Γιώργος
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Μέσης Χρίστος
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Μαυρονικόλα Ρούλα
+      parlGroup: ΕΔΕΚ
+      option: against
+    - name: Νικολαΐδης Νίκος
+      parlGroup: ΕΔΕΚ
+      option: against
+    - name: Παπαγεωργίου Πάμπος
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Περδίκης Γιώργος
+      parlGroup: Οικολόγοι
+      option: against
+    - name: Σαρίκας Φειδίας
+      parlGroup: ΕΔΕΚ
+      option: against
+    - name: Σταυριανός Πανίκκος
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Τζιοβάνης Χριστάκης
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Φακοντής Αντρέας
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Χαραλαμπίδου Ειρήνη
+      parlGroup: ΑΚΕΛ–ΝΔ
+      option: against
+    - name: Αντωνίου Αντώνης
+      parlGroup: ΔΗΚΟ
+      option: for
+    - name: Βότσης Άγγελος
+      parlGroup: ΔΗΚΟ
+      option: for
+    - name: Γεωργίου Γεώργιος
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Δίπλαρος Ευθύμιος
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Ζαχαρίου Ζαχαρίας
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Θεμιστοκλέους Ανδρέας
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Καρογιάν Μάριος
+      parlGroup: ΔΗΚΟ
+      option: for
+    - name: Κυπριανού Ανδρέας
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Κυριακίδου Αθηνά
+      parlGroup: ΔΗΚΟ
+      option: for
+    - name: Κυριακίδου Στέλλα
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Κυριακού Μαρία
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Κωνσταντίνου Κώστας
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Κωνσταντίνου Νεόφυτος
+      parlGroup: ΔΗΚΟ
+      option: for
+    - name: Μαππουρίδης Ρίκκος
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Μαυρίδης Μάριος
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Μισός Αριστοτέλης
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Μιχαηλίδης Ανδρέας
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Νεοφύτου Αβέρωφ
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Νουρής Νίκος
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Παπαδόπουλος Νικόλας
+      parlGroup: ΔΗΚΟ
+      option: for
+    - name: Προδρόμου Πρόδρομος
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Προκοπίου Γεώργιος
+      parlGroup: ΔΗΚΟ
+      option: for
+    - name: Σαμψών Σωτήρης
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Συλλούρης Δημήτρης
+      parlGroup: ΕΥΡΩΚΟ
+      option: for
+    - name: Τάσου Γεώργιος
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Τορναρίτης Νίκος
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Φυττής Σοφοκλής
+      parlGroup: ΔΗΚΟ
+      option: for
+    - name: Χατζηγιάννης Κυριάκος
+      parlGroup: ΔΗΣΥ
+      option: for
+    - name: Χριστοφόρου Λευτέρης
+      parlGroup: ΔΗΣΥ
+      option: for
+    date: '2013-04-30'
+    count:
+      abstained: 0
+      against: 26
+      for: 29
+    remarks:
+      el_GR_: |
+        Ο Νίκος Κουτσού από το ΕΥΡΩΚΟ καταψήφισε το νομοσχέδιο.
+    on_:
+      el_GR: Σύνολο
