@@ -1,0 +1,18 @@
+name:
+  el_GR: Δαμιανού Άριστος
+summary:
+  el_GR: |
+    Βουλευτής εκλογικής περιφέρειας Λευκωσίας του ΑΚΕΛ–ΝΔ.
+affiliation:
+  - start: '2011-06-02'
+    end:
+    party: ΑΚΕΛ–ΝΔ
+    district: Λευκωσία
+links:
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/360'
+    note:
+      el_GR: Ιστοσελίδα Βουλής
+  - url: 'hhttps://el.wikipedia.org/wiki/%CE%86%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%82_%CE%94%CE%B1%CE%BC%CE%B9%CE%B1%CE%BD%CE%BF%CF%8D'
+    note:
+      el_GR: Wikipedia (Ελληνικά)
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/Damianou%20Aristos%20a.jpg'

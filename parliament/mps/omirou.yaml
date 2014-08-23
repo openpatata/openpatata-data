@@ -2,9 +2,12 @@ name:
   el_GR: Ομήρου Γιαννάκης
 summary:
   el_GR: |
-    Βουλευτής εκλογικής περιφέρειας Λευκωσίας και Πρόεδρος της Βουλής.
+    Βουλευτής εκλογικής περιφέρειας Λευκωσίας, Πρόεδρος της Βουλής και πρόεδρος της ΕΔΕΚ.
 affiliation:
-  - [['2011-06-02', ~], 'ΕΔΕΚ', 'Λευκωσία']
+  - start: '2011-06-02'
+    end:
+    party: ΕΔΕΚ
+    district: Λευκωσία
 links:
   - url: 'http://www.parliament.cy/easyconsole.cfm/id/187'
     note:
@@ -12,3 +15,10 @@ links:
   - url: 'http://www.giannakisomirou.com/'
     note:
       el_GR: Προσωπική ιστοσελίδα
+  - url: 'https://en.wikipedia.org/wiki/Yiannakis_Omirou'
+    note:
+      el_GR: Wikipedia (Αγγλικά)
+  - url: 'https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%AC%CE%BA%CE%B7%CF%82_%CE%9F%CE%BC%CE%AE%CF%81%CE%BF%CF%85'
+    note:
+      el_GR: Wikipedia (Ελληνικά)
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/Yiannakis%20Omirou.jpg'
