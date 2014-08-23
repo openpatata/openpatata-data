@@ -1,0 +1,15 @@
+name:
+  el_GR: Ζαχαρίου Ζαχαρίας
+summary:
+  el_GR: |
+    Βουλευτής εκλογικής περιφέρειας Λάρνακας του ΔΗΣΥ.
+affiliation:
+  - start: '2011-06-02'
+    end:
+    party: ΔΗΣΥ
+    district: Λάρνακα
+links:
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/364'
+    note:
+      el_GR: Ιστοσελίδα Βουλής
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/ZACHARIOU%20Zacharias.jpg'

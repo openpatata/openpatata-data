@@ -1,0 +1,18 @@
+name:
+  el_GR: Κουκουμά Κούτρα Σκεύη
+summary:
+  el_GR: |
+    Βουλευτής εκλογικής περιφέρειας Αμμοχώστου του ΑΚΕΛ–ΝΔ.
+affiliation:
+  - start: '2011-06-02'
+    end:
+    party: ΑΚΕΛ–ΝΔ
+    district: Αμμόχωστος
+links:
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/368'
+    note:
+      el_GR: Ιστοσελίδα Βουλής
+  - url: 'https://el.wikipedia.org/wiki/%CE%A3%CE%BA%CE%B5%CF%8D%CE%B7_%CE%9A%CE%BF%CF%85%CE%BA%CE%BF%CF%85%CE%BC%CE%AC_%CE%9A%CE%BF%CF%8D%CF%84%CF%81%CE%B1'
+    note:
+      el_GR: Wikipedia (ελληνικά)
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/Koutra-%20Koukouma%20Skevi%20a.jpg'

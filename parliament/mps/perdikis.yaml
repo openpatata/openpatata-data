@@ -1,0 +1,15 @@
+name:
+  el_GR: Περδίκης Γιώργος
+summary:
+  el_GR: |
+    Βουλευτής εκλογικής περιφέρειας Λευκωσίας και πρόεδρος των Οικολόγων.
+affiliation:
+  - start: '2011-06-02'
+    end:
+    party: Οικολόγοι
+    district: Λευκωσία
+links:
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/407'
+    note:
+      el_GR: Ιστοσελίδα Βουλής
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/PERDIKES%20George.jpg'

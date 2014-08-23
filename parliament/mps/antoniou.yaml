@@ -1,0 +1,18 @@
+name:
+  el_GR: Αντωνίου Αντώνης
+summary:
+  el_GR: |
+    Βουλευτής εκλογικής περιφέρειας Πάφου του ΔΗΚΟ.
+affiliation:
+  - start: '2011-06-02'
+    end:
+    party: ΔΗΚΟ
+    district: Πάφος
+links:
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/307'
+    note:
+      el_GR: Ιστοσελίδα Βουλής
+  - url: 'https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CF%8E%CE%BD%CE%B7%CF%82_%CE%91%CE%BD%CF%84%CF%89%CE%BD%CE%AF%CE%BF%CF%85'
+    note:
+      el_GR: Wikipedia (ελληνικά)
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/ANTONIOU%20ANTONIS.jpg'

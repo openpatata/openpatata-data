@@ -1,0 +1,18 @@
+name:
+  el_GR: Καυκαλιάς Αντρέας
+summary:
+  el_GR: |
+    Βουλευτής εκλογικής περιφέρειας Λεμεσού του ΑΚΕΛ–ΝΔ.
+affiliation:
+  - start: '2011-06-02'
+    end:
+    party: ΑΚΕΛ–ΝΔ
+    district: Λεμεσός
+links:
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/367'
+    note:
+      el_GR: Ιστοσελίδα Βουλής
+  - url: 'https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CF%81%CE%AD%CE%B1%CF%82_%CE%9A%CE%B1%CF%85%CE%BA%CE%B1%CE%BB%CE%B9%CE%AC%CF%82'
+    note:
+      el_GR: Wikipedia (ελληνικά)
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/Kafkalias%20Andros%20a.jpg'

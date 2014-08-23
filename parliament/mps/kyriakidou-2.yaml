@@ -1,0 +1,15 @@
+name:
+  el_GR: Κυριακίδου Στέλλα
+summary:
+  el_GR: |
+    Βουλευτής εκλογικής περιφέρειας Λευκωσίας του ΔΗΣΥ.
+affiliation:
+  - start: '2011-06-02'
+    end:
+    party: ΔΗΣΥ
+    district: Λευκωσία
+links:
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/385'
+    note:
+      el_GR: Ιστοσελίδα Βουλής
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/KYRIAKIDOU%20Stella.jpg'

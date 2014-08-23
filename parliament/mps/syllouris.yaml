@@ -1,0 +1,18 @@
+name:
+  el_GR: Συλλούρης Δημήτρης
+summary:
+  el_GR: |
+    Βουλευτής εκλογικής περιφέρειας Λευκωσίας και πρόεδρος του ΕΥΡΩΚΟ.
+affiliation:
+  - start: '2011-06-02'
+    end:
+    party: ΕΥΡΩΚΟ
+    district: Λευκωσία
+links:
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/414'
+    note:
+      el_GR: Ιστοσελίδα Βουλής
+  - url: 'https://el.wikipedia.org/wiki/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82_%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CF%8D%CF%81%CE%B7%CF%82'
+    note:
+      el_GR: Wikipedia (ελληνικά)
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/SYLLOURIS%20Demetris.jpg'

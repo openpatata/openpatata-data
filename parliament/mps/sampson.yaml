@@ -1,0 +1,15 @@
+name:
+  el_GR: Σαμψών Σωτήρης
+summary:
+  el_GR: |
+    Βουλευτής εκλογικής περιφέρειας Αμμοχώστου του ΔΗΣΥ.
+affiliation:
+  - start: '2011-06-02'
+    end:
+    party: ΔΗΣΥ
+    district: Αμμόχωστος
+links:
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/410'
+    note:
+      el_GR: Ιστοσελίδα Βουλής
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/SAMPSON%20Sotiris.jpg'

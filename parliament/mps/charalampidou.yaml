@@ -1,5 +1,5 @@
 name:
-  el_GR: Δαμιανού Άριστος
+  el_GR: Χαραλαμπίδου Ειρήνη
 summary:
   el_GR: |
     Βουλευτής εκλογικής περιφέρειας Λευκωσίας του ΑΚΕΛ–ΝΔ.
@@ -9,10 +9,10 @@ affiliation:
     party: ΑΚΕΛ–ΝΔ
     district: Λευκωσία
 links:
-  - url: 'http://www.parliament.cy/easyconsole.cfm/id/360'
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/420'
     note:
       el_GR: Ιστοσελίδα Βουλής
-  - url: 'https://el.wikipedia.org/wiki/%CE%86%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%82_%CE%94%CE%B1%CE%BC%CE%B9%CE%B1%CE%BD%CE%BF%CF%8D'
+  - url: 'https://el.wikipedia.org/wiki/%CE%95%CE%B9%CF%81%CE%AE%CE%BD%CE%B7_%CE%A7%CE%B1%CF%81%CE%B1%CE%BB%CE%B1%CE%BC%CF%80%CE%AF%CE%B4%CE%BF%CF%85'
     note:
       el_GR: Wikipedia (ελληνικά)
-mug: 'http://www.parliament.cy/assets/image/imageoriginal/Damianou%20Aristos%20a.jpg'
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/Charalambidou%20Eirini%20a.jpg'

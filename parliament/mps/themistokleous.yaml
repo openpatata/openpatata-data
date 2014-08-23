@@ -1,0 +1,15 @@
+name:
+  el_GR: Θεμιστοκλέους Ανδρέας
+summary:
+  el_GR: |
+    Βουλευτής εκλογικής περιφέρειας Λεμεσού του ΔΗΣΥ.
+affiliation:
+  - start: '2013-03-07'
+    end:
+    party: ΔΗΣΥ
+    district: Λεμεσός
+links:
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/395'
+    note:
+      el_GR: Ιστοσελίδα Βουλής
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/themistocleous.jpg'

@@ -1,0 +1,18 @@
+name:
+  el_GR: Δημητρίου Μισιαούλη Στέλλα
+summary:
+  el_GR: |
+    Βουλευτής εκλογικής περιφέρειας Λευκωσίας του ΑΚΕΛ–ΝΔ.
+affiliation:
+  - start: '2011-06-02'
+    end:
+    party: ΑΚΕΛ–ΝΔ
+    district: Λευκωσία
+links:
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/361'
+    note:
+      el_GR: Ιστοσελίδα Βουλής
+  - url: 'https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%AD%CE%BB%CE%BB%CE%B1_%CE%94%CE%B7%CE%BC%CE%B7%CF%84%CF%81%CE%AF%CE%BF%CF%85_%CE%9C%CE%B9%CF%83%CE%B9%CE%B1%CE%BF%CF%8D%CE%BB%CE%B7'
+    note:
+      el_GR: Wikipedia (ελληνικά)
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/Dimitriou-Misiaouli%20Stella%20a.jpg'

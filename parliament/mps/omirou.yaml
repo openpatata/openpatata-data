@@ -15,10 +15,10 @@ links:
   - url: 'http://www.giannakisomirou.com/'
     note:
       el_GR: Προσωπική ιστοσελίδα
-  - url: 'https://en.wikipedia.org/wiki/Yiannakis_Omirou'
-    note:
-      el_GR: Wikipedia (Αγγλικά)
   - url: 'https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%AC%CE%BA%CE%B7%CF%82_%CE%9F%CE%BC%CE%AE%CF%81%CE%BF%CF%85'
     note:
-      el_GR: Wikipedia (Ελληνικά)
+      el_GR: Wikipedia (ελληνικά)
+  - url: 'https://en.wikipedia.org/wiki/Yiannakis_Omirou'
+    note:
+      el_GR: Wikipedia (αγγλικά)
 mug: 'http://www.parliament.cy/assets/image/imageoriginal/Yiannakis%20Omirou.jpg'

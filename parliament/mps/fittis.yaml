@@ -1,0 +1,15 @@
+name:
+  el_GR: Φυττής Σοφοκλής
+summary:
+  el_GR: |
+    Βουλευτής εκλογικής περιφέρειας Κερύνειας του ΔΗΚΟ.
+affiliation:
+  - start: '2011-06-02'
+    end:
+    party: ΔΗΚΟ
+    district: Κερύνεια
+links:
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/419'
+    note:
+      el_GR: Ιστοσελίδα Βουλής
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/FITTIS%20SOFOKLIS.jpg'

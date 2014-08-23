@@ -1,0 +1,18 @@
+name:
+  el_GR: Φακοντής Αντρέας
+summary:
+  el_GR: |
+    Βουλευτής εκλογικής περιφέρειας Πάφου του ΑΚΕΛ–ΝΔ.
+affiliation:
+  - start: '2011-06-02'
+    end:
+    party: ΑΚΕΛ–ΝΔ
+    district: Πάφος
+links:
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/418'
+    note:
+      el_GR: Ιστοσελίδα Βουλής
+  - url: 'https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CF%81%CE%AD%CE%B1%CF%82_%CE%A6%CE%B1%CE%BA%CE%BF%CE%BD%CF%84%CE%AE%CF%82'
+    note:
+      el_GR: Wikipedia (ελληνικά)
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/Fakontis%20Andreas%20a.jpg'

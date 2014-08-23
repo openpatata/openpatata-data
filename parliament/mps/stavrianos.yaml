@@ -1,0 +1,15 @@
+name:
+  el_GR: Σταυριανός Πανίκκος
+summary:
+  el_GR: |
+    Βουλευτής εκλογικής περιφέρειας Λάρνακας του ΑΚΕΛ–ΝΔ.
+affiliation:
+  - start: '2011-06-02'
+    end:
+    party: ΑΚΕΛ–ΝΔ
+    district: Λάρνακα
+links:
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/412'
+    note:
+      el_GR: Ιστοσελίδα Βουλής
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/Stavrianos%20Panikkos%20a.jpg'

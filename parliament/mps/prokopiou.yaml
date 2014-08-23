@@ -1,0 +1,15 @@
+name:
+  el_GR: Προκοπίου Γεώργιος
+summary:
+  el_GR: |
+    Βουλευτής εκλογικής περιφέρειας Λάρνακας του ΔΗΚΟ.
+affiliation:
+  - start: '2011-06-02'
+    end:
+    party: ΔΗΚΟ
+    district: Λάρνακα
+links:
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/409'
+    note:
+      el_GR: Ιστοσελίδα Βουλής
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/PROKOPIOU%20Giorgos.jpg'
