@@ -39,16 +39,13 @@ events:
     description:
       el_GR: >
         το νομοσχέδιο υπερψηφίστηκε ([#praktiko25](#praktiko25):204–5)
-status:
-  date: '2013-03-22'
-  description:
-    el_GR: υπερψηφίστηκε
+status: pass
 title: Ο περί Εξυγίανσης Πιστωτικών και Άλλων Ιδρυμάτων Νόμος του 2013
 votes:
   - count:
       for: 19
       against: 25
-      abstained: 6
+      abstain: 6
     date: '2013-03-22'
     result: fail
     on_:
@@ -56,79 +53,79 @@ votes:
   - breakdown:
       - name: Αδάμου Αδάμος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Αντωνίου Αντώνης
         parlGroup: ΔΗΚΟ
-        option: abstained
+        option: abstain
       - name: Βαρνάβα Γιώργος
         parlGroup: ΕΔΕΚ
-        option: abstained
+        option: abstain
       - name: Γαβριήλ Γιαννάκης
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Γεωργίου Γιώργος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Δαμιανού Άριστος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Δημητρίου Μισιαούλη Στέλλα
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Ευαγόρου Σταύρος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Κατσουρίδης Νίκος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Καυκαλιάς Αντρέας
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Κουκουμά Κούτρα Σκεύη
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Κυπριανού Άντρος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Κώστα Κώστας
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Λαμάρης Γιάννος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Λουκαΐδης Γιώργος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Μέσης Χρίστος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Μαυρονικόλα Ρούλα
         parlGroup: ΕΔΕΚ
-        option: abstained
+        option: abstain
       - name: Νικολαΐδης Νίκος
         parlGroup: ΕΔΕΚ
-        option: abstained
+        option: abstain
       - name: Ομήρου Γιαννάκης
         parlGroup: ΕΔΕΚ
-        option: abstained
+        option: abstain
       - name: Περδίκης Γιώργος
         parlGroup: Οικολόγοι
-        option: abstained
+        option: abstain
       - name: Σαρίκας Φειδίας
         parlGroup: ΕΔΕΚ
-        option: abstained
+        option: abstain
       - name: Σταυριανός Πανίκκος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Τζιοβάνης Χριστάκης
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Φακοντής Αντρέας
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Χαραλαμπίδου Ειρήνη
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Κουλίας Ζαχαρίας
         parlGroup:
         option: against
@@ -212,7 +209,7 @@ votes:
         option: for
     date: '2013-03-22'
     count:
-      abstained: 25
+      abstain: 25
       against: 2
       for: 26
     remarks:

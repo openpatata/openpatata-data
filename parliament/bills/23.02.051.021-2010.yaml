@@ -8,6 +8,7 @@ events:
     description:
       el_GR: υπερψηφίστηκε
 title: Ο περί Εξωδίκου Ρυθμίσεως Αδικημάτων (Τροποποιητικός) Νόμος του 2010
+status: pass
 votes:
   - date: '2013-10-10'
     count: false

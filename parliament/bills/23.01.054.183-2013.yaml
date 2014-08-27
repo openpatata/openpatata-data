@@ -18,10 +18,11 @@ events:
     description:
       el_GR: υπερψηφίστηκε
 title: Ο περί Εργασιών Πιστωτικών Ιδρυμάτων (Τροποποιητικός) (Αρ. 3) Νόμος του 2013
+status: pass
 votes:
   - date: '2013-09-05'
     count:
-      abstained: 2
+      abstain: 2
       against: 20
       for: 21
     on_:

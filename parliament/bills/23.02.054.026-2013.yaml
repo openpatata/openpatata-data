@@ -43,6 +43,7 @@ events:
     description:
       el_GR: υπερψηφίστηκε
 title: Ο περί της Κεντρικής Τράπεζας της Κύπρου (Τροποποιητικός) Νόμος του 2013
+status: pass
 votes:
   - breakdown:
       - name: Αδάμου Αδάμος
@@ -212,7 +213,7 @@ votes:
         option: for
     date: '2013-07-11'
     count:
-      abstained: 0
+      abstain: 0
       against: 19
       for: 35
     remarks:

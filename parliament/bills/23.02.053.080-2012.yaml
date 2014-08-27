@@ -11,11 +11,8 @@ events:
   - date: '2013-07-11'
     description:
       el_GR: η πρόταση νόμου υπερψηφίστηκε
-status:
-  date: '2013-07-11'
-  description:
-    el_GR: υπερψηφίστηκε
 title: Ο περί της Ρύθμισης της Λειτουργίας των Λαϊκών Αγορών Νόμος του 2012
+status: pass
 votes:
   - date: '2013-07-11'
     on_:

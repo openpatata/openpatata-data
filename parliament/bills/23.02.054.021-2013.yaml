@@ -26,17 +26,18 @@ events:
     description:
       el_GR: καταψηφίστηκε· η αναπομπή έγινε αποδεκτή από την Ολομέλεια με 26 ψήφους υπέρ και 24 κατά και μία αποχή
 title: Ο περί Ενοικιαζομένων Ακινήτων (Προσωρινές Διατάξεις) Νόμος του 2013
+status: fail
 votes:
   - date: '2013-10-17'
     count:
-      abstained: 20
+      abstain: 20
       against: 1
       for: 31
     on_:
       el_GR: Σύνολο
   - date: '2013-11-07'
     count:
-      abstained: 1
+      abstain: 1
       against: 24
       for: 26
     on_:

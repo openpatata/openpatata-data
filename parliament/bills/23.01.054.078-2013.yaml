@@ -18,7 +18,7 @@ sources:
       Νομοσχέδια – Παράρτημα Έκτο. Επίσημη Εφημερίδα της Δημοκρατίας. 22 Απριλίου 2013. σελ. 61–62. http://www.mof.gov.cy/mof/gpo/gpo.nsf/All/B121DABFC001B068C2257B55002946FA/$file/4128%20%2022%204%202013%20%20PARARTIMA%20%206o.pdf
   - id:
     text: >
-      «Και με τη βούλα της Βουλής η νέα φορολογία στα ακίνητα». Philenews. 30 Απριλίου 2013. http://www.philenews.com/el-gr/oikonomia-kypros/146/143363/kai-me-ti-voula-tis-voulis-i-nea-forologia-sta-akinita
+      «Και με τη βούλα της Βουλής η νέα φορολογία στα ακίνητα». Philenews. 30 Απριλίου 2013. http://www.philenews.com/el-gr/oikonomia-kypros/146/143363/kai-me-ti-voula-tis-voulis-i-nea-yesologia-sta-akinita
 summary:
   el_GR: |
     Το συγκεκριμένο σχέδιο νόμου (νομοσχέδιο) αυξάνει τον φόρο ακίνητης ιδιοκτησίας. Είναι μέτρο που είχε απαιτήσει η Τρόικα για την εκταμίευση της πρώτης δόσης του μνημονιακού δανείου.
@@ -36,6 +36,7 @@ events:
     description:
       el_GR: υπερψηφίστηκε
 title: Ο περί Φορολογίας Ακινήτου Ιδιοκτησίας (Τροποποιητικός) (Αρ. 2) Νόμος του 2013
+status: pass
 votes:
   - breakdown:
     - name: Αδάμου Αδάμος
@@ -205,7 +206,7 @@ votes:
       option: for
     date: '2013-04-30'
     count:
-      abstained: 0
+      abstain: 0
       against: 26
       for: 29
     remarks:

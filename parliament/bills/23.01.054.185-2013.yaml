@@ -20,6 +20,7 @@ events:
     description:
       el_GR: υπερψηφίστηκε
 title: Ο περί Κεντρικής Τράπεζας της Κύπρου (Τροποποιητικός) (Αρ. 2) Νόμος του 2013
+status: pass
 votes:
   - date: '2013-09-05'
     count: false

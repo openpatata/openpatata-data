@@ -11,6 +11,7 @@ events:
     description:
       el_GR: υπερψηφίστηκε
 title: Ο περί Ποινικού Κώδικα (Τροποποιητικός) (Αρ. 2) Νόμος του 2013
+status: pass
 votes:
   - date: '2013-10-10'
     count: false

@@ -17,10 +17,11 @@ events:
     description:
       el_GR: καταψηφίστηκε
 title: Ο περί Συνεργατικών Εταιρειών (Τροποποιητικός) (Αρ. 4) Νόμος του 2013
+status: fail
 votes:
   - date: '2013-09-05'
     count:
-      abstained: 0
+      abstain: 0
       against: 22
       for: 21
     on_:

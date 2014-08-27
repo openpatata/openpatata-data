@@ -24,59 +24,60 @@ events:
     description:
       el_GR: υπερψηφίστηκε
 title: Ο περί Εξυγίανσης Πιστωτικών και Άλλων Ιδρυμάτων (Τροποποιητικός) (Αρ. 3) Νόμος του 2013
+status: pass
 votes:
   - breakdown:
       - name: Αδάμου Αδάμος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Γαβριήλ Γιαννάκης
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Γεωργίου Γιώργος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Δαμιανού Άριστος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Δημητρίου Μισιαούλη Στέλλα
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Κατσουρίδης Νίκος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Καυκαλιάς Αντρέας
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Κουκουμά Κούτρα Σκεύη
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Κυπριανού Άντρος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Κώστα Κώστας
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Λαμάρης Γιάννος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Λουκαΐδης Γιώργος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Μέσης Χρίστος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Σταυριανός Πανίκκος
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Συλλούρης Δημήτρης
         parlGroup: ΕΥΡΩΚΟ
-        option: abstained
+        option: abstain
       - name: Φακοντής Αντρέας
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Χαραλαμπίδου Ειρήνη
         parlGroup: ΑΚΕΛ–ΝΔ
-        option: abstained
+        option: abstain
       - name: Αντωνίου Αντώνης
         parlGroup: ΔΗΚΟ
         option: for
@@ -184,7 +185,7 @@ votes:
         option: for
     date: '2013-08-29'
     count:
-      abstained: 17
+      abstain: 17
       against: 0
       for: 35
     on_:
