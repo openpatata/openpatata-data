@@ -14,11 +14,11 @@ links:
       el_GR: Ιστοσελίδα Βουλής
   - url: 'https://el.wikipedia.org/wiki/%CE%86%CE%BD%CE%B4%CF%81%CE%BF%CF%82_%CE%9A%CF%85%CF%80%CF%81%CE%B9%CE%B1%CE%BD%CE%BF%CF%8D'
     note:
-      el_GR: Wikipedia (ελληνικά)
+      el_GR: Wikipedia (el)
   - url: 'https://tr.wikipedia.org/wiki/Andros_Kiprianu'
     note:
-      el_GR: Wikipedia (τουρκικά)
+      el_GR: Wikipedia (tr)
   - url: 'https://en.wikipedia.org/wiki/Andros_Kyprianou'
     note:
-      el_GR: Wikipedia (αγγλικά)
+      el_GR: Wikipedia (en)
 mug: 'http://www.parliament.cy/assets/image/imageoriginal/Kiprianou%20Andros%20a.jpg'
