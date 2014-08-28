@@ -1,7 +1,5 @@
-name:
-  el_GR: Βότσης Άγγελος
-summary:
-  el_GR: |
+name: Βότσης Άγγελος
+summary: |
     Βουλευτής εκλογικής περιφέρειας Λεμεσού του ΔΗΚΟ.
 affiliation:
   - start: '2011-06-02'
@@ -10,9 +8,7 @@ affiliation:
     district: Λεμεσός
 links:
   - url: 'http://www.parliament.cy/easyconsole.cfm/id/309'
-    note:
-      el_GR: Ιστοσελίδα Βουλής
+    note: Ιστοσελίδα Βουλής
   - url: 'https://twitter.com/AngelosEmVotsis'
-    note:
-      el_GR: Twitter
+    note: Twitter
 mug: 'http://www.parliament.cy/assets/image/imageoriginal/VOTSIS%20Aggelos.jpg'

@@ -1,7 +1,5 @@
-name:
-  el_GR: Αδάμου Αδάμος
-summary:
-  el_GR: |
+name: Αδάμου Αδάμος
+summary: |
     Βουλευτής εκλογικής περιφέρειας Λεμεσού του ΑΚΕΛ–ΝΔ.
 affiliation:
   - start: '2011-06-02'
@@ -10,12 +8,9 @@ affiliation:
     district: Λεμεσός
 links:
   - url: 'http://www.parliament.cy/easyconsole.cfm/id/305'
-    note:
-      el_GR: Ιστοσελίδα Βουλής
+    note: Ιστοσελίδα Βουλής
   - url: 'https://el.wikipedia.org/wiki/%CE%91%CE%B4%CE%AC%CE%BC%CE%BF%CF%82_%CE%91%CE%B4%CE%AC%CE%BC%CE%BF%CF%85'
-    note:
-      el_GR: Wikipedia (el)
+    note: Wikipedia (el)
   - url: 'https://en.wikipedia.org/wiki/Adamos_Adamou'
-    note:
-      el_GR: Wikipedia (en)
+    note: Wikipedia (en)
 mug: 'http://www.parliament.cy/assets/image/imageoriginal/Adamou%20Adamos%20a.jpg'

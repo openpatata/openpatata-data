@@ -1,7 +1,5 @@
-name:
-  el_GR: Κωνσταντίνου Κώστας
-summary:
-  el_GR: |
+name: Κωνσταντίνου Κώστας
+summary: |
     Βουλευτής εκλογικής περιφέρειας Πάφου του ΔΗΣΥ.
 affiliation:
   - start: '2011-06-02'
@@ -10,6 +8,5 @@ affiliation:
     district: Πάφος
 links:
   - url: 'http://www.parliament.cy/easyconsole.cfm/id/386'
-    note:
-      el_GR: Ιστοσελίδα Βουλής
+    note: Ιστοσελίδα Βουλής
 mug: 'http://www.parliament.cy/assets/image/imageoriginal/KONSTANTINOU%20Kostas.jpg'

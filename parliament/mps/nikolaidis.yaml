@@ -1,7 +1,5 @@
-name:
-  el_GR: Νικολαΐδης Νίκος
-summary:
-  el_GR: |
+name: Νικολαΐδης Νίκος
+summary: |
     Βουλευτής εκλογικής περιφέρειας Λεμεσού της ΕΔΕΚ.
 affiliation:
   - start: '2011-06-02'
@@ -10,12 +8,9 @@ affiliation:
     district: Λεμεσός
 links:
   - url: 'http://www.parliament.cy/easyconsole.cfm/id/403'
-    note:
-      el_GR: Ιστοσελίδα Βουλής
+    note: Ιστοσελίδα Βουλής
   - url: 'https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%9D%CE%B9%CE%BA%CE%BF%CE%BB%CE%B1%CE%90%CE%B4%CE%B7%CF%82_(%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CE%B9%CE%BA%CF%8C%CF%82)'
-    note:
-      el_GR: Wikipedia (el)
+    note: Wikipedia (el)
   - url: 'https://en.wikipedia.org/wiki/Nicos_Nicolaides_(politician)'
-    note:
-      el_GR: Wikipedia (en)
+    note: Wikipedia (en)
 mug: 'http://www.parliament.cy/assets/image/imageoriginal/Nikos_Nikolaides.jpg'

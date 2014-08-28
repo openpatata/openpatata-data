@@ -1,7 +1,5 @@
-name:
-  el_GR: Ευαγόρου Σταύρος
-summary:
-  el_GR: |
+name: Ευαγόρου Σταύρος
+summary: |
     Βουλευτής εκλογικής περιφέρειας Αμμοχώστου του ΑΚΕΛ–ΝΔ.
 affiliation:
   - start: '2011-06-02'
@@ -10,9 +8,7 @@ affiliation:
     district: Αμμόχωστος
 links:
   - url: 'http://www.parliament.cy/easyconsole.cfm/id/363'
-    note:
-      el_GR: Ιστοσελίδα Βουλής
+    note: Ιστοσελίδα Βουλής
   - url: 'https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%B1%CF%8D%CF%81%CE%BF%CF%82_%CE%95%CF%85%CE%B1%CE%B3%CF%8C%CF%81%CE%BF%CF%85'
-    note:
-      el_GR: Wikipedia (el)
+    note: Wikipedia (el)
 mug: 'http://www.parliament.cy/assets/image/imageoriginal/Evagorou%20Stavros%20a.jpg'

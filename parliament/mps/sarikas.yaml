@@ -1,7 +1,5 @@
-name:
-  el_GR: Σαρίκας Φειδίας
-summary:
-  el_GR: |
+name: Σαρίκας Φειδίας
+summary: |
     Βουλευτής εκλογικής περιφέρειας Πάφου της ΕΔΕΚ.
 affiliation:
   - start: '2011-06-02'
@@ -10,6 +8,5 @@ affiliation:
     district: Πάφος
 links:
   - url: 'http://www.parliament.cy/easyconsole.cfm/id/411'
-    note:
-      el_GR: Ιστοσελίδα Βουλής
+    note: Ιστοσελίδα Βουλής
 mug: 'http://www.parliament.cy/assets/image/imageoriginal/SARIKAS%20Fidias.jpg'

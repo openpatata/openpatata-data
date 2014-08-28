@@ -2,15 +2,12 @@ id: 23.02.051.021-2010
 law: 124(Ι)/2013
 events:
   - date: '2010-03-22'
-    description:
-      el_GR: κατατέθηκε
+    description: κατατέθηκε
   - date: '2013-10-10'
-    description:
-      el_GR: υπερψηφίστηκε
+    description: υπερψηφίστηκε
 title: Ο περί Εξωδίκου Ρυθμίσεως Αδικημάτων (Τροποποιητικός) Νόμος του 2010
 status: pass
 votes:
   - date: '2013-10-10'
     count: false
-    on_:
-      el_GR: Σύνολο
+    on_: Σύνολο

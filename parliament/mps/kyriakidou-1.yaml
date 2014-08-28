@@ -1,7 +1,5 @@
-name:
-  el_GR: Κυριακίδου Αθηνά
-summary:
-  el_GR: |
+name: Κυριακίδου Αθηνά
+summary: |
     Βουλευτής εκλογικής περιφέρειας Λεμεσού του ΔΗΚΟ.
 affiliation:
   - start: '2011-06-02'
@@ -10,6 +8,5 @@ affiliation:
     district: Λεμεσός
 links:
   - url: 'http://www.parliament.cy/easyconsole.cfm/id/373'
-    note:
-      el_GR: Ιστοσελίδα Βουλής
+    note: Ιστοσελίδα Βουλής
 mug: 'http://www.parliament.cy/assets/image/imageoriginal/KYRIAKIDOU%20Athina.jpg'

@@ -1,7 +1,5 @@
-name:
-  el_GR: Κουτσού Νίκος
-summary:
-  el_GR: |
+name: Κουτσού Νίκος
+summary: |
     Βουλευτής εκλογικής περιφέρειας Αμμοχώστου.
 affiliation:
   - start: '2011-06-02'
@@ -14,6 +12,5 @@ affiliation:
     district: Αμμόχωστος
 links:
   - url: 'http://www.parliament.cy/easyconsole.cfm/id/370'
-    note:
-      el_GR: Ιστοσελίδα Βουλής
+    note: Ιστοσελίδα Βουλής
 mug: 'http://www.parliament.cy/assets/image/imageoriginal/KOUTSOU%20Nikos.jpg'

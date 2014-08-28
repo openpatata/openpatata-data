@@ -1,7 +1,5 @@
-name:
-  el_GR: Κυπριανού Ανδρέας
-summary:
-  el_GR: |
+name: Κυπριανού Ανδρέας
+summary: |
     Βουλευτής εκλογικής περιφέρειας Λεμεσού του ΔΗΣΥ.
 affiliation:
   - start: '2011-06-02'
@@ -10,6 +8,5 @@ affiliation:
     district: Λεμεσός
 links:
   - url: 'http://www.parliament.cy/easyconsole.cfm/id/371'
-    note:
-      el_GR: Ιστοσελίδα Βουλής
+    note: Ιστοσελίδα Βουλής
 mug: 'http://www.parliament.cy/assets/image/imageoriginal/KYPRIANOU%20Andreas.jpg'

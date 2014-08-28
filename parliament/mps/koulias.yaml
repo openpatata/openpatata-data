@@ -1,7 +1,5 @@
-name:
-  el_GR: Κουλίας Ζαχαρίας
-summary:
-  el_GR: |
+name: Κουλίας Ζαχαρίας
+summary: |
     Ανεξάρτητος βουλευτής εκλογικής περιφέρειας Αμμοχώστου. Πρώην βουλευτής και μέλος του ΔΗΚΟ.
 affiliation:
   - start: '2011-06-02'
@@ -14,6 +12,5 @@ affiliation:
     district: Αμμόχωστος
 links:
   - url: 'http://www.parliament.cy/easyconsole.cfm/id/369'
-    note:
-      el_GR: Ιστοσελίδα Βουλής
+    note: Ιστοσελίδα Βουλής
 mug: 'http://www.parliament.cy/assets/image/imageoriginal/KOULIAS%20ZACHARIAS.jpg'

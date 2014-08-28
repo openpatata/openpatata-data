@@ -1,7 +1,5 @@
-name:
-  el_GR: Κωνσταντίνου Νεόφυτος
-summary:
-  el_GR: |
+name: Κωνσταντίνου Νεόφυτος
+summary: |
     Βουλευτής εκλογικής περιφέρειας Λευκωσίας του ΔΗΚΟ.
 affiliation:
   - start: '2011-06-02'
@@ -10,6 +8,5 @@ affiliation:
     district: Λευκωσία
 links:
   - url: 'http://www.parliament.cy/easyconsole.cfm/id/387'
-    note:
-      el_GR: Ιστοσελίδα Βουλής
+    note: Ιστοσελίδα Βουλής
 mug: 'http://www.parliament.cy/assets/image/imageoriginal/KONSTANTINOU%20Fitos.jpg'

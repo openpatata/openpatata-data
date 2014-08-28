@@ -1,7 +1,5 @@
-name:
-  el_GR: Μιχαηλίδης Ανδρέας
-summary:
-  el_GR: |
+name: Μιχαηλίδης Ανδρέας
+summary: |
     Βουλευτής εκλογικής περιφέρειας Λεμεσού του ΔΗΣΥ.
 affiliation:
   - start: '2011-06-02'
@@ -10,12 +8,9 @@ affiliation:
     district: Λεμεσός
 links:
   - url: 'http://www.parliament.cy/easyconsole.cfm/id/401'
-    note:
-      el_GR: Ιστοσελίδα Βουλής
+    note: Ιστοσελίδα Βουλής
   - url: 'https://tr.wikipedia.org/wiki/Andreas_Mihailidis'
-    note:
-      el_GR: Wikipedia (tr)
+    note: Wikipedia (tr)
   - url: 'https://en.wikipedia.org/wiki/Andreas_Michaelides'
-    note:
-      el_GR: Wikipedia (en)
+    note: Wikipedia (en)
 mug: 'http://www.parliament.cy/assets/image/imageoriginal/MICHAELIDES%20Antreas.jpg'

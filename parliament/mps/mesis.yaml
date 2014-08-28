@@ -1,7 +1,5 @@
-name:
-  el_GR: Μέσης Χρίστος
-summary:
-  el_GR: |
+name: Μέσης Χρίστος
+summary: |
     Βουλευτής εκλογικής περιφέρειας Λεμεσού του ΑΚΕΛ–ΝΔ.
 affiliation:
   - start: '2011-06-02'
@@ -10,9 +8,7 @@ affiliation:
     district: Λεμεσός
 links:
   - url: 'http://www.parliament.cy/easyconsole.cfm/id/393'
-    note:
-      el_GR: Ιστοσελίδα Βουλής
+    note: Ιστοσελίδα Βουλής
   - url: 'https://el.wikipedia.org/wiki/%CE%A7%CF%81%CE%AF%CF%83%CF%84%CE%BF%CF%82_%CE%9C%CE%AD%CF%83%CE%B7%CF%82'
-    note:
-      el_GR: Wikipedia (el)
+    note: Wikipedia (el)
 mug: 'http://www.parliament.cy/assets/image/imageoriginal/Mesis%20Christos%20a.jpg'

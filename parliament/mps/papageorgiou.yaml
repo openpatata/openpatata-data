@@ -1,7 +1,5 @@
-name:
-  el_GR: Παπαγεωργίου Πάμπος
-summary:
-  el_GR: |
+name: Παπαγεωργίου Πάμπος
+summary: |
     Βουλευτής εκλογικής περιφέρειας Κερύνειας του ΑΚΕΛ–ΝΔ.
 affiliation:
   - start: '2011-06-02'
@@ -10,12 +8,9 @@ affiliation:
     district: Κερύνεια
 links:
   - url: 'http://www.parliament.cy/easyconsole.cfm/id/405'
-    note:
-      el_GR: Ιστοσελίδα Βουλής
+    note: Ιστοσελίδα Βουλής
   - url: 'https://el.wikipedia.org/wiki/%CE%A0%CE%AC%CE%BC%CF%80%CE%BF%CF%82_%CE%A0%CE%B1%CF%80%CE%B1%CE%B3%CE%B5%CF%89%CF%81%CE%B3%CE%AF%CE%BF%CF%85'
-    note:
-      el_GR: Wikipedia (el)
+    note: Wikipedia (el)
   - url: 'https://en.wikipedia.org/wiki/Pambos_Papageorgiou'
-    note:
-      el_GR: Wikipedia (en)
+    note: Wikipedia (en)
 mug: 'http://www.parliament.cy/assets/image/imageoriginal/Papagewrgiou%20Pampos%20a.jpg'

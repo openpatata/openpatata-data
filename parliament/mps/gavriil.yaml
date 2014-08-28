@@ -1,7 +1,5 @@
-name:
-  el_GR: Γαβριήλ Γιαννάκης
-summary:
-  el_GR: |
+name: Γαβριήλ Γιαννάκης
+summary: |
     Βουλευτής εκλογικής περιφέρειας Αμμοχώστου του ΑΚΕΛ–ΝΔ.
 affiliation:
   - start: '2011-06-02'
@@ -10,9 +8,7 @@ affiliation:
     district: Αμμόχωστος
 links:
   - url: 'http://www.parliament.cy/easyconsole.cfm/id/310'
-    note:
-      el_GR: Ιστοσελίδα Βουλής
+    note: Ιστοσελίδα Βουλής
   - url: 'https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%AC%CE%BA%CE%B7%CF%82_%CE%93%CE%B1%CE%B2%CF%81%CE%B9%CE%AE%CE%BB'
-    note:
-      el_GR: Wikipedia (el)
+    note: Wikipedia (el)
 mug: 'http://www.parliament.cy/assets/image/imageoriginal/Gavriel%20Giannakis%20a.jpg'
