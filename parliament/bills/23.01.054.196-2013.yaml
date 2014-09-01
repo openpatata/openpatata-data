@@ -12,5 +12,5 @@ status: pass
 votes:
   - date: '2013-11-28'
     count: FALSE
-    on_: Σύνολο
+    on_: Στο σύνολο του σχεδίου
     result: success

@@ -23,6 +23,6 @@ votes:
       for: 44
     result: success
   - date: '2013-11-14'
-    on_: Σύνολο
+    on_: Στο σύνολο του σχεδίου
     count: FALSE
     result: success

@@ -28,7 +28,7 @@ votes:
       abstain: 20
       against: 1
       for: 31
-    on_: Σύνολο
+    on_: Στο σύνολο του σχεδίου
   - date: '2013-11-07'
     count:
       abstain: 1
