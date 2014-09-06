@@ -1,0 +1,16 @@
+name: Μιχαηλίδης Ανδρέας
+summary: |
+    Βουλευτής εκλογικής περιφέρειας Λεμεσού του ΔΗΣΥ.
+affiliation:
+  - start: '2011-06-02'
+    end:
+    parl_group: ΔΗΣΥ
+    district: Λεμεσός
+links:
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/401'
+    note: Ιστοσελίδα Βουλής
+  - url: 'https://tr.wikipedia.org/wiki/Andreas_Mihailidis'
+    note: Wikipedia (tr)
+  - url: 'https://en.wikipedia.org/wiki/Andreas_Michaelides'
+    note: Wikipedia (en)
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/MICHAELIDES%20Antreas.jpg'

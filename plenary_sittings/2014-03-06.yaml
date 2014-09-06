@@ -1,0 +1,21 @@
+agenda:
+  debate:
+  - 23.05.046.002-2013
+  - 23.05.046.009-2013
+  - 23.05.046.010-2013
+  - 23.05.046.011-2013
+  - 23.05.046.012-2013
+  - 23.05.047.001-2014
+  legislativeWork:
+  - 23.01.055.019-2014
+  - 23.01.055.020-2014
+  - 23.01.055.044-2014
+  - 23.01.055.045-2014
+date: '2014-03-06'
+parliament: Ι΄
+session: Γ΄
+sitting: 28
+type: ordinary
+urls_agendas:
+- http://www.parliament.cy/easyconsole.cfm/id/867
+urls_minutes: null

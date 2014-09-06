@@ -1,0 +1,16 @@
+name: Κατσουρίδης Νίκος
+summary: |
+    Βουλευτής εκλογικής περιφέρειας Λευκωσίας του ΑΚΕΛ–ΝΔ.
+affiliation:
+  - start: '2011-06-02'
+    end:
+    parl_group: ΑΚΕΛ–ΝΔ
+    district: Λευκωσία
+links:
+  - url: 'http://www.parliament.cy/easyconsole.cfm/id/366'
+    note: Ιστοσελίδα Βουλής
+  - url: 'https://el.wikipedia.org/wiki/%CE%9D%CE%AF%CE%BA%CE%BF%CF%82_%CE%9A%CE%B1%CF%84%CF%83%CE%BF%CF%85%CF%81%CE%AF%CE%B4%CE%B7%CF%82'
+    note: Wikipedia (el)
+  - url: 'https://en.wikipedia.org/wiki/Nicos_Katsourides'
+    note: Wikipedia (en)
+mug: 'http://www.parliament.cy/assets/image/imageoriginal/Katsouridis%20Nicos%20a.jpg'
