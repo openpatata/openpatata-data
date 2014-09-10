@@ -1,7 +1,10 @@
-explanatoryNote:
+explanatory_note:
   authors:
-    - capacity: Γενικός Εισαγγελέας της Δημοκρατίας
-      name: Πέτρος Κληρίδης
+    - note: Γενικός Εισαγγελέας της Δημοκρατίας
+      name: Κληρίδης Πέτρος
+  in:
+    issue: 4128
+    pages: 62
   text: |
     Με το παρόν νομοσχέδιο υλοποιείται το μέτρο του Μνημονίου Συναντίληψης μεταξύ της Δημοκρατίας και του Διεθνές Νομισματικού Ταμείου, της Ευρωπαϊκής Κεντρικής Τράπεζας και της Επιτροπής της Ευρωπαϊκής Ένωσης, που αφορά τη διασφάλιση επιπλέον δημόσιων εσόδων από το φόρο ακίνητης ιδιοκτησίας. Το πιο πάνω μέτρο αφορά την επικαιροποίηση της αξίας της ιδιοκτησίας επί της οποίας επιβάλλεται ο φόρος σύμφωνα με τον πληθωρισμό μέχρι την 31η Δεκεμβρίου 2012, καθώς και την τροποποίηση της φορολογικής κλίμακας και των φορολογικών συντελεστών.
 id: 23.01.054.078-2013
@@ -15,12 +18,9 @@ sources:
       Έκτακτη συνεδρίαση 30ής Απριλίου 2013. Ι' Βουλευτική Περίοδος - Σύνοδος Β'. Πρακτικά της Βουλής των Αντιπροσώπων. Αρ. 31. http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-04-30.pdf
   - id:
     text: >
-      Νομοσχέδια – Παράρτημα Έκτο. Επίσημη Εφημερίδα της Δημοκρατίας. 22 Απριλίου 2013. σελ. 61–62. http://www.mof.gov.cy/mof/gpo/gpo.nsf/All/B121DABFC001B068C2257B55002946FA/$file/4128%20%2022%204%202013%20%20PARARTIMA%20%206o.pdf
-  - id:
-    text: >
       «Και με τη βούλα της Βουλής η νέα φορολογία στα ακίνητα». Philenews. 30 Απριλίου 2013. http://www.philenews.com/el-gr/oikonomia-kypros/146/143363/kai-me-ti-voula-tis-voulis-i-nea-yesologia-sta-akinita
 summary: |
-    Το συγκεκριμένο σχέδιο νόμου (νομοσχέδιο) αυξάνει τον φόρο ακίνητης ιδιοκτησίας. Είναι μέτρο που είχε απαιτήσει η Τρόικα για την εκταμίευση της πρώτης δόσης του μνημονιακού δανείου.
+  Το συγκεκριμένο σχέδιο νόμου (νομοσχέδιο) αυξάνει τον φόρο ακίνητης ιδιοκτησίας. Είναι μέτρο που είχε απαιτήσει η Τρόικα για την εκταμίευση της πρώτης δόσης του μνημονιακού δανείου.
 tags:
   - μνημόνιο
   - μνημόνιο (1η δόση)
@@ -36,169 +36,169 @@ status: pass
 votes:
   - breakdown:
     - name: Αδάμου Αδάμος
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Βαρνάβα Γιώργος
-      parlGroup: ΕΔΕΚ
+      parl_group: ΕΔΕΚ
       option: against
     - name: Γαβριήλ Γιαννάκης
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Γεωργίου Γιώργος
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Δαμιανού Άριστος
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Δημητρίου Μισιαούλη Στέλλα
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Ευαγόρου Σταύρος
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Κατσουρίδης Νίκος
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Καυκαλιάς Αντρέας
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Κουκουμά Κούτρα Σκεύη
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Κουλίας Ζαχαρίας
-      parlGroup: null
+      parl_group: null
       option: against
     - name: Κουτσού Νίκος
-      parlGroup: ΕΥΡΩΚΟ
+      parl_group: ΕΥΡΩΚΟ
       option: against
     - name: Κυπριανού Άντρος
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Κώστα Κώστας
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Λαμάρης Γιάννος
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Λουκαΐδης Γιώργος
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Μέσης Χρίστος
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Μαυρονικόλα Ρούλα
-      parlGroup: ΕΔΕΚ
+      parl_group: ΕΔΕΚ
       option: against
     - name: Νικολαΐδης Νίκος
-      parlGroup: ΕΔΕΚ
+      parl_group: ΕΔΕΚ
       option: against
     - name: Παπαγεωργίου Πάμπος
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Περδίκης Γιώργος
-      parlGroup: Οικολόγοι
+      parl_group: Οικολόγοι
       option: against
     - name: Σαρίκας Φειδίας
-      parlGroup: ΕΔΕΚ
+      parl_group: ΕΔΕΚ
       option: against
     - name: Σταυριανός Πανίκκος
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Τζιοβάνης Χριστάκης
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Φακοντής Αντρέας
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Χαραλαμπίδου Ειρήνη
-      parlGroup: ΑΚΕΛ–ΝΔ
+      parl_group: ΑΚΕΛ–ΝΔ
       option: against
     - name: Αντωνίου Αντώνης
-      parlGroup: ΔΗΚΟ
+      parl_group: ΔΗΚΟ
       option: for
     - name: Βότσης Άγγελος
-      parlGroup: ΔΗΚΟ
+      parl_group: ΔΗΚΟ
       option: for
     - name: Γεωργίου Γεώργιος
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Δίπλαρος Ευθύμιος
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Ζαχαρίου Ζαχαρίας
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Θεμιστοκλέους Ανδρέας
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Καρογιάν Μάριος
-      parlGroup: ΔΗΚΟ
+      parl_group: ΔΗΚΟ
       option: for
     - name: Κυπριανού Ανδρέας
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Κυριακίδου Αθηνά
-      parlGroup: ΔΗΚΟ
+      parl_group: ΔΗΚΟ
       option: for
     - name: Κυριακίδου Στέλλα
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Κυριακού Μαρία
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Κωνσταντίνου Κώστας
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Κωνσταντίνου Νεόφυτος
-      parlGroup: ΔΗΚΟ
+      parl_group: ΔΗΚΟ
       option: for
     - name: Μαππουρίδης Ρίκκος
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Μαυρίδης Μάριος
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Μισός Αριστοτέλης
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Μιχαηλίδης Ανδρέας
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Νεοφύτου Αβέρωφ
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Νουρής Νίκος
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Παπαδόπουλος Νικόλας
-      parlGroup: ΔΗΚΟ
+      parl_group: ΔΗΚΟ
       option: for
     - name: Προδρόμου Πρόδρομος
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Προκοπίου Γεώργιος
-      parlGroup: ΔΗΚΟ
+      parl_group: ΔΗΚΟ
       option: for
     - name: Σαμψών Σωτήρης
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Συλλούρης Δημήτρης
-      parlGroup: ΕΥΡΩΚΟ
+      parl_group: ΕΥΡΩΚΟ
       option: for
     - name: Τάσου Γεώργιος
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Τορναρίτης Νίκος
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Φυττής Σοφοκλής
-      parlGroup: ΔΗΚΟ
+      parl_group: ΔΗΚΟ
       option: for
     - name: Χατζηγιάννης Κυριάκος
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     - name: Χριστοφόρου Λευτέρης
-      parlGroup: ΔΗΣΥ
+      parl_group: ΔΗΣΥ
       option: for
     date: '2013-04-30'
     count:

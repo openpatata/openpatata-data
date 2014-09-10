@@ -1,7 +1,10 @@
-explanatoryNote:
+explanatory_note:
   authors:
-    - name: Κώστας Κληρίδης
-      capacity: Γενικός Εισαγγελέας της Δημοκρατίας
+    - name: Κληρίδης Κώστας
+      note: Γενικός Εισαγγελέας της Δημοκρατίας
+  in:
+    issue: 4144
+    pages: 916–917
   text: |
     Το παρόν νομοσχέδιο ενοποιεί το Τμήμα Εσωτερικών Προσόδων («το ΤΕΠ») και την Υπηρεσίας Φόρου Προστιθέμενης Αξίας («η ΥΦΠΑ»), μετονομάζοντάς τα από κοινού σε Τμήμα Φορολογίας.
 
@@ -15,9 +18,6 @@ explanatoryNote:
 id: 23.01.055.101-2014
 law: 70(I)/2014
 sources:
-  - id:
-    text: >
-      Αριθμός 139. Νομοσχέδια – Παράρτημα Έκτο (4144). Επίσημη Εφημερίδα της Δημοκρατίας. 18 Ιουνίου 2014. http://www.mof.gov.cy/mof/gpo/gpo.nsf/All/82958B3F84616B23C2257CFB002D667E?OpenDocument
   - id:
     text: >
       «Οι προϋποθέσεις για την εκταμίευση της 5η δόσης». Philenews. 27 Μαΐου 2014. http://www.philenews.com/el-gr/top-stories/885/201589/oi-proypotheseis-gia-tin-ektamiefsi-tis-5i-dosis

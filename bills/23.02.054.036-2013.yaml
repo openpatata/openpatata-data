@@ -24,160 +24,160 @@ status: pass
 votes:
   - breakdown:
       - name: Αδάμου Αδάμος
-        parlGroup: ΑΚΕΛ–ΝΔ
+        parl_group: ΑΚΕΛ–ΝΔ
         option: abstain
       - name: Γαβριήλ Γιαννάκης
-        parlGroup: ΑΚΕΛ–ΝΔ
+        parl_group: ΑΚΕΛ–ΝΔ
         option: abstain
       - name: Γεωργίου Γιώργος
-        parlGroup: ΑΚΕΛ–ΝΔ
+        parl_group: ΑΚΕΛ–ΝΔ
         option: abstain
       - name: Δαμιανού Άριστος
-        parlGroup: ΑΚΕΛ–ΝΔ
+        parl_group: ΑΚΕΛ–ΝΔ
         option: abstain
       - name: Δημητρίου Μισιαούλη Στέλλα
-        parlGroup: ΑΚΕΛ–ΝΔ
+        parl_group: ΑΚΕΛ–ΝΔ
         option: abstain
       - name: Κατσουρίδης Νίκος
-        parlGroup: ΑΚΕΛ–ΝΔ
+        parl_group: ΑΚΕΛ–ΝΔ
         option: abstain
       - name: Καυκαλιάς Αντρέας
-        parlGroup: ΑΚΕΛ–ΝΔ
+        parl_group: ΑΚΕΛ–ΝΔ
         option: abstain
       - name: Κουκουμά Κούτρα Σκεύη
-        parlGroup: ΑΚΕΛ–ΝΔ
+        parl_group: ΑΚΕΛ–ΝΔ
         option: abstain
       - name: Κυπριανού Άντρος
-        parlGroup: ΑΚΕΛ–ΝΔ
+        parl_group: ΑΚΕΛ–ΝΔ
         option: abstain
       - name: Κώστα Κώστας
-        parlGroup: ΑΚΕΛ–ΝΔ
+        parl_group: ΑΚΕΛ–ΝΔ
         option: abstain
       - name: Λαμάρης Γιάννος
-        parlGroup: ΑΚΕΛ–ΝΔ
+        parl_group: ΑΚΕΛ–ΝΔ
         option: abstain
       - name: Λουκαΐδης Γιώργος
-        parlGroup: ΑΚΕΛ–ΝΔ
+        parl_group: ΑΚΕΛ–ΝΔ
         option: abstain
       - name: Μέσης Χρίστος
-        parlGroup: ΑΚΕΛ–ΝΔ
+        parl_group: ΑΚΕΛ–ΝΔ
         option: abstain
       - name: Σταυριανός Πανίκκος
-        parlGroup: ΑΚΕΛ–ΝΔ
+        parl_group: ΑΚΕΛ–ΝΔ
         option: abstain
       - name: Συλλούρης Δημήτρης
-        parlGroup: ΕΥΡΩΚΟ
+        parl_group: ΕΥΡΩΚΟ
         option: abstain
       - name: Φακοντής Αντρέας
-        parlGroup: ΑΚΕΛ–ΝΔ
+        parl_group: ΑΚΕΛ–ΝΔ
         option: abstain
       - name: Χαραλαμπίδου Ειρήνη
-        parlGroup: ΑΚΕΛ–ΝΔ
+        parl_group: ΑΚΕΛ–ΝΔ
         option: abstain
       - name: Αντωνίου Αντώνης
-        parlGroup: ΔΗΚΟ
+        parl_group: ΔΗΚΟ
         option: for
       - name: Βαρνάβα Γιώργος
-        parlGroup: ΕΔΕΚ
+        parl_group: ΕΔΕΚ
         option: for
       - name: Βότσης Άγγελος
-        parlGroup: ΔΗΚΟ
+        parl_group: ΔΗΚΟ
         option: for
       - name: Γεωργίου Γεώργιος
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Δίπλαρος Ευθύμιος
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Ζαχαρίου Ζαχαρίας
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Θεμιστοκλέους Ανδρέας
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Καρογιάν Μάριος
-        parlGroup: ΔΗΚΟ
+        parl_group: ΔΗΚΟ
         option: for
       - name: Κουλίας Ζαχαρίας
-        parlGroup: null
+        parl_group: null
         option: for
       - name: Κουτσού Νίκος
-        parlGroup: null
+        parl_group: null
         option: for
       - name: Κυπριανού Ανδρέας
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Κυριακίδου Αθηνά
-        parlGroup: ΔΗΚΟ
+        parl_group: ΔΗΚΟ
         option: for
       - name: Κυριακίδου Στέλλα
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Κυριακού Μαρία
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Κωνσταντίνου Κώστας
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Κωνσταντίνου Νεόφυτος
-        parlGroup: ΔΗΚΟ
+        parl_group: ΔΗΚΟ
         option: for
       - name: Μαππουρίδης Ρίκκος
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Μαυρίδης Μάριος
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Μαυρονικόλα Ρούλα
-        parlGroup: ΕΔΕΚ
+        parl_group: ΕΔΕΚ
         option: for
       - name: Μισός Αριστοτέλης
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Μιχαηλίδης Ανδρέας
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Νεοφύτου Αβέρωφ
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Νικολαΐδης Νίκος
-        parlGroup: ΕΔΕΚ
+        parl_group: ΕΔΕΚ
         option: for
       - name: Νουρής Νίκος
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Παπαδόπουλος Νικόλας
-        parlGroup: ΔΗΚΟ
+        parl_group: ΔΗΚΟ
         option: for
       - name: Περδίκης Γιώργος
-        parlGroup: Οικολόγοι
+        parl_group: Οικολόγοι
         option: for
       - name: Προδρόμου Πρόδρομος
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Προκοπίου Γεώργιος
-        parlGroup: ΔΗΚΟ
+        parl_group: ΔΗΚΟ
         option: for
       - name: Σαμψών Σωτήρης
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Σαρίκας Φειδίας
-        parlGroup: ΕΔΕΚ
+        parl_group: ΕΔΕΚ
         option: for
       - name: Τάσου Γεώργιος
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Τορναρίτης Νίκος
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Φυττής Σοφοκλής
-        parlGroup: ΔΗΚΟ
+        parl_group: ΔΗΚΟ
         option: for
       - name: Χατζηγιάννης Κυριάκος
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
       - name: Χριστοφόρου Λευτέρης
-        parlGroup: ΔΗΣΥ
+        parl_group: ΔΗΣΥ
         option: for
     date: '2013-08-29'
     count:
