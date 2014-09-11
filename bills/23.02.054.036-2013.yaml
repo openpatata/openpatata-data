@@ -1,184 +1,181 @@
+events:
+- date: '2013-05-16'
+  description: κατατέθηκε από τον Αβέρωφ Νεοφύτου εκ μέρους της κοινοβουλευτικής ομάδας του Δημοκρατικού Συναγερμού· παραπέμφθηκε στην Επιτροπή Οικονομικών και Προϋπολογισμού
+- date: '2013-08-29'
+  description: επανήλθε στην Ολομέλεια
+- date: '2013-08-29'
+  description: υπερψηφίστηκε
 id: 23.02.054.036-2013
 law: 97(I)/2013
 sources:
-  - id:
-    text: >
-      Συνεδρίαση 29ης Αυγούστου 2013. Ι' Βουλευτική Περίοδος - Έκτακτη Σύνοδος. Πρακτικά της Βουλής των Αντιπροσώπων. http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-08-29.pdf
-  - id:
-    text: >
-      «Διοικητής, ΥΠΟΙΚ, Επ.Κεφαλαιαγοράς στη διαχείριση των τραπεζών». Philenews. 30 Αυγούστου 2013. http://www.philenews.com/el-gr/top-stories/885/159583/triprosopi-archi-exygiansis
-summary: |
-    Το συγκεκριμένο σχέδιο νόμου (πρόταση νόμου) τροποποιεί την σύνθεση της «Αρχής Εξυγίανσης» από μονομερή (Κεντρική Τράπεζα της Κύπρου [ΚΤΚ]) σε τριμερή (ΚΤΚ, Υπουργός Οικονομικών και πρόεδρος του Συμβουλίου της Επιτροπής Κεφαλαιαγοράς Κύπρου).
-tags:
-  - μνημόνιο
-  - τραπεζικό σύστημα
-events:
-  - date: '2013-05-16'
-    description: κατατέθηκε από τον Αβέρωφ Νεοφύτου εκ μέρους της κοινοβουλευτικής ομάδας του Δημοκρατικού Συναγερμού· παραπέμφθηκε στην Επιτροπή Οικονομικών και Προϋπολογισμού
-  - date: '2013-08-29'
-    description: επανήλθε στην Ολομέλεια
-  - date: '2013-08-29'
-    description: υπερψηφίστηκε
-title: Ο περί Εξυγίανσης Πιστωτικών και Άλλων Ιδρυμάτων (Τροποποιητικός) (Αρ. 3) Νόμος του 2013
+- id:
+  text: >
+    «Διοικητής, ΥΠΟΙΚ, Επ.Κεφαλαιαγοράς στη διαχείριση των τραπεζών». Philenews. 30 Αυγούστου 2013. http://www.philenews.com/el-gr/top-stories/885/159583/triprosopi-archi-exygiansis
 status: pass
+summary: |
+  Το συγκεκριμένο σχέδιο νόμου (πρόταση νόμου) τροποποιεί την σύνθεση της «Αρχής Εξυγίανσης» από μονομερή (Κεντρική Τράπεζα της Κύπρου [ΚΤΚ]) σε τριμερή (ΚΤΚ, Υπουργός Οικονομικών και πρόεδρος του Συμβουλίου της Επιτροπής Κεφαλαιαγοράς Κύπρου).
+tags:
+- μνημόνιο
+- τραπεζικό σύστημα
+title: Ο περί Εξυγίανσης Πιστωτικών και Άλλων Ιδρυμάτων (Τροποποιητικός) (Αρ. 3) Νόμος του 2013
 votes:
   - breakdown:
-      - name: Αδάμου Αδάμος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: abstain
-      - name: Γαβριήλ Γιαννάκης
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: abstain
-      - name: Γεωργίου Γιώργος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: abstain
-      - name: Δαμιανού Άριστος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: abstain
-      - name: Δημητρίου Μισιαούλη Στέλλα
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: abstain
-      - name: Κατσουρίδης Νίκος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: abstain
-      - name: Καυκαλιάς Αντρέας
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: abstain
-      - name: Κουκουμά Κούτρα Σκεύη
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: abstain
-      - name: Κυπριανού Άντρος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: abstain
-      - name: Κώστα Κώστας
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: abstain
-      - name: Λαμάρης Γιάννος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: abstain
-      - name: Λουκαΐδης Γιώργος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: abstain
-      - name: Μέσης Χρίστος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: abstain
-      - name: Σταυριανός Πανίκκος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: abstain
-      - name: Συλλούρης Δημήτρης
-        parl_group: ΕΥΡΩΚΟ
-        option: abstain
-      - name: Φακοντής Αντρέας
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: abstain
-      - name: Χαραλαμπίδου Ειρήνη
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: abstain
-      - name: Αντωνίου Αντώνης
-        parl_group: ΔΗΚΟ
-        option: for
-      - name: Βαρνάβα Γιώργος
-        parl_group: ΕΔΕΚ
-        option: for
-      - name: Βότσης Άγγελος
-        parl_group: ΔΗΚΟ
-        option: for
-      - name: Γεωργίου Γεώργιος
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Δίπλαρος Ευθύμιος
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Ζαχαρίου Ζαχαρίας
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Θεμιστοκλέους Ανδρέας
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Καρογιάν Μάριος
-        parl_group: ΔΗΚΟ
-        option: for
-      - name: Κουλίας Ζαχαρίας
-        parl_group: null
-        option: for
-      - name: Κουτσού Νίκος
-        parl_group: null
-        option: for
-      - name: Κυπριανού Ανδρέας
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Κυριακίδου Αθηνά
-        parl_group: ΔΗΚΟ
-        option: for
-      - name: Κυριακίδου Στέλλα
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Κυριακού Μαρία
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Κωνσταντίνου Κώστας
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Κωνσταντίνου Νεόφυτος
-        parl_group: ΔΗΚΟ
-        option: for
-      - name: Μαππουρίδης Ρίκκος
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Μαυρίδης Μάριος
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Μαυρονικόλα Ρούλα
-        parl_group: ΕΔΕΚ
-        option: for
-      - name: Μισός Αριστοτέλης
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Μιχαηλίδης Ανδρέας
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Νεοφύτου Αβέρωφ
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Νικολαΐδης Νίκος
-        parl_group: ΕΔΕΚ
-        option: for
-      - name: Νουρής Νίκος
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Παπαδόπουλος Νικόλας
-        parl_group: ΔΗΚΟ
-        option: for
-      - name: Περδίκης Γιώργος
-        parl_group: Οικολόγοι
-        option: for
-      - name: Προδρόμου Πρόδρομος
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Προκοπίου Γεώργιος
-        parl_group: ΔΗΚΟ
-        option: for
-      - name: Σαμψών Σωτήρης
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Σαρίκας Φειδίας
-        parl_group: ΕΔΕΚ
-        option: for
-      - name: Τάσου Γεώργιος
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Τορναρίτης Νίκος
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Φυττής Σοφοκλής
-        parl_group: ΔΗΚΟ
-        option: for
-      - name: Χατζηγιάννης Κυριάκος
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Χριστοφόρου Λευτέρης
-        parl_group: ΔΗΣΥ
-        option: for
+    - name: Αδάμου Αδάμος
+      parl_group: ΑΚΕΛ–ΝΔ
+      option: abstain
+    - name: Γαβριήλ Γιαννάκης
+      parl_group: ΑΚΕΛ–ΝΔ
+      option: abstain
+    - name: Γεωργίου Γιώργος
+      parl_group: ΑΚΕΛ–ΝΔ
+      option: abstain
+    - name: Δαμιανού Άριστος
+      parl_group: ΑΚΕΛ–ΝΔ
+      option: abstain
+    - name: Δημητρίου Μισιαούλη Στέλλα
+      parl_group: ΑΚΕΛ–ΝΔ
+      option: abstain
+    - name: Κατσουρίδης Νίκος
+      parl_group: ΑΚΕΛ–ΝΔ
+      option: abstain
+    - name: Καυκαλιάς Αντρέας
+      parl_group: ΑΚΕΛ–ΝΔ
+      option: abstain
+    - name: Κουκουμά Κούτρα Σκεύη
+      parl_group: ΑΚΕΛ–ΝΔ
+      option: abstain
+    - name: Κυπριανού Άντρος
+      parl_group: ΑΚΕΛ–ΝΔ
+      option: abstain
+    - name: Κώστα Κώστας
+      parl_group: ΑΚΕΛ–ΝΔ
+      option: abstain
+    - name: Λαμάρης Γιάννος
+      parl_group: ΑΚΕΛ–ΝΔ
+      option: abstain
+    - name: Λουκαΐδης Γιώργος
+      parl_group: ΑΚΕΛ–ΝΔ
+      option: abstain
+    - name: Μέσης Χρίστος
+      parl_group: ΑΚΕΛ–ΝΔ
+      option: abstain
+    - name: Σταυριανός Πανίκκος
+      parl_group: ΑΚΕΛ–ΝΔ
+      option: abstain
+    - name: Συλλούρης Δημήτρης
+      parl_group: ΕΥΡΩΚΟ
+      option: abstain
+    - name: Φακοντής Αντρέας
+      parl_group: ΑΚΕΛ–ΝΔ
+      option: abstain
+    - name: Χαραλαμπίδου Ειρήνη
+      parl_group: ΑΚΕΛ–ΝΔ
+      option: abstain
+    - name: Αντωνίου Αντώνης
+      parl_group: ΔΗΚΟ
+      option: for
+    - name: Βαρνάβα Γιώργος
+      parl_group: ΕΔΕΚ
+      option: for
+    - name: Βότσης Άγγελος
+      parl_group: ΔΗΚΟ
+      option: for
+    - name: Γεωργίου Γεώργιος
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Δίπλαρος Ευθύμιος
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Ζαχαρίου Ζαχαρίας
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Θεμιστοκλέους Ανδρέας
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Καρογιάν Μάριος
+      parl_group: ΔΗΚΟ
+      option: for
+    - name: Κουλίας Ζαχαρίας
+      parl_group: null
+      option: for
+    - name: Κουτσού Νίκος
+      parl_group: null
+      option: for
+    - name: Κυπριανού Ανδρέας
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Κυριακίδου Αθηνά
+      parl_group: ΔΗΚΟ
+      option: for
+    - name: Κυριακίδου Στέλλα
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Κυριακού Μαρία
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Κωνσταντίνου Κώστας
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Κωνσταντίνου Νεόφυτος
+      parl_group: ΔΗΚΟ
+      option: for
+    - name: Μαππουρίδης Ρίκκος
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Μαυρίδης Μάριος
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Μαυρονικόλα Ρούλα
+      parl_group: ΕΔΕΚ
+      option: for
+    - name: Μισός Αριστοτέλης
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Μιχαηλίδης Ανδρέας
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Νεοφύτου Αβέρωφ
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Νικολαΐδης Νίκος
+      parl_group: ΕΔΕΚ
+      option: for
+    - name: Νουρής Νίκος
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Παπαδόπουλος Νικόλας
+      parl_group: ΔΗΚΟ
+      option: for
+    - name: Περδίκης Γιώργος
+      parl_group: Οικολόγοι
+      option: for
+    - name: Προδρόμου Πρόδρομος
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Προκοπίου Γεώργιος
+      parl_group: ΔΗΚΟ
+      option: for
+    - name: Σαμψών Σωτήρης
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Σαρίκας Φειδίας
+      parl_group: ΕΔΕΚ
+      option: for
+    - name: Τάσου Γεώργιος
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Τορναρίτης Νίκος
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Φυττής Σοφοκλής
+      parl_group: ΔΗΚΟ
+      option: for
+    - name: Χατζηγιάννης Κυριάκος
+      parl_group: ΔΗΣΥ
+      option: for
+    - name: Χριστοφόρου Λευτέρης
+      parl_group: ΔΗΣΥ
+      option: for
     date: '2013-08-29'
     count:
       abstain: 17
