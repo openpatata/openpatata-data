@@ -68,7 +68,7 @@ mps_present:
 - Χατζηγιάννης Κυριάκος
 - Χριστοφόρου Λευτέρης
 parliament: Ι΄
-reps_present: false
+reps_present: null
 session: Γ΄
 sitting: 11
 type: ordinary
