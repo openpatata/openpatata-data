@@ -1,0 +1,110 @@
+type: map
+mapping:
+  events:
+    type: seq
+    sequence:
+      - type: map
+        mapping:
+          date: &date
+            type: str
+            pattern: /\d{4}-\d{2}-\d{2}/
+            required: true
+          description:
+            type: str
+            required: true
+  explanatory_note:
+    type: map
+    mapping:
+      authors:
+        type: seq
+        sequence:
+          - type: map
+            mapping:
+              name:
+                type: str
+                required: true
+              note:
+                type: str
+      in:
+        type: map
+        mapping:
+          issue:
+            type: int
+            required: true
+          page:
+            type: text
+            pattern: /\d+(–\d+)?/
+            required: true
+        required: true
+      text:
+        type: str
+        required: true
+  id:
+    type: str
+    required: true
+  law:
+    type: str
+  sources:
+    type: seq
+    sequence:
+      - type: map
+        mapping:
+          id:
+            type: str
+          text:
+            type: str
+            required: true
+  tags:
+    type: seq
+    sequence:
+      - type: str
+        required: true
+  title:
+    type: str
+    required: true
+  status:
+    type: str
+    enum: [pass, fail, withdrawn, pending, unknown]
+  summary:
+    type: str
+  votes:
+    type: seq
+    sequence:
+      - type: map
+        mapping:
+          breakdown:
+            type: seq
+            sequence:
+              - type: map
+                mapping:
+                  name:
+                    type: str
+                    required: true
+                  parl_group:
+                    type: str
+                  option:
+                    type: str
+                    enum: [for, against, abstain]
+                    required: true
+          count:
+            type: map
+            mapping:
+              abstain:
+                type: int
+                required: true
+              against:
+                type: int
+                required: true
+              for:
+                type: int
+                required: true
+          date: *date
+          on_:
+            type: str
+            required: true
+          remarks:
+            type: str
+          result:
+            type: str
+            enum: ['pass', 'fail']
+            required: true

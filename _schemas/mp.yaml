@@ -1,0 +1,39 @@
+type: map
+mapping:
+  name:
+    type: str
+    required: true
+  summary:
+    type: str
+    required: true
+  affiliation:
+    type: seq
+    sequence:
+      - type: map
+        mapping:
+          start: &date
+            type: str
+            pattern: /\d{4}-\d{2}-\d{2}/
+            required: true
+          end:
+            <<: *date
+            required: false
+          parl_group:
+            type: str
+          district:
+            type: str
+            required: true
+    required: true
+  links:
+    type: seq
+    sequence:
+      - type: map
+        mapping:
+          note:
+            type: str
+            required: true
+          url:
+            type: str
+            required: true
+  mug:
+    type: str

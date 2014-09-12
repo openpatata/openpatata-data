@@ -1,0 +1,49 @@
+type: map
+mapping:
+  agenda:
+    type: map
+    mapping:
+      debate:
+        type: seq
+        sequence:
+          - type: str
+            required: true
+      legislative_work:
+        type: seq
+        sequence:
+          - type: str
+            required: true
+  date:
+    type: str
+    pattern: /\d{4}-\d{2}-\d{2}/
+    required: true
+  mps_present:
+    type: seq
+    sequence:
+      - type: str
+        required: true
+  reps_present:
+    type: seq
+    sequence:
+      - type: str
+        required: true
+  parliament:
+    type: str
+  session:
+    type: str
+  sitting:
+    type: int
+  type:
+    type: str
+    enum: [ordinary, extraordinary, special]
+    required: true
+  urls_agendas:
+    type: seq
+    sequence:
+      - type: str
+        required: true
+  urls_minutes:
+    type: seq
+    sequence:
+      - type: str
+        required: true
