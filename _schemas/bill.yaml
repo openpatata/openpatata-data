@@ -106,5 +106,5 @@ mapping:
             type: str
           result:
             type: str
-            enum: ['pass', 'fail']
+            enum: [pass, fail]
             required: true

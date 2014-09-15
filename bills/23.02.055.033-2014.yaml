@@ -27,3 +27,4 @@ votes:
   - date: '2014-06-19'
     count: FALSE
     on_: Στο σύνολο του σχεδίου
+    result: pass

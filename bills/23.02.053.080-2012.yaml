@@ -13,8 +13,8 @@ votes:
   - date: '2013-07-11'
     on_: Προτεινόμενη τροπολογία της κοινοβουλευτικής ομάδας του Δημοκρατικού Κόμματος
     count: FALSE
-    result: success
+    result: pass
   - date: '2013-07-11'
     on_: Στο σύνολο του σχεδίου
     count: FALSE
-    result: success
+    result: pass

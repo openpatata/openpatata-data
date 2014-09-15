@@ -5,10 +5,8 @@ events:
     description: η πρόταση νόμου επανήλθε στην Ολομέλεια
   - date: '2013-11-14'
     description: τροπολογία του κ. Δημήτρη Συλλούρη υπερψηφίστηκε
-    ref:
   - date: '2013-11-14'
     description: η πρόταση νόμου υπερψηφίστηκε
-    ref:
 id: 23.02.054.104-2013
 status: pass
 tags:
@@ -21,8 +19,8 @@ votes:
       abstain: 1
       against: 0
       for: 44
-    result: success
+    result: pass
   - date: '2013-11-14'
     on_: Στο σύνολο του σχεδίου
     count: FALSE
-    result: success
+    result: pass

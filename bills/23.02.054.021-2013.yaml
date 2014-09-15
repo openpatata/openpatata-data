@@ -1,14 +1,4 @@
 id: 23.02.054.021-2013
-sources:
-  - id:
-    text: >
-      Πρακτικά της Συνεδρίασης της Βουλής της 11ης Απριλίου 2013. http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-04-11.doc
-  - id:
-    text: >
-      Πρακτικά της Συνεδρίασης της Βουλής της 17ης Οκτωβρίου 2013. http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-10-17.pdf
-  - id:
-    text: >
-      Πρακτικά της Συνεδρίασης της Βουλής της 7ης Νοεμβρίου 2013. http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-11-07.pdf
 events:
   - date: '2013-04-11'
     description: κατατέθηκε από τον Γιάννο Λαμάρη εκ μέρους της κοινοβουλευτικής ομάδας ΑΚΕΛ-Αριστερά-Νέες Δυνάμεις· παραπέμφθηκε στην Επιτροπή Εσωτερικών
@@ -29,9 +19,11 @@ votes:
       against: 1
       for: 31
     on_: Στο σύνολο του σχεδίου
+    result: pass
   - date: '2013-11-07'
     count:
       abstain: 1
       against: 24
       for: 26
     on_: Aναπομπή
+    result: pass

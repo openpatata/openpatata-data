@@ -12,3 +12,4 @@ votes:
   - date: '2013-10-10'
     count: false
     on_: Στο σύνολο του σχεδίου
+    result: pass
