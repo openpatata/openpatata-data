@@ -65,4 +65,4 @@ type: ordinary
 urls_agendas:
 - http://www.parliament.cy/easyconsole.cfm/id/996
 - http://www.parliament.cy/easyconsole.cfm/id/997
-urls_minutes: null
+urls_transcripts: null

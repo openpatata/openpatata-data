@@ -79,5 +79,5 @@ sitting: 8
 type: ordinary
 urls_agendas:
 - http://www.parliament.cy/easyconsole.cfm/id/707
-urls_minutes:
+urls_transcripts:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-10-17.pdf

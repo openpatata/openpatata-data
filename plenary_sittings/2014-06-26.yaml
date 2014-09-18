@@ -17,4 +17,4 @@ sitting: 40
 type: ordinary
 urls_agendas:
 - http://www.parliament.cy/easyconsole.cfm/id/970
-urls_minutes: null
+urls_transcripts: null

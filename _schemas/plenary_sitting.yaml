@@ -42,7 +42,7 @@ mapping:
     sequence:
       - type: str
         required: true
-  urls_minutes:
+  urls_transcripts:
     type: seq
     sequence:
       - type: str
