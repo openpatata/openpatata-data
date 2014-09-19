@@ -1,0 +1,7 @@
+language: ruby
+rvm:
+  - 2.1.2
+gemfile: _tests/Gemfile
+script: _tests/validate.rb
+notifications:
+  email: false

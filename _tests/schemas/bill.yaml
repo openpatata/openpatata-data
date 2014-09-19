@@ -12,6 +12,7 @@ mapping:
           description:
             type: str
             required: true
+    required: true
   explanatory_note:
     type: map
     mapping:
@@ -65,6 +66,7 @@ mapping:
   status:
     type: str
     enum: [pass, fail, withdrawn, pending, unknown]
+    required: true
   summary:
     type: str
   votes:
