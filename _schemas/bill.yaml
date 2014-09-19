@@ -31,7 +31,7 @@ mapping:
           issue:
             type: int
             required: true
-          page:
+          pages:
             type: text
             pattern: /\d+(–\d+)?/
             required: true
