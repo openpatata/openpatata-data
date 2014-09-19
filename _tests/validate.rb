@@ -1,23 +1,22 @@
 
-require 'kwalify'
-require 'yaml'
+require "kwalify"
+require "yaml"
 
-def validate_documents_of_kind(kind)
+def validate(kind)
   validator = Kwalify::Validator.new(
-                YAML.load_file(File.join('_tests', 'schemas',
+                YAML.load_file(File.join("_tests", "schemas",
                                          "#{kind.chop}.yaml")))
 
-  Dir[File.join(kind, '*.yaml')].each do |filename|
+  Dir[File.join(kind, "*.yaml")].each do |filename|
     errors = validator.validate(YAML.load_file(filename))
     if errors && !errors.empty?
-      for error in errors
-        puts filename, "[#{error.path}] #{error.message}"
-      end
+      puts filename
+      errors.each { |error| puts "\t[#{error.path}] #{error.message}" }
     end
   end
 end
 
-validate_documents_of_kind('bills')
-validate_documents_of_kind('committee_reports')
-validate_documents_of_kind('mps')
-validate_documents_of_kind('plenary_sittings')
+validate "bills"
+validate "committee_reports"
+validate "mps"
+validate "plenary_sittings"
