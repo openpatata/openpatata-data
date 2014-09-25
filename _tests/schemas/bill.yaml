@@ -40,7 +40,7 @@ mapping:
       text:
         type: str
         required: true
-  id:
+  identifier:
     type: str
     required: true
   law:
