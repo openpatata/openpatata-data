@@ -29,6 +29,7 @@ mapping:
         required: true
   parliament:
     type: str
+    required: true
   session:
     type: str
   sitting:
