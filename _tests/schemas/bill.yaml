@@ -44,7 +44,7 @@ mapping:
     type: str
     required: true
   in_committees:
-    type: sequence
+    type: seq
     sequence:
       - type: str
         required: true
