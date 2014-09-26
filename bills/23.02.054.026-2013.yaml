@@ -1,13 +1,20 @@
+events:
+- date: '2013-04-18'
+  description: κατατέθηκε από τους Αβέρωφ Νεοφύτου εκ μέρους της κοινοβουλευτικής ομάδας του Δημοκρατικού Συναγερμού, Νικόλα Παπαδόπουλο, βουλευτή εκλογικής περιφέρειας Λευκωσίας, Δημήτρη Συλλούρη, πρόεδρο Ευρωπαϊκού Κόμματος, και Γιώργο Περδίκη, βουλευτή του Κινήματος Οικολόγων Περιβαλλοντιστών· παραπέμψθηκε στην Επιτροπή Οικονομικών και Προϋπολογισμού
+- date: '2013-07-11'
+  description: επανήλθε στην Ολομέλεια
+- date: '2013-07-11'
+  description: υπερψηφίστηκε
 explanatory_note:
   authors:
-    - note: Πρόεδρος Δημοκρατικού Συναγερμού
-      name: Νεοφύτου Αβέρωφ
-    - note: βουλευτής εκλογικής περιφέρειας Λευκωσίας
-      name: Παπαδόπουλος Νικόλας
-    - note: Πρόεδρος Ευρωπαϊκού Κόμματος
-      name: Συλλούρης Δημήτρης
-    - note: εκ μέρους του Κινήματος Οικολόγων Περιβαλλοντιστών
-      name: Περδίκης Γιώργος
+  - note: Πρόεδρος Δημοκρατικού Συναγερμού
+    name: Νεοφύτου Αβέρωφ
+  - note: βουλευτής εκλογικής περιφέρειας Λευκωσίας
+    name: Παπαδόπουλος Νικόλας
+  - note: Πρόεδρος Ευρωπαϊκού Κόμματος
+    name: Συλλούρης Δημήτρης
+  - note: εκ μέρους του Κινήματος Οικολόγων Περιβαλλοντιστών
+    name: Περδίκης Γιώργος
   in:
     issue: 4129
     pages: 457
@@ -16,197 +23,192 @@ explanatory_note:
 
     Λόγω και των αυξημένων αρμοδιοτήτων που προκύπτουν από την εξυγίανση και αναδιάρθρωση του τραπεζικού συστήματος, κρίνεται αναγκαίο όπως τα μέλη του Διοικητικού Συμβουλίου της Κεντρικής Τράπεζας της Κύπρου αυξηθούν από πέντε (5) σε επτά (7), εκ των οποίων τα δύο (2) να είναι εκτελεστικοί σύμβουλοι. Σκοπός είναι να βοηθούν τον εκάστοτε Διοικητή της Κεντρικής Τράπεζας να επιτελεί πιο αποτελεσματικά τον εποπτικό του ρόλο ένεκα των αυξημένων αρμοδιοτήτων και του αυξημένου όγκου εργασίας.
 identifier: 23.02.054.026-2013
+in_committees:
+- Οικονομικών και Προϋπολογισμού
 law: 86(I)/2013
 sources:
-  - id:
-    text: >
-      «Θα διορίζονται δύο εκτελεστικοί δίπλα από τον Δημητριάδη». Philenews. 12 Ιουλίου 2013. http://www.philenews.com/el-gr/top-stories/885/153303/tha-diorizontai-dyo-ektelestikoi-dipla-apo-to-dimitriadi
+- id:
+  text: >
+    «Θα διορίζονται δύο εκτελεστικοί δίπλα από τον Δημητριάδη». Philenews. 12 Ιουλίου 2013. http://www.philenews.com/el-gr/top-stories/885/153303/tha-diorizontai-dyo-ektelestikoi-dipla-apo-to-dimitriadi
 summary: |
-    Το συγκεκριμένο σχέδιο νόμου (πρόταση νόμου) προνοεί τον διορισμό δύο εκτελεστικών συμβούλων στην Κεντρική Τράπεζα και τους αναθέτει σχετικές εξουσίες.
+  Το συγκεκριμένο σχέδιο νόμου (πρόταση νόμου) προνοεί τον διορισμό δύο εκτελεστικών συμβούλων στην Κεντρική Τράπεζα και τους αναθέτει σχετικές εξουσίες.
 tags:
-  - Κεντρική Τράπεζα της Κύπρου
-events:
-  - date: '2013-04-18'
-    description: κατατέθηκε από τους Αβέρωφ Νεοφύτου εκ μέρους της κοινοβουλευτικής ομάδας του Δημοκρατικού Συναγερμού, Νικόλα Παπαδόπουλο, βουλευτή εκλογικής περιφέρειας Λευκωσίας, Δημήτρη Συλλούρη, πρόεδρο Ευρωπαϊκού Κόμματος, και Γιώργο Περδίκη, βουλευτή του Κινήματος Οικολόγων Περιβαλλοντιστών· παραπέμψθηκε στην Επιτροπή Οικονομικών και Προϋπολογισμού
-  - date: '2013-07-11'
-    description: επανήλθε στην Ολομέλεια
-  - date: '2013-07-11'
-    description: υπερψηφίστηκε
+- Κεντρική Τράπεζα της Κύπρου
 title: Ο περί της Κεντρικής Τράπεζας της Κύπρου (Τροποποιητικός) Νόμος του 2013
 status: pass
 votes:
-  - breakdown:
-      - name: Αδάμου Αδάμος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Γαβριήλ Γιαννάκης
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Γεωργίου Γιώργος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Δαμιανού Άριστος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Δημητρίου Μισιαούλη Στέλλα
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Ευαγόρου Σταύρος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Κατσουρίδης Νίκος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Καυκαλιάς Αντρέας
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Κουκουμά Κούτρα Σκεύη
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Κουτσού Νίκος
-        parl_group: null
-        option: against
-      - name: Κυπριανού Άντρος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Κώστα Κώστας
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Λαμάρης Γιάννος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Λουκαΐδης Γιώργος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Μέσης Χρίστος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Παπαγεωργίου Πάμπος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Σταυριανός Πανίκκος
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Τζιοβάνης Χριστάκης
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Φακοντής Αντρέας
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Χαραλαμπίδου Ειρήνη
-        parl_group: ΑΚΕΛ–ΝΔ
-        option: against
-      - name: Αντωνίου Αντώνης
-        parl_group: ΔΗΚΟ
-        option: for
-      - name: Βαρνάβα Γιώργος
-        parl_group: ΕΔΕΚ
-        option: for
-      - name: Βότσης Άγγελος
-        parl_group: ΔΗΚΟ
-        option: for
-      - name: Γεωργίου Γεώργιος
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Δίπλαρος Ευθύμιος
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Ζαχαρίου Ζαχαρίας
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Θεμιστοκλέους Ανδρέας
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Καρογιάν Μάριος
-        parl_group: ΔΗΚΟ
-        option: for
-      - name: Κουλίας Ζαχαρίας
-        parl_group: null
-        option: for
-      - name: Κυπριανού Ανδρέας
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Κυριακίδου Αθηνά
-        parl_group: ΔΗΚΟ
-        option: for
-      - name: Κυριακίδου Στέλλα
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Κυριακού Μαρία
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Κωνσταντίνου Κώστας
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Κωνσταντίνου Νεόφυτος
-        parl_group: ΔΗΚΟ
-        option: for
-      - name: Μαππουρίδης Ρίκκος
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Μαυρίδης Μάριος
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Μαυρονικόλα Ρούλα
-        parl_group: ΕΔΕΚ
-        option: for
-      - name: Μισός Αριστοτέλης
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Μιχαηλίδης Ανδρέας
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Νεοφύτου Αβέρωφ
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Νικολαΐδης Νίκος
-        parl_group: ΕΔΕΚ
-        option: for
-      - name: Νουρής Νίκος
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Ομήρου Γιαννάκης
-        parl_group: ΕΔΕΚ
-        option: for
-      - name: Παπαδόπουλος Νικόλας
-        parl_group: ΔΗΚΟ
-        option: for
-      - name: Περδίκης Γιώργος
-        parl_group: Οικολόγοι
-        option: for
-      - name: Προδρόμου Πρόδρομος
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Προκοπίου Γεώργιος
-        parl_group: ΔΗΚΟ
-        option: for
-      - name: Σαμψών Σωτήρης
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Σαρίκας Φειδίας
-        parl_group: ΕΔΕΚ
-        option: for
-      - name: Συλλούρης Δημήτρης
-        parl_group: ΕΥΡΩΚΟ
-        option: for
-      - name: Τορναρίτης Νίκος
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Φυττής Σοφοκλής
-        parl_group: ΔΗΚΟ
-        option: for
-      - name: Χατζηγιάννης Κυριάκος
-        parl_group: ΔΗΣΥ
-        option: for
-      - name: Χριστοφόρου Λευτέρης
-        parl_group: ΔΗΣΥ
-        option: for
-    date: '2013-07-11'
-    count:
-      abstain: 0
-      against: 19
-      for: 35
-    remarks: |
-      Ο Τάσος Γεωργίου, βουλευτής του ΔΗΣΥ για την επαρχία Λάρνακας, ήταν απών. Το *Philenews* αναφέρει ότι κατά ψήφισε ο Νίκος Κουτσού, με τον αριθμό αρνητικών ψήφων να είναι 20 και τον συνολικό (συνεπώς) 55. Στα πρακτικά καταγράφηκαν 35 θετικοί και 19 αρνητικοί ψήφοι. Οι παρευρισκόμενοι ήταν 55.
-    result: pass
-    on_: Στο σύνολο του σχεδίου
+- breakdown:
+  - name: Αδάμου Αδάμος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Γαβριήλ Γιαννάκης
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Γεωργίου Γιώργος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Δαμιανού Άριστος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Δημητρίου Μισιαούλη Στέλλα
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Ευαγόρου Σταύρος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Κατσουρίδης Νίκος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Καυκαλιάς Αντρέας
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Κουκουμά Κούτρα Σκεύη
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Κουτσού Νίκος
+    parl_group: null
+    option: against
+  - name: Κυπριανού Άντρος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Κώστα Κώστας
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Λαμάρης Γιάννος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Λουκαΐδης Γιώργος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Μέσης Χρίστος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Παπαγεωργίου Πάμπος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Σταυριανός Πανίκκος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Τζιοβάνης Χριστάκης
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Φακοντής Αντρέας
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Χαραλαμπίδου Ειρήνη
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: against
+  - name: Αντωνίου Αντώνης
+    parl_group: ΔΗΚΟ
+    option: for
+  - name: Βαρνάβα Γιώργος
+    parl_group: ΕΔΕΚ
+    option: for
+  - name: Βότσης Άγγελος
+    parl_group: ΔΗΚΟ
+    option: for
+  - name: Γεωργίου Γεώργιος
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Δίπλαρος Ευθύμιος
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Ζαχαρίου Ζαχαρίας
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Θεμιστοκλέους Ανδρέας
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Καρογιάν Μάριος
+    parl_group: ΔΗΚΟ
+    option: for
+  - name: Κουλίας Ζαχαρίας
+    parl_group: null
+    option: for
+  - name: Κυπριανού Ανδρέας
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Κυριακίδου Αθηνά
+    parl_group: ΔΗΚΟ
+    option: for
+  - name: Κυριακίδου Στέλλα
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Κυριακού Μαρία
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Κωνσταντίνου Κώστας
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Κωνσταντίνου Νεόφυτος
+    parl_group: ΔΗΚΟ
+    option: for
+  - name: Μαππουρίδης Ρίκκος
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Μαυρίδης Μάριος
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Μαυρονικόλα Ρούλα
+    parl_group: ΕΔΕΚ
+    option: for
+  - name: Μισός Αριστοτέλης
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Μιχαηλίδης Ανδρέας
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Νεοφύτου Αβέρωφ
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Νικολαΐδης Νίκος
+    parl_group: ΕΔΕΚ
+    option: for
+  - name: Νουρής Νίκος
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Ομήρου Γιαννάκης
+    parl_group: ΕΔΕΚ
+    option: for
+  - name: Παπαδόπουλος Νικόλας
+    parl_group: ΔΗΚΟ
+    option: for
+  - name: Περδίκης Γιώργος
+    parl_group: Οικολόγοι
+    option: for
+  - name: Προδρόμου Πρόδρομος
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Προκοπίου Γεώργιος
+    parl_group: ΔΗΚΟ
+    option: for
+  - name: Σαμψών Σωτήρης
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Σαρίκας Φειδίας
+    parl_group: ΕΔΕΚ
+    option: for
+  - name: Συλλούρης Δημήτρης
+    parl_group: ΕΥΡΩΚΟ
+    option: for
+  - name: Τορναρίτης Νίκος
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Φυττής Σοφοκλής
+    parl_group: ΔΗΚΟ
+    option: for
+  - name: Χατζηγιάννης Κυριάκος
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Χριστοφόρου Λευτέρης
+    parl_group: ΔΗΣΥ
+    option: for
+  count:
+    abstain: 0
+    against: 19
+    for: 35
+  date: '2013-07-11'
+  on_: Στο σύνολο του σχεδίου
+  remarks: |
+    Ο Τάσος Γεωργίου, βουλευτής του ΔΗΣΥ για την επαρχία Λάρνακας, ήταν απών. Το *Philenews* αναφέρει ότι κατά ψήφισε ο Νίκος Κουτσού, με τον αριθμό αρνητικών ψήφων να είναι 20 και τον συνολικό (συνεπώς) 55. Στα πρακτικά καταγράφηκαν 35 θετικοί και 19 αρνητικοί ψήφοι. Οι παρευρισκόμενοι ήταν 55.
+  result: pass

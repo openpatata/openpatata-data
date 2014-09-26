@@ -4,6 +4,9 @@ events:
 - date: '2014-09-06'
   description: υπερψηφίστηκε
 identifier: 23.02.055.070-2014
+in_committees:
+- Οικονομικών και Προϋπολογισμού
+- Εσωτερικών
 sources:
 - id: philenews
   text: >

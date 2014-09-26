@@ -43,6 +43,11 @@ mapping:
   identifier:
     type: str
     required: true
+  in_committees:
+    type: sequence
+    sequence:
+      - type: str
+        required: true
   law:
     type: str
   sources:
