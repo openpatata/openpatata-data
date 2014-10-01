@@ -3,8 +3,8 @@ events:
   description: υπερψηφίστηκε
 explanatory_note:
   authors:
-  - note: Γενικός Εισαγγελέας της Δημοκρατίας
-    name: Κληρίδης Κώστας
+  - name: Κληρίδης Κώστας
+    note: Γενικός Εισαγγελέας της Δημοκρατίας
   in:
     issue: 4144
     pages: 942

@@ -7,8 +7,8 @@ events:
   description: υπερψηφίστηκε
 explanatory_note:
   authors:
-  - note: Γενικός Εισαγγελέας της Δημοκρατίας
-    name: Κληρίδης Πέτρος
+  - name: Κληρίδης Πέτρος
+    note: Γενικός Εισαγγελέας της Δημοκρατίας
   in:
     issue: 4128
     pages: 62
