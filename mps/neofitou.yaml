@@ -2,19 +2,19 @@ name: Νεοφύτου Αβέρωφ
 summary: |
   Βουλευτής εκλογικής περιφέρειας Λευκωσίας και πρόεδρος του ΔΗΣΥ.
 affiliation:
-  - start: '2011-06-02'
-    end:
-    parl_group: ΔΗΣΥ
-    district: Λευκωσία
+- start: '2011-06-02'
+  end:
+  parl_group: ΔΗΣΥ
+  district: Λευκωσία
 links:
-  - url: 'http://www.parliament.cy/easyconsole.cfm/id/402'
-    note: Ιστοσελίδα Βουλής
-  - url: 'http://averof.org.cy/'
-    note: Προσωπική ιστοσελίδα
-  - url: 'https://el.wikipedia.org/wiki/%CE%91%CE%B2%CE%AD%CF%81%CF%89%CF%86_%CE%9D%CE%B5o%CF%86%CF%8D%CF%84%CE%BF%CF%85'
-    note: Wikipedia (el)
-  - url: 'https://www.facebook.com/AverofNeofytou'
-    note: Facebook
-  - url: 'https://twitter.com/AverofCY'
-    note: twitter
-mug: 'http://www.parliament.cy/assets/image/imageoriginal/NEOFYTOU%20Averof.jpg'
+- url: http://www.parliament.cy/easyconsole.cfm/id/402
+  note: Ιστοσελίδα Βουλής
+- url: http://averof.org.cy/
+  note: Προσωπική ιστοσελίδα
+- url: https://el.wikipedia.org/wiki/%CE%91%CE%B2%CE%AD%CF%81%CF%89%CF%86_%CE%9D%CE%B5o%CF%86%CF%8D%CF%84%CE%BF%CF%85
+  note: Wikipedia [el]
+- url: https://www.facebook.com/AverofNeofytou
+  note: Facebook
+- url: https://twitter.com/AverofCY
+  note: twitter
+mug: http://www.parliament.cy/assets/image/imageoriginal/NEOFYTOU%20Averof.jpg

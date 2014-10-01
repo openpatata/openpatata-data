@@ -2,15 +2,13 @@ name: Καρογιάν Μάριος
 summary: |
   Βουλευτής εκλογικής περιφέρειας Λευκωσίας του ΔΗΚΟ.
 affiliation:
-  - start: '2011-06-02'
-    end:
-    parl_group: ΔΗΚΟ
-    district: Λευκωσία
+- start: '2011-06-02'
+  end:
+  parl_group: ΔΗΚΟ
+  district: Λευκωσία
 links:
-  - url: 'http://www.parliament.cy/easyconsole.cfm/id/365'
-    note: Ιστοσελίδα Βουλής
-  - url: 'https://tr.wikipedia.org/wiki/Marios_Garoyan'
-    note: Wikipedia (tr)
-  - url: 'https://en.wikipedia.org/wiki/Marios_Garoyian'
-    note: Wikipedia (en)
-mug: 'http://www.parliament.cy/assets/image/imageoriginal/GAROYIAN%20Marios.jpg'
+- url: http://www.parliament.cy/easyconsole.cfm/id/365
+  note: Ιστοσελίδα Βουλής
+- url: https://en.wikipedia.org/wiki/Marios_Garoyian
+  note: Wikipedia [en]
+mug: http://www.parliament.cy/assets/image/imageoriginal/GAROYIAN%20Marios.jpg

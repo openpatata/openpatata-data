@@ -2,11 +2,11 @@ name: Βαρνάβα Γιώργος
 summary: |
   Βουλευτής εκλογικής περιφέρειας Αμμοχώστου της ΕΔΕΚ.
 affiliation:
-  - start: '2011-06-02'
-    end:
-    parl_group: ΕΔΕΚ
-    district: Αμμόχωστος
+- start: '2011-06-02'
+  end:
+  parl_group: ΕΔΕΚ
+  district: Αμμόχωστος
 links:
-  - url: 'http://www.parliament.cy/easyconsole.cfm/id/308'
-    note: Ιστοσελίδα Βουλής
-mug: 'http://www.parliament.cy/assets/image/imageoriginal/VARNAVAS%20George.jpg'
+- url: http://www.parliament.cy/easyconsole.cfm/id/308
+  note: Ιστοσελίδα Βουλής
+mug: http://www.parliament.cy/assets/image/imageoriginal/VARNAVAS%20George.jpg

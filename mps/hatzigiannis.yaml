@@ -2,13 +2,13 @@ name: Χατζηγιάννης Κυριάκος
 summary: |
   Βουλευτής εκλογικής περιφέρειας Αμμοχώστου του ΔΗΣΥ.
 affiliation:
-  - start: '2011-06-02'
-    end:
-    parl_group: ΔΗΣΥ
-    district: Αμμόχωστος
+- start: '2011-06-02'
+  end:
+  parl_group: ΔΗΣΥ
+  district: Αμμόχωστος
 links:
-  - url: 'http://www.parliament.cy/easyconsole.cfm/id/421'
-    note: Ιστοσελίδα Βουλής
-  - url: 'http://hadjiyiannis.net/'
-    note: Προσωπική ιστοσελίδα
-mug: 'http://www.parliament.cy/assets/image/imageoriginal/HADJIGIANNIS%20Kiriakos.jpg'
+- url: http://www.parliament.cy/easyconsole.cfm/id/421
+  note: Ιστοσελίδα Βουλής
+- url: http://hadjiyiannis.net/
+  note: Προσωπική ιστοσελίδα
+mug: http://www.parliament.cy/assets/image/imageoriginal/HADJIGIANNIS%20Kiriakos.jpg

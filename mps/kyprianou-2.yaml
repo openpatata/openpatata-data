@@ -2,17 +2,13 @@ name: Κυπριανού Άντρος
 summary: |
   Βουλευτής εκλογικής περιφέρειας Λευκωσίας και Γενικός Γραμματέας της Κεντρικής Επιτροπής του ΑΚΕΛ.
 affiliation:
-  - start: '2011-06-02'
-    end:
-    parl_group: ΑΚΕΛ–ΝΔ
-    district: Λευκωσία
+- start: '2011-06-02'
+  end:
+  parl_group: ΑΚΕΛ–ΝΔ
+  district: Λευκωσία
 links:
-  - url: 'http://www.parliament.cy/easyconsole.cfm/id/372'
-    note: Ιστοσελίδα Βουλής
-  - url: 'https://el.wikipedia.org/wiki/%CE%86%CE%BD%CE%B4%CF%81%CE%BF%CF%82_%CE%9A%CF%85%CF%80%CF%81%CE%B9%CE%B1%CE%BD%CE%BF%CF%8D'
-    note: Wikipedia (el)
-  - url: 'https://tr.wikipedia.org/wiki/Andros_Kiprianu'
-    note: Wikipedia (tr)
-  - url: 'https://en.wikipedia.org/wiki/Andros_Kyprianou'
-    note: Wikipedia (en)
-mug: 'http://www.parliament.cy/assets/image/imageoriginal/Kiprianou%20Andros%20a.jpg'
+- url: http://www.parliament.cy/easyconsole.cfm/id/372
+  note: Ιστοσελίδα Βουλής
+- url: https://en.wikipedia.org/wiki/Andros_Kyprianou
+  note: Wikipedia [en]
+mug: http://www.parliament.cy/assets/image/imageoriginal/Kiprianou%20Andros%20a.jpg
