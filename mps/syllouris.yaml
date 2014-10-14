@@ -3,10 +3,10 @@ summary: |
   Βουλευτής εκλογικής περιφέρειας Λευκωσίας και πρόεδρος του ΕΥΡΩΚΟ.
 affiliation:
 - start: '2001-06-07'
-  end: '2005-07-01'   # district
+  end: '2004-07-01'   # inexact
   parl_group: ΔΗΣΥ
   district: Λευκωσία
-- start: '2005-07-02'   # district
+- start: '2004-07-02'
   end: '2006-05-31'
   parl_group:
   district: Λευκωσία
