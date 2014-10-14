@@ -45,162 +45,162 @@ votes:
   date: '2013-03-22'
   result: fail
 - breakdown:
-    - name: Αδάμου Αδάμος
-      parl_group: ΑΚΕΛ–ΝΔ
-      option: abstain
-    - name: Αντωνίου Αντώνης
-      parl_group: ΔΗΚΟ
-      option: abstain
-    - name: Βαρνάβα Γιώργος
-      parl_group: ΕΔΕΚ
-      option: abstain
-    - name: Γαβριήλ Γιαννάκης
-      parl_group: ΑΚΕΛ–ΝΔ
-      option: abstain
-    - name: Γεωργίου Γιώργος
-      parl_group: ΑΚΕΛ–ΝΔ
-      option: abstain
-    - name: Δαμιανού Άριστος
-      parl_group: ΑΚΕΛ–ΝΔ
-      option: abstain
-    - name: Δημητρίου Μισιαούλη Στέλλα
-      parl_group: ΑΚΕΛ–ΝΔ
-      option: abstain
-    - name: Ευαγόρου Σταύρος
-      parl_group: ΑΚΕΛ–ΝΔ
-      option: abstain
-    - name: Κατσουρίδης Νίκος
-      parl_group: ΑΚΕΛ–ΝΔ
-      option: abstain
-    - name: Καυκαλιάς Αντρέας
-      parl_group: ΑΚΕΛ–ΝΔ
-      option: abstain
-    - name: Κουκουμά Κούτρα Σκεύη
-      parl_group: ΑΚΕΛ–ΝΔ
-      option: abstain
-    - name: Κυπριανού Άντρος
-      parl_group: ΑΚΕΛ–ΝΔ
-      option: abstain
-    - name: Κώστα Κώστας
-      parl_group: ΑΚΕΛ–ΝΔ
-      option: abstain
-    - name: Λαμάρης Γιάννος
-      parl_group: ΑΚΕΛ–ΝΔ
-      option: abstain
-    - name: Λουκαΐδης Γιώργος
-      parl_group: ΑΚΕΛ–ΝΔ
-      option: abstain
-    - name: Μέσης Χρίστος
-      parl_group: ΑΚΕΛ–ΝΔ
-      option: abstain
-    - name: Μαυρονικόλα Ρούλα
-      parl_group: ΕΔΕΚ
-      option: abstain
-    - name: Νικολαΐδης Νίκος
-      parl_group: ΕΔΕΚ
-      option: abstain
-    - name: Ομήρου Γιαννάκης
-      parl_group: ΕΔΕΚ
-      option: abstain
-    - name: Περδίκης Γιώργος
-      parl_group: Οικολόγοι
-      option: abstain
-    - name: Σαρίκας Φειδίας
-      parl_group: ΕΔΕΚ
-      option: abstain
-    - name: Σταυριανός Πανίκκος
-      parl_group: ΑΚΕΛ–ΝΔ
-      option: abstain
-    - name: Τζιοβάνης Χριστάκης
-      parl_group: ΑΚΕΛ–ΝΔ
-      option: abstain
-    - name: Φακοντής Αντρέας
-      parl_group: ΑΚΕΛ–ΝΔ
-      option: abstain
-    - name: Χαραλαμπίδου Ειρήνη
-      parl_group: ΑΚΕΛ–ΝΔ
-      option: abstain
-    - name: Κουλίας Ζαχαρίας
-      parl_group:
-      option: against
-    - name: Κουτσού Νίκος
-      parl_group: ΕΥΡΩΚΟ
-      option: against
-    - name: Γεωργίου Γεώργιος
-      parl_group: ΔΗΣΥ
-      option: for
-    - name: Δίπλαρος Ευθύμιος
-      parl_group: ΔΗΣΥ
-      option: for
-    - name: Ζαχαρίου Ζαχαρίας
-      parl_group: ΔΗΣΥ
-      option: for
-    - name: Θεμιστοκλέους Ανδρέας
-      parl_group: ΔΗΣΥ
-      option: for
-    - name: Καρογιάν Μάριος
-      parl_group: ΔΗΚΟ
-      option: for
-    - name: Κυπριανού Ανδρέας
-      parl_group: ΔΗΣΥ
-      option: for
-    - name: Κυριακίδου Αθηνά
-      parl_group: ΔΗΚΟ
-      option: for
-    - name: Κυριακού Μαρία
-      parl_group: ΔΗΣΥ
-      option: for
-    - name: Κωνσταντίνου Κώστας
-      parl_group: ΔΗΣΥ
-      option: for
-    - name: Κωνσταντίνου Νεόφυτος
-      parl_group: ΔΗΚΟ
-      option: for
-    - name: Μαππουρίδης Ρίκκος
-      parl_group: ΔΗΣΥ
-      option: for
-    - name: Μαυρίδης Μάριος
-      parl_group: ΔΗΣΥ
-      option: for
-    - name: Μισός Αριστοτέλης
-      parl_group: ΔΗΣΥ
-      option: for
-    - name: Μιχαηλίδης Ανδρέας
-      parl_group: ΔΗΣΥ
-      option: for
-    - name: Νεοφύτου Αβέρωφ
-      parl_group: ΔΗΣΥ
-      option: for
-    - name: Νουρής Νίκος
-      parl_group: ΔΗΣΥ
-      option: for
-    - name: Παπαδόπουλος Νικόλας
-      parl_group: ΔΗΚΟ
-      option: for
-    - name: Προδρόμου Πρόδρομος
-      parl_group: ΔΗΣΥ
-      option: for
-    - name: Προκοπίου Γεώργιος
-      parl_group: ΔΗΚΟ
-      option: for
-    - name: Σαμψών Σωτήρης
-      parl_group: ΔΗΣΥ
-      option: for
-    - name: Τάσου Γεώργιος
-      parl_group: ΔΗΣΥ
-      option: for
-    - name: Τορναρίτης Νίκος
-      parl_group: ΔΗΣΥ
-      option: for
-    - name: Φυττής Σοφοκλής
-      parl_group: ΔΗΚΟ
-      option: for
-    - name: Χατζηγιάννης Κυριάκος
-      parl_group: ΔΗΣΥ
-      option: for
-    - name: Χριστοφόρου Λευτέρης
-      parl_group: ΔΗΣΥ
-      option: for
+  - name: Αδάμου Αδάμος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: abstain
+  - name: Αντωνίου Αντώνης
+    parl_group: ΔΗΚΟ
+    option: abstain
+  - name: Βαρνάβα Γιώργος
+    parl_group: ΕΔΕΚ
+    option: abstain
+  - name: Γαβριήλ Γιαννάκης
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: abstain
+  - name: Γεωργίου Γιώργος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: abstain
+  - name: Δαμιανού Άριστος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: abstain
+  - name: Δημητρίου Μισιαούλη Στέλλα
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: abstain
+  - name: Ευαγόρου Σταύρος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: abstain
+  - name: Κατσουρίδης Νίκος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: abstain
+  - name: Καυκαλιάς Αντρέας
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: abstain
+  - name: Κουκουμά Κούτρα Σκεύη
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: abstain
+  - name: Κυπριανού Άντρος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: abstain
+  - name: Κώστα Κώστας
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: abstain
+  - name: Λαμάρης Γιάννος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: abstain
+  - name: Λουκαΐδης Γιώργος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: abstain
+  - name: Μέσης Χρίστος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: abstain
+  - name: Μαυρονικόλα Ρούλα
+    parl_group: ΕΔΕΚ
+    option: abstain
+  - name: Νικολαΐδης Νίκος
+    parl_group: ΕΔΕΚ
+    option: abstain
+  - name: Ομήρου Γιαννάκης
+    parl_group: ΕΔΕΚ
+    option: abstain
+  - name: Περδίκης Γιώργος
+    parl_group: Οικολόγοι
+    option: abstain
+  - name: Σαρίκας Φειδίας
+    parl_group: ΕΔΕΚ
+    option: abstain
+  - name: Σταυριανός Πανίκκος
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: abstain
+  - name: Τζιοβάνης Χριστάκης
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: abstain
+  - name: Φακοντής Αντρέας
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: abstain
+  - name: Χαραλαμπίδου Ειρήνη
+    parl_group: ΑΚΕΛ–ΝΔ
+    option: abstain
+  - name: Κουλίας Ζαχαρίας
+    parl_group:
+    option: against
+  - name: Κουτσού Νίκος
+    parl_group: ΕΥΡΩΚΟ
+    option: against
+  - name: Γεωργίου Γεώργιος
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Δίπλαρος Ευθύμιος
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Ζαχαρίου Ζαχαρίας
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Θεμιστοκλέους Ανδρέας
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Καρογιάν Μάριος
+    parl_group: ΔΗΚΟ
+    option: for
+  - name: Κυπριανού Ανδρέας
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Κυριακίδου Αθηνά
+    parl_group: ΔΗΚΟ
+    option: for
+  - name: Κυριακού Μαρία
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Κωνσταντίνου Κώστας
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Κωνσταντίνου Νεόφυτος
+    parl_group: ΔΗΚΟ
+    option: for
+  - name: Μαππουρίδης Ρίκκος
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Μαυρίδης Μάριος
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Μισός Αριστοτέλης
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Μιχαηλίδης Ανδρέας
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Νεοφύτου Αβέρωφ
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Νουρής Νίκος
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Παπαδόπουλος Νικόλας
+    parl_group: ΔΗΚΟ
+    option: for
+  - name: Προδρόμου Πρόδρομος
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Προκοπίου Γεώργιος
+    parl_group: ΔΗΚΟ
+    option: for
+  - name: Σαμψών Σωτήρης
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Τάσου Γεώργιος
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Τορναρίτης Νίκος
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Φυττής Σοφοκλής
+    parl_group: ΔΗΚΟ
+    option: for
+  - name: Χατζηγιάννης Κυριάκος
+    parl_group: ΔΗΣΥ
+    option: for
+  - name: Χριστοφόρου Λευτέρης
+    parl_group: ΔΗΣΥ
+    option: for
   count:
     abstain: 25
     against: 2
