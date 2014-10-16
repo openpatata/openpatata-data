@@ -1,4 +1,8 @@
 
+=begin
+checks our data for syntax errors and compliance with the schema
+=end
+
 require "kwalify"
 require "yaml"
 
