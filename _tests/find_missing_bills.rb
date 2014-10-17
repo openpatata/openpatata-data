@@ -12,7 +12,7 @@ def find_missing_bills
 
   Dir[File.join("bills", "*.yaml")].each do |filename|
     # using a hash saves us the trouble of assigning each to outer scope
-    # individually below
+    # individually at the bottom
     l = {}
     _, l[:type],    # '23' is constant -- discard it
        l[:period],
@@ -22,14 +22,14 @@ def find_missing_bills
     # skip earlier years -- we're missing too many bills
     next if l[:year].to_i < 2014
 
-    if (g[:type] == l[:type]) and (g[:period] == l[:period]) and g[:count]
-      diff = l[:count].to_i - g[:count].to_i - 1
-      diff.times do |number|
-        missing = (g[:count].to_i + number + 1).to_s.rjust(3, '0')
-        puts "Missing: " +
-             "23.#{l[:type]}.#{l[:period]}.#{missing}-#{l[:year]}"
-      end if diff > 0
-    end
+    # reset counter if the type or period's changed
+    g[:count] = 0 if g[:type] != l[:type] or
+                     g[:period] != l[:period]
+    diff = l[:count].to_i - g[:count].to_i - 1
+    diff.times do |number|
+      missing = (g[:count].to_i + number + 1).to_s.rjust(3, '0')
+      puts "23.#{l[:type]}.#{l[:period]}.#{missing}-#{l[:year]}"
+    end if diff > 0
 
     g = l
   end
