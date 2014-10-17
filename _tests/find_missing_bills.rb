@@ -10,7 +10,7 @@ def find_missing_bills
        :count  => nil,
        :year   => nil}
 
-  Dir[File.join("bills", "*.yaml")].each do |filename|
+  Dir[File.join("bills", "*.yaml")].sort.each do |filename|
     # using a hash saves us the trouble of assigning each to outer scope
     # individually at the bottom
     l = {}
