@@ -71,7 +71,6 @@ mapping:
   status:
     type: str
     enum: [pass, fail, withdrawn, pending, unknown]
-    required: true
   summary:
     type: str
   votes:
