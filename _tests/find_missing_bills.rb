@@ -34,5 +34,3 @@ def find_missing_bills
     g = l
   end
 end
-
-find_missing_bills

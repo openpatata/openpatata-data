@@ -3,7 +3,10 @@ rvm:
 - 2.1.3
 gemfile: _tests/Gemfile
 script:
-- ruby _tests/find_missing_bills.rb
-- ruby _tests/validate.rb
+- ruby -r ./_tests/find_missing_bills.rb -e "find_missing_bills"
+- ruby -r ./_tests/validate.rb -e "validate 'bills'"
+- ruby -r ./_tests/validate.rb -e "validate 'committee_reports'"
+- ruby -r ./_tests/validate.rb -e "validate 'mps'"
+- ruby -r ./_tests/validate.rb -e "validate 'plenary_sittings'"
 notifications:
   email: false

@@ -3,6 +3,7 @@
 checks our data for syntax errors and compliance with the schema
 =end
 
+require "rubygems"
 require "kwalify"
 require "yaml"
 
@@ -19,8 +20,3 @@ def validate(kind)
     end
   end
 end
-
-validate "bills"
-validate "committee_reports"
-validate "mps"
-validate "plenary_sittings"
