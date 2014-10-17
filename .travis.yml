@@ -1,7 +1,6 @@
 language: ruby
 rvm:
 - 2.1.3
-gemfile: _tests/Gemfile
 script:
 - ruby -r ./_tests/find_missing_bills.rb -e "find_missing_bills"
 - ruby -r ./_tests/validate.rb -e "validate 'bills'"

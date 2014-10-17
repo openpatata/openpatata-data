@@ -3,7 +3,9 @@
 checks our data for syntax errors and compliance with the schema
 =end
 
-require "rubygems"
+require "bundler"
+Bundler.setup(:default)
+
 require "kwalify"
 require "yaml"
 
@@ -16,7 +18,7 @@ def validate(kind)
     errors = validator.validate(YAML.load_file(filename))
     if errors && !errors.empty?
       puts filename
-      errors.each { |error| puts "\t[#{error.path}] #{error.message}" }
+      errors.each { |error| puts "- [#{error.path}] #{error.message}" }
     end
   end
 end
