@@ -14,10 +14,9 @@ def find_missing_bills
     # using a hash saves us the trouble of assigning each to outer scope
     # individually at the bottom
     l = {}
-    _, l[:type],    # '23' is constant -- discard it
-       l[:period],
-       l[:count],
-       l[:year] = filename.split(/\.|-/)
+    _,    # '23' is constant -- discard it
+    l[:type], l[:period],
+    l[:count], l[:year] = filename.split(/\.|-/)
 
     # skip earlier years -- we're missing too many bills
     next if l[:year].to_i < 2014
