@@ -8,13 +8,19 @@ in_committees:
 - Οικονομικών και Προϋπολογισμού
 - Εσωτερικών
 sources:
-- id: philenews
+- id: philenews1
   text: >
     «Δείτε ποια νομοθετήματα οδηγούνται στο Ανώτατο». *Philenews*. 10 Σεπτεμβρίου 2014. http://www.philenews.com/el-gr/top-stories/885/217525/dete-pa-etata-douta-st-atat
+- id: philenews2
+  text: >
+    «Αντισυνταγματικά και τα 4 νομοθετήματα για τις εκποιήσεις (pdf)». *Philenews*. 31 Οκτωβρίου 2014. http://www.philenews.com/el-gr/top-stories/885/225960/antisyntagmatika-kai-ta-4-nomothetimata-gia-tis-ekpoiiseis-pdf
+- id: anotato
+  text: >
+    «(Αναφορές 1/2014, 2/2014, 3/2014, 4/2014) Πρόεδρος της Δημοκρατίας και Βουλής των Αντιπροσώπων». *Ανώτατο Δικαστήριο της Κύπρου*. http://www.supremecourt.gov.cy/Judicial/SC.nsf/All/4634E7502182E1AFC2257D82003A7CB5?OpenDocument
 - id:
   text: >
     "«Αναμέτρηση» κυβέρνησης - Βουλής". *Philenews*. 16 Σεπτεμβρίου 2014. http://www.philenews.com/el-gr/eidiseis-politiki/39/218384/sto-anotato-simera-nomiki-machi-gia-tis-4-anafores
 status: pass
 summary: |
-  Ο Πρόεδρος της Δημοκρατίας «αποφάσισε την απευθείας αναφορά στο Ανώτατο Δικαστήριο» του σχεδίου αυτού ([#philenews](#philenews)).
+  Ο Πρόεδρος της Δημοκρατίας «αποφάσισε την απευθείας αναφορά στο Ανώτατο Δικαστήριο» του νόμου αυτού και τρεις άλλους ([#philenews1](#philenews1)). Στις 31 Οκτωβρίου, το Ανώτατο αποφάσισε ομόφωνα ότι οι νόμοι είναι αντισυνταγματικοί αφού παραβιάζουν το δικαίωμα του «συμβάλλεσθαι ελευθέρως» ([#philenews2](#philenews2)· [#anotato](#anotato)).
 title: Ο περί Απαλλαγής Ενυπόθηκου Οφειλέτη και Εγγυητών από την Εγγύηση Εκπλήρωσης της Υπόσχεσης ή της Υποχρέωσης Χρέους Μετά την Πώληση Ενυπόθηκου Ακινήτου Νόμος του 2014
