@@ -1,5 +1,10 @@
 events:
-- date: '2014-07-10'
-  description: null
+- date: '2014-11-06'
+  description: επανήλθε στην Ολομέλεια
+- date: '2014-11-06'
+  description: αποσύρθηκε
 identifier: 23.02.055.055-2014
+in_committees:
+- Οικονομικών και Προϋπολογισμού
+status: withdrawn
 title: Ο περί Φορολογίας του Εισοδήματος (Τροποποιητικός) (Αρ. 5) Νόμος του 2014
