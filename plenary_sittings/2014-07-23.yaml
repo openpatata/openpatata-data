@@ -2,10 +2,10 @@ agenda:
   legislative_work:
   - 23.01.055.143-2014
 date: '2014-07-23'
+links:
+- kind: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/1007
 parliament: Ι΄
 session: Γ΄
 sitting: 44
 type: ordinary
-urls_agendas:
-- http://www.parliament.cy/easyconsole.cfm/id/1007
-urls_transcripts: null

@@ -2,10 +2,10 @@ agenda:
   debate:
   - 23.04.029.304-2012
 date: '2014-05-06'
+links:
+- kind: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/917
 parliament: Ι΄
 session: Γ΄
 sitting: 34
 type: extraordinary
-urls_agendas:
-- http://www.parliament.cy/easyconsole.cfm/id/917
-urls_transcripts: null

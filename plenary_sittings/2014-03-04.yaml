@@ -1,5 +1,10 @@
 agenda: null
 date: '2014-03-04'
+links:
+- kind: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/864
+- kind: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-03-04.pdf
 mps_present:
 - Αδάμου Αδάμος
 - Αντωνίου Αντώνης
@@ -62,7 +67,3 @@ reps_present: null
 session: Γ΄
 sitting: 27
 type: extraordinary
-urls_agendas:
-- http://www.parliament.cy/easyconsole.cfm/id/864
-urls_transcripts:
-- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-03-04.pdf

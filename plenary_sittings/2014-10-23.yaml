@@ -9,10 +9,10 @@ agenda:
   - 23.02.054.105-2013
   - 23.01.055.120-2014
 date: '2014-10-23'
+links:
+- kind: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/1136
 parliament: Ι΄
 session: Δ΄
 sitting: 5
 type: ordinary
-urls_agendas:
-- http://www.parliament.cy/easyconsole.cfm/id/1136
-urls_transcripts: null

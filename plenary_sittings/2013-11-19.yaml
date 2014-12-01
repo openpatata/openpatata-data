@@ -1,5 +1,10 @@
 agenda: null
 date: '2013-11-19'
+links:
+- kind: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/750
+- kind: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-11-19.pdf
 mps_present:
 - Αδάμου Αδάμος
 - Αντωνίου Αντώνης
@@ -60,7 +65,3 @@ reps_present:
 session: Γ΄
 sitting: 13
 type: special
-urls_agendas:
-- http://www.parliament.cy/easyconsole.cfm/id/750
-urls_transcripts:
-- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-11-19.pdf

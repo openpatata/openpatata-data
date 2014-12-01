@@ -19,6 +19,11 @@ agenda:
   - 23.03.051.013-2014
   - 23.03.050.081-2013
 date: '2014-03-20'
+links:
+- kind: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/876
+- kind: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-03-20.pdf
 mps_present:
 - Αδάμου Αδάμος
 - Βότσης Άγγελος
@@ -67,7 +72,3 @@ reps_present:
 session: Γ΄
 sitting: 30
 type: ordinary
-urls_agendas:
-- http://www.parliament.cy/easyconsole.cfm/id/876
-urls_transcripts:
-- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-03-20.pdf

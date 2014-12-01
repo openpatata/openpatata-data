@@ -27,6 +27,11 @@ agenda:
   - 23.03.050.058-2013
   - 23.03.050.059-2013
 date: '2014-01-16'
+links:
+- kind: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/807
+- kind: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-12-16.pdf
 mps_present:
 - Αντωνίου Αντώνης
 - Βαρνάβα Γιώργος
@@ -88,7 +93,3 @@ reps_present:
 session: Γ΄
 sitting: 20
 type: ordinary
-urls_agendas:
-- http://www.parliament.cy/easyconsole.cfm/id/807
-urls_transcripts:
-- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-12-16.pdf
