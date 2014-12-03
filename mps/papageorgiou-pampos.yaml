@@ -1,14 +1,22 @@
-name: Παπαγεωργίου Πάμπος
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Κερύνειας του ΑΚΕΛ–ΝΔ.
-affiliation:
-- start: '2011-06-02'
-  end:
-  parl_group: ΑΚΕΛ–ΝΔ
-  district: Κερύνεια
+display_name:
+  el: Παπαγεωργίου Πάμπος
+  en: Papageorgiou Pampos
 links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/405
-  note: Ιστοσελίδα Βουλής
-- url: https://en.wikipedia.org/wiki/Pambos_Papageorgiou
-  note: Wikipedia [en]
-mug: http://www.parliament.cy/assets/image/imageoriginal/Papagewrgiou%20Pampos%20a.jpg
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/405
+- note:
+    el: Wikipedia [en]
+    en: Wikipedia [en]
+  url: https://en.wikipedia.org/wiki/Pambos_Papageorgiou
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/Papagewrgiou%20Pampos%20a.jpg
+name: Παπαγεωργίου Πάμπος
+tenures:
+- display_district:
+    el: Κερύνεια
+    en: Keryneia
+  district: Κερύνεια
+  end: null
+  parl_group: ΑΚΕΛ–ΝΔ
+  start: '2011-06-02'

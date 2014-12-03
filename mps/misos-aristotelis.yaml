@@ -1,12 +1,18 @@
-name: Μισός Αριστοτέλης
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λάρνακας του ΔΗΣΥ.
-affiliation:
-- start: '2013-03-07'
-  end:
-  parl_group: ΔΗΣΥ
-  district: Λάρνακα
+display_name:
+  el: Μισός Αριστοτέλης
+  en: Misos Aristotelis
 links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/397
-  note: Ιστοσελίδα Βουλής
-mug: http://www.parliament.cy/assets/image/imageoriginal/MISOS%20Aristotelis.jpg
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/397
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/MISOS%20Aristotelis.jpg
+name: Μισός Αριστοτέλης
+tenures:
+- display_district:
+    el: Λάρνακα
+    en: Larnaka
+  district: Λάρνακα
+  end: null
+  parl_group: ΔΗΣΥ
+  start: '2013-03-07'

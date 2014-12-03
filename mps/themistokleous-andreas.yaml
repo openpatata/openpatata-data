@@ -1,16 +1,25 @@
+display_name:
+  el: Θεμιστοκλέους Ανδρέας
+  en: Themistokleous Andreas
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/395
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/themistocleous.jpg
 name: Θεμιστοκλέους Ανδρέας
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λεμεσού του ΔΗΣΥ.
-affiliation:
-- start: '2006-06-01'
+tenures:
+- display_district:
+    el: Λεμεσός
+    en: Lemesos
+  district: Λεμεσός
   end: '2011-06-01'
   parl_group: ΔΗΣΥ
+  start: '2006-06-01'
+- display_district:
+    el: Λεμεσός
+    en: Lemesos
   district: Λεμεσός
-- start: '2013-03-07'
-  end:
+  end: null
   parl_group: ΔΗΣΥ
-  district: Λεμεσός
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/395
-  note: Ιστοσελίδα Βουλής
-mug: http://www.parliament.cy/assets/image/imageoriginal/themistocleous.jpg
+  start: '2013-03-07'

@@ -1,18 +1,29 @@
+display_name:
+  el: Χατζηγιάννης Κυριάκος
+  en: Chatzigiannis Kyriakos
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/421
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Προσωπική ιστοσελίδα
+  url: http://hadjiyiannis.net/
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/HADJIGIANNIS%20Kiriakos.jpg
 name: Χατζηγιάννης Κυριάκος
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Αμμοχώστου του ΔΗΣΥ.
-affiliation:
-- start: '2006-06-01'
+tenures:
+- display_district:
+    el: Αμμόχωστος
+    en: Ammochostos
+  district: Αμμόχωστος
   end: '2011-06-01'
   parl_group: ΔΗΣΥ
+  start: '2006-06-01'
+- display_district:
+    el: Αμμόχωστος
+    en: Ammochostos
   district: Αμμόχωστος
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: ΔΗΣΥ
-  district: Αμμόχωστος
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/421
-  note: Ιστοσελίδα Βουλής
-- url: http://hadjiyiannis.net/
-  note: Προσωπική ιστοσελίδα
-mug: http://www.parliament.cy/assets/image/imageoriginal/HADJIGIANNIS%20Kiriakos.jpg
+  start: '2011-06-02'

@@ -1,12 +1,18 @@
-name: Μαππουρίδης Ρίκκος
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λευκωσίας του ΔΗΣΥ.
-affiliation:
-- start: '2013-03-07'
-  end:
-  parl_group: ΔΗΣΥ
-  district: Λευκωσία
+display_name:
+  el: Μαππουρίδης Ρίκκος
+  en: Mappouridis Rikkos
 links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/399
-  note: Ιστοσελίδα Βουλής
-mug: http://www.parliament.cy/assets/image/imageoriginal/MAPPOURIDES%20Rikkos.jpg
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/399
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/MAPPOURIDES%20Rikkos.jpg
+name: Μαππουρίδης Ρίκκος
+tenures:
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
+  district: Λευκωσία
+  end: null
+  parl_group: ΔΗΣΥ
+  start: '2013-03-07'

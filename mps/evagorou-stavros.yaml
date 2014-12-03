@@ -1,22 +1,36 @@
+display_name:
+  el: Ευαγόρου Σταύρος
+  en: Evagorou Stavros
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/363
+- note:
+    el: Wikipedia [el]
+    en: Wikipedia [el]
+  url: https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%B1%CF%8D%CF%81%CE%BF%CF%82_%CE%95%CF%85%CE%B1%CE%B3%CF%8C%CF%81%CE%BF%CF%85
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/Evagorou%20Stavros%20a.jpg
 name: Ευαγόρου Σταύρος
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Αμμοχώστου του ΑΚΕΛ–ΝΔ.
-affiliation:
-- start: '2001-06-07'
+tenures:
+- display_district:
+    el: Αμμόχωστος
+    en: Ammochostos
+  district: Αμμόχωστος
   end: '2006-05-31'
   parl_group: ΑΚΕΛ–ΝΔ
+  start: '2001-06-07'
+- display_district:
+    el: Αμμόχωστος
+    en: Ammochostos
   district: Αμμόχωστος
-- start: '2006-06-01'
   end: '2011-06-01'
   parl_group: ΑΚΕΛ–ΝΔ
+  start: '2006-06-01'
+- display_district:
+    el: Αμμόχωστος
+    en: Ammochostos
   district: Αμμόχωστος
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: ΑΚΕΛ–ΝΔ
-  district: Αμμόχωστος
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/363
-  note: Ιστοσελίδα Βουλής
-- url: https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%B1%CF%8D%CF%81%CE%BF%CF%82_%CE%95%CF%85%CE%B1%CE%B3%CF%8C%CF%81%CE%BF%CF%85
-  note: Wikipedia [el]
-mug: http://www.parliament.cy/assets/image/imageoriginal/Evagorou%20Stavros%20a.jpg
+  start: '2011-06-02'

@@ -1,14 +1,22 @@
-name: Γεωργίου Γιώργος
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λάρνακας του ΑΚΕΛ–ΝΔ.
-affiliation:
-- start: '2011-06-02'
-  end:
-  parl_group: ΑΚΕΛ–ΝΔ
-  district: Λάρνακα
+display_name:
+  el: Γεωργίου Γιώργος
+  en: Georgiou Giorgos
 links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/313
-  note: Ιστοσελίδα Βουλής
-- url: https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%93%CE%B5%CF%89%CF%81%CE%B3%CE%AF%CE%BF%CF%85_(%CE%B2%CE%BF%CF%85%CE%BB%CE%B5%CF%85%CF%84%CE%AE%CF%82)
-  note: Wikipedia [el]
-mug: http://www.parliament.cy/assets/image/imageoriginal/Georgiou%20Giwrgos%20a.jpg
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/313
+- note:
+    el: Wikipedia [el]
+    en: Wikipedia [el]
+  url: https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%93%CE%B5%CF%89%CF%81%CE%B3%CE%AF%CE%BF%CF%85_(%CE%B2%CE%BF%CF%85%CE%BB%CE%B5%CF%85%CF%84%CE%AE%CF%82)
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/Georgiou%20Giwrgos%20a.jpg
+name: Γεωργίου Γιώργος
+tenures:
+- display_district:
+    el: Λάρνακα
+    en: Larnaka
+  district: Λάρνακα
+  end: null
+  parl_group: ΑΚΕΛ–ΝΔ
+  start: '2011-06-02'

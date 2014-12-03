@@ -1,12 +1,18 @@
-name: Μαυρίδης Μάριος
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Κερύνειας του ΔΗΣΥ.
-affiliation:
-- start: '2011-06-02'
-  end:
-  parl_group: ΔΗΣΥ
-  district: Κερύνεια
+display_name:
+  el: Μαυρίδης Μάριος
+  en: Mavridis Marios
 links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/391
-  note: Ιστοσελίδα Βουλής
-mug: http://www.parliament.cy/assets/image/imageoriginal/MAVRIDES-Marios.jpg
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/391
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/MAVRIDES-Marios.jpg
+name: Μαυρίδης Μάριος
+tenures:
+- display_district:
+    el: Κερύνεια
+    en: Keryneia
+  district: Κερύνεια
+  end: null
+  parl_group: ΔΗΣΥ
+  start: '2011-06-02'

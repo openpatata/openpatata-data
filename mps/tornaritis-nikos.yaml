@@ -1,26 +1,44 @@
+display_name:
+  el: Τορναρίτης Νίκος
+  en: Tornaritis Nikos
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/417
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Προσωπική ιστοσελίδα
+  url: http://www.nicostornaritis.com/
+- note:
+    el: twitter
+    en: twitter
+  url: https://twitter.com/nicostornaritis
+- note:
+    el: Wikipedia [en]
+    en: Wikipedia [en]
+  url: https://en.wikipedia.org/wiki/Nicos_Tornaritis
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/TORNARITIS%20Nikos.jpg
 name: Τορναρίτης Νίκος
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λευκωσίας του ΔΗΣΥ.
-affiliation:
-- start: '2001-06-07'
+tenures:
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
+  district: Λευκωσία
   end: '2006-05-31'
   parl_group: ΔΗΣΥ
+  start: '2001-06-07'
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
   district: Λευκωσία
-- start: '2006-06-01'
   end: '2011-06-01'
   parl_group: ΔΗΣΥ
+  start: '2006-06-01'
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
   district: Λευκωσία
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: ΔΗΣΥ
-  district: Λευκωσία
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/417
-  note: Ιστοσελίδα Βουλής
-- url: http://www.nicostornaritis.com/
-  note: Προσωπική ιστοσελίδα
-- url: https://twitter.com/nicostornaritis
-  note: twitter
-- url: https://en.wikipedia.org/wiki/Nicos_Tornaritis
-  note: Wikipedia [en]
-mug: http://www.parliament.cy/assets/image/imageoriginal/TORNARITIS%20Nikos.jpg
+  start: '2011-06-02'

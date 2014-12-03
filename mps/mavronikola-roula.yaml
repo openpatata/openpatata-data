@@ -1,18 +1,29 @@
+display_name:
+  el: Μαυρονικόλα Ρούλα
+  en: Mavronikola Roula
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/392
+- note:
+    el: Wikipedia [el]
+    en: Wikipedia [el]
+  url: https://el.wikipedia.org/wiki/%CE%A1%CE%BF%CF%8D%CE%BB%CE%B1_%CE%9C%CE%B1%CF%85%CF%81%CE%BF%CE%BD%CE%B9%CE%BA%CF%8C%CE%BB%CE%B1
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/MAVRONIKOLA%20Roula.jpg
 name: Μαυρονικόλα Ρούλα
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λευκωσίας της ΕΔΕΚ.
-affiliation:
-- start: '2006-06-01'
+tenures:
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
+  district: Λευκωσία
   end: '2011-06-01'
   parl_group: ΕΔΕΚ
+  start: '2006-06-01'
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
   district: Λευκωσία
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: ΕΔΕΚ
-  district: Λευκωσία
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/392
-  note: Ιστοσελίδα Βουλής
-- url: https://el.wikipedia.org/wiki/%CE%A1%CE%BF%CF%8D%CE%BB%CE%B1_%CE%9C%CE%B1%CF%85%CF%81%CE%BF%CE%BD%CE%B9%CE%BA%CF%8C%CE%BB%CE%B1
-  note: Wikipedia [el]
-mug: http://www.parliament.cy/assets/image/imageoriginal/MAVRONIKOLA%20Roula.jpg
+  start: '2011-06-02'

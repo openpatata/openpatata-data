@@ -1,16 +1,25 @@
+display_name:
+  el: Σαρίκας Φειδίας
+  en: Sarikas Feidias
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/411
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/SARIKAS%20Fidias.jpg
 name: Σαρίκας Φειδίας
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Πάφου της ΕΔΕΚ.
-affiliation:
-- start: '2006-06-01'
+tenures:
+- display_district:
+    el: Πάφος
+    en: Pafos
+  district: Πάφος
   end: '2011-06-01'
   parl_group: ΕΔΕΚ
+  start: '2006-06-01'
+- display_district:
+    el: Πάφος
+    en: Pafos
   district: Πάφος
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: ΕΔΕΚ
-  district: Πάφος
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/411
-  note: Ιστοσελίδα Βουλής
-mug: http://www.parliament.cy/assets/image/imageoriginal/SARIKAS%20Fidias.jpg
+  start: '2011-06-02'

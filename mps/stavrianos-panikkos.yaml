@@ -1,18 +1,29 @@
+display_name:
+  el: Σταυριανός Πανίκκος
+  en: Stavrianos Panikkos
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/412
+- note:
+    el: Wikipedia [el]
+    en: Wikipedia [el]
+  url: https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%BD%CE%AF%CE%BA%CE%BA%CE%BF%CF%82_%CE%A3%CF%84%CE%B1%CF%85%CF%81%CE%B9%CE%B1%CE%BD%CF%8C%CF%82
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/Stavrianos%20Panikkos%20a.jpg
 name: Σταυριανός Πανίκκος
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λάρνακας του ΑΚΕΛ–ΝΔ.
-affiliation:
-- start: '2006-06-01'
+tenures:
+- display_district:
+    el: Λάρνακα
+    en: Larnaka
+  district: Λάρνακα
   end: '2011-06-01'
   parl_group: ΑΚΕΛ–ΝΔ
+  start: '2006-06-01'
+- display_district:
+    el: Λάρνακα
+    en: Larnaka
   district: Λάρνακα
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: ΑΚΕΛ–ΝΔ
-  district: Λάρνακα
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/412
-  note: Ιστοσελίδα Βουλής
-- url: https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%BD%CE%AF%CE%BA%CE%BA%CE%BF%CF%82_%CE%A3%CF%84%CE%B1%CF%85%CF%81%CE%B9%CE%B1%CE%BD%CF%8C%CF%82
-  note: Wikipedia [el]
-mug: http://www.parliament.cy/assets/image/imageoriginal/Stavrianos%20Panikkos%20a.jpg
+  start: '2011-06-02'

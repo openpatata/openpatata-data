@@ -1,26 +1,43 @@
+display_name:
+  el: Συλλούρης Δημήτρης
+  en: Syllouris Dimitris
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/414
+- note:
+    el: Wikipedia [el]
+    en: Wikipedia [el]
+  url: https://el.wikipedia.org/wiki/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82_%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CF%8D%CF%81%CE%B7%CF%82
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/SYLLOURIS%20Demetris.jpg
 name: Συλλούρης Δημήτρης
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λευκωσίας και πρόεδρος του ΕΥΡΩΚΟ.
-affiliation:
-- start: '2001-06-07'
-  end: '2004-07-01'   # inexact
+tenures:
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
+  district: Λευκωσία
+  end: '2004-07-01'
   parl_group: ΔΗΣΥ
+  start: '2001-06-07'
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
   district: Λευκωσία
-- start: '2004-07-02'
   end: '2006-05-31'
-  parl_group:
+  parl_group: null
+  start: '2004-07-02'
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
   district: Λευκωσία
-- start: '2006-06-01'
   end: '2011-06-01'
   parl_group: ΕΥΡΩΚΟ
+  start: '2006-06-01'
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
   district: Λευκωσία
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: ΕΥΡΩΚΟ
-  district: Λευκωσία
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/414
-  note: Ιστοσελίδα Βουλής
-- url: https://el.wikipedia.org/wiki/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82_%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CF%8D%CF%81%CE%B7%CF%82
-  note: Wikipedia [el]
-mug: http://www.parliament.cy/assets/image/imageoriginal/SYLLOURIS%20Demetris.jpg
+  start: '2011-06-02'

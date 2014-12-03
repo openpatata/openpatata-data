@@ -1,24 +1,41 @@
+display_name:
+  el: Νεοφύτου Αβέρωφ
+  en: Neofytou Averof
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/402
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Προσωπική ιστοσελίδα
+  url: http://averof.org.cy/
+- note:
+    el: Wikipedia [el]
+    en: Wikipedia [el]
+  url: https://el.wikipedia.org/wiki/%CE%91%CE%B2%CE%AD%CF%81%CF%89%CF%86_%CE%9D%CE%B5o%CF%86%CF%8D%CF%84%CE%BF%CF%85
+- note:
+    el: Facebook
+    en: Facebook
+  url: https://www.facebook.com/AverofNeofytou
+- note:
+    el: twitter
+    en: twitter
+  url: https://twitter.com/AverofCY
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/NEOFYTOU%20Averof.jpg
 name: Νεοφύτου Αβέρωφ
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λευκωσίας και πρόεδρος του ΔΗΣΥ.
-affiliation:
-- start: '2006-06-01'
+tenures:
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
+  district: Λευκωσία
   end: '2011-06-01'
   parl_group: ΔΗΣΥ
+  start: '2006-06-01'
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
   district: Λευκωσία
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: ΔΗΣΥ
-  district: Λευκωσία
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/402
-  note: Ιστοσελίδα Βουλής
-- url: http://averof.org.cy/
-  note: Προσωπική ιστοσελίδα
-- url: https://el.wikipedia.org/wiki/%CE%91%CE%B2%CE%AD%CF%81%CF%89%CF%86_%CE%9D%CE%B5o%CF%86%CF%8D%CF%84%CE%BF%CF%85
-  note: Wikipedia [el]
-- url: https://www.facebook.com/AverofNeofytou
-  note: Facebook
-- url: https://twitter.com/AverofCY
-  note: twitter
-mug: http://www.parliament.cy/assets/image/imageoriginal/NEOFYTOU%20Averof.jpg
+  start: '2011-06-02'

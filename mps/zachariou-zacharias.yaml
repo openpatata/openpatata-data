@@ -1,16 +1,25 @@
+display_name:
+  el: Ζαχαρίου Ζαχαρίας
+  en: Zachariou Zacharias
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/364
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/ZACHARIOU%20Zacharias.jpg
 name: Ζαχαρίου Ζαχαρίας
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λάρνακας του ΔΗΣΥ.
-affiliation:
-- start: '2001-06-07'
+tenures:
+- display_district:
+    el: Λάρνακα
+    en: Larnaka
+  district: Λάρνακα
   end: '2006-05-31'
   parl_group: ΔΗΣΥ
+  start: '2001-06-07'
+- display_district:
+    el: Λάρνακα
+    en: Larnaka
   district: Λάρνακα
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: ΔΗΣΥ
-  district: Λάρνακα
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/364
-  note: Ιστοσελίδα Βουλής
-mug: http://www.parliament.cy/assets/image/imageoriginal/ZACHARIOU%20Zacharias.jpg
+  start: '2011-06-02'

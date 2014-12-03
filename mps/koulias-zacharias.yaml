@@ -1,24 +1,39 @@
+display_name:
+  el: Κουλίας Ζαχαρίας
+  en: Koulias Zacharias
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/369
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/KOULIAS%20ZACHARIAS.jpg
 name: Κουλίας Ζαχαρίας
-summary: |
-  Ανεξάρτητος βουλευτής εκλογικής περιφέρειας Αμμοχώστου και πρώην μέλος της κοινοβουλευτικής ομάδας του ΔΗΚΟ.
-affiliation:
-- start: '2001-06-07'
+tenures:
+- display_district:
+    el: Αμμόχωστος
+    en: Ammochostos
+  district: Αμμόχωστος
   end: '2006-05-31'
   parl_group: ΔΗΚΟ
+  start: '2001-06-07'
+- display_district:
+    el: Αμμόχωστος
+    en: Ammochostos
   district: Αμμόχωστος
-- start: '2006-06-01'
   end: '2011-06-01'
   parl_group: ΔΗΚΟ
+  start: '2006-06-01'
+- display_district:
+    el: Αμμόχωστος
+    en: Ammochostos
   district: Αμμόχωστος
-- start: '2011-06-02'
   end: '2011-06-03'
   parl_group: ΔΗΚΟ
+  start: '2011-06-02'
+- display_district:
+    el: Αμμόχωστος
+    en: Ammochostos
   district: Αμμόχωστος
-- start: '2011-06-03'
-  end:
-  parl_group:
-  district: Αμμόχωστος
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/369
-  note: Ιστοσελίδα Βουλής
-mug: http://www.parliament.cy/assets/image/imageoriginal/KOULIAS%20ZACHARIAS.jpg
+  end: null
+  parl_group: null
+  start: '2011-06-03'

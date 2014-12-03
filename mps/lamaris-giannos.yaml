@@ -1,22 +1,36 @@
+display_name:
+  el: Λαμάρης Γιάννος
+  en: Lamaris Giannos
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/389
+- note:
+    el: Wikipedia [el]
+    en: Wikipedia [el]
+  url: https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%BF%CF%82_%CE%9B%CE%B1%CE%BC%CE%AC%CF%81%CE%B7%CF%82
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/Lamaris%20Giannos%20a.jpg
 name: Λαμάρης Γιάννος
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λεμεσού του ΑΚΕΛ–ΝΔ.
-affiliation:
-- start: '2001-06-07'
+tenures:
+- display_district:
+    el: Λεμεσός
+    en: Lemesos
+  district: Λεμεσός
   end: '2006-05-31'
   parl_group: ΑΚΕΛ–ΝΔ
+  start: '2001-06-07'
+- display_district:
+    el: Λεμεσός
+    en: Lemesos
   district: Λεμεσός
-- start: '2006-06-01'
   end: '2011-06-01'
   parl_group: ΑΚΕΛ–ΝΔ
+  start: '2006-06-01'
+- display_district:
+    el: Λεμεσός
+    en: Lemesos
   district: Λεμεσός
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: ΑΚΕΛ–ΝΔ
-  district: Λεμεσός
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/389
-  note: Ιστοσελίδα Βουλής
-- url: https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%BD%CE%BD%CE%BF%CF%82_%CE%9B%CE%B1%CE%BC%CE%AC%CF%81%CE%B7%CF%82
-  note: Wikipedia [el]
-mug: http://www.parliament.cy/assets/image/imageoriginal/Lamaris%20Giannos%20a.jpg
+  start: '2011-06-02'

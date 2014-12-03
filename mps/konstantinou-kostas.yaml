@@ -1,20 +1,32 @@
+display_name:
+  el: Κωνσταντίνου Κώστας
+  en: Konstantinou Kostas
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/386
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/KONSTANTINOU%20Kostas.jpg
 name: Κωνσταντίνου Κώστας
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Πάφου του ΔΗΣΥ.
-affiliation:
-- start: '2001-06-07'
+tenures:
+- display_district:
+    el: Πάφος
+    en: Pafos
+  district: Πάφος
   end: '2006-05-31'
   parl_group: ΔΗΣΥ
+  start: '2001-06-07'
+- display_district:
+    el: Πάφος
+    en: Pafos
   district: Πάφος
-- start: '2006-06-01'
   end: '2011-06-01'
   parl_group: ΔΗΣΥ
+  start: '2006-06-01'
+- display_district:
+    el: Πάφος
+    en: Pafos
   district: Πάφος
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: ΔΗΣΥ
-  district: Πάφος
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/386
-  note: Ιστοσελίδα Βουλής
-mug: http://www.parliament.cy/assets/image/imageoriginal/KONSTANTINOU%20Kostas.jpg
+  start: '2011-06-02'

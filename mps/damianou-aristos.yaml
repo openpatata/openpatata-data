@@ -1,16 +1,26 @@
-name: Δαμιανού Άριστος
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λευκωσίας του ΑΚΕΛ–ΝΔ.
-affiliation:
-- start: '2011-06-02'
-  end:
-  parl_group: ΑΚΕΛ–ΝΔ
-  district: Λευκωσία
+display_name:
+  el: Δαμιανού Άριστος
+  en: Damianou Aristos
 links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/360
-  note: Ιστοσελίδα Βουλής
-- url: https://el.wikipedia.org/wiki/%CE%86%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%82_%CE%94%CE%B1%CE%BC%CE%B9%CE%B1%CE%BD%CE%BF%CF%8D
-  note: Wikipedia [el]
-- url: https://twitter.com/AristosDamianou
-  note: twitter
-mug: http://www.parliament.cy/assets/image/imageoriginal/Damianou%20Aristos%20a.jpg
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/360
+- note:
+    el: Wikipedia [el]
+    en: Wikipedia [el]
+  url: https://el.wikipedia.org/wiki/%CE%86%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%82_%CE%94%CE%B1%CE%BC%CE%B9%CE%B1%CE%BD%CE%BF%CF%8D
+- note:
+    el: twitter
+    en: twitter
+  url: https://twitter.com/AristosDamianou
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/Damianou%20Aristos%20a.jpg
+name: Δαμιανού Άριστος
+tenures:
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
+  district: Λευκωσία
+  end: null
+  parl_group: ΑΚΕΛ–ΝΔ
+  start: '2011-06-02'

@@ -1,24 +1,40 @@
-name: Προδρόμου Πρόδρομος
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λευκωσίας του ΔΗΣΥ.
-affiliation:
-- start: '2001-06-07'
-  end: '2004-05-01'   # inexact
-  parl_group: ΔΗΣΥ
-  district: Λευκωσία
-- start: '2004-05-02'   # inexact
-  end: '2006-05-31'
-  parl_group:
-  district: Λευκωσία
-- start: '2013-03-07'
-  end:
-  parl_group: ΔΗΣΥ
-  district: Λευκωσία
+display_name:
+  el: Προδρόμου Πρόδρομος
+  en: Prodromou Prodromos
 links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/400
-  note: Ιστοσελίδα Βουλής
-- url: http://pprodromou.net/
-  note: Προσωπική ιστοσελίδα
-- url: https://twitter.com/pprodromou
-  note: twitter
-mug: http://www.parliament.cy/assets/image/imageoriginal/PRODROMOU%20Prodromos.jpg
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/400
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Προσωπική ιστοσελίδα
+  url: http://pprodromou.net/
+- note:
+    el: twitter
+    en: twitter
+  url: https://twitter.com/pprodromou
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/PRODROMOU%20Prodromos.jpg
+name: Προδρόμου Πρόδρομος
+tenures:
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
+  district: Λευκωσία
+  end: '2004-05-01'
+  parl_group: ΔΗΣΥ
+  start: '2001-06-07'
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
+  district: Λευκωσία
+  end: '2006-05-31'
+  parl_group: null
+  start: '2004-05-02'
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
+  district: Λευκωσία
+  end: null
+  parl_group: ΔΗΣΥ
+  start: '2013-03-07'

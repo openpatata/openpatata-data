@@ -1,20 +1,33 @@
+display_name:
+  el: Αντωνίου Αντώνης
+  en: Antoniou Antonis
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/307
+- note:
+    el: Blog
+    en: Blog
+  url: http://antoniouantonis.blogspot.com/
+- note:
+    el: Wikipedia [el]
+    en: Wikipedia [el]
+  url: https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CF%8E%CE%BD%CE%B7%CF%82_%CE%91%CE%BD%CF%84%CF%89%CE%BD%CE%AF%CE%BF%CF%85
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/ANTONIOU%20ANTONIS.jpg
 name: Αντωνίου Αντώνης
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Πάφου του ΔΗΚΟ.
-affiliation:
-- start: '2006-06-01'
+tenures:
+- display_district:
+    el: Πάφος
+    en: Pafos
+  district: Πάφος
   end: '2011-06-01'
   parl_group: ΔΗΚΟ
+  start: '2006-06-01'
+- display_district:
+    el: Πάφος
+    en: Pafos
   district: Πάφος
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: ΔΗΚΟ
-  district: Πάφος
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/307
-  note: Ιστοσελίδα Βουλής
-- url: http://antoniouantonis.blogspot.com/
-  note: Blog
-- url: https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CF%8E%CE%BD%CE%B7%CF%82_%CE%91%CE%BD%CF%84%CF%89%CE%BD%CE%AF%CE%BF%CF%85
-  note: Wikipedia [el]
-mug: http://www.parliament.cy/assets/image/imageoriginal/ANTONIOU%20ANTONIS.jpg
+  start: '2011-06-02'

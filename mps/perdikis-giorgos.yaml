@@ -1,24 +1,40 @@
+display_name:
+  el: Περδίκης Γιώργος
+  en: Perdikis Giorgos
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/407
+- note:
+    el: Blog
+    en: Blog
+  url: http://georgeperdikis.blogspot.com/
+- note:
+    el: Wikipedia [en]
+    en: Wikipedia [en]
+  url: https://en.wikipedia.org/wiki/George_Perdikes
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/PERDIKES%20George.jpg
 name: Περδίκης Γιώργος
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λευκωσίας και πρόεδρος των Οικολόγων.
-affiliation:
-- start: '2001-06-07'
+tenures:
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
+  district: Λευκωσία
   end: '2006-05-31'
   parl_group: Οικολόγοι
+  start: '2001-06-07'
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
   district: Λευκωσία
-- start: '2006-06-01'
   end: '2011-06-01'
   parl_group: Οικολόγοι
+  start: '2006-06-01'
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
   district: Λευκωσία
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: Οικολόγοι
-  district: Λευκωσία
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/407
-  note: Ιστοσελίδα Βουλής
-- url: http://georgeperdikis.blogspot.com/
-  note: Blog
-- url: https://en.wikipedia.org/wiki/George_Perdikes
-  note: Wikipedia [en]
-mug: http://www.parliament.cy/assets/image/imageoriginal/PERDIKES%20George.jpg
+  start: '2011-06-02'

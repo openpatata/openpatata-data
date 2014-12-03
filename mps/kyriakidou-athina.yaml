@@ -1,20 +1,32 @@
+display_name:
+  el: Κυριακίδου Αθηνά
+  en: Kyriakidou Athina
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/373
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/KYRIAKIDOU%20Athina.jpg
 name: Κυριακίδου Αθηνά
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λεμεσού του ΔΗΚΟ.
-affiliation:
-- start: '2004-07-20'
+tenures:
+- display_district:
+    el: Λεμεσός
+    en: Lemesos
+  district: Λεμεσός
   end: '2006-05-31'
   parl_group: ΔΗΚΟ
+  start: '2004-07-20'
+- display_district:
+    el: Λεμεσός
+    en: Lemesos
   district: Λεμεσός
-- start: '2006-06-01'
   end: '2011-06-01'
   parl_group: ΔΗΚΟ
+  start: '2006-06-01'
+- display_district:
+    el: Λεμεσός
+    en: Lemesos
   district: Λεμεσός
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: ΔΗΚΟ
-  district: Λεμεσός
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/373
-  note: Ιστοσελίδα Βουλής
-mug: http://www.parliament.cy/assets/image/imageoriginal/KYRIAKIDOU%20Athina.jpg
+  start: '2011-06-02'

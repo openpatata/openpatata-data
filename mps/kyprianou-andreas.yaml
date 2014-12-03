@@ -1,18 +1,29 @@
+display_name:
+  el: Κυπριανού Ανδρέας
+  en: Kyprianou Andreas
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/371
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Προσωπική ιστοσελίδα
+  url: http://www.akyprianou.com/
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/KYPRIANOU%20Andreas.jpg
 name: Κυπριανού Ανδρέας
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λεμεσού του ΔΗΣΥ.
-affiliation:
-- start: '2009-07-15'
+tenures:
+- display_district:
+    el: Λεμεσός
+    en: Lemesos
+  district: Λεμεσός
   end: '2011-06-01'
   parl_group: ΔΗΣΥ
+  start: '2009-07-15'
+- display_district:
+    el: Λεμεσός
+    en: Lemesos
   district: Λεμεσός
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: ΔΗΣΥ
-  district: Λεμεσός
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/371
-  note: Ιστοσελίδα Βουλής
-- url: http://www.akyprianou.com/
-  note: Προσωπική ιστοσελίδα
-mug: http://www.parliament.cy/assets/image/imageoriginal/KYPRIANOU%20Andreas.jpg
+  start: '2011-06-02'

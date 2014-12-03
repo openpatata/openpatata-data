@@ -1,20 +1,32 @@
+display_name:
+  el: Σαμψών Σωτήρης
+  en: Sampson Sotiris
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/410
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/SAMPSON%20Sotiris.jpg
 name: Σαμψών Σωτήρης
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Αμμοχώστου του ΔΗΣΥ.
-affiliation:
-- start: '2001-06-07'
+tenures:
+- display_district:
+    el: Αμμόχωστος
+    en: Ammochostos
+  district: Αμμόχωστος
   end: '2006-05-31'
   parl_group: ΔΗΣΥ
+  start: '2001-06-07'
+- display_district:
+    el: Αμμόχωστος
+    en: Ammochostos
   district: Αμμόχωστος
-- start: '2006-06-01'
   end: '2011-06-01'
   parl_group: ΔΗΣΥ
+  start: '2006-06-01'
+- display_district:
+    el: Αμμόχωστος
+    en: Ammochostos
   district: Αμμόχωστος
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: ΔΗΣΥ
-  district: Αμμόχωστος
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/410
-  note: Ιστοσελίδα Βουλής
-mug: http://www.parliament.cy/assets/image/imageoriginal/SAMPSON%20Sotiris.jpg
+  start: '2011-06-02'

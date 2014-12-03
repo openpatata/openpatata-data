@@ -1,12 +1,18 @@
-name: Χαμπουλλάς Ευγένιος
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Αμμοχώστου του ΔΗΣΥ.
-affiliation:
-- start: '2014-11-06'
-  end:
-  parl_group: ΔΗΣΥ
-  district: Αμμόχωστος
+display_name:
+  el: Χαμπουλλάς Ευγένιος
+  en: Champoullas Evgenios
 links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/1226
-  note: Ιστοσελίδα Βουλής
-mug: http://www.parliament.cy/assets/image/imageoriginal/Hamboullas-mikri.jpg
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/1226
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/Hamboullas-mikri.jpg
+name: Χαμπουλλάς Ευγένιος
+tenures:
+- display_district:
+    el: Αμμόχωστος
+    en: Ammochostos
+  district: Αμμόχωστος
+  end: null
+  parl_group: ΔΗΣΥ
+  start: '2014-11-06'

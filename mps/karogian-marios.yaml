@@ -1,18 +1,29 @@
+display_name:
+  el: Καρογιάν Μάριος
+  en: Karogian Marios
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/365
+- note:
+    el: Wikipedia [en]
+    en: Wikipedia [en]
+  url: https://en.wikipedia.org/wiki/Marios_Garoyian
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/GAROYIAN%20Marios.jpg
 name: Καρογιάν Μάριος
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λευκωσίας του ΔΗΚΟ.
-affiliation:
-- start: '2006-06-01'
+tenures:
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
+  district: Λευκωσία
   end: '2011-06-01'
   parl_group: ΔΗΚΟ
+  start: '2006-06-01'
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
   district: Λευκωσία
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: ΔΗΚΟ
-  district: Λευκωσία
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/365
-  note: Ιστοσελίδα Βουλής
-- url: https://en.wikipedia.org/wiki/Marios_Garoyian
-  note: Wikipedia [en]
-mug: http://www.parliament.cy/assets/image/imageoriginal/GAROYIAN%20Marios.jpg
+  start: '2011-06-02'

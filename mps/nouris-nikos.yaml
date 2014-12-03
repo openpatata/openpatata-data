@@ -1,14 +1,22 @@
-name: Νουρής Νίκος
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λευκωσίας του ΔΗΣΥ.
-affiliation:
-- start: '2013-03-07'
-  end:
-  parl_group: ΔΗΣΥ
-  district: Λευκωσία
+display_name:
+  el: Νουρής Νίκος
+  en: Nouris Nikos
 links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/398
-  note: Ιστοσελίδα Βουλής
-- url: http://www.nicosnouris.com/
-  note: Προσωπική ιστοσελίδα
-mug: http://www.parliament.cy/assets/image/imageoriginal/NOURIS%20Nikos.jpg
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/398
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Προσωπική ιστοσελίδα
+  url: http://www.nicosnouris.com/
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/NOURIS%20Nikos.jpg
+name: Νουρής Νίκος
+tenures:
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
+  district: Λευκωσία
+  end: null
+  parl_group: ΔΗΣΥ
+  start: '2013-03-07'

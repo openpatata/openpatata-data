@@ -1,24 +1,40 @@
+display_name:
+  el: Ομήρου Γιαννάκης
+  en: Omirou Giannakis
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/187
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Προσωπική ιστοσελίδα
+  url: http://www.giannakisomirou.com/
+- note:
+    el: Wikipedia [en]
+    en: Wikipedia [en]
+  url: https://en.wikipedia.org/wiki/Yiannakis_Omirou
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/Yiannakis%20Omirou.jpg
 name: Ομήρου Γιαννάκης
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λευκωσίας, Πρόεδρος της Βουλής και πρόεδρος της ΕΔΕΚ.
-affiliation:
-- start: '2001-06-07'
+tenures:
+- display_district:
+    el: Πάφος
+    en: Pafos
+  district: Πάφος
   end: '2006-05-31'
   parl_group: ΚΙ.ΣΟΣ.
-  district: Πάφος
-- start: '2006-06-01'
+  start: '2001-06-07'
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
+  district: Λευκωσία
   end: '2011-06-01'
   parl_group: ΕΔΕΚ
+  start: '2006-06-01'
+- display_district:
+    el: Λευκωσία
+    en: Lefkosia
   district: Λευκωσία
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: ΕΔΕΚ
-  district: Λευκωσία
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/187
-  note: Ιστοσελίδα Βουλής
-- url: http://www.giannakisomirou.com/
-  note: Προσωπική ιστοσελίδα
-- url: https://en.wikipedia.org/wiki/Yiannakis_Omirou
-  note: Wikipedia [en]
-mug: http://www.parliament.cy/assets/image/imageoriginal/Yiannakis%20Omirou.jpg
+  start: '2011-06-02'

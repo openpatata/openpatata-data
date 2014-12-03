@@ -1,14 +1,22 @@
-name: Κώστα Κώστας
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λεμεσού του ΑΚΕΛ–ΝΔ.
-affiliation:
-- start: '2011-06-02'
-  end:
-  parl_group: ΑΚΕΛ–ΝΔ
-  district: Λεμεσός
+display_name:
+  el: Κώστα Κώστας
+  en: Kosta Kostas
 links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/388
-  note: Ιστοσελίδα Βουλής
-- url: https://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%9A%CF%8E%CF%83%CF%84%CE%B1
-  note: Wikipedia [el]
-mug: http://www.parliament.cy/assets/image/imageoriginal/Costa%20Costas%20a.jpg
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/388
+- note:
+    el: Wikipedia [el]
+    en: Wikipedia [el]
+  url: https://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%9A%CF%8E%CF%83%CF%84%CE%B1
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/Costa%20Costas%20a.jpg
+name: Κώστα Κώστας
+tenures:
+- display_district:
+    el: Λεμεσός
+    en: Lemesos
+  district: Λεμεσός
+  end: null
+  parl_group: ΑΚΕΛ–ΝΔ
+  start: '2011-06-02'

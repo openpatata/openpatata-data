@@ -1,20 +1,32 @@
+display_name:
+  el: Φυττής Σοφοκλής
+  en: Fyttis Sofoklis
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/419
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/FITTIS%20SOFOKLIS.jpg
 name: Φυττής Σοφοκλής
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Κερύνειας του ΔΗΚΟ.
-affiliation:
-- start: '2001-06-07'
+tenures:
+- display_district:
+    el: Κερύνεια
+    en: Keryneia
+  district: Κερύνεια
   end: '2006-05-31'
   parl_group: ΔΗΚΟ
+  start: '2001-06-07'
+- display_district:
+    el: Κερύνεια
+    en: Keryneia
   district: Κερύνεια
-- start: '2006-06-01'
   end: '2011-06-01'
   parl_group: ΔΗΚΟ
+  start: '2006-06-01'
+- display_district:
+    el: Κερύνεια
+    en: Keryneia
   district: Κερύνεια
-- start: '2011-06-02'
-  end:
+  end: null
   parl_group: ΔΗΚΟ
-  district: Κερύνεια
-links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/419
-  note: Ιστοσελίδα Βουλής
-mug: http://www.parliament.cy/assets/image/imageoriginal/FITTIS%20SOFOKLIS.jpg
+  start: '2011-06-02'

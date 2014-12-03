@@ -1,16 +1,26 @@
-name: Δίπλαρος Ευθύμιος
-summary: |
-  Βουλευτής εκλογικής περιφέρειας Λεμεσού του ΔΗΣΥ.
-affiliation:
-- start: '2011-06-02'
-  end:
-  parl_group: ΔΗΣΥ
-  district: Λεμεσός
+display_name:
+  el: Δίπλαρος Ευθύμιος
+  en: Diplaros Efthymios
 links:
-- url: http://www.parliament.cy/easyconsole.cfm/id/362
-  note: Ιστοσελίδα Βουλής
-- url: http://www.diplaros.com/
-  note: Προσωπική ιστοσελίδα
-- url: https://twitter.com/ediplaros
-  note: twitter
-mug: http://www.parliament.cy/assets/image/imageoriginal/DIPLAROS%20Efthymios.jpg
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/362
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Προσωπική ιστοσελίδα
+  url: http://www.diplaros.com/
+- note:
+    el: twitter
+    en: twitter
+  url: https://twitter.com/ediplaros
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/DIPLAROS%20Efthymios.jpg
+name: Δίπλαρος Ευθύμιος
+tenures:
+- display_district:
+    el: Λεμεσός
+    en: Lemesos
+  district: Λεμεσός
+  end: null
+  parl_group: ΔΗΣΥ
+  start: '2011-06-02'
