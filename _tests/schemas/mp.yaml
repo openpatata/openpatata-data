@@ -3,14 +3,30 @@ mapping:
   name:
     type: str
     required: true
-  summary:
-    type: str
+  display_name:
     required: true
-  affiliation:
+    mapping:
+      el:
+        type: str
+      en:
+        type: str
+    type: map
+  tenures:
     type: seq
     sequence:
       - type: map
         mapping:
+          display_district:
+            type: map
+            mapping:
+              el:
+                type: str
+              en:
+                type: str
+            required: true
+          district:
+            type: str
+            required: true
           start: &date
             type: str
             pattern: /\d{4}-\d{2}-\d{2}/
@@ -20,9 +36,6 @@ mapping:
             required: false
           parl_group:
             type: str
-          district:
-            type: str
-            required: true
     required: true
   links:
     type: seq
@@ -30,10 +43,15 @@ mapping:
       - type: map
         mapping:
           note:
-            type: str
+            type: map
+            mapping:
+              el:
+                type: str
+              en:
+                type: str
             required: true
           url:
             type: str
             required: true
-  mug:
+  mugshot:
     type: str
