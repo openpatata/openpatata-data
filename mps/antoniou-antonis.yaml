@@ -1,6 +1,3 @@
-display_name:
-  el: Αντωνίου Αντώνης
-  en: Antoniou Antonis
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -15,19 +12,19 @@ links:
     en: Wikipedia [el]
   url: https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CF%8E%CE%BD%CE%B7%CF%82_%CE%91%CE%BD%CF%84%CF%89%CE%BD%CE%AF%CE%BF%CF%85
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/ANTONIOU%20ANTONIS.jpg
-name: Αντωνίου Αντώνης
+name:
+  el: Αντωνίου Αντώνης
+  en: Antoniou Antonis
 tenures:
-- display_district:
+- district:
     el: Πάφος
     en: Pafos
-  district: Πάφος
   end: '2011-06-01'
   parl_group: ΔΗΚΟ
   start: '2006-06-01'
-- display_district:
+- district:
     el: Πάφος
     en: Pafos
-  district: Πάφος
   end: null
   parl_group: ΔΗΚΟ
   start: '2011-06-02'

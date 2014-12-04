@@ -1,18 +1,16 @@
-display_name:
-  el: Μαυρίδης Μάριος
-  en: Mavridis Marios
 links:
 - note:
     el: Ιστοσελίδα Βουλής
     en: On Parliament
   url: http://www.parliament.cy/easyconsole.cfm/id/391
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/MAVRIDES-Marios.jpg
-name: Μαυρίδης Μάριος
+name:
+  el: Μαυρίδης Μάριος
+  en: Mavridis Marios
 tenures:
-- display_district:
+- district:
     el: Κερύνεια
     en: Keryneia
-  district: Κερύνεια
   end: null
   parl_group: ΔΗΣΥ
   start: '2011-06-02'

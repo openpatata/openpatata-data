@@ -1,6 +1,3 @@
-display_name:
-  el: Μέσης Χρίστος
-  en: Mesis Christos
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -11,12 +8,13 @@ links:
     en: Wikipedia [el]
   url: https://el.wikipedia.org/wiki/%CE%A7%CF%81%CE%AF%CF%83%CF%84%CE%BF%CF%82_%CE%9C%CE%AD%CF%83%CE%B7%CF%82
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Mesis%20Christos%20a.jpg
-name: Μέσης Χρίστος
+name:
+  el: Μέσης Χρίστος
+  en: Mesis Christos
 tenures:
-- display_district:
+- district:
     el: Λεμεσός
     en: Lemesos
-  district: Λεμεσός
   end: null
   parl_group: ΑΚΕΛ–ΝΔ
   start: '2011-06-02'

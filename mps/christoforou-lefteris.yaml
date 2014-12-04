@@ -1,32 +1,28 @@
-display_name:
-  el: Χριστοφόρου Λευτέρης
-  en: Christoforou Lefteris
 links:
 - note:
     el: Ιστοσελίδα Βουλής
     en: On Parliament
   url: http://www.parliament.cy/easyconsole.cfm/id/422
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/CHRISTOFOROU%20Lefteris.jpg
-name: Χριστοφόρου Λευτέρης
+name:
+  el: Χριστοφόρου Λευτέρης
+  en: Christoforou Lefteris
 tenures:
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: '2006-05-31'
   parl_group: ΔΗΣΥ
   start: '2001-06-07'
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: '2011-06-01'
   parl_group: ΔΗΣΥ
   start: '2006-06-01'
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: '2014-10-31'
   parl_group: ΔΗΣΥ
   start: '2011-06-02'

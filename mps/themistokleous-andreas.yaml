@@ -1,25 +1,22 @@
-display_name:
-  el: Θεμιστοκλέους Ανδρέας
-  en: Themistokleous Andreas
 links:
 - note:
     el: Ιστοσελίδα Βουλής
     en: On Parliament
   url: http://www.parliament.cy/easyconsole.cfm/id/395
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/themistocleous.jpg
-name: Θεμιστοκλέους Ανδρέας
+name:
+  el: Θεμιστοκλέους Ανδρέας
+  en: Themistokleous Andreas
 tenures:
-- display_district:
+- district:
     el: Λεμεσός
     en: Lemesos
-  district: Λεμεσός
   end: '2011-06-01'
   parl_group: ΔΗΣΥ
   start: '2006-06-01'
-- display_district:
+- district:
     el: Λεμεσός
     en: Lemesos
-  district: Λεμεσός
   end: null
   parl_group: ΔΗΣΥ
   start: '2013-03-07'

@@ -1,6 +1,3 @@
-display_name:
-  el: Κώστα Κώστας
-  en: Kosta Kostas
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -11,12 +8,13 @@ links:
     en: Wikipedia [el]
   url: https://el.wikipedia.org/wiki/%CE%9A%CF%8E%CF%83%CF%84%CE%B1%CF%82_%CE%9A%CF%8E%CF%83%CF%84%CE%B1
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Costa%20Costas%20a.jpg
-name: Κώστα Κώστας
+name:
+  el: Κώστα Κώστας
+  en: Kosta Kostas
 tenures:
-- display_district:
+- district:
     el: Λεμεσός
     en: Lemesos
-  district: Λεμεσός
   end: null
   parl_group: ΑΚΕΛ–ΝΔ
   start: '2011-06-02'

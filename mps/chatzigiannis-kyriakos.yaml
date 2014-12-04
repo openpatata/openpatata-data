@@ -1,6 +1,3 @@
-display_name:
-  el: Χατζηγιάννης Κυριάκος
-  en: Chatzigiannis Kyriakos
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -11,19 +8,19 @@ links:
     en: Personal website
   url: http://hadjiyiannis.net/
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/HADJIGIANNIS%20Kiriakos.jpg
-name: Χατζηγιάννης Κυριάκος
+name:
+  el: Χατζηγιάννης Κυριάκος
+  en: Chatzigiannis Kyriakos
 tenures:
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: '2011-06-01'
   parl_group: ΔΗΣΥ
   start: '2006-06-01'
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: null
   parl_group: ΔΗΣΥ
   start: '2011-06-02'

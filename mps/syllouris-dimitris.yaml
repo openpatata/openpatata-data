@@ -1,6 +1,3 @@
-display_name:
-  el: Συλλούρης Δημήτρης
-  en: Syllouris Dimitris
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -11,33 +8,31 @@ links:
     en: Wikipedia [el]
   url: https://el.wikipedia.org/wiki/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82_%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CF%8D%CF%81%CE%B7%CF%82
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/SYLLOURIS%20Demetris.jpg
-name: Συλλούρης Δημήτρης
+name:
+  el: Συλλούρης Δημήτρης
+  en: Syllouris Dimitris
 tenures:
-- display_district:
+- district:
     el: Λευκωσία
     en: Lefkosia
-  district: Λευκωσία
   end: '2004-07-01'
   parl_group: ΔΗΣΥ
   start: '2001-06-07'
-- display_district:
+- district:
     el: Λευκωσία
     en: Lefkosia
-  district: Λευκωσία
   end: '2006-05-31'
   parl_group: null
   start: '2004-07-02'
-- display_district:
+- district:
     el: Λευκωσία
     en: Lefkosia
-  district: Λευκωσία
   end: '2011-06-01'
   parl_group: ΕΥΡΩΚΟ
   start: '2006-06-01'
-- display_district:
+- district:
     el: Λευκωσία
     en: Lefkosia
-  district: Λευκωσία
   end: null
   parl_group: ΕΥΡΩΚΟ
   start: '2011-06-02'

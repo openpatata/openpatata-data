@@ -1,18 +1,16 @@
-display_name:
-  el: Χαμπουλλάς Ευγένιος
-  en: Champoullas Evgenios
 links:
 - note:
     el: Ιστοσελίδα Βουλής
     en: On Parliament
   url: http://www.parliament.cy/easyconsole.cfm/id/1226
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Hamboullas-mikri.jpg
-name: Χαμπουλλάς Ευγένιος
+name:
+  el: Χαμπουλλάς Ευγένιος
+  en: Champoullas Evgenios
 tenures:
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: null
   parl_group: ΔΗΣΥ
   start: '2014-11-06'

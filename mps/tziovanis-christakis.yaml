@@ -1,6 +1,3 @@
-display_name:
-  el: Τζιοβάνης Χριστάκης
-  en: Tziovanis Christakis
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -11,12 +8,13 @@ links:
     en: Wikipedia [el]
   url: https://el.wikipedia.org/wiki/%CE%A7%CF%81%CE%B9%CF%83%CF%84%CE%AC%CE%BA%CE%B7%CF%82_%CE%A4%CE%B6%CE%B9%CE%BF%CE%B2%CE%AC%CE%BD%CE%B7%CF%82
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Giovanis%20Christakis%20a.jpg
-name: Τζιοβάνης Χριστάκης
+name:
+  el: Τζιοβάνης Χριστάκης
+  en: Tziovanis Christakis
 tenures:
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: null
   parl_group: ΑΚΕΛ–ΝΔ
   start: '2011-06-02'

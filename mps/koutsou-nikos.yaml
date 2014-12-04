@@ -1,32 +1,28 @@
-display_name:
-  el: Κουτσού Νίκος
-  en: Koutsou Nikos
 links:
 - note:
     el: Ιστοσελίδα Βουλής
     en: On Parliament
   url: http://www.parliament.cy/easyconsole.cfm/id/370
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/KOUTSOU%20Nikos.jpg
-name: Κουτσού Νίκος
+name:
+  el: Κουτσού Νίκος
+  en: Koutsou Nikos
 tenures:
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: '2011-06-01'
   parl_group: ΕΥΡΩΚΟ
   start: '2006-06-01'
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: '2013-06-05'
   parl_group: ΕΥΡΩΚΟ
   start: '2011-06-02'
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: null
   parl_group: null
   start: '2013-06-06'

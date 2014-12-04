@@ -1,25 +1,22 @@
-display_name:
-  el: Σαρίκας Φειδίας
-  en: Sarikas Feidias
 links:
 - note:
     el: Ιστοσελίδα Βουλής
     en: On Parliament
   url: http://www.parliament.cy/easyconsole.cfm/id/411
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/SARIKAS%20Fidias.jpg
-name: Σαρίκας Φειδίας
+name:
+  el: Σαρίκας Φειδίας
+  en: Sarikas Feidias
 tenures:
-- display_district:
+- district:
     el: Πάφος
     en: Pafos
-  district: Πάφος
   end: '2011-06-01'
   parl_group: ΕΔΕΚ
   start: '2006-06-01'
-- display_district:
+- district:
     el: Πάφος
     en: Pafos
-  district: Πάφος
   end: null
   parl_group: ΕΔΕΚ
   start: '2011-06-02'

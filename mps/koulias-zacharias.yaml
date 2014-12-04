@@ -1,39 +1,34 @@
-display_name:
-  el: Κουλίας Ζαχαρίας
-  en: Koulias Zacharias
 links:
 - note:
     el: Ιστοσελίδα Βουλής
     en: On Parliament
   url: http://www.parliament.cy/easyconsole.cfm/id/369
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/KOULIAS%20ZACHARIAS.jpg
-name: Κουλίας Ζαχαρίας
+name:
+  el: Κουλίας Ζαχαρίας
+  en: Koulias Zacharias
 tenures:
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: '2006-05-31'
   parl_group: ΔΗΚΟ
   start: '2001-06-07'
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: '2011-06-01'
   parl_group: ΔΗΚΟ
   start: '2006-06-01'
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: '2011-06-03'
   parl_group: ΔΗΚΟ
   start: '2011-06-02'
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: null
   parl_group: null
   start: '2011-06-03'

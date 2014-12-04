@@ -1,6 +1,3 @@
-display_name:
-  el: Κουκουμά Κούτρα Σκεύη
-  en: Koukouma Koutra Skevi
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -11,19 +8,19 @@ links:
     en: Wikipedia [el]
   url: https://el.wikipedia.org/wiki/%CE%A3%CE%BA%CE%B5%CF%8D%CE%B7_%CE%9A%CE%BF%CF%85%CE%BA%CE%BF%CF%85%CE%BC%CE%AC_%CE%9A%CE%BF%CF%8D%CF%84%CF%81%CE%B1
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Koutra-%20Koukouma%20Skevi%20a.jpg
-name: Κουκουμά Κούτρα Σκεύη
+name:
+  el: Κουκουμά Κούτρα Σκεύη
+  en: Koukouma Koutra Skevi
 tenures:
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: '2011-06-01'
   parl_group: ΑΚΕΛ–ΝΔ
   start: '2008-03-06'
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: null
   parl_group: ΑΚΕΛ–ΝΔ
   start: '2011-06-02'

@@ -1,6 +1,3 @@
-display_name:
-  el: Δαμιανού Άριστος
-  en: Damianou Aristos
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -15,12 +12,13 @@ links:
     en: twitter
   url: https://twitter.com/AristosDamianou
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Damianou%20Aristos%20a.jpg
-name: Δαμιανού Άριστος
+name:
+  el: Δαμιανού Άριστος
+  en: Damianou Aristos
 tenures:
-- display_district:
+- district:
     el: Λευκωσία
     en: Lefkosia
-  district: Λευκωσία
   end: null
   parl_group: ΑΚΕΛ–ΝΔ
   start: '2011-06-02'

@@ -1,18 +1,16 @@
-display_name:
-  el: Μισός Αριστοτέλης
-  en: Misos Aristotelis
 links:
 - note:
     el: Ιστοσελίδα Βουλής
     en: On Parliament
   url: http://www.parliament.cy/easyconsole.cfm/id/397
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/MISOS%20Aristotelis.jpg
-name: Μισός Αριστοτέλης
+name:
+  el: Μισός Αριστοτέλης
+  en: Misos Aristotelis
 tenures:
-- display_district:
+- district:
     el: Λάρνακα
     en: Larnaka
-  district: Λάρνακα
   end: null
   parl_group: ΔΗΣΥ
   start: '2013-03-07'

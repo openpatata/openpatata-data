@@ -1,6 +1,3 @@
-display_name:
-  el: Κυπριανού Ανδρέας
-  en: Kyprianou Andreas
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -11,19 +8,19 @@ links:
     en: Personal website
   url: http://www.akyprianou.com/
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/KYPRIANOU%20Andreas.jpg
-name: Κυπριανού Ανδρέας
+name:
+  el: Κυπριανού Ανδρέας
+  en: Kyprianou Andreas
 tenures:
-- display_district:
+- district:
     el: Λεμεσός
     en: Lemesos
-  district: Λεμεσός
   end: '2011-06-01'
   parl_group: ΔΗΣΥ
   start: '2009-07-15'
-- display_district:
+- district:
     el: Λεμεσός
     en: Lemesos
-  district: Λεμεσός
   end: null
   parl_group: ΔΗΣΥ
   start: '2011-06-02'

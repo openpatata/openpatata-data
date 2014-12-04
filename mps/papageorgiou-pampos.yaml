@@ -1,6 +1,3 @@
-display_name:
-  el: Παπαγεωργίου Πάμπος
-  en: Papageorgiou Pampos
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -11,12 +8,13 @@ links:
     en: Wikipedia [en]
   url: https://en.wikipedia.org/wiki/Pambos_Papageorgiou
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Papagewrgiou%20Pampos%20a.jpg
-name: Παπαγεωργίου Πάμπος
+name:
+  el: Παπαγεωργίου Πάμπος
+  en: Papageorgiou Pampos
 tenures:
-- display_district:
+- district:
     el: Κερύνεια
     en: Keryneia
-  district: Κερύνεια
   end: null
   parl_group: ΑΚΕΛ–ΝΔ
   start: '2011-06-02'

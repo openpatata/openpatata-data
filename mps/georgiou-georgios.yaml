@@ -1,6 +1,3 @@
-display_name:
-  el: Γεωργίου Γεώργιος
-  en: Georgiou Georgios
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -11,26 +8,25 @@ links:
     en: twitter
   url: https://twitter.com/GeorgeKGeorgiou
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/GEORGIOU%20Georgios.jpg
-name: Γεωργίου Γεώργιος
+name:
+  el: Γεωργίου Γεώργιος
+  en: Georgiou Georgios
 tenures:
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: '2006-05-31'
   parl_group: ΔΗΣΥ
   start: '2001-06-07'
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: '2011-06-01'
   parl_group: ΔΗΣΥ
   start: '2006-06-01'
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: null
   parl_group: ΔΗΣΥ
   start: '2011-06-02'

@@ -1,6 +1,3 @@
-display_name:
-  el: Φακοντής Αντρέας
-  en: Fakontis Antreas
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -11,19 +8,19 @@ links:
     en: Wikipedia [el]
   url: https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CF%81%CE%AD%CE%B1%CF%82_%CE%A6%CE%B1%CE%BA%CE%BF%CE%BD%CF%84%CE%AE%CF%82
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Fakontis%20Andreas%20a.jpg
-name: Φακοντής Αντρέας
+name:
+  el: Φακοντής Αντρέας
+  en: Fakontis Antreas
 tenures:
-- display_district:
+- district:
     el: Πάφος
     en: Pafos
-  district: Πάφος
   end: '2011-06-01'
   parl_group: ΑΚΕΛ–ΝΔ
   start: '2006-06-01'
-- display_district:
+- district:
     el: Πάφος
     en: Pafos
-  district: Πάφος
   end: null
   parl_group: ΑΚΕΛ–ΝΔ
   start: '2011-06-02'

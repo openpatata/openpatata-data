@@ -1,6 +1,3 @@
-display_name:
-  el: Σταυριανός Πανίκκος
-  en: Stavrianos Panikkos
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -11,19 +8,19 @@ links:
     en: Wikipedia [el]
   url: https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%BD%CE%AF%CE%BA%CE%BA%CE%BF%CF%82_%CE%A3%CF%84%CE%B1%CF%85%CF%81%CE%B9%CE%B1%CE%BD%CF%8C%CF%82
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Stavrianos%20Panikkos%20a.jpg
-name: Σταυριανός Πανίκκος
+name:
+  el: Σταυριανός Πανίκκος
+  en: Stavrianos Panikkos
 tenures:
-- display_district:
+- district:
     el: Λάρνακα
     en: Larnaka
-  district: Λάρνακα
   end: '2011-06-01'
   parl_group: ΑΚΕΛ–ΝΔ
   start: '2006-06-01'
-- display_district:
+- district:
     el: Λάρνακα
     en: Larnaka
-  district: Λάρνακα
   end: null
   parl_group: ΑΚΕΛ–ΝΔ
   start: '2011-06-02'

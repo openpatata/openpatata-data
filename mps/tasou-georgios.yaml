@@ -1,32 +1,28 @@
-display_name:
-  el: Τάσου Γεώργιος
-  en: Tasou Georgios
 links:
 - note:
     el: Ιστοσελίδα Βουλής
     en: On Parliament
   url: http://www.parliament.cy/easyconsole.cfm/id/415
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/TASOU%20Georgios.jpg
-name: Τάσου Γεώργιος
+name:
+  el: Τάσου Γεώργιος
+  en: Tasou Georgios
 tenures:
-- display_district:
+- district:
     el: Λάρνακα
     en: Larnaka
-  district: Λάρνακα
   end: '2006-05-31'
   parl_group: ΔΗΣΥ
   start: '2001-06-07'
-- display_district:
+- district:
     el: Λάρνακα
     en: Larnaka
-  district: Λάρνακα
   end: '2011-06-01'
   parl_group: ΔΗΣΥ
   start: '2006-06-01'
-- display_district:
+- district:
     el: Λάρνακα
     en: Larnaka
-  district: Λάρνακα
   end: null
   parl_group: ΔΗΣΥ
   start: '2011-06-02'

@@ -1,6 +1,3 @@
-display_name:
-  el: Βότσης Άγγελος
-  en: Votsis Angelos
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -11,19 +8,19 @@ links:
     en: twitter
   url: https://twitter.com/AngelosEmVotsis
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/VOTSIS%20Aggelos.jpg
-name: Βότσης Άγγελος
+name:
+  el: Βότσης Άγγελος
+  en: Votsis Angelos
 tenures:
-- display_district:
+- district:
     el: Λεμεσός
     en: Lemesos
-  district: Λεμεσός
   end: '2011-06-01'
   parl_group: ΔΗΚΟ
   start: '2006-06-01'
-- display_district:
+- district:
     el: Λεμεσός
     en: Lemesos
-  district: Λεμεσός
   end: null
   parl_group: ΔΗΚΟ
   start: '2011-06-02'

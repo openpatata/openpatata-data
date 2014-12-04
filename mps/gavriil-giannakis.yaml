@@ -1,6 +1,3 @@
-display_name:
-  el: Γαβριήλ Γιαννάκης
-  en: Gavriil Giannakis
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -11,19 +8,19 @@ links:
     en: Wikipedia [el]
   url: https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%B1%CE%BD%CE%BD%CE%AC%CE%BA%CE%B7%CF%82_%CE%93%CE%B1%CE%B2%CF%81%CE%B9%CE%AE%CE%BB
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Gavriel%20Giannakis%20a.jpg
-name: Γαβριήλ Γιαννάκης
+name:
+  el: Γαβριήλ Γιαννάκης
+  en: Gavriil Giannakis
 tenures:
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: '2011-06-01'
   parl_group: ΑΚΕΛ–ΝΔ
   start: '2008-03-06'
-- display_district:
+- district:
     el: Αμμόχωστος
     en: Ammochostos
-  district: Αμμόχωστος
   end: null
   parl_group: ΑΚΕΛ–ΝΔ
   start: '2011-06-02'

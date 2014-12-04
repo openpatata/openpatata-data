@@ -1,6 +1,3 @@
-display_name:
-  el: Χαραλαμπίδου Ειρήνη
-  en: Charalampidou Eirini
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -11,12 +8,13 @@ links:
     en: Wikipedia [el]
   url: https://el.wikipedia.org/wiki/%CE%95%CE%B9%CF%81%CE%AE%CE%BD%CE%B7_%CE%A7%CE%B1%CF%81%CE%B1%CE%BB%CE%B1%CE%BC%CF%80%CE%AF%CE%B4%CE%BF%CF%85
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Charalambidou%20Eirini%20a.jpg
-name: Χαραλαμπίδου Ειρήνη
+name:
+  el: Χαραλαμπίδου Ειρήνη
+  en: Charalampidou Eirini
 tenures:
-- display_district:
+- district:
     el: Λευκωσία
     en: Lefkosia
-  district: Λευκωσία
   end: null
   parl_group: ΑΚΕΛ–ΝΔ
   start: '2011-06-02'

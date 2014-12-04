@@ -1,32 +1,28 @@
-display_name:
-  el: Κυριακίδου Αθηνά
-  en: Kyriakidou Athina
 links:
 - note:
     el: Ιστοσελίδα Βουλής
     en: On Parliament
   url: http://www.parliament.cy/easyconsole.cfm/id/373
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/KYRIAKIDOU%20Athina.jpg
-name: Κυριακίδου Αθηνά
+name:
+  el: Κυριακίδου Αθηνά
+  en: Kyriakidou Athina
 tenures:
-- display_district:
+- district:
     el: Λεμεσός
     en: Lemesos
-  district: Λεμεσός
   end: '2006-05-31'
   parl_group: ΔΗΚΟ
   start: '2004-07-20'
-- display_district:
+- district:
     el: Λεμεσός
     en: Lemesos
-  district: Λεμεσός
   end: '2011-06-01'
   parl_group: ΔΗΚΟ
   start: '2006-06-01'
-- display_district:
+- district:
     el: Λεμεσός
     en: Lemesos
-  district: Λεμεσός
   end: null
   parl_group: ΔΗΚΟ
   start: '2011-06-02'
