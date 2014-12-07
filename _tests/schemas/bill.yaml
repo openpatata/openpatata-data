@@ -55,6 +55,7 @@ mapping:
             type: str
             required: true
         required: true
+    required: true
   law:
     type: str
   sources:
