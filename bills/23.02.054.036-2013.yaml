@@ -7,7 +7,8 @@ events:
   description: υπερψηφίστηκε
 identifier: 23.02.054.036-2013
 in_committees:
-- Οικονομικών και Προϋπολογισμού
+- el: Οικονομικών και Προϋπολογισμού
+  en: Finance and Budget
 law: 97(I)/2013
 sources:
 - id:

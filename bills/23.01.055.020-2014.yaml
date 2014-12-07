@@ -7,7 +7,8 @@ events:
   description: υπερψηφίστηκε
 identifier: 23.01.055.020-2014
 in_committees:
-- Εσωτερικών
+- el: Εσωτερικών
+  en: Home Affairs
 law: 35(I)/2014
 status: pass
 tags:

@@ -5,7 +5,8 @@ events:
   description: null
 identifier: 23.02.054.059-2013
 in_committees:
-- Παιδείας
+- el: Παιδείας
+  en: Education
 tags:
 - εκπαίδευση
 title: Ο περί Πανεπιστημίου Κύπρου (Τροποποιητικός) Νόμος του 2013

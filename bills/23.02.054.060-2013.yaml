@@ -5,7 +5,8 @@ events:
   description: null
 identifier: 23.02.054.060-2013
 in_committees:
-- Παιδείας
+- el: Παιδείας
+  en: Education
 tags:
 - εκπαίδευση
 title: Ο περί Τεχνολογικού Πανεπιστημίου Κύπρου (Τροποποιητικός) Νόμος του 2013

@@ -5,8 +5,10 @@ events:
   description: υπερψηφίστηκε
 identifier: 23.02.055.073-2014
 in_committees:
-- Οικονομικών και Προϋπολογισμού
-- Εσωτερικών
+- el: Οικονομικών και Προϋπολογισμού
+  en: Finance and Budget
+- el: Εσωτερικών
+  en: Home Affairs
 sources:
 - id: philenews1
   text: >

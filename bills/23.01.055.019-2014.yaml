@@ -7,7 +7,8 @@ events:
   description: αποσύρθηκε «από την εκτελεστική εξουσία»
 identifier: 23.01.055.019-2014
 in_committees:
-- Εσωτερικών
+- el: Εσωτερικών
+  en: Home Affairs
 status: withdrawn
 tags:
 - εκλογές

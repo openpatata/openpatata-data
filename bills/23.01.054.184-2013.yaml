@@ -7,7 +7,8 @@ events:
   description: καταψηφίστηκε
 identifier: 23.01.054.184-2013
 in_committees:
-- Οικονομικών και Προϋπολογισμού
+- el: Οικονομικών και Προϋπολογισμού
+  en: Finance and Budget
 status: fail
 title: Ο περί Συνεργατικών Εταιρειών (Τροποποιητικός) (Αρ. 4) Νόμος του 2013
 votes:

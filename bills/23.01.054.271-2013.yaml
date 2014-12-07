@@ -5,7 +5,8 @@ events:
   description:
 identifier: 23.01.054.271-2013
 in_committees:
-- Προσφύγων-Εγκλωβισμένων-Αγνοουμένων-Παθόντων
+- el: Προσφύγων-Εγκλωβισμένων-Αγνοουμένων-Παθόντων
+  en: Refugees, and Enclaved, Missing and Adversely-Affected Persons
 tags:
 - κρατικός προϋπολογισμός
 title: Ο περί Προϋπολογισμού του Ταμείου Τ/Κ Περιουσιών του 2014 Νόμος του 2013

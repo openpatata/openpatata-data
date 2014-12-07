@@ -5,7 +5,8 @@ events:
   description: υπερψηφίστηκε
 identifier: 23.01.054.071-2013
 in_committees:
-- Οικονομικών και Προϋπολογισμού
+- el: Οικονομικών και Προϋπολογισμού
+  en: Finance and Budget
 law: 31(I)/2013
 sources:
 - id:

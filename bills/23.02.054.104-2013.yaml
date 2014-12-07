@@ -9,7 +9,8 @@ events:
   description: η πρόταση νόμου υπερψηφίστηκε
 identifier: 23.02.054.104-2013
 in_committees:
-- Παιδείας
+- el: Παιδείας
+  en: Education
 status: pass
 tags:
 - εκπαίδευση

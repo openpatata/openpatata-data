@@ -1,5 +1,8 @@
 events:
-  - date: "2014-06-26"
-    description:
+- date: '2014-06-26'
+  description:
 identifier: 23.01.055.126-2014
+in_committees:
+- el: Εσωτερικών
+  en: Home Affairs
 title: Ο περί Ραδιοφωνικών και Τηλεοπτικών Οργανισμών (Τροποποιητικός) Νόμος του 2014

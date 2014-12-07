@@ -7,7 +7,8 @@ events:
   description: υπερψηφίστηκε
 identifier: 23.01.054.185-2013
 in_committees:
-- Οικονομικών και Προϋπολογισμού
+- el: Οικονομικών και Προϋπολογισμού
+  en: Finance and Budget
 law: 103(Ι)/2013
 status: pass
 tags:

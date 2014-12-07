@@ -4,6 +4,7 @@ events:
 - date: '2013-09-19'
   description: null
 in_committees:
-- Εργασίας και Κοινωνικών Ασφαλίσεων
+- el: Εργασίας και Κοινωνικών Ασφαλίσεων
+  en: Labour and Social Insurance
 identifier: 23.01.054.163-2013
 title: Ο περί Εργοστασίων (Τροποποιητικός) Νόμος του 2013

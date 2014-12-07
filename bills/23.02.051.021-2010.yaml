@@ -5,7 +5,8 @@ events:
   description: υπερψηφίστηκε
 identifier: 23.02.051.021-2010
 in_committees:
-- Νομικών
+- el: Νομικών
+  en: Legal Affairs
 law: 124(Ι)/2013
 status: pass
 title: Ο περί Εξωδίκου Ρυθμίσεως Αδικημάτων (Τροποποιητικός) Νόμος του 2010

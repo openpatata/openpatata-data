@@ -7,7 +7,8 @@ events:
   description: υπερψηφίστηκε
 identifier: 23.01.054.246-2013
 in_committees:
-- Νομικών
+- el: Νομικών
+  en: Legal Affairs
 law: 171(I)/2014
 status: pass
 title: Ο περί Διεθνούς Συνεργασίας σε Ποινικά Θέματα (Τροποποιητικός) Νόμος του 2013

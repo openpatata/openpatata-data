@@ -5,7 +5,8 @@ events:
   description: υπερψηφίστηκε
 identifier: 23.01.054.196-2013
 in_committees:
-- Οικονομικών και Προϋπολογισμού
+- el: Οικονομικών και Προϋπολογισμού
+  en: Finance and Budget
 status: pass
 tags:
 - αθλητισμός

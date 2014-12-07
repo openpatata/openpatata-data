@@ -5,7 +5,8 @@ events:
   description: null
 identifier: 23.01.054.223-2013
 in_committees:
-- Παιδείας
+- el: Παιδείας
+  en: Education
 tags:
 - εκπαίδευση
 - κρατικός προϋπολογισμός

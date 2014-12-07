@@ -5,7 +5,8 @@ events:
   description: null
 identifier: 23.01.054.222-2013
 in_committees:
-- Οικονομικών και Προϋπολογισμού
+- el: Οικονομικών και Προϋπολογισμού
+  en: Finance and Budget
 tags:
 - κρατικός προϋπολογισμός
 title: Ο περί Προϋπολογισμού του 2014 Νόμος του 2013

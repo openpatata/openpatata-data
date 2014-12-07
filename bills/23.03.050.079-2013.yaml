@@ -2,4 +2,7 @@ events:
 - date: '2013-12-12'
   description: null
 identifier: 23.03.050.079-2013
+in_committees:
+- el: Οικονομικών και Προϋπολογισμού
+  en: Finance and Budget
 title: Οι περί Δημόσιας Υπηρεσίας (Χρόνος Εργασίας) (Τροποποιητικοί) Κανονισμοί του 2013

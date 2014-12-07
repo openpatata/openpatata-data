@@ -46,7 +46,14 @@ mapping:
   in_committees:
     type: seq
     sequence:
-      - type: str
+      - type: map
+        mapping:
+          el:
+            type: str
+            required: true
+          en:
+            type: str
+            required: true
         required: true
   law:
     type: str

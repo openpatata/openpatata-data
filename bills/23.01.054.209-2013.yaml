@@ -5,5 +5,6 @@ events:
   description: null
 identifier: 23.01.054.209-2013
 in_committees:
-- Υγείας
+- el: Υγείας
+  en: Health
 title: Ο περί Φαρμακευτικής και Δηλητηρίων (Τροποποιητικός) Νόμος του 2013

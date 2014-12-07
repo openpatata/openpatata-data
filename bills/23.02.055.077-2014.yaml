@@ -9,8 +9,10 @@ events:
   description: υπερψηφίστηκε· η αναπομπή δεν έγινε αποδεκτή
 identifier: 23.02.055.077-2014
 in_committees:
-- Οικονομικών και Προϋπολογισμού
-- Εσωτερικών
+- el: Οικονομικών και Προϋπολογισμού
+  en: Finance and Budget
+- el: Εσωτερικών
+  en: Home Affairs
 law: 144(Ι)/2014
 sources:
 - id:

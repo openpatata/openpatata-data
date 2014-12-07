@@ -8,7 +8,8 @@ events:
   description: η πρόταση νόμου υπερψηφίστηκε
 identifier: 23.02.053.080-2012
 in_committees:
-- Εμπορίου και Βιομηχανίας
+- el: Εμπορίου και Βιομηχανίας
+  en: Commerce and Industry
 status: pass
 title: Ο περί της Ρύθμισης της Λειτουργίας των Λαϊκών Αγορών Νόμος του 2012
 votes:

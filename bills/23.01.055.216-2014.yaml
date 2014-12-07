@@ -4,6 +4,9 @@ events:
 - date: '2014-10-30'
   description: υπερψηφίστηκε
 identifier: 23.01.055.216-2014
+in_committees:
+- el: Οικονομικών και Προϋπολογισμού
+  en: Finance and Budget
 law: 162(I)/2014
 status: pass
 title: Ο περί Διοικητικής Συνεργασίας της Φορολογίας (Τροποποιητικός) Νόμος του 2014
