@@ -1,10 +1,10 @@
 agenda:
-  debate:
+  debate: false
   legislative_work:
   - 23.01.055.215-2014
 date: '2014-12-16'
 links:
-- kind: agenda
+- type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/1257
 mps_present:
 - Αδάμου Αδάμος

@@ -1,7 +1,9 @@
-agenda: null
+agenda:
+  debate: false
+  legislative_work: false
 date: '2014-11-07'
 links:
-- kind: agenda
+- type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/1167
 parliament: Ι΄
 session: Δ΄

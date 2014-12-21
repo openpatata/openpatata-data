@@ -55,7 +55,7 @@ agenda:
   - 23.03.050.083-2013
 date: '2014-05-08'
 links:
-- kind: agenda
+- type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/926
 parliament: Ι΄
 session: Γ΄

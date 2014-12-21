@@ -28,9 +28,9 @@ agenda:
   - 23.03.050.083-2013
 date: '2014-03-27'
 links:
-- kind: agenda
+- type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/885
-- kind: transcript
+- type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-03-27.pdf
 mps_present:
 - Αδάμου Αδάμος

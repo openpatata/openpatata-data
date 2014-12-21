@@ -1,4 +1,5 @@
 agenda:
+  debate: false
   legislative_work:
   - 23.01.055.149-2014
   - 23.03.051.038-2014
@@ -10,7 +11,7 @@ agenda:
   - 23.01.055.207-2014
 date: '2014-10-02'
 links:
-- kind: agenda
+- type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/1061
 parliament: Ι΄
 session: Δ΄

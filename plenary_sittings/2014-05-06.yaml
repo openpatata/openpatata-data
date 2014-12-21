@@ -1,9 +1,10 @@
 agenda:
   debate:
   - 23.04.029.304-2012
+  legislative_work: false
 date: '2014-05-06'
 links:
-- kind: agenda
+- type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/917
 parliament: Ι΄
 session: Γ΄

@@ -1,4 +1,6 @@
 agenda:
+  debate:
+  - 23.05.047.003-2014
   legislative_work:
   - 23.03.051.038-2014
   - 23.01.055.227-2014
@@ -12,8 +14,8 @@ agenda:
   - 23.03.050.003-2013
 date: '2014-11-06'
 links:
-- kind: agenda
-  url: http://www.parliament.cy/easyconsole.cfm/id/1166
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/1172
 parliament: Ι΄
 session: Δ΄
 sitting: 7

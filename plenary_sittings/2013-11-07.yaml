@@ -16,9 +16,9 @@ agenda:
   - 23.03.050.050-2013
 date: '2013-11-07'
 links:
-- kind: agenda
+- type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/727
-- kind: transcript
+- type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-11-07.pdf
 mps_present:
 - Αδάμου Αδάμος
@@ -73,7 +73,7 @@ mps_present:
 - Χατζηγιάννης Κυριάκος
 - Χριστοφόρου Λευτέρης
 parliament: Ι΄
-reps_present: null
+reps_present: false
 session: Γ΄
 sitting: 11
 type: ordinary

@@ -14,7 +14,7 @@ agenda:
   - 23.03.051.059-2014
 date: '2014-11-27'
 links:
-- kind: agenda
+- type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/1213
 parliament: Ι΄
 session: Δ΄
