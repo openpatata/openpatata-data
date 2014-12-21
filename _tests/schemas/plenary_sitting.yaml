@@ -1,52 +1,69 @@
-type: map
-mapping:
+$schema: 'http://json-schema.org/schema#'
+type: object
+properties:
   agenda:
-    type: map
-    mapping:
-      debate:
-        type: seq
-        sequence:
-          - type: str
-            required: true
-      legislative_work:
-        type: seq
-        sequence:
-          - type: str
-            required: true
+    type: object
+    properties:
+      debate: &_agenda_item
+        type:
+        - array
+        - boolean
+        items:
+          type: string
+        not:
+          enum:
+          - true
+      legislative_work: *_agenda_item
+    required:
+    - debate
+    - legislative_work
   date:
-    type: str
-    pattern: /\d{4}-\d{2}-\d{2}/
-    required: true
+    type: string
+    format: date
   links:
-    type: seq
-    sequence:
-      - type: map
-        mapping:
-          kind:
-            type: str
-            enum: [agenda, transcript]
-            required: true
-          url:
-            type: str
-            required: true
-  mps_present:
-    type: seq
-    sequence:
-      - type: str
-        required: true
-  reps_present:
-    type: seq
-    sequence:
-      - type: str
-        required: true
+    type: array
+    items:
+      type: object
+      properties:
+        type:
+          type: string
+          enum:
+          - agenda
+          - transcript
+        url:
+          type: string
+      required:
+      - type
+      - url
+  mps_present: &_people_list
+    type:
+    - array
+    - boolean
+    - 'null'
+    items:
+      type: string
+    not:
+      enum:
+      - true
+  reps_present: *_people_list
   parliament:
-    type: str
-    required: true
+    type: string
   session:
-    type: str
+    type:
+    - string
+    - 'null'
   sitting:
-    type: int
+    type:
+    - integer
+    - 'null'
   type:
-    type: str
-    enum: [ordinary, extraordinary, special]
-    required: true
+    type: string
+    enum:
+    - ordinary
+    - extraordinary
+    - special
+required:
+- agenda
+- date
+- parliament
+- type
