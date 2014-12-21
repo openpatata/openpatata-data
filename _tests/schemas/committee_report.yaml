@@ -1,39 +1,37 @@
-type: map
-mapping:
+$schema: 'http://json-schema.org/schema#'
+type: object
+properties:
   belongs_to:
-    type: seq
-    sequence:
-      - type: str
-        required: true
-    required: true
+    type: array
+    items:
+      type: string
   date:
-    type: str
-    pattern: /\d{4}-\d{2}-\d{2}/
+    oneOf:
+    - type: string
+      format: date
+    - type: 'null'
   mps_present:
-    type: seq
-    sequence:
-      - type: map
-        mapping:
-          name:
-            type: str
-            required: true
-          note:
-            type: str
+    type: array
+    items: &_people_list
+      type: object
+      properties:
+        name:
+          type: string
+          required: true
+        note:
+          type: string
   reps_present:
-    type: seq
-    sequence:
-      - type: map
-        mapping:
-          name:
-            type: str
-            required: true
-          note:
-            type: str
+    type: array
+    items: *_people_list
   text:
-    type: str
-    required: true
+    type: string
   title:
-    type: str
-    required: true
+    type: string
   url:
-    type: str
+    type:
+    - string
+    - 'null'
+required:
+- belongs_to
+- text
+- title

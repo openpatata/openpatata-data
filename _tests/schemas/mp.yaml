@@ -1,57 +1,51 @@
-type: map
-mapping:
-  name:
-    required: true
-    mapping:
+$schema: 'http://json-schema.org/schema#'
+type: object
+properties:
+  name: &_lang_field
+    type: object
+    properties:
       el:
-        type: str
-        required: true
+        type: string
       en:
-        type: str
-        required: true
-    type: map
+        type: string
+    required:
+    - el
+    - en
   tenures:
-    type: seq
-    sequence:
-      - type: map
-        mapping:
-          district:
-            type: map
-            mapping:
-              el:
-                type: str
-                required: true
-              en:
-                type: str
-                required: true
-            required: true
-          start: &date
-            type: str
-            pattern: /\d{4}-\d{2}-\d{2}/
-            required: true
-          end:
-            <<: *date
-            required: false
-          parl_group:
-            type: str
-    required: true
+    type: array
+    items:
+      type: object
+      properties:
+        district: *_lang_field
+        start: &_date
+          type: string
+          format: date
+        end:
+          oneOf:
+          - *_date
+          - type: 'null'
+        parl_group:
+          type:
+          - string
+          - 'null'
+      required:
+      - district
+      - start
+      - end
+      - parl_group
   links:
-    type: seq
-    sequence:
-      - type: map
-        mapping:
-          note:
-            type: map
-            mapping:
-              el:
-                type: str
-                required: true
-              en:
-                type: str
-                required: true
-            required: true
-          url:
-            type: str
-            required: true
+    type: array
+    items:
+      type: object
+      properties:
+        note: *_lang_field
+        url:
+          type: string
+      required:
+      - note
+      - url
   mugshot:
-    type: str
+    type: string
+required:
+- name
+- tenures

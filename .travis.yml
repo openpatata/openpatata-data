@@ -1,11 +1,11 @@
-language: ruby
-rvm:
-- 2.1.3
+language: python
+python:
+- '3.4'
+install: pip3 install -r requirements.txt
 script:
-- ruby -r ./_tests/find_missing_bills.rb -e "find_missing_bills"
-- ruby -r ./_tests/validate.rb -e "validate 'bills'"
-- ruby -r ./_tests/validate.rb -e "validate 'committee_reports'"
-- ruby -r ./_tests/validate.rb -e "validate 'mps'"
-- ruby -r ./_tests/validate.rb -e "validate 'plenary_sittings'"
+- python3 _tests/validate.py bills
+- python3 _tests/validate.py committee_reports
+- python3 _tests/validate.py mps
+- python3 _tests/validate.py plenary_sittings
 notifications:
   email: false
