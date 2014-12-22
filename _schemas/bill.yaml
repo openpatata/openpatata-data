@@ -1,0 +1,300 @@
+$schema: 'http://json-schema.org/schema#'
+type: object
+properties:
+  actions:
+    description: >
+      The actions parliament has taken on a bill, in chronological order. An
+      action must be one of several predefined types.
+    type: array
+    items:
+      type: object
+      oneOf:
+      - description: Submission (first reading) of a bill.
+        type: object
+        properties:
+          date: &_action_property_date
+            description: The date, in ISO format (YYYY-MM-DD).
+            type: string
+            format: date
+          action:
+            type: string
+            enum:
+            - submit
+          by:
+            description: The bill's sponsors.
+            type: array
+            items:
+              type: string
+        required:
+        - date
+        - action
+        - by
+      - description: Referral of a bill to a committee.
+        type: object
+        properties:
+          date: *_action_property_date
+          action:
+            type: string
+            enum:
+            - refer
+          to:
+            description: The committees the bill has been referred to.
+            type: array
+            items:
+              type: object
+              properties:
+                el:
+                  description: The name of the committee in Greek.
+                  type: string
+                en:
+                  description: The name of the committee in English.
+                  type: string
+              required:
+              - el
+              - en
+        required:
+        - date
+        - action
+        - to
+      - description: Resubmission of a bill.
+        type: object
+        properties:
+          date: *_action_property_date
+          action:
+            type: string
+            enum:
+            - resubmit
+        required:
+        - date
+        - action
+      - description: Postponement of a bill.
+        type: object
+        properties:
+          date: *_action_property_date
+          action:
+            type: string
+            enum:
+            - postpone
+          what:
+            description: Stage at which the bill was postponed.
+            type: string
+            enum:
+            - second reading
+            - third reading
+            - veto
+        required:
+        - date
+        - action
+        - what
+      - description: A vote event.
+        type: object
+        properties:
+          date: *_action_property_date
+          action:
+            type: string
+            enum:
+            - vote
+          type:
+            description: The "type" of vote.
+            type: string
+            enum:
+            - second reading
+            - third reading
+            - veto
+          motion:
+            description: The motion, word-for-word.
+            type: string
+          breakdown:
+            description: Individual MP votes; inferred.
+            type: array
+            items:
+              type: object
+              properties:
+                name:
+                  description: >
+                    The name of the MP, in Greek, in the following order: last
+                    name, middle name, first name.
+                  type: string
+                option:
+                  description: >
+                    Whether the MP has voted for or against, or abstained.
+                  type: string
+                  enum:
+                  - 'yes'
+                  - 'no'
+                  - abstain
+              required:
+              - name
+              - option
+          counts:
+            description: Official counts.
+            type: array
+            items:
+            - &_vote_count
+              type: object
+              properties:
+                count:
+                  description: The vote tally for this `option`.
+                  type: integer
+                option:
+                  description: >
+                    Whether this option is for MPs who've voted for or against,
+                    or abstained.
+                  type: string
+                  enum:
+                  - 'yes'
+                  - 'no'
+                  - abstain
+              required:
+              - count
+              - option
+            - *_vote_count
+            - *_vote_count
+            additionalItems: false
+          remarks:
+            description: Editor remarks.
+            type: string
+            format: markdown
+          result:
+            description: The outcome of the vote.
+            type: string
+            enum:
+            - pass
+            - fail
+        required:
+        - date
+        - action
+        - type
+        - result
+      - description: Any other kind of action.
+        type: object
+        properties:
+          date: *_action_property_date
+          action:
+            type: string
+            enum:
+            - other
+          description:
+            description: A brief description of this action.
+            type: object
+            properties:
+              el:
+                description: The description in Greek.
+                type: string
+              en:
+                description: The description in English.
+                type: string
+            required:
+            - el
+            - en
+        required:
+        - date
+        - action
+        - description
+  explanatory_note:
+    description: >
+      An accompanying explanatory note published in the Government Gazette.
+    type:
+    - object
+    - 'null'
+    properties:
+      authors:
+        description: The author(s) of the note.
+        type: array
+        items:
+          type: object
+          properties:
+            name:
+              description: >
+                The name of the author, in Greek, in the following order: last
+                name, middle name, first name.
+              type: string
+            note:
+              description: >
+                What's written under the author's name, usually the capacity in
+                which they're proposing a bill.
+              type:
+              - string
+              - 'null'
+          required:
+          - name
+      in:
+        description: Where the note is found in the Gazette.
+        type: object
+        properties:
+          issue:
+            description: The issue of the Gazette.
+            type: integer
+          pages:
+            description: >
+              Page or page range where the note has been printed. If a page
+              ranged is used, separate pages with an en dash, e.g. '546–7'.
+            type:
+            - string
+            - number
+            pattern: ^\d+(–\d+)?$
+        required:
+        - issue
+        - pages
+      text:
+        description: The note itself.
+        type: string
+    required:
+    - authors
+    - in
+    - text
+  identifier:
+    description: The bill's unique identifier assigned to it by parliament.
+    type: string
+  law:
+    description: The law number, if the bill has been enacted.
+    type:
+    - string
+    - 'null'
+  sources:
+    description: >
+      A list of references used by editors in prose (e.g. in the `summary`
+      field), or anywhere you might wanna direct readers.
+    type:
+    - array
+    - 'null'
+    items:
+      type: object
+      properties:
+        id:
+          description: >
+            A keyword for this source, to be used as an anchor. Not required if
+            not a reference.
+          type:
+          - string
+          - 'null'
+        text:
+          description: The source, in Markdown.
+          type: string
+          format: markdown
+      required:
+      - text
+  title:
+    description: >
+      The title of this bill. This should be the title used in parliament, which
+      may be different from the title of the law, if the bill has been enacted.
+    type: string
+  status:
+    description: The status of the bill.
+    type:
+    - string
+    - 'null'
+    enum:
+    - pass
+    - fail
+    - withdrawn
+    - pending
+  summary:
+    description: A summary of this bill authored by an editor, in Markdown.
+    type:
+    - string
+    - 'null'
+    format: markdown
+required:
+- identifier
+- title

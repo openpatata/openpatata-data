@@ -1,0 +1,105 @@
+$schema: 'http://json-schema.org/schema#'
+type: object
+properties:
+  name:
+    description: The MP's name.
+    type: object
+    properties:
+      el:
+        description: >
+          Their name in Greek, in the following order: last name, middle name,
+          first name.
+        type: string
+      en:
+        description: >
+          Their name in English, ISO 843-transliterated, in the following order:
+          last name, middle name, first name.
+        type: string
+    required:
+    - el
+    - en
+  tenures:
+    description: The MP's tenures in parliament, from 2001 onwards.
+    type: array
+    items:
+      type: object
+      properties:
+        district:
+          description: District served.
+          type: object
+          properties:
+            el:
+              description: The name of the district in Greek.
+              type: string
+            en:
+              description: >
+                The name of the district in English, ISO 843-transliterated
+                from Greek.
+              type: string
+          required:
+          - el
+          - en
+        start:
+          description: The start date, in ISO format (YYYY-MM-DD).
+          type: string
+          format: date
+        end:
+          description: >
+            The end date, in ISO format (YYYY-MM-DD). Leave blank if MP
+            currently in office.
+          type:
+          - string
+          - 'null'
+          format: date
+        parl_group:
+          description: >
+            The parliament group the MP is affiliated to, if any; otherwise
+            blank.
+          type:
+          - string
+          - 'null'
+      required:
+      - district
+      - start
+      - end
+      - parl_group
+  links:
+    description: >
+      A list of pertinent links, e.g. the MP's page on parliament. No more than
+      five.
+    type:
+    - array
+    - 'null'
+    items:
+      type: object
+      properties:
+        note:
+          type: object
+          properties:
+            el:
+              description: A very short description of this link in Greek.
+              type: string
+            en:
+              description: A very short description of this link in English.
+              type: string
+          required:
+          - el
+          - en
+        url:
+          description: The link itself.
+          type: string
+          format: uri
+      required:
+      - note
+      - url
+  mugshot:
+    description: >
+      A link to the MP's mugshot on parliament's website. Use the highest
+      resolution available. Omit or leave blank if there isn't one.
+    type:
+    - string
+    - 'null'
+    format: uri
+required:
+- name
+- tenures

@@ -1,0 +1,90 @@
+$schema: 'http://json-schema.org/schema#'
+type: object
+properties:
+  agenda:
+    description: The day's agenda.
+    type: object
+    properties:
+      debate: &_agenda_item
+        description: A list of identifiers of items on Chapter 4 of the agenda.
+        type:
+        - array
+        - boolean
+        items:
+          type: string
+        not:
+          enum:
+          - true
+      legislative_work:
+        <<: *_agenda_item
+        description: A list of identifiers of items on Chapter 1 of the agenda.
+    required:
+    - debate
+    - legislative_work
+  date:
+    description: The date the plenary was held on, in ISO format (YYYY-MM-DD).
+    type: string
+    format: date
+  links:
+    description: >
+      Links to relevant pages. Currently either the agenda as published, or the
+      transcript.
+    type: array
+    items:
+      type: object
+      properties:
+        type:
+          description: >
+            The type of resource; either an `agenda` or a `transcript`.
+          type: string
+          enum:
+          - agenda
+          - transcript
+        url:
+          description: The link.
+          type: string
+          format: uri
+      required:
+      - type
+      - url
+  mps_present: &_people_list
+    description: A list of MPs who were present.
+    type:
+    - array
+    - boolean
+    - 'null'
+    items:
+      type: string
+    not:
+      enum:
+      - true
+  reps_present:
+    <<: *_people_list
+    description: >
+      A list of religious representatives who were present. Set to `false` if
+      none where present; otherwise, leave blank or omit.
+  parliament:
+    description: The number of the parliament, e.g. 'Ι΄'.
+    type: string
+  session:
+    description: The number of this parliament's session, e.g. 'Γ΄'.
+    type:
+    - string
+    - 'null'
+  sitting:
+    description: The number of this sitting, e.g. '5'.
+    type:
+    - number
+    - 'null'
+  type:
+    description: The type of sitting.
+    type: string
+    enum:
+    - ordinary
+    - extraordinary
+    - special
+required:
+- agenda
+- date
+- parliament
+- type

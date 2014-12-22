@@ -8,8 +8,8 @@ import yaml
 
 def validate(folder):
     """checks our data for syntax errors and compliance with the schema"""
-    with open(os.path.join('_tests', 'schemas',
-                           '{}.yaml'.format(folder.rstrip('s/')))) as schema:
+    with open(os.path.join('_schemas', '{}.yaml'.format(
+            folder.rstrip('s/')))) as schema:
         validator = jsonschema.Draft4Validator(
             yaml.load(schema),
             format_checker=jsonschema.FormatChecker(['date']))
@@ -20,6 +20,7 @@ def validate(folder):
             if errors:
                 print(os.path.join(folder, item))
                 for error in errors:
+                    #print(errors)
                     print('- [{}] {}'.format('/'.join(map(str, error.path)),
                                              error.message))
 

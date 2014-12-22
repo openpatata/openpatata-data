@@ -1,0 +1,58 @@
+$schema: 'http://json-schema.org/schema#'
+type: object
+properties:
+  belongs_to:
+    description: A list of identifiers of bills this report is on.
+    type: array
+    items:
+      type: string
+  date:
+    description: >
+      The date that appears after a report, in ISO format (YYYY-MM-DD).
+    type:
+    - string
+    - 'null'
+    format: date
+  mps_present:
+    description: A list of MPs who were present.
+    type: array
+    items: &_people_list
+      type: object
+      properties:
+        name:
+          description: >
+            Their name, in Greek, in the following order: last name, middle
+            name, first name.
+          type: string
+        note:
+          description: What appears under their name, e.g. 'πρόεδρος'.
+          type:
+          - string
+          - 'null'
+      required:
+      - name
+  reps_present:
+    description: >
+      A list of represenatives who were present. Omit or leave blank if not
+      applicable.
+    type:
+    - array
+    - 'null'
+    items: *_people_list
+  text:
+    description: The actual report, in Markdown.
+    type: string
+  title:
+    description: The title of the report.
+    type: string
+  url:
+    description: A link to the report on parliament.
+    type:
+    - string
+    - 'null'
+    format: uri
+required:
+- belongs_to
+- mps_present
+- text
+- title
