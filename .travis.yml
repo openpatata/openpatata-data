@@ -3,9 +3,9 @@ python:
 - '3.4'
 install: pip3 install -r requirements.txt
 script:
-- python3 _tests/validate.py bills
-- python3 _tests/validate.py committee_reports
-- python3 _tests/validate.py mps
-- python3 _tests/validate.py plenary_sittings
+- python3 _schemas/tests/validate.py bills
+- python3 _schemas/tests/validate.py committee_reports
+- python3 _schemas/tests/validate.py mps
+- python3 _schemas/tests/validate.py plenary_sittings
 notifications:
   email: false
