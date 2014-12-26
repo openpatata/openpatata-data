@@ -7,4 +7,10 @@ in_committees:
   en: Labour and Social Insurance
 - el: Οικονομικών και Προϋπολογισμού
   en: Finance and Budget
+sources:
+- id: epitropi-ergasias-ekkremounta-sn
+  text: Εκκρεμούντα Σχέδια Νόμου της Επιτροπής Εργασίας και Κοινωνικών Ασφαλίσεων. http://www2.parliament.cy/parliamentgr/008_06/02/003.04.04.02.pdf
+status: pending
+summary: |
+  «Σκοπός του νομοσχεδίου είναι η κατάργηση του περί Λαχείου Πρόνοιας Νόμου του 1992 μέσα στα πλαίσια αναδιάρθρωσης των Σχεδίων Κοινωνικής Πρόνοια» ([#epitropi-ergasias-ekkremounta-sn](#epitropi-ergasias-ekkremounta-sn)).
 title: Ο περί Λαχείου Πρόνοιας (Καταργητικός) Νόμος του 2014

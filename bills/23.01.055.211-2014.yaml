@@ -5,5 +5,10 @@ identifier: 23.01.055.211-2014
 in_committees:
 - el: Γεωργίας και Φυσικών Πόρων
   en: Agriculture and Natural Resources
+sources:
+- id: epitropi-georgias-ekkremounta-sn
+  text: Εκκρεμούντα Σχέδια Νόμου της Επιτροπής Γεωργίας και Φυσικών Πόρων. http://www2.parliament.cy/parliamentgr/008_06/02/003.04.09.02.pdf
 status: pending
+summary: |
+  «Σκοπός του νομοσχεδίου είναι η μετονομασία του Υπουργείου Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος σε Υπουργείο Περιβάλλοντος και Αγροτικής Ανάπτυξης και η σχετική τροποποίηση όλων των νόμων και δημόσιων εγγράφων» ([#epitropi-georgias-ekkremounta-sn](#epitropi-georgias-ekkremounta-sn)).
 title: Ο περί Μετονομασίας του Υπουργείου Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος Νόμος του 2014

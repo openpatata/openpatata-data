@@ -7,4 +7,10 @@ identifier: 23.02.055.008-2014
 in_committees:
 - el: Εμπορίου και Βιομηχανίας
   en: Commerce and Industry
+sources:
+- id: epitropi-emporiou-ekkremounta-sn
+  text: Εκκρεμούντα Σχέδια Νόμου της Επιτροπής Εμπορίου και Βιομηχανίας. http://www2.parliament.cy/parliamentgr/008_06/02/003.04.10.02.pdf
+status: pending
+summary: |
+  «Σκοπός της πρότασης νόμου είναι όπως καταστεί δυνατή η εκχώρηση του δικαιώματος πώλησης προϊόντων από παραγωγούς σε άλλους παραγωγούς ή σε πλανοδιοπώλες» ([#epitropi-emporiou-ekkremounta-sn](#epitropi-emporiou-ekkremounta-sn)).
 title: Ο περί Ρύθμισης της Λειτουργίας των Λαϊκών Αγορών Νόμος του 2014
