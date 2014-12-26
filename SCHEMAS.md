@@ -1,8 +1,12 @@
+
 ## bill.yaml
 
 * **`actions`** (`array`)
 
     A list of actions parliament has taken on this bill, in chronological order. An action must be one of the following predefined types.
+
+    Each item must be compliant with exactly one of:
+
     * 
 
         * [required] **`action`** (`string`)
@@ -84,6 +88,7 @@
         * **`counts`** (`array`)
 
             Official counts. Options must be in the following order: yes, no, abstain. This is to ensure that there is only one of each option.
+
             1. 
 
                 * [required] **`count`** (`integer`)
@@ -95,6 +100,7 @@
                     Whether this option is for MPs who've voted for or against, or abstained.
 
                     One of: 'yes'.
+
             1. 
 
                 * [required] **`count`** (`integer`)
@@ -105,7 +111,8 @@
 
                     Whether this option is for MPs who've voted for or against, or abstained.
 
-                    One of: 'yes'.
+                    One of: 'no'.
+
             1. 
 
                 * [required] **`count`** (`integer`)
@@ -116,7 +123,7 @@
 
                     Whether this option is for MPs who've voted for or against, or abstained.
 
-                    One of: 'yes'.
+                    One of: 'abstain'.
 
         * [required] **`date`** (`string`)
 
@@ -396,4 +403,3 @@
     The type of sitting.
 
     One of: 'ordinary', 'extraordinary', 'special'.
-

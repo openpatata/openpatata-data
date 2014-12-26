@@ -132,8 +132,7 @@ properties:
               abstain. This is to ensure that there is only one of each option.
             type: array
             items:
-            - &_vote_count
-              type: object
+            - type: object
               properties:
                 count:
                   description: The vote tally for this `option`.
@@ -148,12 +147,36 @@ properties:
               required:
               - count
               - option
-            - <<: *_vote_count
-              enum:
-              - 'no'
-            - <<: *_vote_count
-              enum:
-              - abstain
+            - type: object
+              properties:
+                count:
+                  description: The vote tally for this `option`.
+                  type: integer
+                option:
+                  description: >
+                    Whether this option is for MPs who've voted for or against,
+                    or abstained.
+                  type: string
+                  enum:
+                  - 'no'
+              required:
+              - count
+              - option
+            - type: object
+              properties:
+                count:
+                  description: The vote tally for this `option`.
+                  type: integer
+                option:
+                  description: >
+                    Whether this option is for MPs who've voted for or against,
+                    or abstained.
+                  type: string
+                  enum:
+                  - abstain
+              required:
+              - count
+              - option
             minItems: 3
             additionalItems: false
           remarks:
