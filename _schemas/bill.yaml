@@ -3,8 +3,8 @@ type: object
 properties:
   actions:
     description: >
-      The actions parliament has taken on a bill, in chronological order. An
-      action must be one of several predefined types.
+      A list of actions parliament has taken on this bill, in chronological
+      order. An action must be one of the following predefined types.
     type: array
     items:
       type: object
@@ -127,7 +127,9 @@ properties:
               - name
               - option
           counts:
-            description: Official counts.
+            description: >
+              Official counts. Options must be in the following order: yes, no,
+              abstain. This is to ensure that there is only one of each option.
             type: array
             items:
             - &_vote_count
@@ -143,13 +145,16 @@ properties:
                   type: string
                   enum:
                   - 'yes'
-                  - 'no'
-                  - abstain
               required:
               - count
               - option
-            - *_vote_count
-            - *_vote_count
+            - <<: *_vote_count
+              enum:
+              - 'no'
+            - <<: *_vote_count
+              enum:
+              - abstain
+            minItems: 3
             additionalItems: false
           remarks:
             description: Editor remarks.
