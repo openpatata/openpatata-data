@@ -35,7 +35,7 @@ properties:
       properties:
         type:
           description: >
-            The type of resource; either an `agenda` or a `transcript`.
+            The type of resource.
           type: string
           enum:
           - agenda

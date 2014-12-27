@@ -1,7 +1,7 @@
 
 ## bill.yaml
 
-* **`actions`** (`array`)
+* **`actions`** (`array [object]`)
 
     A list of actions parliament has taken on this bill, in chronological order. An action must be one of the following predefined types.
 
@@ -11,9 +11,11 @@
 
         * [required] **`action`** (`string`)
 
-            One of: 'submit'.
+            One of:
 
-        * [required] **`by`** (`array`)
+            * submit
+
+        * [required] **`by`** (`array [string]`)
 
             The bill's sponsors.
 
@@ -24,13 +26,15 @@
 
         * [required] **`action`** (`string`)
 
-            One of: 'refer'.
+            One of:
+
+            * refer
 
         * [required] **`date`** (`string`)
 
             The date, in ISO format (YYYY-MM-DD).
 
-        * [required] **`to`** (`array`)
+        * [required] **`to`** (`array [object]`)
 
             The committees the bill has been referred to.
 
@@ -45,7 +49,9 @@
 
         * [required] **`action`** (`string`)
 
-            One of: 'resubmit'.
+            One of:
+
+            * resubmit
 
         * [required] **`date`** (`string`)
 
@@ -54,7 +60,9 @@
 
         * [required] **`action`** (`string`)
 
-            One of: 'postpone'.
+            One of:
+
+            * postpone
 
         * [required] **`date`** (`string`)
 
@@ -64,14 +72,20 @@
 
             Stage at which the bill was postponed.
 
-            One of: 'second reading', 'third reading', 'veto'.
+            One of:
+
+            * second reading
+            * third reading
+            * veto
     * 
 
         * [required] **`action`** (`string`)
 
-            One of: 'vote'.
+            One of:
 
-        * **`breakdown`** (`array`)
+            * vote
+
+        * **`breakdown`** (`array [object]`)
 
             Individual MP votes; inferred.
 
@@ -83,7 +97,11 @@
 
                 Whether the MP has voted for or against, or abstained.
 
-                One of: 'yes', 'no', 'abstain'.
+                One of:
+
+                * yes
+                * no
+                * abstain
 
         * **`counts`** (`array`)
 
@@ -99,7 +117,9 @@
 
                     Whether this option is for MPs who've voted for or against, or abstained.
 
-                    One of: 'yes'.
+                    One of:
+
+                    * yes
 
             1. 
 
@@ -111,7 +131,9 @@
 
                     Whether this option is for MPs who've voted for or against, or abstained.
 
-                    One of: 'no'.
+                    One of:
+
+                    * no
 
             1. 
 
@@ -123,7 +145,9 @@
 
                     Whether this option is for MPs who've voted for or against, or abstained.
 
-                    One of: 'abstain'.
+                    One of:
+
+                    * abstain
 
         * [required] **`date`** (`string`)
 
@@ -141,18 +165,27 @@
 
             The outcome of the vote.
 
-            One of: 'pass', 'fail'.
+            One of:
+
+            * pass
+            * fail
 
         * [required] **`type`** (`string`)
 
             The "type" of vote.
 
-            One of: 'second reading', 'third reading', 'veto'.
+            One of:
+
+            * second reading
+            * third reading
+            * veto
     * 
 
         * [required] **`action`** (`string`)
 
-            One of: 'other'.
+            One of:
+
+            * other
 
         * [required] **`date`** (`string`)
 
@@ -174,7 +207,7 @@
 
     An accompanying explanatory note published in the Government Gazette.
 
-    * [required] **`authors`** (`array`)
+    * [required] **`authors`** (`array [object]`)
 
         The author(s) of the note.
 
@@ -210,7 +243,7 @@
 
     The law number, if the bill has been enacted.
 
-* **`sources`** (`array|null`)
+* **`sources`** (`array [object]|null`)
 
     A list of references used by editors in prose (e.g. in the `summary` field), or anywhere you might wanna direct readers.
 
@@ -226,7 +259,12 @@
 
     The status of the bill.
 
-    One of: 'pass', 'fail', 'withdrawn', 'pending'.
+    One of:
+
+    * pass
+    * fail
+    * withdrawn
+    * pending
 
 * **`summary`** (`string|null`)
 
@@ -238,7 +276,7 @@
 
 ## committee_report.yaml
 
-* [required] **`belongs_to`** (`array`)
+* [required] **`belongs_to`** (`array [string]`)
 
     A list of identifiers of bills this report is on.
 
@@ -246,7 +284,7 @@
 
     The date that appears after a report, in ISO format (YYYY-MM-DD).
 
-* [required] **`mps_present`** (`array`)
+* [required] **`mps_present`** (`array [object]`)
 
     A list of MPs who were present.
 
@@ -258,7 +296,7 @@
 
         What appears under their name, e.g. 'πρόεδρος'.
 
-* **`reps_present`** (`array|null`)
+* **`reps_present`** (`array [object]|null`)
 
     A list of represenatives who were present. Omit or leave blank if not applicable.
 
@@ -284,7 +322,7 @@
 
 ## mp.yaml
 
-* **`links`** (`array|null`)
+* **`links`** (`array [object]|null`)
 
     A list of pertinent links, e.g. the MP's page on parliament. No more than five. If linking to Wikipedia, link only to one language version of it, preferably English.
 
@@ -318,7 +356,7 @@
 
         Their name in English, ISO 843-transliterated, in the following order: last name, middle name, first name.
 
-* [required] **`tenures`** (`array`)
+* [required] **`tenures`** (`array [object]`)
 
     The MP's tenures in parliament, from 2001 onwards.
 
@@ -352,11 +390,11 @@
 
     The day's agenda.
 
-    * [required] **`debate`** (`array|boolean`)
+    * [required] **`debate`** (`array [string]|boolean`)
 
         A list of identifiers of items on Chapter 4 of the agenda.
 
-    * [required] **`legislative_work`** (`array|boolean`)
+    * [required] **`legislative_work`** (`array [string]|boolean`)
 
         A list of identifiers of items on Chapter 1 of the agenda.
 
@@ -364,21 +402,24 @@
 
     The date the plenary was held on, in ISO format (YYYY-MM-DD).
 
-* **`links`** (`array`)
+* **`links`** (`array [object]`)
 
     Links to relevant pages. Currently either the agenda as published, or the transcript.
 
     * [required] **`type`** (`string`)
 
-        The type of resource; either an `agenda` or a `transcript`.
+        The type of resource.
 
-        One of: 'agenda', 'transcript'.
+        One of:
+
+        * agenda
+        * transcript
 
     * [required] **`url`** (`string`)
 
         The link.
 
-* **`mps_present`** (`array|boolean|null`)
+* **`mps_present`** (`array [string]|boolean|null`)
 
     A list of MPs who were present.
 
@@ -386,7 +427,7 @@
 
     The number of the parliament, e.g. 'Ι΄'.
 
-* **`reps_present`** (`array|boolean|null`)
+* **`reps_present`** (`array [string]|boolean|null`)
 
     A list of religious representatives who were present. Set to `false` if none where present; otherwise, leave blank or omit.
 
@@ -402,4 +443,8 @@
 
     The type of sitting.
 
-    One of: 'ordinary', 'extraordinary', 'special'.
+    One of:
+
+    * ordinary
+    * extraordinary
+    * special
