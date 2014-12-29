@@ -372,7 +372,7 @@
 
             The name of the district in English, ISO 843-transliterated from Greek.
 
-    * [required] **`end`** (`string|null`)
+    * **`end_date`** (`string|null`)
 
         The end date, in ISO format (YYYY-MM-DD). Leave blank if MP currently in office.
 
@@ -380,7 +380,7 @@
 
         The parliament group the MP is affiliated to, if any; otherwise blank.
 
-    * [required] **`start`** (`string`)
+    * **`start_date`** (`string`)
 
         The start date, in ISO format (YYYY-MM-DD).
 
