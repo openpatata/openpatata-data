@@ -25,7 +25,7 @@ properties:
             name, first name.
           type: string
         note:
-          description: What appears under their name, e.g. 'πρόεδρος'.
+          description: What appears next to their name, e.g. 'πρόεδρος'.
           type:
           - string
           - 'null'

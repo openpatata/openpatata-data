@@ -1,7 +1,7 @@
 
 * **`links`** (`array [object]|null`)
 
-    A list of pertinent links, e.g. the MP's page on parliament. No more than five. If linking to Wikipedia, link only to one language version of it, preferably English.
+    A list of pertinent links, e.g. the MP's page on parliament. Generally, no more than five. If linking to Wikipedia, link only to one language version of it, preferably English.
 
     * [required] **`note`** (`object`)
 
@@ -19,7 +19,7 @@
 
 * **`mugshot`** (`string|null`)
 
-    A link to the MP's mugshot on parliament's website. Use the highest resolution available. Omit or leave blank if there isn't one.
+    A link to the MP's mugshot on parliament's website. Use the highest resolution available.
 
 * [required] **`name`** (`object`)
 
@@ -35,7 +35,7 @@
 
 * [required] **`tenures`** (`array [object]`)
 
-    The MP's tenures in parliament, from 2001 onwards.
+    The MP's tenures in parliament.
 
     * [required] **`district`** (`object`)
 

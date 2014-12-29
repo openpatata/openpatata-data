@@ -265,7 +265,7 @@ properties:
         - issue
         - pages
       text:
-        description: The note itself.
+        description: The note itself, in Markdown.
         type: string
     required:
     - authors

@@ -231,7 +231,7 @@
 
     * [required] **`text`** (`string`)
 
-        The note itself.
+        The note itself, in Markdown.
 
 * [required] **`identifier`** (`string`)
 

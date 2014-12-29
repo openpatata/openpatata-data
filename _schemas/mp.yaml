@@ -19,7 +19,7 @@ properties:
     - el
     - en
   tenures:
-    description: The MP's tenures in parliament, from 2001 onwards.
+    description: The MP's tenures in parliament.
     type: array
     items:
       type: object
@@ -65,9 +65,9 @@ properties:
       - parl_group
   links:
     description: >
-      A list of pertinent links, e.g. the MP's page on parliament. No more than
-      five. If linking to Wikipedia, link only to one language version of it,
-      preferably English.
+      A list of pertinent links, e.g. the MP's page on parliament. Generally,
+      no more than five. If linking to Wikipedia, link only to one language
+      version of it, preferably English.
     type:
     - array
     - 'null'
@@ -96,7 +96,7 @@ properties:
   mugshot:
     description: >
       A link to the MP's mugshot on parliament's website. Use the highest
-      resolution available. Omit or leave blank if there isn't one.
+      resolution available.
     type:
     - string
     - 'null'

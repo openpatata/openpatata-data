@@ -38,19 +38,19 @@
 
 * [required] **`parliament`** (`string`)
 
-    The number of the parliament, e.g. 'Ι΄'.
+    The number of the parliament, as published on the agenda, e.g. 'Ι΄'. This signifies the whole period between elections.
 
 * **`reps_present`** (`array [string]|boolean|null`)
 
-    A list of religious representatives who were present. Set to `false` if none where present; otherwise, leave blank or omit.
+    A list of religious representatives who were present. Set to `false` if none were present; otherwise, leave blank or omit.
 
 * **`session`** (`string|null`)
 
-    The number of this parliament's session, e.g. 'Γ΄'.
+    The current legislative session, as published on the agenda, e.g. 'Γ΄'. A session lasts a year. If the sitting is of type `special`, it might fall outside a session.
 
 * **`sitting`** (`number|null`)
 
-    The number of this sitting, e.g. '5'.
+    The number of this sitting, as published on the agenda, e.g. '5'. If the sitting is of type `special`, it might not be numbered.
 
 * [required] **`type`** (`string`)
 

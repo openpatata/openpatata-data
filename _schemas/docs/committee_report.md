@@ -17,7 +17,7 @@
 
     * **`note`** (`string|null`)
 
-        What appears under their name, e.g. 'πρόεδρος'.
+        What appears next to their name, e.g. 'πρόεδρος'.
 
 * **`reps_present`** (`array [object]|null`)
 
@@ -29,7 +29,7 @@
 
     * **`note`** (`string|null`)
 
-        What appears under their name, e.g. 'πρόεδρος'.
+        What appears next to their name, e.g. 'πρόεδρος'.
 
 * [required] **`text`** (`string`)
 

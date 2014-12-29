@@ -83,7 +83,7 @@ def main(schema):
             for k, v in properties.items():
                 # Join types with a vertical bar and place the type of
                 # array items of regular arrays inside square brackets,
-                # e.g. `array [object]|null`.
+                # e.g. `array [object]|null`
                 type_ = _put_in_list(v['type'])
                 if 'array' in type_:
                     if isinstance(v['items'], dict) and 'type' in v['items']:
@@ -93,21 +93,21 @@ def main(schema):
                                     v['items']['type'])))
                 type_ = '|'.join(type_)
 
-                # Headline on a new paragraph.
+                # The headline on a new paragraph
                 _fnp(
                     '\n{tab}* {is_req}**`{k}`** (`{type_}`)',
                     tab=_indent(indent),
                     is_req=('[required] ' if k in schema.get(
                         'required', []) else ''), k=k, type_=type_)
 
-                # Description on a new paragraph.
+                # The escription on a new paragraph
                 description = v.get('description', '').strip()
                 if description:
                     _fnp(
                         '\n{tab}{description}',
                         tab=_indent(indent+1), description=description)
 
-                # Accepted values on a new paragraph.
+                # The accepted values on a new paragraph
                 enum = v.get('enum')
                 if enum:
                     _fnp(
@@ -118,7 +118,7 @@ def main(schema):
 
                 _properties(v, indent+1)
         else:
-            # Complex definitions.
+            # Complex definitions
             for item in ('allOf', 'anyOf', 'oneOf'):
                 try:
                     special = schema[item]
@@ -136,8 +136,8 @@ def main(schema):
                         _properties(special, indent+1)
 
     with open(schema) as f:
-        items = _sort_dicts(yaml.load(f.read()))
-        _properties(items)
+        schema = _sort_dicts(yaml.load(f.read()))
+        _properties(schema)
 
 
 if __name__ == '__main__':
