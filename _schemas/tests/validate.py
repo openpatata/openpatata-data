@@ -1,28 +1,37 @@
 
-import os
+"""Checks our data for syntax errors and compliance with the
+schema.
+"""
+
+from pathlib import Path
 import sys
 
-import jsonschema
+from jsonschema import (
+    Draft4Validator as Validator,
+    FormatChecker)
 import yaml
 
 
-def validate(folder):
-    """checks our data for syntax errors and compliance with the schema"""
-    with open(os.path.join('_schemas', '{}.yaml'.format(
-            folder.rstrip('s/')))) as schema:
-        validator = jsonschema.Draft4Validator(
-            yaml.load(schema),
-            format_checker=jsonschema.FormatChecker(['date']))
+def main(folder):
+    exit_status = 0
 
-    for item in os.listdir(folder):
-        with open(os.path.join(folder, item)) as item_:
-            errors = list(validator.iter_errors(yaml.load(item_)))
+    with (Path('_schemas')/'{filename}.yaml'.format(
+            filename=folder.rstrip('s/'))).open() as f:
+        validator = Validator(yaml.load(f), format_checker=FormatChecker(
+            ['date']))
+
+    for item in Path(folder).iterdir():
+        with item.open() as f:
+            errors = validator.iter_errors(yaml.load(f))
             if errors:
-                print(os.path.join(folder, item))
+                exit_status = 1
                 for error in errors:
-                    #print(errors)
-                    print('- [{}] {}'.format('/'.join(map(str, error.path)),
-                                             error.message))
+                    print('{item}: [{field}] {message}'.format(
+                        item=item, field='/'.join(map(str, error.path)),
+                        message=error.message))
+
+    return exit_status
+
 
 if __name__ == '__main__':
-    validate(sys.argv[1])
+    sys.exit(main(sys.argv[1]))
