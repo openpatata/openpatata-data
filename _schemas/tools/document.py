@@ -83,7 +83,7 @@ def main(schema):
                     # Each schema is an item inside a numbered list.
                     _fnp('1. ', indent)
                     _properties(item, indent+1)
-            # Otherwise, ut should be a dictionary, like any other
+            # Otherwise, it should be a dictionary, like any other
             # schema.
             else:
                 _properties(properties, indent)
