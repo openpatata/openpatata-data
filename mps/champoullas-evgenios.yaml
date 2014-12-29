@@ -11,6 +11,6 @@ tenures:
 - district:
     el: Αμμόχωστος
     en: Ammochostos
-  end: null
+  end_date: null
   parl_group: ΔΗΣΥ
-  start: '2014-11-06'
+  start_date: '2014-11-06'

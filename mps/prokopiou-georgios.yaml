@@ -11,6 +11,6 @@ tenures:
 - district:
     el: Λάρνακα
     en: Larnaka
-  end: null
+  end_date: null
   parl_group: ΔΗΚΟ
-  start: '2011-06-02'
+  start_date: '2011-06-02'

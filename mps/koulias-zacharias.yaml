@@ -11,24 +11,24 @@ tenures:
 - district:
     el: Αμμόχωστος
     en: Ammochostos
-  end: '2006-05-31'
+  end_date: '2006-05-31'
   parl_group: ΔΗΚΟ
-  start: '2001-06-07'
+  start_date: '2001-06-07'
 - district:
     el: Αμμόχωστος
     en: Ammochostos
-  end: '2011-06-01'
+  end_date: '2011-06-01'
   parl_group: ΔΗΚΟ
-  start: '2006-06-01'
+  start_date: '2006-06-01'
 - district:
     el: Αμμόχωστος
     en: Ammochostos
-  end: '2011-06-03'
+  end_date: '2011-06-03'
   parl_group: ΔΗΚΟ
-  start: '2011-06-02'
+  start_date: '2011-06-02'
 - district:
     el: Αμμόχωστος
     en: Ammochostos
-  end: null
+  end_date: null
   parl_group: null
-  start: '2011-06-03'
+  start_date: '2011-06-03'

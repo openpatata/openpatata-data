@@ -39,11 +39,11 @@ properties:
           required:
           - el
           - en
-        start:
+        start_date:
           description: The start date, in ISO format (YYYY-MM-DD).
           type: string
           format: date
-        end:
+        end_date:
           description: >
             The end date, in ISO format (YYYY-MM-DD). Leave blank if MP
             currently in office.
@@ -60,8 +60,8 @@ properties:
           - 'null'
       required:
       - district
-      - start
-      - end
+      - start_date
+      - end_date
       - parl_group
   links:
     description: >

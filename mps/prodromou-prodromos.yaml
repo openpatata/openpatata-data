@@ -19,18 +19,18 @@ tenures:
 - district:
     el: Λευκωσία
     en: Lefkosia
-  end: '2004-05-01'
+  end_date: '2004-05-01'
   parl_group: ΔΗΣΥ
-  start: '2001-06-07'
+  start_date: '2001-06-07'
 - district:
     el: Λευκωσία
     en: Lefkosia
-  end: '2006-05-31'
+  end_date: '2006-05-31'
   parl_group: null
-  start: '2004-05-02'
+  start_date: '2004-05-02'
 - district:
     el: Λευκωσία
     en: Lefkosia
-  end: null
+  end_date: null
   parl_group: ΔΗΣΥ
-  start: '2013-03-07'
+  start_date: '2013-03-07'

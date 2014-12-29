@@ -19,6 +19,6 @@ tenures:
 - district:
     el: Λεμεσός
     en: Lemesos
-  end: null
+  end_date: null
   parl_group: ΕΔΕΚ
-  start: '2011-06-02'
+  start_date: '2011-06-02'

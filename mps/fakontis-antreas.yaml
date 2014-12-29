@@ -15,12 +15,12 @@ tenures:
 - district:
     el: Πάφος
     en: Pafos
-  end: '2011-06-01'
+  end_date: '2011-06-01'
   parl_group: ΑΚΕΛ–ΝΔ
-  start: '2006-06-01'
+  start_date: '2006-06-01'
 - district:
     el: Πάφος
     en: Pafos
-  end: null
+  end_date: null
   parl_group: ΑΚΕΛ–ΝΔ
-  start: '2011-06-02'
+  start_date: '2011-06-02'

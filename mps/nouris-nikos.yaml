@@ -15,6 +15,6 @@ tenures:
 - district:
     el: Λευκωσία
     en: Lefkosia
-  end: null
+  end_date: null
   parl_group: ΔΗΣΥ
-  start: '2013-03-07'
+  start_date: '2013-03-07'

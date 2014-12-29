@@ -11,12 +11,12 @@ tenures:
 - district:
     el: Λάρνακα
     en: Larnaka
-  end: '2006-05-31'
+  end_date: '2006-05-31'
   parl_group: ΔΗΣΥ
-  start: '2001-06-07'
+  start_date: '2001-06-07'
 - district:
     el: Λάρνακα
     en: Larnaka
-  end: null
+  end_date: null
   parl_group: ΔΗΣΥ
-  start: '2011-06-02'
+  start_date: '2011-06-02'
