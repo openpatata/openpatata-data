@@ -29,22 +29,24 @@ def _put_in_list(val):
     strings.
     """
     if isinstance(val, list):
-        # Make a copy of it 'cause we might be modifying it in place.
+        # Make a copy of it 'cause we'll be modifying it in place.
         return list(val)
     else:
         return [val]
 
 
-def _fnp(format_string, *args, **kwargs):
-    """Wrap `str.format` inside `print` for convenience. 'fnp' stands
-    for 'format and print'.
-    """
-    print(format_string.format(*args, **kwargs))
-
-
 def _indent(count):
     """Markdown list item indentation. Expert stuff."""
     return '    '*count
+
+
+def _fnp(format_string, tab, prefix='\n', *args, **kwargs):
+    """Wrap `str.format` inside `print` for convenience. 'fnp' stands
+    for 'format and print'.
+    """
+    print(('{prefix}{tab}{format_string}').format(
+        prefix=prefix, tab=_indent(tab), format_string=format_string.format(
+            *args, **kwargs)))
 
 
 def main(schema):
@@ -69,12 +71,20 @@ def main(schema):
             * 'journal'
             * 'newspaper'
         """
+        # If schema is of type `array`, look for the properties inside
+        # `items`.
         if 'array' in schema['type']:
             properties = schema['items']
+            # `items` may be a list, which defines a different schema
+            # for each item, in the order that they appear (see
+            # http://spacetelescope.github.io/understanding-json-schema/reference/array.html#tuple-validation).
             if isinstance(properties, list):
                 for item in properties:
-                    _fnp('\n{tab}1. ', tab=_indent(indent))
+                    # Each schema is an item inside a numbered list.
+                    _fnp('1. ', indent)
                     _properties(item, indent+1)
+            # Otherwise, ut should be a dictionary, like any other
+            # schema.
             else:
                 _properties(properties, indent)
 
@@ -82,39 +92,37 @@ def main(schema):
         if properties:
             for k, v in properties.items():
                 # Join types with a vertical bar and place the type of
-                # array items of regular arrays inside square brackets,
+                # items of regular arrays inside square brackets,
                 # e.g. `array [object]|null`
                 type_ = _put_in_list(v['type'])
-                if 'array' in type_:
-                    if isinstance(v['items'], dict) and 'type' in v['items']:
-                        type_[type_.index('array')] = \
-                            'array [{sub_type}]'.format(
-                                sub_type='|'.join(_put_in_list(
-                                    v['items']['type'])))
+                try:
+                    array = type_.index('array')
+                except ValueError:
+                    pass
+                else:
+                    items = v['items']
+                    if isinstance(items, dict) and 'type' in items:
+                        type_[array] = 'array [{sub_type}]'.format(
+                            sub_type='|'.join(_put_in_list(items['type'])))
                 type_ = '|'.join(type_)
 
-                # The headline on a new paragraph
                 _fnp(
-                    '\n{tab}* {is_req}**`{k}`** (`{type_}`)',
-                    tab=_indent(indent),
+                    '* {is_req}**`{k}`** (`{type_}`)', indent,
                     is_req=('[required] ' if k in schema.get(
                         'required', []) else ''), k=k, type_=type_)
 
-                # The escription on a new paragraph
                 description = v.get('description', '').strip()
                 if description:
                     _fnp(
-                        '\n{tab}{description}',
-                        tab=_indent(indent+1), description=description)
+                        '{description}', indent+1,
+                        description=description)
 
-                # The accepted values on a new paragraph
                 enum = v.get('enum')
                 if enum:
-                    _fnp(
-                        '\n{tab}One of:\n{enum}',
-                        tab=_indent(indent+1),
-                        enum=''.join('\n{tab}* {i}'.format(
-                            tab=_indent(indent+1), i=i) for i in enum))
+                    _fnp('One of:\n', indent+1)
+                    [_fnp(
+                        '* {item}', indent+1, '',
+                        item=i) for i in enum]
 
                 _properties(v, indent+1)
         else:
@@ -126,13 +134,13 @@ def main(schema):
                     pass
                 else:
                     _fnp(
-                        '\n{tab}Each item must be compliant with {item}:\n',
-                        tab=_indent(indent), item={
+                        'Each item must be compliant with {item}:',
+                        indent, item={
                             'allOf': 'all of',
                             'anyOf': 'any of',
                             'oneOf': 'exactly one of'}[item])
                     for special in special:
-                        _fnp('{tab}* ', tab=_indent(indent))
+                        _fnp('* ', indent)
                         _properties(special, indent+1)
 
     with open(schema) as f:

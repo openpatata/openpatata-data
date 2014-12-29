@@ -20,6 +20,7 @@
         * [required] **`date`** (`string`)
 
             The date, in ISO format (YYYY-MM-DD).
+
     * 
 
         * [required] **`action`** (`string`)
@@ -43,6 +44,7 @@
             * [required] **`en`** (`string`)
 
                 The name of the committee in English.
+
     * 
 
         * [required] **`action`** (`string`)
@@ -54,6 +56,7 @@
         * [required] **`date`** (`string`)
 
             The date, in ISO format (YYYY-MM-DD).
+
     * 
 
         * [required] **`action`** (`string`)
@@ -75,6 +78,7 @@
             * second reading
             * third reading
             * veto
+
     * 
 
         * [required] **`action`** (`string`)
@@ -177,6 +181,7 @@
             * second reading
             * third reading
             * veto
+
     * 
 
         * [required] **`action`** (`string`)
