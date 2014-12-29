@@ -1,5 +1,5 @@
 
-* **`actions`** (`array [object]`)
+* **actions** (`array [object]`)
 
     A list of actions parliament has taken on this bill, in chronological order. An action must be one of the following predefined types.
 
@@ -7,69 +7,69 @@
 
     * 
 
-        * [required] **`action`** (`string`)
+        * [required] **action** (`string`)
 
             One of:
 
             * submit
 
-        * [required] **`by`** (`array [string]`)
+        * [required] **by** (`array [string]`)
 
             The bill's sponsors.
 
-        * [required] **`date`** (`string`)
+        * [required] **date** (`string`)
 
             The date, in ISO format (YYYY-MM-DD).
 
     * 
 
-        * [required] **`action`** (`string`)
+        * [required] **action** (`string`)
 
             One of:
 
             * refer
 
-        * [required] **`date`** (`string`)
+        * [required] **date** (`string`)
 
             The date, in ISO format (YYYY-MM-DD).
 
-        * [required] **`to`** (`array [object]`)
+        * [required] **to** (`array [object]`)
 
             The committees the bill has been referred to.
 
-            * [required] **`el`** (`string`)
+            * [required] **el** (`string`)
 
                 The name of the committee in Greek.
 
-            * [required] **`en`** (`string`)
+            * [required] **en** (`string`)
 
                 The name of the committee in English.
 
     * 
 
-        * [required] **`action`** (`string`)
+        * [required] **action** (`string`)
 
             One of:
 
             * resubmit
 
-        * [required] **`date`** (`string`)
+        * [required] **date** (`string`)
 
             The date, in ISO format (YYYY-MM-DD).
 
     * 
 
-        * [required] **`action`** (`string`)
+        * [required] **action** (`string`)
 
             One of:
 
             * postpone
 
-        * [required] **`date`** (`string`)
+        * [required] **date** (`string`)
 
             The date, in ISO format (YYYY-MM-DD).
 
-        * [required] **`what`** (`string`)
+        * [required] **what** (`string`)
 
             Stage at which the bill was postponed.
 
@@ -81,21 +81,21 @@
 
     * 
 
-        * [required] **`action`** (`string`)
+        * [required] **action** (`string`)
 
             One of:
 
             * vote
 
-        * **`breakdown`** (`array [object]`)
+        * **breakdown** (`array [object]`)
 
             Individual MP votes; inferred.
 
-            * [required] **`name`** (`string`)
+            * [required] **name** (`string`)
 
                 The name of the MP, in Greek, in the following order: last name, middle name, first name.
 
-            * [required] **`option`** (`string`)
+            * [required] **option** (`string`)
 
                 Whether the MP has voted for or against, or abstained.
 
@@ -105,17 +105,17 @@
                 * no
                 * abstain
 
-        * **`counts`** (`array`)
+        * **counts** (`array`)
 
             Official counts. Options must be in the following order: yes, no, abstain. This is to ensure that there is only one of each option.
 
             1. 
 
-                * [required] **`count`** (`integer`)
+                * [required] **count** (`integer`)
 
                     The vote tally for this `option`.
 
-                * [required] **`option`** (`string`)
+                * [required] **option** (`string`)
 
                     Whether this option is for MPs who've voted for or against, or abstained.
 
@@ -125,11 +125,11 @@
 
             1. 
 
-                * [required] **`count`** (`integer`)
+                * [required] **count** (`integer`)
 
                     The vote tally for this `option`.
 
-                * [required] **`option`** (`string`)
+                * [required] **option** (`string`)
 
                     Whether this option is for MPs who've voted for or against, or abstained.
 
@@ -139,11 +139,11 @@
 
             1. 
 
-                * [required] **`count`** (`integer`)
+                * [required] **count** (`integer`)
 
                     The vote tally for this `option`.
 
-                * [required] **`option`** (`string`)
+                * [required] **option** (`string`)
 
                     Whether this option is for MPs who've voted for or against, or abstained.
 
@@ -151,19 +151,19 @@
 
                     * abstain
 
-        * [required] **`date`** (`string`)
+        * [required] **date** (`string`)
 
             The date, in ISO format (YYYY-MM-DD).
 
-        * **`motion`** (`string`)
+        * **motion** (`string`)
 
             The motion, word-for-word.
 
-        * **`remarks`** (`string`)
+        * **remarks** (`string`)
 
             Editor remarks.
 
-        * [required] **`result`** (`string`)
+        * [required] **result** (`string`)
 
             The outcome of the vote.
 
@@ -172,7 +172,7 @@
             * pass
             * fail
 
-        * [required] **`type`** (`string`)
+        * [required] **type** (`string`)
 
             The "type" of vote.
 
@@ -184,81 +184,81 @@
 
     * 
 
-        * [required] **`action`** (`string`)
+        * [required] **action** (`string`)
 
             One of:
 
             * other
 
-        * [required] **`date`** (`string`)
+        * [required] **date** (`string`)
 
             The date, in ISO format (YYYY-MM-DD).
 
-        * [required] **`description`** (`object`)
+        * [required] **description** (`object`)
 
             A brief description of this action.
 
-            * [required] **`el`** (`string`)
+            * [required] **el** (`string`)
 
                 The description in Greek.
 
-            * [required] **`en`** (`string`)
+            * [required] **en** (`string`)
 
                 The description in English.
 
-* **`explanatory_note`** (`object|null`)
+* **explanatory_note** (`object|null`)
 
     An accompanying explanatory note published in the Government Gazette.
 
-    * [required] **`authors`** (`array [object]`)
+    * [required] **authors** (`array [object]`)
 
         The author(s) of the note.
 
-        * [required] **`name`** (`string`)
+        * [required] **name** (`string`)
 
             The name of the author, in Greek, in the following order: last name, middle name, first name.
 
-        * **`note`** (`string|null`)
+        * **note** (`string|null`)
 
             What's written under the author's name, usually the capacity in which they're proposing a bill.
 
-    * [required] **`in`** (`object`)
+    * [required] **in** (`object`)
 
         Where the note is found in the Gazette.
 
-        * [required] **`issue`** (`integer`)
+        * [required] **issue** (`integer`)
 
             The issue of the Gazette.
 
-        * [required] **`pages`** (`string|number`)
+        * [required] **pages** (`string|number`)
 
-            Page or page range where the note has been printed. If a page ranged is used, separate pages with an en dash, e.g. '546–7'.
+            Page or page range where the note has been printed. If a page range is used, separate pages with an en dash, e.g. '546–7'.
 
-    * [required] **`text`** (`string`)
+    * [required] **text** (`string`)
 
         The note itself, in Markdown.
 
-* [required] **`identifier`** (`string`)
+* [required] **identifier** (`string`)
 
     The bill's unique identifier assigned to it by parliament.
 
-* **`law`** (`string|null`)
+* **law** (`string|null`)
 
     The law number, if the bill has been enacted.
 
-* **`sources`** (`array [object]|null`)
+* **sources** (`array [object]|null`)
 
     A list of references used by editors in prose (e.g. in the `summary` field), or anywhere you might wanna direct readers.
 
-    * **`id`** (`string|null`)
+    * **id** (`string|null`)
 
         A keyword for this source, to be used as an anchor. Not required if not a reference.
 
-    * [required] **`text`** (`string`)
+    * [required] **text** (`string`)
 
         The source, in Markdown.
 
-* **`status`** (`string|null`)
+* **status** (`string|null`)
 
     The status of the bill.
 
@@ -269,10 +269,10 @@
     * withdrawn
     * pending
 
-* **`summary`** (`string|null`)
+* **summary** (`string|null`)
 
     A summary of this bill authored by an editor, in Markdown.
 
-* [required] **`title`** (`string`)
+* [required] **title** (`string`)
 
     The title of this bill. This should be the title used in parliament, which may be different from the title of the law, if the bill has been enacted.

@@ -107,7 +107,7 @@ def main(schema):
                 type_ = '|'.join(type_)
 
                 _fnp(
-                    '* {is_req}**`{k}`** (`{type_}`)', indent,
+                    '* {is_req}**{k}** (`{type_}`)', indent,
                     is_req=('[required] ' if k in schema.get(
                         'required', []) else ''), k=k, type_=type_)
 
