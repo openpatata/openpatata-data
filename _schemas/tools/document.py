@@ -1,6 +1,6 @@
 
 from collections import OrderedDict
-import os
+import sys
 
 import yaml
 
@@ -43,7 +43,7 @@ def _indent(count):
     return '    '*count
 
 
-def main():
+def main(schema):
 
     def _properties(schema, indent=0):
         """Print each property's name (key), accepted types (`type`)
@@ -131,15 +131,10 @@ def main():
                         _fnp('{tab}* ', tab=_indent(indent))
                         _properties(special, indent+1)
 
-    schemata = (
-        os.path.join('_schemas', i) for i in os.listdir(
-            '_schemas') if i.endswith('.yaml'))
-    for i in schemata:
-        with open(i) as schema:
-            print('\n##', os.path.basename(i))
-            items = _sort_dicts(yaml.load(schema.read()))
-            _properties(items)
+    with open(schema) as f:
+        items = _sort_dicts(yaml.load(f.read()))
+        _properties(items)
 
 
 if __name__ == '__main__':
-    main()
+    main(sys.argv[1])
