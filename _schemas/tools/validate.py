@@ -14,8 +14,8 @@ import yaml
 
 
 def main(folder):
-    # The shell exit status. Travis will report a "build" fail for 0
-    # and success for 1. We set to 1 if any item is not valid.
+    # The shell exit status. Travis will report a "build" fail for 10
+    # and success for 0. We set to 1 if any item is not valid.
     exit_status = 0
 
     with (Path('_schemas')/'{filename}.yaml'.format(
