@@ -1,6 +1,7 @@
 
-"""Checks our data for syntax errors and compliance with the
-schema.
+"""Check our data for syntax errors and compliance with the schema. This
+script takes one argument, which is the path to a folder in which
+items of a particular schema reside.
 """
 
 from pathlib import Path

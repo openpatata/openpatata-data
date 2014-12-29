@@ -1,4 +1,8 @@
 
+"""Generate Markdown documentation for schemas. This script takes one
+argument, which is the path to a schema.
+"""
+
 from collections import OrderedDict
 import sys
 
