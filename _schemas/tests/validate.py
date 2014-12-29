@@ -22,7 +22,7 @@ def main(folder):
 
     for item in Path(folder).iterdir():
         with item.open() as f:
-            errors = validator.iter_errors(yaml.load(f))
+            errors = list(validator.iter_errors(yaml.load(f)))
             if errors:
                 exit_status = 1
                 for error in errors:
