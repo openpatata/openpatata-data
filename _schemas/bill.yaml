@@ -256,7 +256,7 @@ properties:
           pages:
             description: >
               Page or page range where the note has been printed. If a page
-              ranged is used, separate pages with an en dash, e.g. '546–7'.
+              range is used, separate pages with an en dash, e.g. '546–7'.
             type:
             - string
             - number
