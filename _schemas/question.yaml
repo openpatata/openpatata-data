@@ -1,0 +1,37 @@
+$schema: 'http://json-schema.org/schema#'
+type: object
+properties:
+  answer:
+    description: URL to the answer on parliament's website.
+    type: string
+  identifier:
+    description: The question's tracking identifier.
+    type: string
+  question:
+    description: The question posed by the MP(s).
+    type: object
+    properties:
+      by:
+        description: The names of the MPs asking the question.
+        type: array
+        items:
+          type: string
+      date:
+        description: Date the question was asked.
+        type: string
+        format: date
+      text:
+        description: The question itself, formatted in Markdown.
+        type: string
+      title:
+        description: The title of the question.
+        type: string
+    required:
+    - by
+    - date
+    - text
+    - title
+required:
+- answer
+- identifier
+- question

@@ -7,5 +7,6 @@ script:
 - python3 _schemas/tools/validate.py committee_reports
 - python3 _schemas/tools/validate.py mps
 - python3 _schemas/tools/validate.py plenary_sittings
+- python3 _schemas/tools/validate.py questions
 notifications:
   email: false
