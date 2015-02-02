@@ -16,6 +16,7 @@ properties:
         type: array
         items:
           type: string
+        minItems: 1
       date:
         description: Date the question was asked.
         type: string
