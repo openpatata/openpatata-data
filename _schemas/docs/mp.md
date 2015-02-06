@@ -1,4 +1,8 @@
 
+* **dofi** (`string|null`)
+
+    Link to the MP's latest declaration of financial interests.
+
 * **links** (`array [object]|null`)
 
     A list of pertinent links, e.g. the MP's page on parliament. Generally, no more than five. If linking to Wikipedia, link only to one language version of it, preferably English.

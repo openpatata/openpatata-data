@@ -1,3 +1,4 @@
+dofi: https://github.com/openpatata/cypriot-mp-dofis/blob/master/a_neophytou_DISI.pdf
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -23,6 +24,11 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/NEOFYTOU%20Averof.j
 name:
   el: Νεοφύτου Αβέρωφ
   en: Neofytou Averof
+name_variants:
+- Neofitou Averof
+- Neofytou Averof
+- Neophitou Averof
+- Neophytou Averof
 tenures:
 - district:
     el: Λευκωσία

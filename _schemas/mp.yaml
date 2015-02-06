@@ -18,6 +18,12 @@ properties:
     required:
     - el
     - en
+  dofi:
+    description: Link to the MP's latest declaration of financial interests.
+    type:
+    - string
+    - 'null'
+    format: uri
   tenures:
     description: The MP's tenures in parliament.
     type: array
