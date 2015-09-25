@@ -1,4 +1,5 @@
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_kyriakidou_DIKO.pdf
+email: akyriakidou@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -8,22 +9,31 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/KYRIAKIDOU%20Athina
 name:
   el: Κυριακίδου Αθηνά
   en: Kyriakidou Athina
+other_names:
+- name: Kyriakidou Athina
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Λεμεσός
     en: Lemesos
   end_date: '2006-05-31'
-  parl_group: ΔΗΚΟ
+  parl_group:
+    el: ΔΗΚΟ
+    en: DIKO
   start_date: '2004-07-20'
 - district:
     el: Λεμεσός
     en: Lemesos
   end_date: '2011-06-01'
-  parl_group: ΔΗΚΟ
+  parl_group:
+    el: ΔΗΚΟ
+    en: DIKO
   start_date: '2006-06-01'
 - district:
     el: Λεμεσός
     en: Lemesos
   end_date: null
-  parl_group: ΔΗΚΟ
+  parl_group:
+    el: ΔΗΚΟ
+    en: DIKO
   start_date: '2011-06-02'

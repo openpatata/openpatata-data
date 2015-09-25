@@ -1,4 +1,5 @@
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_antoniou_DIKO.pdf
+email: aantoniou@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -16,16 +17,23 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/ANTONIOU%20ANTONIS.
 name:
   el: Αντωνίου Αντώνης
   en: Antoniou Antonis
+other_names:
+- name: Antoniou Antonis
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Πάφος
     en: Pafos
   end_date: '2011-06-01'
-  parl_group: ΔΗΚΟ
+  parl_group:
+    el: ΔΗΚΟ
+    en: DIKO
   start_date: '2006-06-01'
 - district:
     el: Πάφος
     en: Pafos
   end_date: null
-  parl_group: ΔΗΚΟ
+  parl_group:
+    el: ΔΗΚΟ
+    en: DIKO
   start_date: '2011-06-02'

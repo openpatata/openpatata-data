@@ -1,4 +1,5 @@
 dofi: null
+email: icharalambides@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -12,10 +13,15 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Charalambidou%20Eir
 name:
   el: Χαραλαμπίδου Ειρήνη
   en: Charalampidou Eirini
+other_names:
+- name: Charalambides Irene
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Λευκωσία
     en: Lefkosia
   end_date: null
-  parl_group: ΑΚΕΛ–ΝΔ
+  parl_group:
+    el: ΑΚΕΛ–ΝΔ
+    en: AKEL–ND
   start_date: '2011-06-02'

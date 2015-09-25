@@ -1,4 +1,5 @@
 dofi: null
+email: pstavrianos@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -12,16 +13,23 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Stavrianos%20Panikk
 name:
   el: Σταυριανός Πανίκκος
   en: Stavrianos Panikkos
+other_names:
+- name: Stavrianos Panikkos
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Λάρνακα
     en: Larnaka
   end_date: '2011-06-01'
-  parl_group: ΑΚΕΛ–ΝΔ
+  parl_group:
+    el: ΑΚΕΛ–ΝΔ
+    en: AKEL–ND
   start_date: '2006-06-01'
 - district:
     el: Λάρνακα
     en: Larnaka
   end_date: null
-  parl_group: ΑΚΕΛ–ΝΔ
+  parl_group:
+    el: ΑΚΕΛ–ΝΔ
+    en: AKEL–ND
   start_date: '2011-06-02'

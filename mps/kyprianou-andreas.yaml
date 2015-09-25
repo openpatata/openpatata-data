@@ -1,4 +1,5 @@
 dofi: null
+email: andkyprianou@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -12,16 +13,23 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/KYPRIANOU%20Andreas
 name:
   el: Κυπριανού Ανδρέας
   en: Kyprianou Andreas
+other_names:
+- name: Kyprianou Andreas
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Λεμεσός
     en: Lemesos
   end_date: '2011-06-01'
-  parl_group: ΔΗΣΥ
+  parl_group:
+    el: ΔΗΣΥ
+    en: DISY
   start_date: '2009-07-15'
 - district:
     el: Λεμεσός
     en: Lemesos
   end_date: null
-  parl_group: ΔΗΣΥ
+  parl_group:
+    el: ΔΗΣΥ
+    en: DISY
   start_date: '2011-06-02'

@@ -1,4 +1,5 @@
 dofi: null
+email: skoukouma@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -12,16 +13,23 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Koutra-%20Koukouma%
 name:
   el: Κουκουμά Κούτρα Σκεύη
   en: Koukouma Koutra Skevi
+other_names:
+- name: Koukouma Koutra Skevi
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Αμμόχωστος
     en: Ammochostos
   end_date: '2011-06-01'
-  parl_group: ΑΚΕΛ–ΝΔ
+  parl_group:
+    el: ΑΚΕΛ–ΝΔ
+    en: AKEL–ND
   start_date: '2008-03-06'
 - district:
     el: Αμμόχωστος
     en: Ammochostos
   end_date: null
-  parl_group: ΑΚΕΛ–ΝΔ
+  parl_group:
+    el: ΑΚΕΛ–ΝΔ
+    en: AKEL–ND
   start_date: '2011-06-02'

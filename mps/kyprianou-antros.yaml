@@ -1,4 +1,5 @@
 dofi: null
+email: akyprianou@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -12,22 +13,31 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Kiprianou%20Andros%
 name:
   el: Κυπριανού Άντρος
   en: Kyprianou Antros
+other_names:
+- name: Kyprianou Andros
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Λευκωσία
     en: Lefkosia
   end_date: '2006-05-31'
-  parl_group: ΑΚΕΛ–ΝΔ
+  parl_group:
+    el: ΑΚΕΛ–ΝΔ
+    en: AKEL–ND
   start_date: '2001-06-07'
 - district:
     el: Λευκωσία
     en: Lefkosia
   end_date: '2011-06-01'
-  parl_group: ΑΚΕΛ–ΝΔ
+  parl_group:
+    el: ΑΚΕΛ–ΝΔ
+    en: AKEL–ND
   start_date: '2006-06-01'
 - district:
     el: Λευκωσία
     en: Lefkosia
   end_date: null
-  parl_group: ΑΚΕΛ–ΝΔ
+  parl_group:
+    el: ΑΚΕΛ–ΝΔ
+    en: AKEL–ND
   start_date: '2011-06-02'

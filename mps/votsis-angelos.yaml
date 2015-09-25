@@ -1,4 +1,5 @@
 dofi: null
+email: avotsis@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -12,16 +13,23 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/VOTSIS%20Aggelos.jp
 name:
   el: Βότσης Άγγελος
   en: Votsis Angelos
+other_names:
+- name: Votsis Angelos
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Λεμεσός
     en: Lemesos
   end_date: '2011-06-01'
-  parl_group: ΔΗΚΟ
+  parl_group:
+    el: ΔΗΚΟ
+    en: DIKO
   start_date: '2006-06-01'
 - district:
     el: Λεμεσός
     en: Lemesos
   end_date: null
-  parl_group: ΔΗΚΟ
+  parl_group:
+    el: ΔΗΚΟ
+    en: DIKO
   start_date: '2011-06-02'

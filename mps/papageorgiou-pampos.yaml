@@ -1,4 +1,5 @@
 dofi: null
+email: cpapageorgiou@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -12,10 +13,15 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Papagewrgiou%20Pamp
 name:
   el: Παπαγεωργίου Πάμπος
   en: Papageorgiou Pampos
+other_names:
+- name: Papageorgiou Bambos
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Κερύνεια
     en: Keryneia
   end_date: null
-  parl_group: ΑΚΕΛ–ΝΔ
+  parl_group:
+    el: ΑΚΕΛ–ΝΔ
+    en: AKEL–ND
   start_date: '2011-06-02'

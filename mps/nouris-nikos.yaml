@@ -1,4 +1,5 @@
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/n_nouris_DISI.pdf
+email: nnouris@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -12,10 +13,15 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/NOURIS%20Nikos.jpg
 name:
   el: Νουρής Νίκος
   en: Nouris Nikos
+other_names:
+- name: Nouris Nicos
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Λευκωσία
     en: Lefkosia
   end_date: null
-  parl_group: ΔΗΣΥ
+  parl_group:
+    el: ΔΗΣΥ
+    en: DISY
   start_date: '2013-03-07'

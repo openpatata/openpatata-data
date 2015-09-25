@@ -1,4 +1,5 @@
 dofi: null
+email: ediplaros@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -16,10 +17,15 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/DIPLAROS%20Efthymio
 name:
   el: Δίπλαρος Ευθύμιος
   en: Diplaros Efthymios
+other_names:
+- name: Diplaros Efthimios
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Λεμεσός
     en: Lemesos
   end_date: null
-  parl_group: ΔΗΣΥ
+  parl_group:
+    el: ΔΗΣΥ
+    en: DISY
   start_date: '2011-06-02'

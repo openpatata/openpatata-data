@@ -1,4 +1,5 @@
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/g_prokopiou_DIKO.pdf
+email: giprokopiou@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -8,10 +9,15 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/PROKOPIOU%20Giorgos
 name:
   el: Προκοπίου Γεώργιος
   en: Prokopiou Georgios
+other_names:
+- name: Prokopiou Georgios
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Λάρνακα
     en: Larnaka
   end_date: null
-  parl_group: ΔΗΚΟ
+  parl_group:
+    el: ΔΗΚΟ
+    en: DIKO
   start_date: '2011-06-02'

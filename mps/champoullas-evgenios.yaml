@@ -1,4 +1,5 @@
 dofi: null
+email: ehamboullas@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -8,10 +9,15 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Hamboullas-mikri.jp
 name:
   el: Χαμπουλλάς Ευγένιος
   en: Champoullas Evgenios
+other_names:
+- name: Hamboullas Evgenios
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Αμμόχωστος
     en: Ammochostos
   end_date: null
-  parl_group: ΔΗΣΥ
+  parl_group:
+    el: ΔΗΣΥ
+    en: DISY
   start_date: '2014-11-06'

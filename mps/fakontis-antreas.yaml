@@ -1,4 +1,5 @@
 dofi: null
+email: afakontis@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -12,16 +13,23 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Fakontis%20Andreas%
 name:
   el: Φακοντής Αντρέας
   en: Fakontis Antreas
+other_names:
+- name: Fakontis Andreas
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Πάφος
     en: Pafos
   end_date: '2011-06-01'
-  parl_group: ΑΚΕΛ–ΝΔ
+  parl_group:
+    el: ΑΚΕΛ–ΝΔ
+    en: AKEL–ND
   start_date: '2006-06-01'
 - district:
     el: Πάφος
     en: Pafos
   end_date: null
-  parl_group: ΑΚΕΛ–ΝΔ
+  parl_group:
+    el: ΑΚΕΛ–ΝΔ
+    en: AKEL–ND
   start_date: '2011-06-02'

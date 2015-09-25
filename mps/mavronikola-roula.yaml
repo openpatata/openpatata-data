@@ -1,4 +1,5 @@
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/r_vavronikola.pdf
+email: rmavronikola@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -12,16 +13,23 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/MAVRONIKOLA%20Roula
 name:
   el: Μαυρονικόλα Ρούλα
   en: Mavronikola Roula
+other_names:
+- name: Mavronicola Roula
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Λευκωσία
     en: Lefkosia
   end_date: '2011-06-01'
-  parl_group: ΕΔΕΚ
+  parl_group:
+    el: ΕΔΕΚ
+    en: EDEK
   start_date: '2006-06-01'
 - district:
     el: Λευκωσία
     en: Lefkosia
   end_date: null
-  parl_group: ΕΔΕΚ
+  parl_group:
+    el: ΕΔΕΚ
+    en: EDEK
   start_date: '2011-06-02'

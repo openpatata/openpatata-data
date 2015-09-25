@@ -1,4 +1,5 @@
 dofi: null
+email: zkoulias@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -8,24 +9,33 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/KOULIAS%20ZACHARIAS
 name:
   el: Κουλίας Ζαχαρίας
   en: Koulias Zacharias
+other_names:
+- name: Koulias Zacharias
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Αμμόχωστος
     en: Ammochostos
   end_date: '2006-05-31'
-  parl_group: ΔΗΚΟ
+  parl_group:
+    el: ΔΗΚΟ
+    en: DIKO
   start_date: '2001-06-07'
 - district:
     el: Αμμόχωστος
     en: Ammochostos
   end_date: '2011-06-01'
-  parl_group: ΔΗΚΟ
+  parl_group:
+    el: ΔΗΚΟ
+    en: DIKO
   start_date: '2006-06-01'
 - district:
     el: Αμμόχωστος
     en: Ammochostos
   end_date: '2011-06-03'
-  parl_group: ΔΗΚΟ
+  parl_group:
+    el: ΔΗΚΟ
+    en: DIKO
   start_date: '2011-06-02'
 - district:
     el: Αμμόχωστος

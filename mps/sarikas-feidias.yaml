@@ -1,4 +1,5 @@
 dofi: null
+email: fsarikas@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -8,16 +9,23 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/SARIKAS%20Fidias.jp
 name:
   el: Σαρίκας Φειδίας
   en: Sarikas Feidias
+other_names:
+- name: Sarikas Fidias
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Πάφος
     en: Pafos
   end_date: '2011-06-01'
-  parl_group: ΕΔΕΚ
+  parl_group:
+    el: ΕΔΕΚ
+    en: EDEK
   start_date: '2006-06-01'
 - district:
     el: Πάφος
     en: Pafos
   end_date: null
-  parl_group: ΕΔΕΚ
+  parl_group:
+    el: ΕΔΕΚ
+    en: EDEK
   start_date: '2011-06-02'

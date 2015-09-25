@@ -18,12 +18,34 @@ properties:
     required:
     - el
     - en
+  other_names:
+    description: Alternate names and spellings.
+    type:
+    - array
+    - 'null'
+    items:
+      type: object
+      properties:
+        name:
+          description: The name itself.
+          type: string
+        note:
+          description: What sort of name is it?
+          type: string
+      required:
+      - name
+      - note
   dofi:
     description: Link to the MP's latest declaration of financial interests.
     type:
     - string
     - 'null'
     format: uri
+  email:
+    description: Official e-mail address.
+    type:
+    - string
+    - 'null'
   tenures:
     description: The MP's tenures in parliament.
     type: array
@@ -60,10 +82,21 @@ properties:
         parl_group:
           description: >
             The parliament group the MP is affiliated to, if any; otherwise
-            blank.
+            leave blank.
           type:
-          - string
+          - object
           - 'null'
+          properties:
+            el:
+              description: Name in Greek.
+              type: string
+            en:
+              description: >
+                Name in Eglish, ISO 843-transliterated from the Greek.
+              type: string
+          required:
+          - el
+          - en
       required:
       - district
       - start_date
@@ -84,10 +117,10 @@ properties:
           type: object
           properties:
             el:
-              description: A very short description of this link in Greek.
+              description: A brief description in Greek.
               type: string
             en:
-              description: A very short description of this link in English.
+              description: A brief description in English.
               type: string
           required:
           - el
@@ -101,7 +134,7 @@ properties:
       - url
   mugshot:
     description: >
-      A link to the MP's mugshot on parliament's website. Use the highest
+      A link to the MP's mugshot on Parliament's website. Use the highest
       resolution available.
     type:
     - string

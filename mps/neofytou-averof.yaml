@@ -1,4 +1,5 @@
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_neophytou_DISI.pdf
+email: aneofytou@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -24,16 +25,23 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/NEOFYTOU%20Averof.j
 name:
   el: Νεοφύτου Αβέρωφ
   en: Neofytou Averof
+other_names:
+- name: Neofytou Averof
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Λευκωσία
     en: Lefkosia
   end_date: '2011-06-01'
-  parl_group: ΔΗΣΥ
+  parl_group:
+    el: ΔΗΣΥ
+    en: DISY
   start_date: '2006-06-01'
 - district:
     el: Λευκωσία
     en: Lefkosia
   end_date: null
-  parl_group: ΔΗΣΥ
+  parl_group:
+    el: ΔΗΣΥ
+    en: DISY
   start_date: '2011-06-02'

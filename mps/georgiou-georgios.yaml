@@ -1,4 +1,5 @@
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/g_georgiou_DISI.pdf
+email: ggeorgiou@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -12,22 +13,31 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/GEORGIOU%20Georgios
 name:
   el: Γεωργίου Γεώργιος
   en: Georgiou Georgios
+other_names:
+- name: Georgiou Georgios
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Αμμόχωστος
     en: Ammochostos
   end_date: '2006-05-31'
-  parl_group: ΔΗΣΥ
+  parl_group:
+    el: ΔΗΣΥ
+    en: DISY
   start_date: '2001-06-07'
 - district:
     el: Αμμόχωστος
     en: Ammochostos
   end_date: '2011-06-01'
-  parl_group: ΔΗΣΥ
+  parl_group:
+    el: ΔΗΣΥ
+    en: DISY
   start_date: '2006-06-01'
 - district:
     el: Αμμόχωστος
     en: Ammochostos
   end_date: null
-  parl_group: ΔΗΣΥ
+  parl_group:
+    el: ΔΗΣΥ
+    en: DISY
   start_date: '2011-06-02'

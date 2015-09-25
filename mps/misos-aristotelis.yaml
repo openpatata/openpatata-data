@@ -1,4 +1,5 @@
 dofi: null
+email: amisos@parliament.cy
 links:
 - note:
     el: Ιστοσελίδα Βουλής
@@ -8,10 +9,15 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/MISOS%20Aristotelis
 name:
   el: Μισός Αριστοτέλης
   en: Misos Aristotelis
+other_names:
+- name: Misos Aristotelis
+  note: As spelled on Parliament's website in the Latin alphabet
 tenures:
 - district:
     el: Λάρνακα
     en: Larnaka
   end_date: null
-  parl_group: ΔΗΣΥ
+  parl_group:
+    el: ΔΗΣΥ
+    en: DISY
   start_date: '2013-03-07'
