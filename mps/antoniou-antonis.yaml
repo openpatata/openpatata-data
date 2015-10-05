@@ -1,3 +1,4 @@
+birth_date: '1959-11-30'
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_antoniou_DIKO.pdf
 email: aantoniou@parliament.cy
 links:
@@ -19,7 +20,7 @@ name:
   en: Antoniou Antonis
 other_names:
 - name: Antoniou Antonis
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Πάφος

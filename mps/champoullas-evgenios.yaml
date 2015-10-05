@@ -1,3 +1,4 @@
+birth_date: '1969-01-12'
 dofi: null
 email: ehamboullas@parliament.cy
 links:
@@ -11,7 +12,7 @@ name:
   en: Champoullas Evgenios
 other_names:
 - name: Hamboullas Evgenios
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Αμμόχωστος

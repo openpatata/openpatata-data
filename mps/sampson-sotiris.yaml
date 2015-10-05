@@ -1,3 +1,4 @@
+birth_date: '1965-08-06'
 dofi: null
 email: ssampson@parliament.cy
 links:
@@ -11,7 +12,7 @@ name:
   en: Sampson Sotiris
 other_names:
 - name: Sampson Sotiris
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Αμμόχωστος

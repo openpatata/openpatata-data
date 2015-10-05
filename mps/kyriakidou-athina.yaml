@@ -1,3 +1,4 @@
+birth_date: null
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_kyriakidou_DIKO.pdf
 email: akyriakidou@parliament.cy
 links:
@@ -11,7 +12,7 @@ name:
   en: Kyriakidou Athina
 other_names:
 - name: Kyriakidou Athina
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Λεμεσός

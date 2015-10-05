@@ -1,3 +1,4 @@
+birth_date: '1964-03-19'
 dofi: null
 email: icharalambides@parliament.cy
 links:
@@ -15,7 +16,7 @@ name:
   en: Charalampidou Eirini
 other_names:
 - name: Charalambides Irene
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Λευκωσία

@@ -1,3 +1,4 @@
+birth_date: '1959-07-14'
 dofi: null
 email: amappourides@parliament.cy
 links:
@@ -11,7 +12,7 @@ name:
   en: Mappouridis Rikkos
 other_names:
 - name: Mappourides Andreas
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Λευκωσία

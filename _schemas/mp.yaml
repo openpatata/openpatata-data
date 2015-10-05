@@ -35,6 +35,12 @@ properties:
       required:
       - name
       - note
+  birth_date:
+    description: Their date of birth in the ISO format.
+    type:
+    - string
+    - 'null'
+    format: date
   dofi:
     description: Link to the MP's latest declaration of financial interests.
     type:
@@ -46,6 +52,7 @@ properties:
     type:
     - string
     - 'null'
+    format: email
   tenures:
     description: The MP's tenures in parliament.
     type: array

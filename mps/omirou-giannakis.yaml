@@ -1,3 +1,4 @@
+birth_date: '1951-09-18'
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/G_Omirou.pdf
 email: yomirou@parliament.cy
 links:
@@ -19,7 +20,7 @@ name:
   en: Omirou Giannakis
 other_names:
 - name: Omirou Yiannakis
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Πάφος

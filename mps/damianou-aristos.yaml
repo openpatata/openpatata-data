@@ -1,3 +1,4 @@
+birth_date: '1972-06-03'
 dofi: null
 email: adamianou@parliament.cy
 links:
@@ -19,7 +20,7 @@ name:
   en: Damianou Aristos
 other_names:
 - name: Damianou Aristos
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Λευκωσία

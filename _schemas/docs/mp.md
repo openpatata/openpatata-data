@@ -1,3 +1,6 @@
+* **birth_date** (`string|null`)
+
+    Their date of birth in the ISO format.
 
 * **dofi** (`string|null`)
 

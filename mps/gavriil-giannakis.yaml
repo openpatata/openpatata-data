@@ -1,3 +1,4 @@
+birth_date: '1961-07-17'
 dofi: null
 email: ycavriel@parliament.cy
 links:
@@ -15,7 +16,7 @@ name:
   en: Gavriil Giannakis
 other_names:
 - name: Gavriel Yiannakis
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Αμμόχωστος

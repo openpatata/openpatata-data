@@ -1,3 +1,4 @@
+birth_date: '1960-11-14'
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/n_nouris_DISI.pdf
 email: nnouris@parliament.cy
 links:
@@ -15,7 +16,7 @@ name:
   en: Nouris Nikos
 other_names:
 - name: Nouris Nicos
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Λευκωσία

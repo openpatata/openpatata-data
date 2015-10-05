@@ -1,3 +1,4 @@
+birth_date: '1954-12-16'
 dofi: null
 email: nconstantinou@parliament.cy
 links:
@@ -11,7 +12,7 @@ name:
   en: Konstantinou Neofytos
 other_names:
 - name: Constantinou Neophytos
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Λευκωσία

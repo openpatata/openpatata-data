@@ -1,3 +1,4 @@
+birth_date: '1968-12-05'
 dofi: null
 email: gloukaides@parliament.cy
 links:
@@ -15,7 +16,7 @@ name:
   en: Loukaidis Giorgos
 other_names:
 - name: Loukaides George
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Λευκωσία

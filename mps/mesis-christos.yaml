@@ -1,3 +1,4 @@
+birth_date: '1957-08-25'
 dofi: null
 email: cmessis@parliament.cy
 links:
@@ -15,7 +16,7 @@ name:
   en: Mesis Christos
 other_names:
 - name: Messis Christos
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Λεμεσός

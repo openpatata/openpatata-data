@@ -1,3 +1,4 @@
+birth_date: '1961-07-31'
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_neophytou_DISI.pdf
 email: aneofytou@parliament.cy
 links:
@@ -27,7 +28,7 @@ name:
   en: Neofytou Averof
 other_names:
 - name: Neofytou Averof
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Λευκωσία

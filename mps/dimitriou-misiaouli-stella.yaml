@@ -1,3 +1,4 @@
+birth_date: '1954-10-18'
 dofi: null
 email: smisiaouli@parliament.cy
 links:
@@ -14,8 +15,10 @@ name:
   el: Δημητρίου Μισιαούλη Στέλλα
   en: Dimitriou Misiaouli Stella
 other_names:
+- name: Μισιαούλη Στέλλα
+  note: Short form (el-Grek)
 - name: Demetriou Misiaouli Stella
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Λευκωσία

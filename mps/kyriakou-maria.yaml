@@ -1,3 +1,4 @@
+birth_date: '1950-09-26'
 dofi: null
 email: mkyriakou@parliament.cy
 links:
@@ -11,7 +12,7 @@ name:
   en: Kyriakou Maria
 other_names:
 - name: Kyriakou Maria
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Λευκωσία

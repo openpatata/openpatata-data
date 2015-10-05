@@ -1,3 +1,4 @@
+birth_date: '1956-12-29'
 dofi: null
 email: ctziovanis@parliament.cy
 links:
@@ -15,7 +16,7 @@ name:
   en: Tziovanis Christakis
 other_names:
 - name: Giovanis Christakis
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Αμμόχωστος

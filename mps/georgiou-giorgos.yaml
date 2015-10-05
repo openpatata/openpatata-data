@@ -1,3 +1,4 @@
+birth_date: '1963-04-09'
 dofi: null
 email: gegeorgiou@parliament.cy
 links:
@@ -15,7 +16,7 @@ name:
   en: Georgiou Giorgos
 other_names:
 - name: Georgiou Giorgos
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Λάρνακα

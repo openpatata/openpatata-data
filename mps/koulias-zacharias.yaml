@@ -1,3 +1,4 @@
+birth_date: '1950-12-07'
 dofi: null
 email: zkoulias@parliament.cy
 links:
@@ -11,7 +12,7 @@ name:
   en: Koulias Zacharias
 other_names:
 - name: Koulias Zacharias
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Αμμόχωστος

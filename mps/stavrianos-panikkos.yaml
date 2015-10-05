@@ -1,3 +1,4 @@
+birth_date: '1964-02-07'
 dofi: null
 email: pstavrianos@parliament.cy
 links:
@@ -15,7 +16,7 @@ name:
   en: Stavrianos Panikkos
 other_names:
 - name: Stavrianos Panikkos
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Λάρνακα

@@ -1,3 +1,4 @@
+birth_date: '1973-04-22'
 dofi: null
 email: npapadopoulos@parliament.cy
 links:
@@ -23,7 +24,7 @@ name:
   en: Papadopoulos Nikolas
 other_names:
 - name: Papadopoulos Nicholas
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Λευκωσία

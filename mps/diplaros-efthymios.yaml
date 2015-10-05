@@ -1,3 +1,4 @@
+birth_date: '1980-03-18'
 dofi: null
 email: ediplaros@parliament.cy
 links:
@@ -19,7 +20,7 @@ name:
   en: Diplaros Efthymios
 other_names:
 - name: Diplaros Efthimios
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Λεμεσός

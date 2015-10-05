@@ -1,3 +1,4 @@
+birth_date: '1952-12-29'
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/A_Michaelides_DISI1.pdf
 email: amichaelides@parliament.cy
 links:
@@ -15,7 +16,7 @@ name:
   en: Michailidis Andreas
 other_names:
 - name: Michaelides Andreas
-  note: As spelled on Parliament's website in the Latin alphabet
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - district:
     el: Λεμεσός
