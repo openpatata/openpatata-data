@@ -1,0 +1,26 @@
+agenda:
+  debate:
+  - 23.05.048.004-2015
+  - 23.05.048.002-2015
+  - 23.05.048.003-2015
+  legislative_work:
+  - 23.01.056.018-2015
+  - 23.01.055.201-2014
+  - 23.01.056.088-2015
+  - 23.01.055.274-2014
+  - 23.02.056.062-2015
+  - 23.02.056.015-2015
+  - 23.01.056.044-2015
+  - 23.03.052.027-2015
+  - 23.03.051.030-2014
+  - 23.03.052.029-2015
+  - 23.01.056.056-2015
+date: '2015-06-11'
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/1504
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-06-11.pdf
+parliament: Ι
+session: Δ
+sitting: 40

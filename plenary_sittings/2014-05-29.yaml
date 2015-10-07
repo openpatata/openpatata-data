@@ -15,7 +15,9 @@ date: '2014-05-29'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/944
-parliament: Ι΄
-session: Γ΄
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-05-29.pdf
+parliament: Ι
+session: Γ
 sitting: 36
 type: ordinary

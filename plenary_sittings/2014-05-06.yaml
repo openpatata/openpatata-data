@@ -6,7 +6,9 @@ date: '2014-05-06'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/917
-parliament: Ι΄
-session: Γ΄
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-05-06.pdf
+parliament: Ι
+session: Γ
 sitting: 34
 type: extraordinary

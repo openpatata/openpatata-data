@@ -64,7 +64,9 @@ links:
   url: http://www.parliament.cy/easyconsole.cfm/id/996
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/997
-parliament: Ι΄
-session: Γ΄
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-07-10.pdf
+parliament: Ι
+session: Γ
 sitting: 42
 type: ordinary

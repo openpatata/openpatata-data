@@ -1,0 +1,27 @@
+agenda:
+  debate:
+  - 23.05.048.001-2015
+  legislative_work:
+  - 23.01.055.121-2014
+  - 23.01.055.255-2014
+  - 23.01.055.268-2014
+  - 23.03.051.020-2014
+  - 23.01.055.177-2014
+  - 23.01.054.143-2013
+  - 23.01.056.001-2015
+  - 23.01.055.095-2014
+  - 23.03.051.090-2014
+  - 23.03.051.065-2014
+  - 23.03.051.066-2014
+  - 23.03.051.067-2014
+  - 23.03.051.069-2014
+date: '2015-02-12'
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/1319
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-02-12.pdf
+parliament: Ι
+session: Δ
+sitting: 22
+type: ordinary

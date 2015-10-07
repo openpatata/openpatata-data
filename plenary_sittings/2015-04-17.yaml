@@ -1,0 +1,22 @@
+agenda:
+  legislative_work:
+  - 23.02.056.033-2015
+  - 23.01.056.053-2015
+  - 23.01.055.261-2014
+  - 23.01.056.004-2015
+  - 23.01.056.010-2015
+  - 23.01.055.262-2014
+  - 23.03.052.001-2015
+  - 23.02.056.028-2015
+  - 23.02.056.040-2015
+  - 23.02.056.048-2015
+  - 23.02.055.087-2014
+date: '2015-04-17'
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/1412
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-04-17.pdf
+parliament: Ι
+session: Δ
+sitting: 32

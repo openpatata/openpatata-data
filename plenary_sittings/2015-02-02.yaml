@@ -5,7 +5,9 @@ date: '2015-02-02'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/1301
-parliament: Ι΄
-session: Δ΄
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-02-02.pdf
+parliament: Ι
+session: Δ
 sitting: 20
 type: special

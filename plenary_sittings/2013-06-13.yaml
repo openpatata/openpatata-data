@@ -1,0 +1,24 @@
+agenda:
+  legislative_work:
+  - 23.01.054.089-2013
+  - 23.02.054.021-2013
+  - 23.02.054.036-2013
+  - 23.02.054.017-2013
+  - 23.02.054.026-2013
+  - 23.01.054.106-2013
+  - 23.01.054.100-2013
+  - 23.01.051.224-2010
+  - 23.01.054.105-2013
+  - 23.02.054.046-2013
+  - 23.03.050.024-2013
+  - 23.03.050.026-2013
+  - 23.01.053.094-2012
+date: '2013-06-13'
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/546
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-06-13.pdf
+parliament: Ι
+session: Β
+sitting: 36

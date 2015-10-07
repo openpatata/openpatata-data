@@ -25,7 +25,9 @@ date: '2014-06-19'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/962
-parliament: Ι΄
-session: Γ΄
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-06-19.pdf
+parliament: Ι
+session: Γ
 sitting: 39
 type: ordinary

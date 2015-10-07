@@ -1,0 +1,19 @@
+agenda:
+  debate:
+  - 23.05.048.001-2015
+  - 23.05.048.002-2015
+  legislative_work:
+  - 23.02.056.029-2015
+  - 23.01.056.032-2015
+  - 23.01.056.020-2015
+  - 23.03.052.007-2015
+  - 23.03.052.010-2015
+date: '2015-03-05'
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/1355
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-03-05.pdf
+parliament: Ι
+session: Δ
+sitting: 25

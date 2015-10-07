@@ -1,0 +1,22 @@
+agenda:
+  legislative_work:
+  - 23.01.054.071-2013
+  - 23.01.054.075-2013
+  - 23.03.050.021-2013
+  - 23.02.054.020-2013
+  - 23.01.054.078-2013
+  - 23.01.054.081-2013
+  - 23.01.054.082-2013
+  - 23.01.054.080-2013
+  - 23.01.054.083-2013
+  - 23.01.054.079-2013
+  - 23.01.054.085-2013
+date: '2013-04-30'
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/475
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-04-30.pdf
+parliament: Ι
+session: Β
+sitting: 31
