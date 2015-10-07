@@ -1,9 +1,12 @@
 $schema: 'http://json-schema.org/schema#'
 type: object
 properties:
-  answer:
-    description: URL to the answer on parliament's website.
-    type: string
+  answers:
+    description: URL to the answer(s) on parliament's website.
+    type: array
+    items:
+      type: string
+      format: uri
   identifier:
     description: The question's tracking identifier.
     type: string
@@ -25,7 +28,7 @@ properties:
         description: The question itself, formatted in Markdown.
         type: string
       title:
-        description: The title of the question.
+        description: The heading of the question.
         type: string
     required:
     - by
@@ -33,6 +36,6 @@ properties:
     - text
     - title
 required:
-- answer
+- answers
 - identifier
 - question

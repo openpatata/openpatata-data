@@ -1,7 +1,6 @@
+* [required] **answers** (`array [string]`)
 
-* [required] **answer** (`string`)
-
-    URL to the answer on parliament's website.
+    URL to the answer(s) on parliament's website.
 
 * [required] **identifier** (`string`)
 
@@ -25,4 +24,4 @@
 
     * [required] **title** (`string`)
 
-        The title of the question.
+        The heading of the question.
