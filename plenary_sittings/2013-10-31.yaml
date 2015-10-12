@@ -10,7 +10,6 @@ agenda:
   - 23.01.054.211-2013
   - 23.03.050.055-2013
   - 23.03.049.028-2012
-  - 23.01.054.223-2013
 date: '2013-10-31'
 links:
 - type: agenda
@@ -60,8 +59,8 @@ mps_present:
 - Φυττής Σοφοκλής
 - Χαραλαμπίδου Ειρήνη
 - Χατζηγιάννης Κυριάκος
-parliament: Ι΄
+parliament: Ι
 reps_present: false
-session: Γ΄
+session: Γ
 sitting: 10
 type: ordinary
