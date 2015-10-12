@@ -7,35 +7,29 @@ properties:
     items:
       type: string
       format: uri
+  by:
+    description: The names of the MPs asking the question.
+    type: array
+    items:
+      type: string
+    minItems: 1
+  date:
+    description: Date the question was asked.
+    type: string
+    format: date
+  heading:
+    description: The heading of the question.
+    type: string
   identifier:
     description: The question's tracking identifier.
     type: string
-  question:
-    description: The question posed by the MP(s).
-    type: object
-    properties:
-      by:
-        description: The names of the MPs asking the question.
-        type: array
-        items:
-          type: string
-        minItems: 1
-      date:
-        description: Date the question was asked.
-        type: string
-        format: date
-      text:
-        description: The question itself, formatted in Markdown.
-        type: string
-      title:
-        description: The heading of the question.
-        type: string
-    required:
-    - by
-    - date
-    - text
-    - title
+  text:
+    description: The question itself, formatted in Markdown.
+    type: string
 required:
 - answers
+- by
+- date
+- heading
 - identifier
-- question
+- text
