@@ -1,3 +1,5 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1270
 agenda:
   debate:
   - 23.05.047.004-2014
@@ -48,11 +50,11 @@ agenda:
   - 23.03.051.055-2014
   - 23.03.051.057-2014
   - 23.03.051.058-2014
+attendees: []
 date: '2015-01-15'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/1270
-parliament: Ι
+parliamentary_period: Ι
 session: Δ
 sitting: 17
-type: ordinary

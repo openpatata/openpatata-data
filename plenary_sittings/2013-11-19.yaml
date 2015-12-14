@@ -1,13 +1,11 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/750
+- http://www2.parliament.cy/parliamentgr/008_01_01/008_01_IC.htm
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-11-19.pdf
 agenda:
-  debate: false
-  legislative_work: false
-date: '2013-11-19'
-links:
-- type: agenda
-  url: http://www.parliament.cy/easyconsole.cfm/id/750
-- type: transcript
-  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-11-19.pdf
-mps_present:
+  debate: []
+  legislative_work: []
+attendees:
 - Αδάμου Αδάμος
 - Αντωνίου Αντώνης
 - Βαρνάβα Γιώργος
@@ -59,11 +57,12 @@ mps_present:
 - Χαραλαμπίδου Ειρήνη
 - Χατζηγιάννης Κυριάκος
 - Χριστοφόρου Λευτέρης
-parliament: Ι
-reps_present:
-- Μαντοβάνη Μπενίτο
-- Μαχτεσιάν Βαρτκές
-- Χατζηρούσος Αντώνης
+date: '2013-11-19'
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/750
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-11-19.pdf
+parliamentary_period: Ι
 session: Γ
 sitting: 13
-type: special

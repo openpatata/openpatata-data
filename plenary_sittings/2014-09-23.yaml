@@ -1,15 +1,13 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1058
+- http://www2.parliament.cy/parliamentgr/008_01_01/008_01_ID.htm
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-09-23.pdf
 agenda:
-  debate: false
+  debate: []
   legislative_work:
   - 23.02.055.076-2014
   - 23.02.055.077-2014
-date: '2014-09-23'
-links:
-- type: agenda
-  url: http://www.parliament.cy/easyconsole.cfm/id/1058
-- type: transcript
-  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-09-23.pdf
-mps_present:
+attendees:
 - Αδάμου Αδάμος
 - Αντωνίου Αντώνης
 - Βαρνάβα Γιώργος
@@ -39,10 +37,10 @@ mps_present:
 - Κώστα Κώστας
 - Λαμάρης Γιάννος
 - Λουκαΐδης Γιώργος
-- Μαυρονικόλα Ρούλα
 - Μέσης Χρίστος
 - Μαππουρίδης Ρίκκος
 - Μαυρίδης Μάριος
+- Μαυρονικόλα Ρούλα
 - Μισός Αριστοτέλης
 - Μιχαηλίδης Ανδρέας
 - Νεοφύτου Αβέρωφ
@@ -65,10 +63,12 @@ mps_present:
 - Χαραλαμπίδου Ειρήνη
 - Χατζηγιάννης Κυριάκος
 - Χριστοφόρου Λευτέρης
-parliament: Ι
-reps_present:
-- Χατζηρούσος Αντώνης
-- Μαντοβάνη Μπενίτο
+date: '2014-09-23'
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/1058
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-09-23.pdf
+parliamentary_period: Ι
 session: Δ
 sitting: 1
-type: ordinary

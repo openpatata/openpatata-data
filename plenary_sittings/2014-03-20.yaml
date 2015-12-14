@@ -1,3 +1,7 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/876
+- http://www2.parliament.cy/parliamentgr/008_01_01/008_01_IC.htm
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-03-20.pdf
 agenda:
   debate:
   - 23.05.046.010-2013
@@ -18,13 +22,7 @@ agenda:
   - 23.01.054.269-2013
   - 23.03.051.013-2014
   - 23.03.050.081-2013
-date: '2014-03-20'
-links:
-- type: agenda
-  url: http://www.parliament.cy/easyconsole.cfm/id/876
-- type: transcript
-  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-03-20.pdf
-mps_present:
+attendees:
 - Αδάμου Αδάμος
 - Βότσης Άγγελος
 - Γεωργίου Γεώργιος
@@ -66,9 +64,12 @@ mps_present:
 - Χαραλαμπίδου Ειρήνη
 - Χατζηγιάννης Κυριάκος
 - Χριστοφόρου Λευτέρης
-parliament: Ι
-reps_present:
-- Μαχτεσιάν Βαρτκές
+date: '2014-03-20'
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/876
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-03-20.pdf
+parliamentary_period: Ι
 session: Γ
 sitting: 30
-type: ordinary

@@ -1,3 +1,7 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/744
+- http://www2.parliament.cy/parliamentgr/008_01_01/008_01_IC.htm
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-11-21.pdf
 agenda:
   debate:
   - 23.05.046.007-2013
@@ -26,13 +30,7 @@ agenda:
   - 23.03.050.057-2013
   - 23.03.050.058-2013
   - 23.03.050.059-2013
-date: '2013-11-21'
-links:
-- type: agenda
-  url: http://www.parliament.cy/easyconsole.cfm/id/744
-- type: transcript
-  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-11-21.pdf
-mps_present:
+attendees:
 - Αδάμου Αδάμος
 - Αντωνίου Αντώνης
 - Βαρνάβα Γιώργος
@@ -42,8 +40,8 @@ mps_present:
 - Γεωργίου Γιώργος
 - Δίπλαρος Ευθύμιος
 - Δαμιανού Άριστος
+- Δαμιανού Άριστος
 - Δημητρίου Μισιαούλη Στέλλα
-- Ευαγόρου Σταύρος
 - Ζαχαρίου Ζαχαρίας
 - Θεμιστοκλέους Ανδρέας
 - Κατσουρίδης Νίκος
@@ -72,9 +70,9 @@ mps_present:
 - Περδίκης Γιώργος
 - Προδρόμου Πρόδρομος
 - Προκοπίου Γεώργιος
+- Προκοπίου Γεώργιος
 - Σαρίκας Φειδίας
 - Σταυριανός Πανίκκος
-- Συλλούρης Δημήτρης
 - Τάσου Γεώργιος
 - Τζιοβάνης Χριστάκης
 - Τορναρίτης Νίκος
@@ -83,11 +81,12 @@ mps_present:
 - Χαραλαμπίδου Ειρήνη
 - Χατζηγιάννης Κυριάκος
 - Χριστοφόρου Λευτέρης
-parliament: Ι
-reps_present:
-- Μαντοβάνη Μπενίτο
-- Μαχτεσιάν Βαρτκές
-- Χατζηρούσος Αντώνης
+date: '2013-11-21'
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/744
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-11-21.pdf
+parliamentary_period: Ι
 session: Γ
 sitting: 14
-type: ordinary

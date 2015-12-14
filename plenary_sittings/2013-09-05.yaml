@@ -1,3 +1,8 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/654
+- http://www2.parliament.cy/parliamentgr/008_01_01/008_01_IC.htm
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-09-05-2.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-09-05.pdf
 agenda:
   debate:
   - 23.05.046.002-2013
@@ -20,15 +25,7 @@ agenda:
   - 23.01.054.154-2013
   - 23.03.049.059-2012
   - 23.03.049.067-2012
-date: '2013-09-05'
-links:
-- type: agenda
-  url: http://www.parliament.cy/easyconsole.cfm/id/654
-- type: transcript
-  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-09-05.pdf
-- type: transcript
-  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-09-05-2.pdf
-mps_present:
+attendees:
 - Αδάμου Αδάμος
 - Αντωνίου Αντώνης
 - Γαβριήλ Γιαννάκης
@@ -72,9 +69,14 @@ mps_present:
 - Φακοντής Αντρέας
 - Χαραλαμπίδου Ειρήνη
 - Χατζηγιάννης Κυριάκος
-parliament: Ι
-reps_present:
-- Χατζηρούσος Αντώνης
+date: '2013-09-05'
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/654
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-09-05.pdf
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-09-05-2.pdf
+parliamentary_period: Ι
 session: Γ
 sitting: 1
-type: ordinary

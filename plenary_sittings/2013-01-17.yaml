@@ -1,3 +1,6 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/299
+- http://www2.parliament.cy/parliamentgr/008_01_01/008_01_IB.htm
 agenda:
   debate:
   - 23.05.045.014-2012
@@ -25,12 +28,13 @@ agenda:
   - 23.01.051.204-2010
   - 23.01.052.103-2011
   - 23.01.050.221-2009
+attendees: []
 date: '2013-01-17'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/299
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-01-17.doc
-parliament: Ι
+parliamentary_period: Ι
 session: Β
 sitting: 19

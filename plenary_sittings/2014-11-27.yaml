@@ -1,3 +1,7 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1213
+- http://www2.parliament.cy/parliamentgr/008_01_01/008_01_ID.htm
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-11-27.pdf
 agenda:
   debate:
   - 23.05.047.003-2014
@@ -12,13 +16,7 @@ agenda:
   - 23.01.055.223-2014
   - 23.01.055.224-2014
   - 23.03.051.059-2014
-date: '2014-11-27'
-links:
-- type: agenda
-  url: http://www.parliament.cy/easyconsole.cfm/id/1213
-- type: transcript
-  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-11-27.pdf
-mps_present:
+attendees:
 - Αντωνίου Αντώνης
 - Βαρνάβα Γιώργος
 - Γαβριήλ Γιαννάκης
@@ -68,10 +66,12 @@ mps_present:
 - Χαμπουλλάς Ευγένιος
 - Χαραλαμπίδου Ειρήνη
 - Χατζηγιάννης Κυριάκος
-parliament: Ι
-reps_present:
-- Χατζηρούσος Αντώνης
-- Μαντοβάνη Μπενίτο
+date: '2014-11-27'
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/1213
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-11-27.pdf
+parliamentary_period: Ι
 session: Δ
 sitting: 11
-type: ordinary
