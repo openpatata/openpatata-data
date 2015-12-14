@@ -1,17 +1,23 @@
 $schema: 'http://json-schema.org/schema#'
 type: object
 properties:
-  belongs_to:
-    description: A list of identifiers of bills this report is on.
+  _sources:
     type: array
     items:
       type: string
-  date:
+      format: uri
+  date_prepared:
     description: >
-      The date that appears after a report, in ISO format (YYYY-MM-DD).
+      The date that appears after a report, in the ISO format (YYYY-MM-DD).
     type:
     - string
     - 'null'
+    format: date
+  date_circulated:
+    description: >
+      The date when the report was circulated in the plenary, in the ISO
+      format (YYYY-MM-DD).
+    type: string
     format: date
   mps_present:
     description: A list of MPs who were present.
@@ -31,6 +37,13 @@ properties:
           - 'null'
       required:
       - name
+  relates_to:
+    description: A list of identifiers of bills this report relates to.
+    type: array
+    items:
+      type:
+      - string
+      - 'null'
   reps_present:
     description: >
       A list of represenatives who were present. Omit or leave blank if not
@@ -41,18 +54,20 @@ properties:
     items: *_people_list
   text:
     description: The actual report, in Markdown.
-    type: string
+    type:
+    - string
+    - 'null'
   title:
     description: The title of the report.
     type: string
   url:
-    description: A link to the report on parliament.
+    description: A link to the report on Parliament.
     type:
     - string
     - 'null'
     format: uri
 required:
-- belongs_to
-- mps_present
-- text
+- _sources
+- date_circulated
 - title
+- url

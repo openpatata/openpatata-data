@@ -1,13 +1,14 @@
+* [required] **_sources** (`array [string]`)
 
-* [required] **belongs_to** (`array [string]`)
+* [required] **date_circulated** (`string`)
 
-    A list of identifiers of bills this report is on.
+    The date when the report was circulated in the plenary, in the ISO format (YYYY-MM-DD).
 
-* **date** (`string|null`)
+* **date_prepared** (`string|null`)
 
-    The date that appears after a report, in ISO format (YYYY-MM-DD).
+    The date that appears after a report, in the ISO format (YYYY-MM-DD).
 
-* [required] **mps_present** (`array [object]`)
+* **mps_present** (`array [object]`)
 
     A list of MPs who were present.
 
@@ -18,6 +19,10 @@
     * **note** (`string|null`)
 
         What appears next to their name, e.g. 'πρόεδρος'.
+
+* **relates_to** (`array [string|null]`)
+
+    A list of identifiers of bills this report relates to.
 
 * **reps_present** (`array [object]|null`)
 
@@ -31,7 +36,7 @@
 
         What appears next to their name, e.g. 'πρόεδρος'.
 
-* [required] **text** (`string`)
+* **text** (`string|null`)
 
     The actual report, in Markdown.
 
@@ -39,6 +44,6 @@
 
     The title of the report.
 
-* **url** (`string|null`)
+* [required] **url** (`string|null`)
 
-    A link to the report on parliament.
+    A link to the report on Parliament.

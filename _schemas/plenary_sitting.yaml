@@ -1,6 +1,11 @@
 $schema: 'http://json-schema.org/schema#'
 type: object
 properties:
+  _sources:
+    type: array
+    items:
+      type: string
+      format: uri
   agenda:
     description: The day's agenda.
     type: object
@@ -21,6 +26,17 @@ properties:
     required:
     - debate
     - legislative_work
+  attendees:
+    description: A list of MPs who were present at the meeting.
+    type:
+    - array
+    - boolean
+    - 'null'
+    items:
+      type: string
+    not:
+      enum:
+      - true
   date:
     description: The date the plenary was held on, in ISO format (YYYY-MM-DD).
     type: string
@@ -47,30 +63,14 @@ properties:
       required:
       - type
       - url
-  mps_present: &_people_list
-    description: A list of MPs who were present.
-    type:
-    - array
-    - boolean
-    - 'null'
-    items:
-      type: string
-    not:
-      enum:
-      - true
-  reps_present:
-    <<: *_people_list
+  parliamentary_period:
     description: >
-      A list of religious representatives who were present. Set to `false` if
-      none were present; otherwise, leave blank or omit.
-  parliament:
-    description: >
-      The number of the parliament, as published on the agenda, e.g. 'Ι΄'. This
-      signifies the whole period between elections.
+      The parliamentary period, as published on the agenda, e.g. 'Ι'. This
+      signifies the entire period between elections.
     type: string
   session:
     description: >
-      The current legislative session, as published on the agenda, e.g. 'Γ΄'. A
+      The current legislative session, as published on the agenda, e.g. 'Γ'. A
       session lasts a year. If the sitting is of type `special`, it might fall
       outside a session.
     type:
@@ -91,7 +91,12 @@ properties:
     - extraordinary
     - special
 required:
+- _sources
 - agenda
+- attendees
 - date
-- parliament
+- links
+- parliamentary_period
+- session
+- sitting
 - type

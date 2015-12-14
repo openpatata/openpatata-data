@@ -1,3 +1,4 @@
+* [required] **_sources** (`array [string]`)
 
 * [required] **agenda** (`object`)
 
@@ -11,11 +12,15 @@
 
         A list of identifiers of items on Chapter 1 of the agenda.
 
+* [required] **attendees** (`array [string]|boolean|null`)
+
+    A list of MPs who were present at the meeting.
+
 * [required] **date** (`string`)
 
     The date the plenary was held on, in ISO format (YYYY-MM-DD).
 
-* **links** (`array [object]`)
+* [required] **links** (`array [object]`)
 
     Links to relevant pages. Currently either the agenda as published, or the transcript.
 
@@ -32,23 +37,15 @@
 
         The link.
 
-* **mps_present** (`array [string]|boolean|null`)
+* [required] **parliamentary_period** (`string`)
 
-    A list of MPs who were present.
+    The parliamentary period, as published on the agenda, e.g. 'Ι'. This signifies the entire period between elections.
 
-* [required] **parliament** (`string`)
+* [required] **session** (`string|null`)
 
-    The number of the parliament, as published on the agenda, e.g. 'Ι΄'. This signifies the whole period between elections.
+    The current legislative session, as published on the agenda, e.g. 'Γ'. A session lasts a year. If the sitting is of type `special`, it might fall outside a session.
 
-* **reps_present** (`array [string]|boolean|null`)
-
-    A list of religious representatives who were present. Set to `false` if none were present; otherwise, leave blank or omit.
-
-* **session** (`string|null`)
-
-    The current legislative session, as published on the agenda, e.g. 'Γ΄'. A session lasts a year. If the sitting is of type `special`, it might fall outside a session.
-
-* **sitting** (`number|null`)
+* [required] **sitting** (`number|null`)
 
     The number of this sitting, as published on the agenda, e.g. '5'. If the sitting is of type `special`, it might not be numbered.
 

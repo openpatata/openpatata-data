@@ -1,3 +1,5 @@
+* [required] **_sources** (`array [string]`)
+
 * [required] **answers** (`array [string]`)
 
     URL to the answer(s) on parliament's website.
