@@ -3,7 +3,11 @@ _sources:
 - http://www2.parliament.cy/parliamentgr/008_01_01/008_01_IB.htm
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-05-16.pdf
 agenda:
-  debate: []
+  debate:
+  - 23.05.046.002-2013
+  - 23.05.045.016-2012
+  - 23.05.045.014-2012
+  - 23.05.046.001-2013
   legislative_work:
   - 23.01.053.234-2012
   - 23.01.048.145-2007
