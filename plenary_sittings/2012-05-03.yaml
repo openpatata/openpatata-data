@@ -1,35 +1,9 @@
 _sources:
-- http://www.parliament.cy/easyconsole.cfm/id/299
-- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-01-17.doc
-- http://www2.parliament.cy/parliamentgr/008_01_01/008_01_IB.htm
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-05-03.doc
+- http://www2.parliament.cy/parliamentgr/008_01_01/008_01_IA.htm
 agenda:
-  debate:
-  - 23.05.045.014-2012
-  - 23.05.045.016-2012
-  legislative_work:
-  - 23.01.053.237-2012
-  - 23.01.053.220-2012
-  - 23.01.053.270-2012
-  - 23.02.053.116-2012
-  - 23.02.053.117-2012
-  - 23.02.053.118-2012
-  - 23.02.053.120-2012
-  - 23.03.049.085-2012
-  - 23.01.053.262-2012
-  - 23.01.053.263-2012
-  - 23.01.053.264-2012
-  - 23.03.049.093-2012
-  - 23.03.049.086-2012
-  - 23.03.049.087-2012
-  - 23.03.049.088-2012
-  - 23.03.049.089-2012
-  - 23.03.049.090-2012
-  - 23.03.049.091-2012
-  - 23.03.049.092-2012
-  - 23.10.002.004
-  - 23.01.051.204-2010
-  - 23.01.052.103-2011
-  - 23.01.050.221-2009
+  debate: []
+  legislative_work: []
 attendees:
 - Αδάμου Αδάμος
 - Αντωνίου Αντώνης
@@ -50,7 +24,6 @@ attendees:
 - Κουλίας Ζαχαρίας
 - Κουτσού Νίκος
 - Κυπριανού Ανδρέας
-- Κυριακίδου Αθηνά
 - Κυριακίδου Στέλλα
 - Κωνσταντίνου Κώστας
 - Κωνσταντίνου Νεόφυτος
@@ -67,9 +40,9 @@ attendees:
 - Νικολαΐδης Νίκος
 - Ομήρου Γιαννάκης
 - Παπαγεωργίου Πάμπος
-- Παπαδόπουλος Νικόλας
 - Περδίκης Γιώργος
 - Πιτσιλλίδης Ανδρέας
+- Προκοπίου Γεώργιος
 - Σαμψών Σωτήρης
 - Σαρίκας Φειδίας
 - Σταυριανός Πανίκκος
@@ -83,12 +56,10 @@ attendees:
 - Χαραλαμπίδου Ειρήνη
 - Χατζηγιάννης Κυριάκος
 - Χριστοφόρου Λευτέρης
-date: '2013-01-17'
+date: '2012-05-03'
 links:
-- type: agenda
-  url: http://www.parliament.cy/easyconsole.cfm/id/299
 - type: transcript
-  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-01-17.doc
-parliamentary_period: Ι
-session: Β
-sitting: 19
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-05-03.doc
+parliamentary_period: null
+session: null
+sitting: null
