@@ -1,0 +1,35 @@
+birth_date: '1946-09-27'
+links:
+- note:
+    el: Ιστοσελίδα Βουλής
+    en: On Parliament
+  url: http://www.parliament.cy/easyconsole.cfm/id/909
+mugshot: http://www.parliament.cy/assets/image/imageoriginal/Anastasiades%20Nikos.jpg
+name:
+  el: Αναστασιάδης Νίκος
+  en: Anastasiadis Nikos
+tenures:
+- district:
+    el: Λεμεσός
+    en: Lemesos
+  end_date: '2006-05-31'
+  parl_group:
+    el: ΔΗΣΥ
+    en: DISY
+  start_date: '2001-06-07'
+- district:
+    el: Λεμεσός
+    en: Lemesos
+  end_date: '2011-06-01'
+  parl_group:
+    el: ΔΗΣΥ
+    en: DISY
+  start_date: '2006-06-01'
+- district:
+    el: Λεμεσός
+    en: Lemesos
+  end_date: '2013-02-28'
+  parl_group:
+    el: ΔΗΣΥ
+    en: DISY
+  start_date: '2011-06-02'

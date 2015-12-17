@@ -13,6 +13,8 @@ name:
 other_names:
 - name: Hamboullas Evgenios
   note: Official spelling in the 'en' locale; possibly anglicised
+- name: Χαμπουλάς Ευγένιος
+  note: Common misspelling (el-Grek)
 tenures:
 - district:
     el: Αμμόχωστος

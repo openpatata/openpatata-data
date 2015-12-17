@@ -17,6 +17,8 @@ name:
 other_names:
 - name: Papageorgiou Bambos
   note: Official spelling in the 'en' locale; possibly anglicised
+- name: Παπαγεωργίου Χαράλαμπος
+  note: Full form (el-Grek)
 tenures:
 - district:
     el: Κερύνεια
