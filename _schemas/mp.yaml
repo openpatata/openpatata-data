@@ -53,6 +53,12 @@ properties:
     - string
     - 'null'
     format: email
+  gender:
+    description: See [`foaf:gender`](http://xmlns.com/foaf/spec/#term_gender).
+    type: string
+    enum:
+    - female
+    - male
   tenures:
     description: The MP's tenures in parliament.
     type: array
@@ -88,7 +94,7 @@ properties:
           format: date
         parl_group:
           description: >
-            The parliament group the MP is affiliated to, if any; otherwise
+            The parliament group the MP is affiliated to, if any; if not,
             leave blank.
           type:
           - object
@@ -149,4 +155,5 @@ properties:
     format: uri
 required:
 - name
+- gender
 - tenures

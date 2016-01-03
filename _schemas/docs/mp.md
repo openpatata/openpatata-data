@@ -10,6 +10,15 @@
 
     Official e-mail address.
 
+* [required] **gender** (`string`)
+
+    See [`foaf:gender`](http://xmlns.com/foaf/spec/#term_gender).
+
+    One of:
+
+    * female
+    * male
+
 * **links** (`array [object]|null`)
 
     A list of pertinent links, e.g. the MP's page on parliament. Generally, no more than five. If linking to Wikipedia, link only to one language version of it, preferably English.
@@ -78,7 +87,7 @@
 
     * [required] **parl_group** (`object|null`)
 
-        The parliament group the MP is affiliated to, if any; otherwise leave blank.
+        The parliament group the MP is affiliated to, if any; if not, leave blank.
 
         * [required] **el** (`string`)
 

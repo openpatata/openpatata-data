@@ -1,40 +1,44 @@
 
-"""Check our data for syntax errors and compliance with the schema. This
-script takes one argument, which is the path to a folder in which
-items of a particular schema reside.
+"""Check our data for compliance with the schema.
+
+This script takes one argument, which is the path to a folder containing
+items of a particular schema.
 """
 
 from pathlib import Path
 import sys
 
-from jsonschema import (
-    Draft4Validator as Validator,
-    FormatChecker)
+from jsonschema import Draft4Validator as Validator, FormatChecker
 import yaml
 
 
+def _parse_errors(validator, item):
+    with item.open() as file:
+        # Produce something readable; the default is to print a whote lot
+        # of JSON
+        return ('{item}:{field}:{message}'
+                ''.format(item=item, field='/'.join(map(str, error.path)),
+                          message=error.message)
+                for error in validator.iter_errors(yaml.load(file)))
+
+
 def main(folder):
-    # The shell exit status. Travis will report a "build" fail for 1
-    # and success for 0. We set to 1 if any item is not valid.
-    exit_status = 0
+    with Path('_schemas', '{}.yaml'.format(folder.rstrip('s/'))).open() \
+            as file:
+        validator = Validator(yaml.load(file),
+                              format_checker=FormatChecker(('date', 'email')))
 
-    with (Path('_schemas')/'{filename}.yaml'.format(
-            filename=folder.rstrip('s/'))).open() as f:
-        validator = Validator(yaml.load(f), format_checker=FormatChecker(
-            ['date']))
-
-    for item in Path(folder).iterdir():
-        with item.open() as f:
-            errors = list(validator.iter_errors(yaml.load(f)))
-            if errors:
-                exit_status = 1
-                for error in errors:
-                    print('{item}: [{field}] {message}'.format(
-                        item=item, field='/'.join(map(str, error.path)),
-                        message=error.message))
-
-    return exit_status
-
+        errors = (error
+                  for item in Path(folder).iterdir()
+                  for error in _parse_errors(validator, item))
+        try:
+            print(next(errors), file=sys.stderr)
+        except StopIteration:
+            return 0
+        else:
+            for error in errors:
+                print(error, file=sys.stderr)
+            return 1
 
 if __name__ == '__main__':
     sys.exit(main(sys.argv[1]))
