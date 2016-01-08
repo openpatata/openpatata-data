@@ -1,20 +1,30 @@
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-10-31.pdf
-- http://www.parliament.cy/easyconsole.cfm/id/718
 - http://www.parliament.cy/easyconsole.cfm/id/723
+- http://www.parliament.cy/easyconsole.cfm/id/718
 agenda:
-  debate:
-  - 23.05.046.002-2013
-  - 23.05.046.006-2013
-  - 23.05.046.007-2013
-  legislative_work:
+  cap1:
   - 23.01.054.202-2013
   - 23.01.054.204-2013
   - 23.01.054.203-2013
   - 23.01.054.211-2013
   - 23.03.050.055-2013
   - 23.03.049.028-2012
-  - 23.01.054.223-2013
+  cap2:
+  - 23.01.054.227-2013
+  - 23.01.054.228-2013
+  - 23.01.054.229-2013
+  - 23.01.054.230-2013
+  - 23.01.054.231-2013
+  - 23.01.054.232-2013
+  - 23.01.054.233-2013
+  - 23.01.054.234-2013
+  - 23.01.054.235-2013
+  - 23.02.054.110-2013
+  cap4:
+  - 23.05.046.002-2013
+  - 23.05.046.006-2013
+  - 23.05.046.007-2013
 attendees:
 - Αδάμου Αδάμος
 - Βότσης Άγγελος
@@ -61,9 +71,9 @@ links:
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-10-31.pdf
 - type: agenda
-  url: http://www.parliament.cy/easyconsole.cfm/id/718
-- type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/723
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/718
 parliamentary_period: Ι
 session: Γ
 sitting: 10

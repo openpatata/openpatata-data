@@ -1,16 +1,9 @@
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-12-12.pdf
-- http://www.parliament.cy/images/media/redirectfile/17-12122013 - agenda.pdf
 - http://www.parliament.cy/easyconsole.cfm/id/777
+- http://www.parliament.cy/images/media/redirectfile/17-12122013 - agenda.pdf
 agenda:
-  debate:
-  - 23.05.046.008-2013
-  - 23.05.046.002-2013
-  - 23.05.046.009-2013
-  - 23.05.046.010-2013
-  - 23.05.046.011-2013
-  - 23.05.046.012-2013
-  legislative_work:
+  cap1:
   - 23.01.054.164-2013
   - 23.02.054.101-2013
   - 23.02.053.018-2012
@@ -89,8 +82,23 @@ agenda:
   - 23.03.050.040-2013
   - 23.03.050.041-2013
   - 23.03.050.072-2013
-  - 23.02.054.113-2013
-  - 23.02.054.114-2013
+  cap2:
+  - 23.01.054.262-2013
+  - 23.01.054.263-2013
+  - 23.01.054.264-2013
+  - 23.01.054.265-2013
+  - 23.01.054.266-2013
+  - 23.03.050.087-2013
+  - 23.03.050.088-2013
+  - 23.03.050.089-2013
+  - 23.02.054.136-2013
+  cap4:
+  - 23.05.046.008-2013
+  - 23.05.046.002-2013
+  - 23.05.046.009-2013
+  - 23.05.046.010-2013
+  - 23.05.046.011-2013
+  - 23.05.046.012-2013
 attendees:
 - Αδάμου Αδάμος
 - Αντωνίου Αντώνης
@@ -148,9 +156,9 @@ links:
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-12-12.pdf
 - type: agenda
-  url: http://www.parliament.cy/images/media/redirectfile/17-12122013 - agenda.pdf
-- type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/777
+- type: agenda
+  url: http://www.parliament.cy/images/media/redirectfile/17-12122013 - agenda.pdf
 parliamentary_period: Ι
 session: Γ
 sitting: 17

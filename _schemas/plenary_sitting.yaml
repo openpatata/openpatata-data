@@ -10,8 +10,8 @@ properties:
     description: The day's agenda.
     type: object
     properties:
-      debate: &_agenda_item
-        description: A list of identifiers of items on Chapter 4 of the agenda.
+      cap1: &_agenda_item
+        description: A list of identifiers of items on Chapter 1 of the agenda.
         type:
         - array
         - boolean
@@ -20,20 +20,24 @@ properties:
         not:
           enum:
           - true
-      legislative_work:
+      cap2:
         <<: *_agenda_item
-        description: A list of identifiers of items on Chapter 1 of the agenda.
+        description: A list of identifiers of items on Chapter 2 of the agenda.
+      cap4:
+        <<: *_agenda_item
+        description: A list of identifiers of items on Chapter 4 of the agenda.
     required:
-    - debate
-    - legislative_work
+    - cap1
+    - cap2
+    - cap4
   attendees:
     description: A list of MPs who were present at the meeting.
     type:
     - array
     - boolean
-    - 'null'
     items:
       type: string
+    minItems: 1
     not:
       enum:
       - true
@@ -99,4 +103,3 @@ required:
 - parliamentary_period
 - session
 - sitting
-- type

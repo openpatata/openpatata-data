@@ -1,14 +1,15 @@
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/680
 agenda:
-  debate:
-  - 23.05.046.002-2013
-  legislative_work:
+  cap1:
   - 23.02.054.043-2013
   - 23.03.050.051-2013
   - 23.03.050.052-2013
   - 23.03.050.049-2013
   - 23.03.050.053-2013
+  cap2: []
+  cap4:
+  - 23.05.046.002-2013
 attendees: []
 date: '2013-10-03'
 links:

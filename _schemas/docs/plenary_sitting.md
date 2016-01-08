@@ -4,15 +4,19 @@
 
     The day's agenda.
 
-    * [required] **debate** (`array [string]|boolean`)
-
-        A list of identifiers of items on Chapter 4 of the agenda.
-
-    * [required] **legislative_work** (`array [string]|boolean`)
+    * [required] **cap1** (`array [string]|boolean`)
 
         A list of identifiers of items on Chapter 1 of the agenda.
 
-* [required] **attendees** (`array [string]|boolean|null`)
+    * [required] **cap2** (`array [string]|boolean`)
+
+        A list of identifiers of items on Chapter 2 of the agenda.
+
+    * [required] **cap4** (`array [string]|boolean`)
+
+        A list of identifiers of items on Chapter 4 of the agenda.
+
+* [required] **attendees** (`array [string]|boolean`)
 
     A list of MPs who were present at the meeting.
 
@@ -49,7 +53,7 @@
 
     The number of this sitting, as published on the agenda, e.g. '5'. If the sitting is of type `special`, it might not be numbered.
 
-* [required] **type** (`string`)
+* **type** (`string`)
 
     The type of sitting.
 
