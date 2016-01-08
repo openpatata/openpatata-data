@@ -1,6 +1,11 @@
 $schema: 'http://json-schema.org/schema#'
 type: object
 properties:
+  _sources:
+    type: array
+    items:
+      type: string
+      format: uri
   name:
     description: The MP's name.
     type: object
@@ -42,7 +47,7 @@ properties:
     - 'null'
     format: date
   dofi:
-    description: Link to the MP's latest declaration of financial interests.
+    description: A link to the MP's latest declaration of financial interests.
     type:
     - string
     - 'null'
@@ -56,9 +61,6 @@ properties:
   gender:
     description: See [`foaf:gender`](http://xmlns.com/foaf/spec/#term_gender).
     type: string
-    enum:
-    - female
-    - male
   tenures:
     description: The MP's tenures in parliament.
     type: array
@@ -66,7 +68,7 @@ properties:
       type: object
       properties:
         district:
-          description: District served.
+          description: The district served.
           type: object
           properties:
             el:
@@ -86,7 +88,7 @@ properties:
           format: date
         end_date:
           description: >
-            The end date, in ISO format (YYYY-MM-DD). Leave blank if MP
+            The end date, in ISO format (YYYY-MM-DD).  Leave blank if MP
             currently in office.
           type:
           - string
@@ -94,7 +96,7 @@ properties:
           format: date
         parl_group:
           description: >
-            The parliament group the MP is affiliated to, if any; if not,
+            The parliament group the MP is affiliated to, if any; otherwise
             leave blank.
           type:
           - object
@@ -117,9 +119,9 @@ properties:
       - parl_group
   links:
     description: >
-      A list of pertinent links, e.g. the MP's page on parliament. Generally,
-      no more than five. If linking to Wikipedia, link only to one language
-      version of it, preferably English.
+      A list of pertinent links, e.g. to the MP's page on Parliament.  Generally
+      no more than five.  If linking to Wikipedia, link only to one language
+      edition of it, preferably the English Wikipedia.
     type:
     - array
     - 'null'
@@ -147,13 +149,12 @@ properties:
       - url
   mugshot:
     description: >
-      A link to the MP's mugshot on Parliament's website. Use the highest
-      resolution available.
+      A link to the MP's head shot on Parliament. Use the highest resolution
+      available.
     type:
     - string
     - 'null'
     format: uri
 required:
 - name
-- gender
 - tenures

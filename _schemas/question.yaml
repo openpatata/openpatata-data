@@ -7,26 +7,26 @@ properties:
       type: string
       format: uri
   answers:
-    description: URL to the answer(s) on parliament's website.
+    description: URL to the answer(s) on Parliament's website.
     type: array
     items:
       type: string
       format: uri
   by:
-    description: The names of the MPs asking the question.
+    description: The name(s) of the MP(s) asking the question.
     type: array
     items:
       type: string
     minItems: 1
   date:
-    description: Date the question was asked.
+    description: Date when the question was asked.
     type: string
     format: date
   heading:
     description: The heading of the question.
     type: string
   identifier:
-    description: The question's tracking identifier.
+    description: The question's number.
     type: string
   text:
     description: The question itself, formatted in Markdown.

@@ -1,27 +1,24 @@
+* **_sources** (`array [string]`)
+
 * **birth_date** (`string|null`)
 
     Their date of birth in the ISO format.
 
 * **dofi** (`string|null`)
 
-    Link to the MP's latest declaration of financial interests.
+    A link to the MP's latest declaration of financial interests.
 
 * **email** (`string|null`)
 
     Official e-mail address.
 
-* [required] **gender** (`string`)
+* **gender** (`string`)
 
     See [`foaf:gender`](http://xmlns.com/foaf/spec/#term_gender).
 
-    One of:
-
-    * female
-    * male
-
 * **links** (`array [object]|null`)
 
-    A list of pertinent links, e.g. the MP's page on parliament. Generally, no more than five. If linking to Wikipedia, link only to one language version of it, preferably English.
+    A list of pertinent links, e.g. to the MP's page on Parliament.  Generally no more than five.  If linking to Wikipedia, link only to one language edition of it, preferably the English Wikipedia.
 
     * [required] **note** (`object`)
 
@@ -39,7 +36,7 @@
 
 * **mugshot** (`string|null`)
 
-    A link to the MP's mugshot on Parliament's website. Use the highest resolution available.
+    A link to the MP's head shot on Parliament. Use the highest resolution available.
 
 * [required] **name** (`object`)
 
@@ -71,7 +68,7 @@
 
     * [required] **district** (`object`)
 
-        District served.
+        The district served.
 
         * [required] **el** (`string`)
 
@@ -83,11 +80,11 @@
 
     * [required] **end_date** (`string|null`)
 
-        The end date, in ISO format (YYYY-MM-DD). Leave blank if MP currently in office.
+        The end date, in ISO format (YYYY-MM-DD).  Leave blank if MP currently in office.
 
     * [required] **parl_group** (`object|null`)
 
-        The parliament group the MP is affiliated to, if any; if not, leave blank.
+        The parliament group the MP is affiliated to, if any; otherwise leave blank.
 
         * [required] **el** (`string`)
 

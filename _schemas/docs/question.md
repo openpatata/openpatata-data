@@ -2,15 +2,15 @@
 
 * [required] **answers** (`array [string]`)
 
-    URL to the answer(s) on parliament's website.
+    URL to the answer(s) on Parliament's website.
 
 * [required] **by** (`array [string]`)
 
-    The names of the MPs asking the question.
+    The name(s) of the MP(s) asking the question.
 
 * [required] **date** (`string`)
 
-    Date the question was asked.
+    Date when the question was asked.
 
 * [required] **heading** (`string`)
 
@@ -18,7 +18,7 @@
 
 * [required] **identifier** (`string`)
 
-    The question's tracking identifier.
+    The question's number.
 
 * [required] **text** (`string`)
 
