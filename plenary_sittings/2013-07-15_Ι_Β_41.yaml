@@ -1,6 +1,6 @@
 _sources:
-- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-07-15.pdf
 - http://www.parliament.cy/easyconsole.cfm/id/621
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-07-15.pdf
 agenda:
   cap1: []
   cap2: []
@@ -57,10 +57,10 @@ attendees:
 - Χριστοφόρου Λευτέρης
 date: '2013-07-15'
 links:
-- type: transcript
-  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-07-15.pdf
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/621
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-07-15.pdf
 parliamentary_period: Ι
 session: Β
 sitting: 41

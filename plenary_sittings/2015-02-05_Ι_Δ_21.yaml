@@ -1,6 +1,6 @@
 _sources:
-- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-02-05.pdf
 - http://www.parliament.cy/easyconsole.cfm/id/1302
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-02-05.pdf
 agenda:
   cap1:
   - 23.02.055.088-2014
@@ -90,10 +90,10 @@ attendees:
 - Χατζηγιάννης Κυριάκος
 date: '2015-02-05'
 links:
-- type: transcript
-  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-02-05.pdf
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/1302
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-02-05.pdf
 parliamentary_period: Ι
 session: Δ
 sitting: 21
