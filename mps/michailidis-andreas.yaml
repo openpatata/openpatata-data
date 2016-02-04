@@ -15,15 +15,15 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/MICHAELIDES%20Antre
 name:
   el: Μιχαηλίδης Ανδρέας
   en: Michailidis Andreas
+  tr: Mihailídis Andréas
 other_names:
 - name: Michaelides Andreas
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Λεμεσός
     en: Lemesos
+    tr: Limasol
   end_date: null
-  parl_group:
-    el: ΔΗΣΥ
-    en: DISY
+  parliamentary_group_id: disy
   start_date: '2011-06-02'

@@ -11,29 +11,29 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/KOUTSOU%20Nikos.jpg
 name:
   el: Κουτσού Νίκος
   en: Koutsou Nikos
+  tr: Kutsú Níkos
 other_names:
 - name: Koutsou Nikos
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Αμμόχωστος
     en: Ammochostos
+    tr: Mağusa
   end_date: '2011-06-01'
-  parl_group:
-    el: ΕΥΡΩΚΟ
-    en: EVROKO
+  parliamentary_group_id: evroko
   start_date: '2006-06-01'
-- district:
+- electoral_district:
     el: Αμμόχωστος
     en: Ammochostos
+    tr: Mağusa
   end_date: '2013-06-05'
-  parl_group:
-    el: ΕΥΡΩΚΟ
-    en: EVROKO
+  parliamentary_group_id: evroko
   start_date: '2011-06-02'
-- district:
+- electoral_district:
     el: Αμμόχωστος
     en: Ammochostos
+    tr: Mağusa
   end_date: null
-  parl_group: null
+  parliamentary_group_id: null
   start_date: '2013-06-06'

@@ -19,15 +19,15 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Damianou%20Aristos%
 name:
   el: Δαμιανού Άριστος
   en: Damianou Aristos
+  tr: Damianú Áristos
 other_names:
 - name: Damianou Aristos
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Λευκωσία
     en: Lefkosia
+    tr: Lefkoşa
   end_date: null
-  parl_group:
-    el: ΑΚΕΛ–ΝΔ
-    en: AKEL–ND
+  parliamentary_group_id: akel-nd
   start_date: '2011-06-02'

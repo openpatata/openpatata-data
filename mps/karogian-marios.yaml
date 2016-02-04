@@ -15,23 +15,22 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/GAROYIAN%20Marios.j
 name:
   el: Καρογιάν Μάριος
   en: Karogian Marios
+  tr: Karoyián Mários
 other_names:
 - name: Garoyian Marios
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Λευκωσία
     en: Lefkosia
+    tr: Lefkoşa
   end_date: '2011-06-01'
-  parl_group:
-    el: ΔΗΚΟ
-    en: DIKO
+  parliamentary_group_id: diko
   start_date: '2006-06-01'
-- district:
+- electoral_district:
     el: Λευκωσία
     en: Lefkosia
+    tr: Lefkoşa
   end_date: null
-  parl_group:
-    el: ΔΗΚΟ
-    en: DIKO
+  parliamentary_group_id: diko
   start_date: '2011-06-02'

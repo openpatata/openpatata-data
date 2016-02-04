@@ -15,31 +15,29 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Lamaris%20Giannos%2
 name:
   el: Λαμάρης Γιάννος
   en: Lamaris Giannos
+  tr: Lamáris Yiánnos
 other_names:
 - name: Lamaris Yiannos
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Λεμεσός
     en: Lemesos
+    tr: Limasol
   end_date: '2006-05-31'
-  parl_group:
-    el: ΑΚΕΛ–ΝΔ
-    en: AKEL–ND
+  parliamentary_group_id: akel-nd
   start_date: '2001-06-07'
-- district:
+- electoral_district:
     el: Λεμεσός
     en: Lemesos
+    tr: Limasol
   end_date: '2011-06-01'
-  parl_group:
-    el: ΑΚΕΛ–ΝΔ
-    en: AKEL–ND
+  parliamentary_group_id: akel-nd
   start_date: '2006-06-01'
-- district:
+- electoral_district:
     el: Λεμεσός
     en: Lemesos
+    tr: Limasol
   end_date: null
-  parl_group:
-    el: ΑΚΕΛ–ΝΔ
-    en: AKEL–ND
+  parliamentary_group_id: akel-nd
   start_date: '2011-06-02'

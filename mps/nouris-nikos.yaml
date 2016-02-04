@@ -15,15 +15,15 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/NOURIS%20Nikos.jpg
 name:
   el: Νουρής Νίκος
   en: Nouris Nikos
+  tr: Nurís Níkos
 other_names:
 - name: Nouris Nicos
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Λευκωσία
     en: Lefkosia
+    tr: Lefkoşa
   end_date: null
-  parl_group:
-    el: ΔΗΣΥ
-    en: DISY
+  parliamentary_group_id: disy
   start_date: '2013-03-07'

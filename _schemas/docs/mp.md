@@ -30,6 +30,10 @@
 
             A brief description in English.
 
+        * [required] **tr** (`string`)
+
+            A brief description in Turkish.
+
     * [required] **url** (`string`)
 
         The link itself.
@@ -50,6 +54,10 @@
 
         Their name in English, ISO 843-transliterated, in the following order: last name, middle name, first name.
 
+    * [required] **tr** (`string`)
+
+        Their name in Turkish, in the following order: last name, middle name, first name.
+
 * **other_names** (`array [object]|null`)
 
     Alternate names and spellings.
@@ -66,7 +74,7 @@
 
     The MP's tenures in parliament.
 
-    * [required] **district** (`object`)
+    * [required] **electoral_district** (`object`)
 
         The district served.
 
@@ -78,21 +86,17 @@
 
             The name of the district in English, ISO 843-transliterated from Greek.
 
+        * [required] **tr** (`string`)
+
+            The name of the district in Turkish
+
     * [required] **end_date** (`string|null`)
 
         The end date, in ISO format (YYYY-MM-DD).  Leave blank if MP currently in office.
 
-    * [required] **parl_group** (`object|null`)
+    * [required] **parliamentary_group_id** (`string|null`)
 
-        The parliament group the MP is affiliated to, if any; otherwise leave blank.
-
-        * [required] **el** (`string`)
-
-            Name in Greek.
-
-        * [required] **en** (`string`)
-
-            Name in Eglish, ISO 843-transliterated from the Greek.
+        The `id` of the parliament group the MP is affiliated to, if any; otherwise leave blank.
 
     * [required] **start_date** (`string`)
 

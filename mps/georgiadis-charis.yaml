@@ -9,12 +9,12 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/GEORGIADES%20Harris
 name:
   el: Γεωργιάδης Χάρης
   en: Georgiadis Charis
+  tr: Yeoryiádis Háris
 tenures:
-- district:
+- electoral_district:
     el: Λευκωσία
     en: Lefkosia
+    tr: Lefkoşa
   end_date: '2013-02-28'
-  parl_group:
-    el: ΔΗΣΥ
-    en: DISY
+  parliamentary_group_id: disy
   start_date: '2011-06-02'

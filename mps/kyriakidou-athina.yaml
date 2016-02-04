@@ -11,31 +11,29 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/KYRIAKIDOU%20Athina
 name:
   el: Κυριακίδου Αθηνά
   en: Kyriakidou Athina
+  tr: Kiriakídu Athiná
 other_names:
 - name: Kyriakidou Athina
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Λεμεσός
     en: Lemesos
+    tr: Limasol
   end_date: '2006-05-31'
-  parl_group:
-    el: ΔΗΚΟ
-    en: DIKO
+  parliamentary_group_id: diko
   start_date: '2004-07-20'
-- district:
+- electoral_district:
     el: Λεμεσός
     en: Lemesos
+    tr: Limasol
   end_date: '2011-06-01'
-  parl_group:
-    el: ΔΗΚΟ
-    en: DIKO
+  parliamentary_group_id: diko
   start_date: '2006-06-01'
-- district:
+- electoral_district:
     el: Λεμεσός
     en: Lemesos
+    tr: Limasol
   end_date: null
-  parl_group:
-    el: ΔΗΚΟ
-    en: DIKO
+  parliamentary_group_id: diko
   start_date: '2011-06-02'

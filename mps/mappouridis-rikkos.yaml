@@ -11,15 +11,15 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/MAPPOURIDES%20Rikko
 name:
   el: Μαππουρίδης Ρίκκος
   en: Mappouridis Rikkos
+  tr: Mappurídis Ríkkos
 other_names:
 - name: Mappourides Andreas
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Λευκωσία
     en: Lefkosia
+    tr: Lefkoşa
   end_date: null
-  parl_group:
-    el: ΔΗΣΥ
-    en: DISY
+  parliamentary_group_id: disy
   start_date: '2013-03-07'

@@ -15,37 +15,36 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/SYLLOURIS%20Demetri
 name:
   el: Συλλούρης Δημήτρης
   en: Syllouris Dimitris
+  tr: Sillúris Dimítris
 other_names:
 - name: Syllouris Demetris
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Λευκωσία
     en: Lefkosia
+    tr: Lefkoşa
   end_date: '2004-07-01'
-  parl_group:
-    el: ΔΗΣΥ
-    en: DISY
+  parliamentary_group_id: disy
   start_date: '2001-06-07'
-- district:
+- electoral_district:
     el: Λευκωσία
     en: Lefkosia
+    tr: Lefkoşa
   end_date: '2006-05-31'
-  parl_group: null
+  parliamentary_group_id: null
   start_date: '2004-07-02'
-- district:
+- electoral_district:
     el: Λευκωσία
     en: Lefkosia
+    tr: Lefkoşa
   end_date: '2011-06-01'
-  parl_group:
-    el: ΕΥΡΩΚΟ
-    en: EVROKO
+  parliamentary_group_id: evroko
   start_date: '2006-06-01'
-- district:
+- electoral_district:
     el: Λευκωσία
     en: Lefkosia
+    tr: Lefkoşa
   end_date: null
-  parl_group:
-    el: ΕΥΡΩΚΟ
-    en: EVROKO
+  parliamentary_group_id: evroko
   start_date: '2011-06-02'

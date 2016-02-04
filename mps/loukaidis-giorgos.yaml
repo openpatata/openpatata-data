@@ -15,15 +15,15 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Loukaidis%20Giwrgos
 name:
   el: Λουκαΐδης Γιώργος
   en: Loukaidis Giorgos
+  tr: Lukaḯdis Yiórgos
 other_names:
 - name: Loukaides George
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Λευκωσία
     en: Lefkosia
+    tr: Lefkoşa
   end_date: null
-  parl_group:
-    el: ΑΚΕΛ–ΝΔ
-    en: AKEL–ND
+  parliamentary_group_id: akel-nd
   start_date: '2011-06-02'

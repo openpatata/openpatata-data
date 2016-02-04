@@ -15,15 +15,15 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Georgiou%20Giwrgos%
 name:
   el: Γεωργίου Γιώργος
   en: Georgiou Giorgos
+  tr: Yeoryíu Yiórgos
 other_names:
 - name: Georgiou Giorgos
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Λάρνακα
     en: Larnaka
+    tr: Larnaka
   end_date: null
-  parl_group:
-    el: ΑΚΕΛ–ΝΔ
-    en: AKEL–ND
+  parliamentary_group_id: akel-nd
   start_date: '2011-06-02'

@@ -9,20 +9,19 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/MITSOPOULOS%20Tasos
 name:
   el: Μητσόπουλος Τάσος
   en: Mitsopoulos Tasos
+  tr: Mitsópulos Tásos
 tenures:
-- district:
+- electoral_district:
     el: Λάρνακα
     en: Larnaka
+    tr: Larnaka
   end_date: '2011-06-01'
-  parl_group:
-    el: ΔΗΣΥ
-    en: DISY
+  parliamentary_group_id: disy
   start_date: '2006-06-01'
-- district:
+- electoral_district:
     el: Λάρνακα
     en: Larnaka
+    tr: Larnaka
   end_date: '2013-02-28'
-  parl_group:
-    el: ΔΗΣΥ
-    en: DISY
+  parliamentary_group_id: disy
   start_date: '2011-06-02'

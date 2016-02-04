@@ -11,31 +11,29 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/KONSTANTINOU%20Kost
 name:
   el: Κωνσταντίνου Κώστας
   en: Konstantinou Kostas
+  tr: Konstandínu Kóstas
 other_names:
 - name: Constantinou Costas
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Πάφος
     en: Pafos
+    tr: Baf
   end_date: '2006-05-31'
-  parl_group:
-    el: ΔΗΣΥ
-    en: DISY
+  parliamentary_group_id: disy
   start_date: '2001-06-07'
-- district:
+- electoral_district:
     el: Πάφος
     en: Pafos
+    tr: Baf
   end_date: '2011-06-01'
-  parl_group:
-    el: ΔΗΣΥ
-    en: DISY
+  parliamentary_group_id: disy
   start_date: '2006-06-01'
-- district:
+- electoral_district:
     el: Πάφος
     en: Pafos
+    tr: Baf
   end_date: null
-  parl_group:
-    el: ΔΗΣΥ
-    en: DISY
+  parliamentary_group_id: disy
   start_date: '2011-06-02'

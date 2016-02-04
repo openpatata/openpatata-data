@@ -15,17 +15,17 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Papagewrgiou%20Pamp
 name:
   el: Παπαγεωργίου Πάμπος
   en: Papageorgiou Pampos
+  tr: Papayeoryíu Pámbos
 other_names:
 - name: Papageorgiou Bambos
   note: Official spelling in the 'en' locale; possibly anglicised
 - name: Παπαγεωργίου Χαράλαμπος
   note: Full form (el-Grek)
 tenures:
-- district:
+- electoral_district:
     el: Κερύνεια
     en: Keryneia
+    tr: Girne
   end_date: null
-  parl_group:
-    el: ΑΚΕΛ–ΝΔ
-    en: AKEL–ND
+  parliamentary_group_id: akel-nd
   start_date: '2011-06-02'

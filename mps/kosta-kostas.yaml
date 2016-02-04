@@ -15,15 +15,15 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Costa%20Costas%20a.
 name:
   el: Κώστα Κώστας
   en: Kosta Kostas
+  tr: Kósta Kóstas
 other_names:
 - name: Costa Costas
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Λεμεσός
     en: Lemesos
+    tr: Limasol
   end_date: null
-  parl_group:
-    el: ΑΚΕΛ–ΝΔ
-    en: AKEL–ND
+  parliamentary_group_id: akel-nd
   start_date: '2011-06-02'

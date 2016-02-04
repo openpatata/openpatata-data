@@ -11,15 +11,15 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/PROKOPIOU%20Giorgos
 name:
   el: Προκοπίου Γεώργιος
   en: Prokopiou Georgios
+  tr: Prokopíu Yeóryios
 other_names:
 - name: Prokopiou Georgios
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Λάρνακα
     en: Larnaka
+    tr: Larnaka
   end_date: null
-  parl_group:
-    el: ΔΗΚΟ
-    en: DIKO
+  parliamentary_group_id: diko
   start_date: '2011-06-02'

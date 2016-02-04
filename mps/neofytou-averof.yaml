@@ -27,23 +27,22 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/NEOFYTOU%20Averof.j
 name:
   el: Νεοφύτου Αβέρωφ
   en: Neofytou Averof
+  tr: Neofítu Avérof
 other_names:
 - name: Neofytou Averof
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Λευκωσία
     en: Lefkosia
+    tr: Lefkoşa
   end_date: '2011-06-01'
-  parl_group:
-    el: ΔΗΣΥ
-    en: DISY
+  parliamentary_group_id: disy
   start_date: '2006-06-01'
-- district:
+- electoral_district:
     el: Λευκωσία
     en: Lefkosia
+    tr: Lefkoşa
   end_date: null
-  parl_group:
-    el: ΔΗΣΥ
-    en: DISY
+  parliamentary_group_id: disy
   start_date: '2011-06-02'

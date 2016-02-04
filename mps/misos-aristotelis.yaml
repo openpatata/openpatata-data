@@ -11,15 +11,15 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/MISOS%20Aristotelis
 name:
   el: Μισός Αριστοτέλης
   en: Misos Aristotelis
+  tr: Misós Aristotélis
 other_names:
 - name: Misos Aristotelis
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Λάρνακα
     en: Larnaka
+    tr: Larnaka
   end_date: null
-  parl_group:
-    el: ΔΗΣΥ
-    en: DISY
+  parliamentary_group_id: disy
   start_date: '2013-03-07'

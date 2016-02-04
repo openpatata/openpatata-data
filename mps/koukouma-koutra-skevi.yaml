@@ -15,25 +15,24 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Koutra-%20Koukouma%
 name:
   el: Κουκουμά Κούτρα Σκεύη
   en: Koukouma Koutra Skevi
+  tr: Kukumá Kútra Skev́i
 other_names:
 - name: Κουκουμά Σκεύη
   note: Short form (el-Grek)
 - name: Koukouma Koutra Skevi
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Αμμόχωστος
     en: Ammochostos
+    tr: Mağusa
   end_date: '2011-06-01'
-  parl_group:
-    el: ΑΚΕΛ–ΝΔ
-    en: AKEL–ND
+  parliamentary_group_id: akel-nd
   start_date: '2008-03-06'
-- district:
+- electoral_district:
     el: Αμμόχωστος
     en: Ammochostos
+    tr: Mağusa
   end_date: null
-  parl_group:
-    el: ΑΚΕΛ–ΝΔ
-    en: AKEL–ND
+  parliamentary_group_id: akel-nd
   start_date: '2011-06-02'

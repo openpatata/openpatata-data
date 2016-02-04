@@ -19,23 +19,22 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/ANTONIOU%20ANTONIS.
 name:
   el: Αντωνίου Αντώνης
   en: Antoniou Antonis
+  tr: Andoníu Andónis
 other_names:
 - name: Antoniou Antonis
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Πάφος
     en: Pafos
+    tr: Baf
   end_date: '2011-06-01'
-  parl_group:
-    el: ΔΗΚΟ
-    en: DIKO
+  parliamentary_group_id: diko
   start_date: '2006-06-01'
-- district:
+- electoral_district:
     el: Πάφος
     en: Pafos
+    tr: Baf
   end_date: null
-  parl_group:
-    el: ΔΗΚΟ
-    en: DIKO
+  parliamentary_group_id: diko
   start_date: '2011-06-02'

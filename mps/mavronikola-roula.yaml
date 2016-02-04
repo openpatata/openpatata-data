@@ -15,25 +15,24 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/MAVRONIKOLA%20Roula
 name:
   el: Μαυρονικόλα Ρούλα
   en: Mavronikola Roula
+  tr: Mavronikóla Rúla
 other_names:
 - name: Μαυρονικόλα Ρούλλα
   note: Alternative spelling (el-Grek)
 - name: Mavronicola Roula
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Λευκωσία
     en: Lefkosia
+    tr: Lefkoşa
   end_date: '2011-06-01'
-  parl_group:
-    el: ΕΔΕΚ
-    en: EDEK
+  parliamentary_group_id: edek
   start_date: '2006-06-01'
-- district:
+- electoral_district:
     el: Λευκωσία
     en: Lefkosia
+    tr: Lefkoşa
   end_date: null
-  parl_group:
-    el: ΕΔΕΚ
-    en: EDEK
+  parliamentary_group_id: edek
   start_date: '2011-06-02'

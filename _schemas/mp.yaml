@@ -20,9 +20,15 @@ properties:
           Their name in English, ISO 843-transliterated, in the following order:
           last name, middle name, first name.
         type: string
+      tr:
+        description: >
+          Their name in Turkish, in the following order:
+          last name, middle name, first name.
+        type: string
     required:
     - el
     - en
+    - tr
   other_names:
     description: Alternate names and spellings.
     type:
@@ -67,7 +73,7 @@ properties:
     items:
       type: object
       properties:
-        district:
+        electoral_district:
           description: The district served.
           type: object
           properties:
@@ -79,9 +85,14 @@ properties:
                 The name of the district in English, ISO 843-transliterated
                 from Greek.
               type: string
+            tr:
+              description: >
+                The name of the district in Turkish
+              type: string
           required:
           - el
           - en
+          - tr
         start_date:
           description: The start date, in ISO format (YYYY-MM-DD).
           type: string
@@ -94,29 +105,18 @@ properties:
           - string
           - 'null'
           format: date
-        parl_group:
+        parliamentary_group_id:
           description: >
-            The parliament group the MP is affiliated to, if any; otherwise
-            leave blank.
+            The `id` of the parliament group the MP is affiliated to, if any;
+            otherwise leave blank.
           type:
-          - object
+          - string
           - 'null'
-          properties:
-            el:
-              description: Name in Greek.
-              type: string
-            en:
-              description: >
-                Name in Eglish, ISO 843-transliterated from the Greek.
-              type: string
-          required:
-          - el
-          - en
       required:
-      - district
+      - electoral_district
       - start_date
       - end_date
-      - parl_group
+      - parliamentary_group_id
   links:
     description: >
       A list of pertinent links, e.g. to the MP's page on Parliament.  Generally
@@ -137,9 +137,13 @@ properties:
             en:
               description: A brief description in English.
               type: string
+            tr:
+              description: A brief description in Turkish.
+              type: string
           required:
           - el
           - en
+          - tr
         url:
           description: The link itself.
           type: string

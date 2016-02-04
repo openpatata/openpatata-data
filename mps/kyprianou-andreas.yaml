@@ -15,23 +15,22 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/KYPRIANOU%20Andreas
 name:
   el: Κυπριανού Ανδρέας
   en: Kyprianou Andreas
+  tr: Kiprianú Andréas
 other_names:
 - name: Kyprianou Andreas
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Λεμεσός
     en: Lemesos
+    tr: Limasol
   end_date: '2011-06-01'
-  parl_group:
-    el: ΔΗΣΥ
-    en: DISY
+  parliamentary_group_id: disy
   start_date: '2009-07-15'
-- district:
+- electoral_district:
     el: Λεμεσός
     en: Lemesos
+    tr: Limasol
   end_date: null
-  parl_group:
-    el: ΔΗΣΥ
-    en: DISY
+  parliamentary_group_id: disy
   start_date: '2011-06-02'

@@ -15,23 +15,22 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/VOTSIS%20Aggelos.jp
 name:
   el: Βότσης Άγγελος
   en: Votsis Angelos
+  tr: Vótsis Ángelos
 other_names:
 - name: Votsis Angelos
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Λεμεσός
     en: Lemesos
+    tr: Limasol
   end_date: '2011-06-01'
-  parl_group:
-    el: ΔΗΚΟ
-    en: DIKO
+  parliamentary_group_id: diko
   start_date: '2006-06-01'
-- district:
+- electoral_district:
     el: Λεμεσός
     en: Lemesos
+    tr: Limasol
   end_date: null
-  parl_group:
-    el: ΔΗΚΟ
-    en: DIKO
+  parliamentary_group_id: diko
   start_date: '2011-06-02'

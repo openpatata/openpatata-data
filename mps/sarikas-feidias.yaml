@@ -11,23 +11,22 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/SARIKAS%20Fidias.jp
 name:
   el: Σαρίκας Φειδίας
   en: Sarikas Feidias
+  tr: Saríkas Fidías
 other_names:
 - name: Sarikas Fidias
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Πάφος
     en: Pafos
+    tr: Baf
   end_date: '2011-06-01'
-  parl_group:
-    el: ΕΔΕΚ
-    en: EDEK
+  parliamentary_group_id: edek
   start_date: '2006-06-01'
-- district:
+- electoral_district:
     el: Πάφος
     en: Pafos
+    tr: Baf
   end_date: null
-  parl_group:
-    el: ΕΔΕΚ
-    en: EDEK
+  parliamentary_group_id: edek
   start_date: '2011-06-02'

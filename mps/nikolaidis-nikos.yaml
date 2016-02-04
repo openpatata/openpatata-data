@@ -19,15 +19,15 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Nikos_Nikolaides.jp
 name:
   el: Νικολαΐδης Νίκος
   en: Nikolaidis Nikos
+  tr: Nikolaḯdis Níkos
 other_names:
 - name: Nicolaides Nicos
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Λεμεσός
     en: Lemesos
+    tr: Limasol
   end_date: null
-  parl_group:
-    el: ΕΔΕΚ
-    en: EDEK
+  parliamentary_group_id: edek
   start_date: '2011-06-02'

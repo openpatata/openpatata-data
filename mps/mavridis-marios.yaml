@@ -11,15 +11,15 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/MAVRIDES-Marios.jpg
 name:
   el: Μαυρίδης Μάριος
   en: Mavridis Marios
+  tr: Mavrídis Mários
 other_names:
 - name: Mavrides Marios
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- district:
+- electoral_district:
     el: Κερύνεια
     en: Keryneia
+    tr: Girne
   end_date: null
-  parl_group:
-    el: ΔΗΣΥ
-    en: DISY
+  parliamentary_group_id: disy
   start_date: '2011-06-02'
