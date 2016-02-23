@@ -4,8 +4,9 @@ email: yomirou@parliament.cy
 gender: male
 links:
 - note:
-    el: Ιστοσελίδα Βουλής
-    en: On Parliament
+    el: Προφίλ στην ιστοσελίδα της Βουλής
+    en: Page on Parliament
+    tr: 
   url: http://www.parliament.cy/easyconsole.cfm/id/187
 - note:
     el: Προσωπική ιστοσελίδα
@@ -19,7 +20,7 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Yiannakis%20Omirou.
 name:
   el: Ομήρου Γιαννάκης
   en: Omirou Giannakis
-  tr: Omíru Yiannákis
+  tr: Omíru Yannákis
 other_names:
 - name: Omirou Yiannakis
   note: Official spelling in the 'en' locale; possibly anglicised

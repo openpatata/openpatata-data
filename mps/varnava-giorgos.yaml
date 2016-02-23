@@ -4,14 +4,15 @@ email: gvarnavas@parliament.cy
 gender: male
 links:
 - note:
-    el: Ιστοσελίδα Βουλής
-    en: On Parliament
+    el: Προφίλ στην ιστοσελίδα της Βουλής
+    en: Page on Parliament
+    tr: 
   url: http://www.parliament.cy/easyconsole.cfm/id/308
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/VARNAVAS%20George.jpg
 name:
   el: Βαρνάβα Γιώργος
   en: Varnava Giorgos
-  tr: Varnáva Yiórgos
+  tr: Varnáva Yórgos
 other_names:
 - name: Varnava George
   note: Official spelling in the 'en' locale; possibly anglicised

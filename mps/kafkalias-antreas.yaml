@@ -4,8 +4,9 @@ email: akafkalias@parliament.cy
 gender: male
 links:
 - note:
-    el: Ιστοσελίδα Βουλής
-    en: On Parliament
+    el: Προφίλ στην ιστοσελίδα της Βουλής
+    en: Page on Parliament
+    tr: 
   url: http://www.parliament.cy/easyconsole.cfm/id/367
 - note:
     el: Wikipedia [el]
@@ -15,7 +16,7 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Kafkalias%20Andros%
 name:
   el: Καυκαλιάς Αντρέας
   en: Kafkalias Antreas
-  tr: Kavkaliás Andréas
+  tr: Kafkaliás Andréas
 other_names:
 - name: Kafkalias Andreas
   note: Official spelling in the 'en' locale; possibly anglicised

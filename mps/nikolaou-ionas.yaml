@@ -2,8 +2,9 @@ birth_date: '1963-01-21'
 gender: male
 links:
 - note:
-    el: Ιστοσελίδα Βουλής
-    en: On Parliament
+    el: Προφίλ στην ιστοσελίδα της Βουλής
+    en: Page on Parliament
+    tr: 
   url: http://www.parliament.cy/easyconsole.cfm/id/912
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/NIKOLAOU%20Ionas.jpg
 name:

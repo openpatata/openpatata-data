@@ -4,8 +4,9 @@ email: aneofytou@parliament.cy
 gender: male
 links:
 - note:
-    el: Ιστοσελίδα Βουλής
-    en: On Parliament
+    el: Προφίλ στην ιστοσελίδα της Βουλής
+    en: Page on Parliament
+    tr:
   url: http://www.parliament.cy/easyconsole.cfm/id/402
 - note:
     el: Προσωπική ιστοσελίδα
@@ -22,6 +23,7 @@ links:
 - note:
     el: twitter
     en: twitter
+    tr: twitter
   url: https://twitter.com/AverofCY
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/NEOFYTOU%20Averof.jpg
 name:

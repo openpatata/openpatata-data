@@ -4,12 +4,14 @@ email: avotsis@parliament.cy
 gender: male
 links:
 - note:
-    el: Ιστοσελίδα Βουλής
-    en: On Parliament
+    el: Προφίλ στην ιστοσελίδα της Βουλής
+    en: Page on Parliament
+    tr:
   url: http://www.parliament.cy/easyconsole.cfm/id/309
 - note:
     el: twitter
     en: twitter
+    tr: twitter
   url: https://twitter.com/AngelosEmVotsis
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/VOTSIS%20Aggelos.jpg
 name:

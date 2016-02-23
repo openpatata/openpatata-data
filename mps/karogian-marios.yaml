@@ -4,8 +4,9 @@ email: mgaroyan@parliament.cy
 gender: male
 links:
 - note:
-    el: Ιστοσελίδα Βουλής
-    en: On Parliament
+    el: Προφίλ στην ιστοσελίδα της Βουλής
+    en: Page on Parliament
+    tr: 
   url: http://www.parliament.cy/easyconsole.cfm/id/365
 - note:
     el: Wikipedia [en]
@@ -15,7 +16,7 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/GAROYIAN%20Marios.j
 name:
   el: Καρογιάν Μάριος
   en: Karogian Marios
-  tr: Karoyián Mários
+  tr: Karoyán Mários
 other_names:
 - name: Garoyian Marios
   note: Official spelling in the 'en' locale; possibly anglicised

@@ -4,8 +4,9 @@ email: sevagorou@parliament.cy
 gender: male
 links:
 - note:
-    el: Ιστοσελίδα Βουλής
-    en: On Parliament
+    el: Προφίλ στην ιστοσελίδα της Βουλής
+    en: Page on Parliament
+    tr: 
   url: http://www.parliament.cy/easyconsole.cfm/id/363
 - note:
     el: Wikipedia [el]
@@ -15,7 +16,7 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Evagorou%20Stavros%
 name:
   el: Ευαγόρου Σταύρος
   en: Evagorou Stavros
-  tr: Evagóru Stav́ros
+  tr: Evagóru Stávros
 other_names:
 - name: Evagorou Stavros
   note: Official spelling in the 'en' locale; possibly anglicised

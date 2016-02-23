@@ -4,8 +4,9 @@ email: skoukouma@parliament.cy
 gender: female
 links:
 - note:
-    el: Ιστοσελίδα Βουλής
-    en: On Parliament
+    el: Προφίλ στην ιστοσελίδα της Βουλής
+    en: Page on Parliament
+    tr: 
   url: http://www.parliament.cy/easyconsole.cfm/id/368
 - note:
     el: Wikipedia [el]
@@ -15,7 +16,7 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Koutra-%20Koukouma%
 name:
   el: Κουκουμά Κούτρα Σκεύη
   en: Koukouma Koutra Skevi
-  tr: Kukumá Kútra Skev́i
+  tr: Kukumá Kútra Skévi
 other_names:
 - name: Κουκουμά Σκεύη
   note: Short form (el-Grek)

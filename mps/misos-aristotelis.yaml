@@ -4,8 +4,9 @@ email: amisos@parliament.cy
 gender: male
 links:
 - note:
-    el: Ιστοσελίδα Βουλής
-    en: On Parliament
+    el: Προφίλ στην ιστοσελίδα της Βουλής
+    en: Page on Parliament
+    tr: 
   url: http://www.parliament.cy/easyconsole.cfm/id/397
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/MISOS%20Aristotelis.jpg
 name:

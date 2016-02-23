@@ -4,8 +4,9 @@ email: ycavriel@parliament.cy
 gender: male
 links:
 - note:
-    el: Ιστοσελίδα Βουλής
-    en: On Parliament
+    el: Προφίλ στην ιστοσελίδα της Βουλής
+    en: Page on Parliament
+    tr: 
   url: http://www.parliament.cy/easyconsole.cfm/id/310
 - note:
     el: Wikipedia [el]
@@ -15,7 +16,7 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Gavriel%20Giannakis
 name:
   el: Γαβριήλ Γιαννάκης
   en: Gavriil Giannakis
-  tr: Gavriíl Yiannákis
+  tr: Gavriíl Yannákis
 other_names:
 - name: Gavriel Yiannakis
   note: Official spelling in the 'en' locale; possibly anglicised

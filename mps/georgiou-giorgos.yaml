@@ -4,8 +4,9 @@ email: gegeorgiou@parliament.cy
 gender: male
 links:
 - note:
-    el: Ιστοσελίδα Βουλής
-    en: On Parliament
+    el: Προφίλ στην ιστοσελίδα της Βουλής
+    en: Page on Parliament
+    tr: 
   url: http://www.parliament.cy/easyconsole.cfm/id/313
 - note:
     el: Wikipedia [el]
@@ -15,7 +16,7 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Georgiou%20Giwrgos%
 name:
   el: Γεωργίου Γιώργος
   en: Georgiou Giorgos
-  tr: Yeoryíu Yiórgos
+  tr: Yeoryíu Yórgos
 other_names:
 - name: Georgiou Giorgos
   note: Official spelling in the 'en' locale; possibly anglicised

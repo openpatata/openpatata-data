@@ -4,8 +4,9 @@ email: sfittis@parliament.cy
 gender: male
 links:
 - note:
-    el: Ιστοσελίδα Βουλής
-    en: On Parliament
+    el: Προφίλ στην ιστοσελίδα της Βουλής
+    en: Page on Parliament
+    tr: 
   url: http://www.parliament.cy/easyconsole.cfm/id/419
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/FITTIS%20SOFOKLIS.jpg
 name:

@@ -4,8 +4,9 @@ email: gperdikes@parliament.cy
 gender: male
 links:
 - note:
-    el: Ιστοσελίδα Βουλής
-    en: On Parliament
+    el: Προφίλ στην ιστοσελίδα της Βουλής
+    en: Page on Parliament
+    tr: 
   url: http://www.parliament.cy/easyconsole.cfm/id/407
 - note:
     el: Blog
@@ -19,7 +20,7 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/PERDIKES%20George.j
 name:
   el: Περδίκης Γιώργος
   en: Perdikis Giorgos
-  tr: Perdíkis Yiórgos
+  tr: Perdíkis Yórgos
 other_names:
 - name: Perdikis Giorgos
   note: Official spelling in the 'en' locale; possibly anglicised

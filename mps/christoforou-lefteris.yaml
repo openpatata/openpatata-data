@@ -4,14 +4,15 @@ email: lchristoforou@parliament.cy
 gender: male
 links:
 - note:
-    el: Ιστοσελίδα Βουλής
-    en: On Parliament
+    el: Προφίλ στην ιστοσελίδα της Βουλής
+    en: Page on Parliament
+    tr: 
   url: http://www.parliament.cy/easyconsole.cfm/id/422
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/CHRISTOFOROU%20Lefteris.jpg
 name:
   el: Χριστοφόρου Λευτέρης
   en: Christoforou Lefteris
-  tr: Hristofóru Levtéris
+  tr: Hristofóru Leftéris
 other_names:
 - name: Christoforou Lefteris
   note: Official spelling in the 'en' locale; possibly anglicised

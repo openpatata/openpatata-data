@@ -4,12 +4,14 @@ email: ggeorgiou@parliament.cy
 gender: male
 links:
 - note:
-    el: Ιστοσελίδα Βουλής
-    en: On Parliament
+    el: Προφίλ στην ιστοσελίδα της Βουλής
+    en: Page on Parliament
+    tr:
   url: http://www.parliament.cy/easyconsole.cfm/id/312
 - note:
     el: twitter
     en: twitter
+    tr: twitter
   url: https://twitter.com/GeorgeKGeorgiou
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/GEORGIOU%20Georgios.jpg
 name:

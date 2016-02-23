@@ -4,8 +4,9 @@ email: gloukaides@parliament.cy
 gender: male
 links:
 - note:
-    el: Ιστοσελίδα Βουλής
-    en: On Parliament
+    el: Προφίλ στην ιστοσελίδα της Βουλής
+    en: Page on Parliament
+    tr: 
   url: http://www.parliament.cy/easyconsole.cfm/id/390
 - note:
     el: Wikipedia [el]
@@ -15,7 +16,7 @@ mugshot: http://www.parliament.cy/assets/image/imageoriginal/Loukaidis%20Giwrgos
 name:
   el: Λουκαΐδης Γιώργος
   en: Loukaidis Giorgos
-  tr: Lukaḯdis Yiórgos
+  tr: Lukaḯdis Yórgos
 other_names:
 - name: Loukaides George
   note: Official spelling in the 'en' locale; possibly anglicised
