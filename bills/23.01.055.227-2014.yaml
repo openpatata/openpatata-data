@@ -1,8 +1,14 @@
-events:
-- date: '2014-10-30'
-  description: κατατέθηκε από τον Υπουργό Οικονομικών· παραπέμφθηκε στην Επιτροπή Οικονομικών και Προϋπολογισμού
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1172
+- http://www.parliament.cy/easyconsole.cfm/id/1183
+- http://www.parliament.cy/easyconsole.cfm/id/1192
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-10-30.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-10-30_Ι_Δ_6
+  committees_referred_to: Οικονομικών και Προϋπολογισμού
+  sponsors: Οικονομικών
 identifier: 23.01.055.227-2014
-in_committees:
-- el: Οικονομικών και Προϋπολογισμού
-  en: Finance and Budget
+other_titles:
+- Ο περί Συμπληρωματικού Προϋπολογισμού Νόμος (Αρ. 2) του 2014
 title: Ο περί Συμπληρωματικού Προϋπολογισμού Νόμος (Αρ. 2) του 2014

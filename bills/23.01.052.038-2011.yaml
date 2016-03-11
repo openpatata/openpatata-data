@@ -1,10 +1,7 @@
-events:
-- date: '2011-01-20'
-  description: κατατέθηκε από το Υπουργείο Εσωτερικών· παραπέμφθηκε στην Επιτροπή Νομικών
-- date: '2014-05-08'
-  description: null
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/926
+actions: []
 identifier: 23.01.052.038-2011
-in_committees:
-- el: Νομικών
-  en: Legal Affairs
+other_titles:
+- Ο περί Αναγκαστικής Απαλλοτρίωσης (Τροποποιητικός) Νόμος του 2011
 title: Ο περί Αναγκαστικής Απαλλοτρίωσης (Τροποποιητικός) Νόμος του 2011

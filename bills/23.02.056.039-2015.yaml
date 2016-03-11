@@ -1,3 +1,15 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1373
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-03-12.pdf
+actions:
+- action: submission
+  at_plenary_id: 2015-03-12_Ι_Δ_26
+  committees_referred_to: Οικονομικών και Προϋπολογισμού και Εσωτερικών
+  sponsors: Γεώργιο Προκοπίου εκ μέρους της κοινοβουλευτικής ομάδας του Δημοκρατικού
+    Κόμματος
 identifier: 23.02.056.039-2015
+other_titles:
+- Ο περί Μεταβιβάσεως και Υποθηκεύσεως Ακινήτων (Τροποποιητικός) (Αρ. 9) Νόμος του
+  2015
 title: Ο περί Μεταβιβάσεως και Υποθηκεύσεως Ακινήτων (Τροποποιητικός) (Αρ. 9) Νόμος
   του 2015

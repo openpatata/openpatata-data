@@ -1,12 +1,12 @@
-events:
-- date: '2014-03-20'
-  description: κατατέθηκε από τον Υπουργό Υγείας· παραπέμφθηκε στην Επιτροπή Υγείας
-- date: '2014-04-10'
-  description:
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/902
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-03-20.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-03-20_Ι_Γ_30
+  committees_referred_to: Υγείας
+  sponsors: Υγείας
 identifier: 23.01.055.067-2014
-in_committees:
-- el: Υγείας
-  en: Health
-tags:
-- κρατικός προϋπολογισμός
+other_titles:
+- Ο περί Προϋπολογισμού του Οργανισμού Ασφάλισης Υγείας του 2014 Νόμος του 2014
 title: Ο περί Προϋπολογισμού του Οργανισμού Ασφάλισης Υγείας του 2014 Νόμος του 2014

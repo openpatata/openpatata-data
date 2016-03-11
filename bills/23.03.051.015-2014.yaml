@@ -1,25 +1,13 @@
-events:
-- date: '2014-02-27'
-  description: κατατέθηκαν από τον Υπουργό Εργασίας και Κοινωνικών Ασφαλίσεων· παραπέπφθηκαν στην Επιτροπή Εργασίας και Κοινωνικών Ασφαλίσεων
-- date: '2014-04-03'
-  description: επανήλθαν στην Ολομέλεια
-- date: '2014-04-03'
-  description: υπερψηφίστηκαν
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/885
+- http://www.parliament.cy/easyconsole.cfm/id/893
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-02-27.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-02-27_Ι_Γ_26
+  committees_referred_to: Εργασίας και Κοινωνικών Ασφαλίσεων
+  sponsors: Εργασίας και Κοινωνικών Ασφαλίσεων
 identifier: 23.03.051.015-2014
-in_committees:
-- el: Εργασίας και Κοινωνικών Ασφαλίσεων
-  en: Labour and Social Insurance
-status: pass
+other_titles:
+- Οι περί των Ταμείων Επαγγελματικών Συνταξιοδοτικών Παροχών Κανονισμοί του 2014
 title: Οι περί των Ταμείων Επαγγελματικών Συνταξιοδοτικών Παροχών Κανονισμοί του 2014
-votes:
-- date: '2014-04-03'
-  count:
-   abstain: 0
-   against: 23
-   for: 15
-  on_: Προτεινόμενη τροπολογία του κ. Αντρέα Φακοντή εκ μέρους της κοινοβουλευτικής ομάδας ΑΚΕΛ- Αριστερά-Νέες Δυνάμεις και της κ. Ρούλας Μαυρονικόλα εκ μέρους του Κινήματος Σοσιαλδημοκρατών ΕΔΕΚ
-  result: fail
-- date: '2014-04-03'
-  count: false
-  on_: Στο σύνολο των κανονισμών
-  result: pass

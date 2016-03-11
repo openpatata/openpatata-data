@@ -1,23 +1,13 @@
-events:
-- date: '2012-07-12'
-  description: η πρόταση νόμου κατατέθηκε από τον Κυριάκο Χατζηγιάννη, βουλευτή εκλογικής περιφέρειας Αμμοχώστου· παραπέμφθηκε στην Επιτροπή Εμπορίου και Βιομηχανίας
-- date: '2013-07-11'
-  description: επανήλθε στην Ολομέλεια
-  description: τροπολογία του ΔΗΚΟ υπερψηφίστηκε
-- date: '2013-07-11'
-  description: η πρόταση νόμου υπερψηφίστηκε
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/574
+- http://www.parliament.cy/images/media/redirectfile/40-1107013 - agenda0001.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-07-12.doc
+actions:
+- action: submission
+  at_plenary_id: 2012-07-12_Ι_Α_46
+  committees_referred_to: Εμπορίου και Βιομηχανίας
+  sponsors: Κυριάκο Χατζηγιάννη, βουλευτή εκλογικής περιφέρειας Αμμοχώστου
 identifier: 23.02.053.080-2012
-in_committees:
-- el: Εμπορίου και Βιομηχανίας
-  en: Commerce and Industry
-status: pass
+other_titles:
+- Ο περί της Ρύθμισης της Λειτουργίας των Λαϊκών Αγορών Νόμος του 2012
 title: Ο περί της Ρύθμισης της Λειτουργίας των Λαϊκών Αγορών Νόμος του 2012
-votes:
-- count: FALSE
-  date: '2013-07-11'
-  on_: Προτεινόμενη τροπολογία της κοινοβουλευτικής ομάδας του Δημοκρατικού Κόμματος
-  result: pass
-- count: FALSE
-  date: '2013-07-11'
-  on_: Στο σύνολο του σχεδίου
-  result: pass

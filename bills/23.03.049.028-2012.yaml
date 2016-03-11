@@ -1,10 +1,69 @@
-events:
-- date: '2012-02-23'
-  description: κατατέθηκαν από το Υπουργείο Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος· παραπέμφθηκαν στην Επιτροπή Γεωργίας και Φυσικών Πόρων
-- date: '2013-10-24'
-  description: null
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/466
+- http://www.parliament.cy/easyconsole.cfm/id/550
+- http://www.parliament.cy/easyconsole.cfm/id/718
+- http://www.parliament.cy/easyconsole.cfm/id/723
+- http://www.parliament.cy/images/media/redirectfile/09-24102013 - agenda.pdf
+- http://www.parliament.cy/images/media/redirectfile/40-1107013 - agenda0001.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-02-23.doc
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-04-05.doc
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-05-31.doc
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2012-09-13.doc
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2012-11-08.doc
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-03-07.doc
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-04-25.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-06-20.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-08-29.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-08-29.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-10-24.pdf
+actions:
+- action: submission
+  at_plenary_id: 2012-02-23_Ι_Α_25
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2012-04-05_Ι_Α_31
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2012-05-31_Ι_Α_40
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2012-09-13_Ι_Β_1
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2012-11-08_Ι_Β_9
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2013-03-07_Ι_Β_21
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2013-04-25_Ι_Β_30
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2013-06-20_Ι_Β_37
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2013-08-29_Ι_None_None
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2013-10-24_Ι_Γ_9
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
 identifier: 23.03.049.028-2012
-in_committees:
-- el: Γεωργίας και Φυσικών Πόρων
-  en: Agriculture and Natural Resources
-title: Οι περί Θεσπίσεως Εθνικών Μέτρων για την Υγιεινή Παραγωγή και ∆ιάθεση στην Αγορά ορισμένων Τροφίμων Ζωικής Προέλευσης Κανονισμοί του 2013
+other_titles:
+- Οι περί Θεσπίσεως Εθνικών Μέτρων για την Υγιεινή Παραγωγή και Διάθεση στην Αγορά
+  ορισμένων Τροφίμων Ζωικής Προέλευσης Κανονισμοί του 2012
+- Οι περί Θεσπίσεως Εθνικών Μέτρων για την Υγιεινή Παραγωγή και Διάθεση στην Αγορά
+  ορισμένων Τροφίμων Ζωικής Προέλευσης Κανονισμοί του 2013
+- Οι περί Θεσπίσεως Εθνικών Μέτρων για την Υγιεινή Παραγωγή και ∆ιάθεση στην Αγορά
+  ορισμένων Τροφίμων Ζωικής Προέλευσης Κανονισμοί του 2013
+title: Οι περί Θεσπίσεως Εθνικών Μέτρων για την Υγιεινή Παραγωγή και ∆ιάθεση στην
+  Αγορά ορισμένων Τροφίμων Ζωικής Προέλευσης Κανονισμοί του 2013

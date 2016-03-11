@@ -1,2 +1,12 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1622
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-09-03.pdf
+actions:
+- action: submission
+  at_plenary_id: 2015-09-03_Ι_Ε_1
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
 identifier: 23.03.052.050-2015
+other_titles:
+- Οι περί Γεωργικής Ασφαλίσεως (Τροποποιητικοί) Κανονισμοί του 2015
 title: Οι περί Γεωργικής Ασφαλίσεως (Τροποποιητικοί) Κανονισμοί του 2015

@@ -1,10 +1,12 @@
-events:
-- date: '2013-05-23'
-  description: κατατέθηκε από τον Άγγελο Βότση εκ μέρους της κοινοβουλευτικής ομάδας Δημοκρατικού Κόμματος· παραπέμφθηκε στην Επιτροπή Οικονομικών και Προϋπολογισμού
-- date: '2013-09-26'
-  description: null
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/671
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-05-23.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-05-23_Ι_Β_33
+  committees_referred_to: Οικονομικών και Προϋπολογισμού
+  sponsors: Άγγελο Βότση εκ μέρους της κοινοβουλευτικής ομάδας του Δημοκρατικού Κόμματος
 identifier: 23.02.054.040-2013
-in_committees:
-- el: Οικονομικών και Προϋπολογισμού
-  en: Finance and Budget
+other_titles:
+- Ο περί Φορολογίας Ακινήτου Ιδιοκτησίας (Τροποποιητικός) (Αρ. 2) Νόμος του 2013
 title: Ο περί Φορολογίας Ακινήτου Ιδιοκτησίας (Τροποποιητικός) (Αρ. 2) Νόμος του 2013

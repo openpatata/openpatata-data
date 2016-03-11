@@ -1,10 +1,7 @@
-events:
-- date: '2013-11-21'
-  description: κατατέθηκε από τον Αντρέα Φακοντή, βουλευτή εκλογικής περιφέρειας Πάφου· παραπέμφθηκε στην Επιτροπή Εργασίας και Κοινωνικών Ασφαλίσεων
-- date: '2013-12-12'
-  description: null
+_sources:
+- http://www.parliament.cy/images/media/redirectfile/17-12122013 - agenda.pdf
+actions: []
 identifier: 23.02.054.119-2013
-in_committees:
-- el: Εργασίας και Κοινωνικών Ασφαλίσεων
-  en: Labour and Social Insurance
+other_titles:
+- Ο περί Κοινωνικών Ασφαλίσεων (Τροποποιητικός) (Αρ. 2) Νόμος του 2013
 title: Ο περί Κοινωνικών Ασφαλίσεων (Τροποποιητικός) (Αρ. 2) Νόμος του 2013

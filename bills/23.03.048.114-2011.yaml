@@ -1,0 +1,17 @@
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2011-11-24.doc
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-01-19.doc
+actions:
+- action: submission
+  at_plenary_id: 2011-11-24_Ι_Α_12
+  committees_referred_to: Οικονομικών και Προϋπολογισμού
+  sponsors: Οικονομικών
+- action: submission
+  at_plenary_id: 2012-01-19_Ι_Α_20
+  committees_referred_to: Οικονομικών και Προϋπολογισμού
+  sponsors: Οικονομικών
+identifier: 23.03.048.114-2011
+other_titles:
+- Οι περί Δανείου (Ανάπτυξη) (Τροποποιητικοί) Κανονισμοί του 2011
+- Οι περί Δανείου (Ανάπτυξη) (Τροποποιητικοί) Κανονισμοί του 2012
+title: Οι περί Δανείου (Ανάπτυξη) (Τροποποιητικοί) Κανονισμοί του 2012

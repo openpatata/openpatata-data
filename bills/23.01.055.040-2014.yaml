@@ -1,12 +1,12 @@
-events:
-- date: '2014-02-20'
-  description: κατατέθηκε από τον Υπουργό Οικονομικών· παραπέμφθηκε στην Επιτροπή Οικονομικών και Προϋπολογισμού
-- date: '2014-03-20'
-  description:
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/876
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-02-20.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-02-20_Ι_Γ_25
+  committees_referred_to: Οικονομικών και Προϋπολογισμού
+  sponsors: Οικονομικών
 identifier: 23.01.055.040-2014
-in_committees:
-- el: Οικονομικών και Προϋπολογισμού
-  en: Finance and Budget
-tags:
-- κρατικός προϋπολογισμός
+other_titles:
+- Ο περί Προϋπολογισμού του Χρηματιστηρίου Αξιών Κύπρου του 2014 Νόμος του 2014
 title: Ο περί Προϋπολογισμού του Χρηματιστηρίου Αξιών Κύπρου του 2014 Νόμος του 2014

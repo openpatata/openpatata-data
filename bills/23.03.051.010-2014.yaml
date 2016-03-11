@@ -1,8 +1,12 @@
-events:
-- date: '2014-01-30'
-  description: κατατέθηκαν από τον Υπουργό Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος· παραπέμφθηκαν στην Επιτροπή Γεωργίας και Φυσικών Πόρων
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/870
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-12-30.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-01-30_Ι_Γ_22
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
 identifier: 23.03.051.010-2014
-in_committees:
-- el: Γεωργίας και Φυσικών Πόρων
-  en: Agriculture and Natural Resources
+other_titles:
+- Οι περί Βιοκτόνων (Τέλη) Κανονισμοί του 2014
 title: Οι περί Βιοκτόνων (Τέλη) Κανονισμοί του 2014

@@ -1,8 +1,14 @@
-events:
-- date: '2014-04-03'
-  description: κατατέθηκαν από τον Υπουργό Υγείας· παραπέμφθηκαν στην Επιτροπή Υγείας
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/926
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-04-03.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-04-03_Ι_Γ_32
+  committees_referred_to: Υγείας
+  sponsors: Υγείας
 identifier: 23.03.051.024-2014
-in_committees:
-- el: Υγείας
-  en: Health
-title: Οι περί Χυμών Φρούτων και Ορισμένων Ομοειδών Προϊόντων (Τροποποιητικοί) Κανονισμοί του 2014
+other_titles:
+- Οι περί Χυμών Φρούτων και Ορισμένων Ομοειδών Προϊόντων (Τροποποιητικοί) Κανονισμοί
+  του 2014
+title: Οι περί Χυμών Φρούτων και Ορισμένων Ομοειδών Προϊόντων (Τροποποιητικοί) Κανονισμοί
+  του 2014

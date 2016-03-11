@@ -1,14 +1,7 @@
-events:
-- date: '2014-10-02'
-  description: κατατέθηκε από τον Γιώργο Βαρνάβα εκ μέρους του Κινήματος Σοσιαλδημοκρατών ΕΔΕΚ· παραπέμφθηκε στην Επιτροπή Εργασίας και Κοινωνικών Ασφαλίσεων
-- date: '2014-11-20'
-  description: επανήλθε στην Ολομέλεια
-- date: '2014-11-20'
-  description: υπερψηφίστηκε
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1192
+actions: []
 identifier: 23.02.055.083-2014
-in_committees:
-- el: Εργασίας και Κοινωνικών Ασφαλίσεων
-  en: Labour and Social Insurance
-law: 181(I)/2014
-status: pass
+other_titles:
+- Ο περί Παιδιών (Τροποποιητικός) Νόμος του 2014
 title: Ο περί Παιδιών (Τροποποιητικός) Νόμος του 2014

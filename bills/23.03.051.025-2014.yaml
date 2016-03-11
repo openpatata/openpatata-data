@@ -1,13 +1,52 @@
-events:
-- date: '2014-09-23'
-  description: κατατέθηκαν από τον Υπουργό Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος· παραπέμφθηκαν στην Επιτροπή Νομικών
-- date: '2014-11-20'
-  description: επανακατατέθηκαν
-- date: '2015-01-15'
-  description: επανακατατέθηκαν
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1192
+- http://www.parliament.cy/easyconsole.cfm/id/1270
+- http://www.parliament.cy/easyconsole.cfm/id/1364
+- http://www.parliament.cy/easyconsole.cfm/id/1440
+- http://www.parliament.cy/easyconsole.cfm/id/1550
+- http://www.parliament.cy/easyconsole.cfm/id/951
+- http://www.parliament.cy/easyconsole.cfm/id/996
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-04-10.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-01-15.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-09-23.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-11-20.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-03-12.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-05-07.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-09-03.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-04-10_Ι_Γ_33
+  committees_referred_to: Νομικών
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2014-09-23_Ι_Δ_1
+  committees_referred_to: Νομικών
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2014-11-20_Ι_Δ_10
+  committees_referred_to: Νομικών
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2015-01-15_Ι_Δ_17
+  committees_referred_to: Νομικών
+  sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2015-03-12_Ι_Δ_26
+  committees_referred_to: Νομικών
+  sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2015-05-07_Ι_Δ_35
+  committees_referred_to: Νομικών
+  sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2015-09-03_Ι_Ε_1
+  committees_referred_to: Νομικών
+  sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
 identifier: 23.03.051.025-2014
-in_committees:
-- el: Νομικών
-  en: Legal Affairs
-status: pending
-title: Οι περί Τμήματος Δασών - Θέση Χειριστή Πτητικών Μέσων (Σχέδια Υπηρεσίας) Κανονισμοί του 2014
+other_titles:
+- Οι περί Τμήματος Δασών - Θέση Χειριστή Πτητικών Μέσων (Σχέδια Υπηρεσίας) Κανονισμοί
+  του 2014
+- Οι περί Τμήματος Δασών - Θέση Χειριστή Πτητικών Μέσων (Σχέδια Υπηρεσίας) Κανονισμοί
+  του 2015
+title: Οι περί Τμήματος Δασών - Θέση Χειριστή Πτητικών Μέσων (Σχέδια Υπηρεσίας) Κανονισμοί
+  του 2015

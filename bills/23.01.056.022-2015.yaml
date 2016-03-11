@@ -1,8 +1,12 @@
-events:
-- date: '2015-02-05'
-  description: κατατέθηκε από τον Υπουργό Συγκοινωνιών και Έργων· παραπέμφθηκε στην Επιτροπή Συγκοινωνιών και Έργων
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1440
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-02-05.pdf
+actions:
+- action: submission
+  at_plenary_id: 2015-02-05_Ι_Δ_21
+  committees_referred_to: Συγκοινωνιών και Έργων
+  sponsors: Συγκοινωνιών και Έργων
 identifier: 23.01.056.022-2015
-in_committees:
-- el: Συγκοινωνιών και Έργων
-  en: Communications and Works
+other_titles:
+- Ο περί Διερεύνησης Αεροπορικών Ατυχημάτων και Συμβάντων Νόμος του 2015
 title: Ο περί Διερεύνησης Αεροπορικών Ατυχημάτων και Συμβάντων Νόμος του 2015

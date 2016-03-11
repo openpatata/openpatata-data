@@ -1,10 +1,12 @@
-events:
-- date: '2013-10-17'
-  description: κατατέθηκε από τον Yπουργό Οικονομικών· παραπέμφθηκε στην Επιτροπή Οικονομικών και Προϋπολογισμού
-- date: '2014-05-08'
-  description: null
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/926
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-10-17.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-10-17_Ι_Γ_8
+  committees_referred_to: Οικονομικών και Προϋπολογισμού
+  sponsors: Οικονομικών
 identifier: 23.01.054.217-2013
-in_committees:
-- el: Οικονομικών και Προϋπολογισμού
-  en: Finance and Budget
+other_titles:
+- Ο περί Επιτροπής Κεφαλαιαγοράς Κύπρου (Τροποποιητικός) Νόμος του 2013
 title: Ο περί Επιτροπής Κεφαλαιαγοράς Κύπρου (Τροποποιητικός) Νόμος του 2013

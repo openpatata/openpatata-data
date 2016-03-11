@@ -1,8 +1,11 @@
-events:
-- date: '2014-11-06'
-  description: κατατέθηκε από τον Υπουργό [?]· παραπέμφθηκε στην Επιτροπή Εσωτερικών
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-11-06.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-11-06_Ι_Δ_7
+  committees_referred_to: Εσωτερικών
+  sponsors: Εσωτερικών
 identifier: 23.01.055.229-2014
-in_committees:
-- el: Εσωτερικών
-  en: Home Affairs
+other_titles:
+- Ο περί Αποχετευτικών Συστημάτων (Τροποποιητικός) (Αρ. 2) Νόμος του 2014
 title: Ο περί Αποχετευτικών Συστημάτων (Τροποποιητικός) (Αρ. 2) Νόμος του 2014

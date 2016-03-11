@@ -1,8 +1,64 @@
-events:
-- date: '2014-03-13'
-  description: επανακατατέθηκαν από τον Υπουργό Παιδείας και Πολιτισμού· παραπέμφθηκαν στην Επιτροπή Νομικών
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/870
+- http://www.parliament.cy/easyconsole.cfm/id/926
+- http://www.parliament.cy/easyconsole.cfm/id/987
+- http://www.parliament.cy/easyconsole.cfm/id/996
+- http://www.parliament.cy/images/media/redirectfile/09-24102013 - agenda.pdf
+- http://www.parliament.cy/images/media/redirectfile/17-12122013 - agenda.pdf
+- http://www.parliament.cy/images/media/redirectfile/40-1107013 - agenda0001.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-07-04.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-08-29.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-08-29.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-10-24.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-12-16.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-03-13.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-05-08.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-07-03.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-09-23.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-07-04_Ι_Β_39
+  committees_referred_to: Νομικών
+  sponsors: Παιδείας και Πολιτισμού
+- action: submission
+  at_plenary_id: 2013-08-29_Ι_None_None
+  committees_referred_to: Νομικών
+  sponsors: Παιδείας και Πολιτισμού
+- action: submission
+  at_plenary_id: 2013-10-24_Ι_Γ_9
+  committees_referred_to: Νομικών
+  sponsors: Παιδείας και Πολιτισμού
+- action: submission
+  at_plenary_id: 2014-01-16_Ι_Γ_20
+  committees_referred_to: Νομικών
+  sponsors: Παιδείας και Πολιτισμού
+- action: submission
+  at_plenary_id: 2014-03-13_Ι_Γ_29
+  committees_referred_to: Νομικών
+  sponsors: Παιδείας και Πολιτισμού
+- action: submission
+  at_plenary_id: 2014-05-08_Ι_Γ_35
+  committees_referred_to: Νομικών
+  sponsors: Παιδείας και Πολιτισμού
+- action: submission
+  at_plenary_id: 2014-07-03_Ι_Γ_41
+  committees_referred_to: Νομικών
+  sponsors: Παιδείας και Πολιτισμού
+- action: submission
+  at_plenary_id: 2014-09-23_Ι_Δ_1
+  committees_referred_to: Νομικών
+  sponsors: Παιδείας και Πολιτισμού
 identifier: 23.03.050.040-2013
-in_committees:
-- el: Νομικών
-  en: Legal Affairs
-title: Οι περί Υπουργείου Παιδείας και Πολιτισμού - Θέση Επιθεωρητή Δημοτικής Εκπαίδευσης (Σχέδια Υπηρεσίας) Κανονισμοί του 2013
+other_titles:
+- Οι περί Υπουργείου Παιδείας και Πολιτισμού - Θέση Επιθεωρητή Δημοτικής Εκπαίδευσης
+  (Σχέδια Υπηρεσίας) 6 Κανονισμοί του 2013
+- Οι περί Υπουργείου Παιδείας και Πολιτισμού - Θέση Επιθεωρητή Δημοτικής Εκπαίδευσης
+  (Σχέδια Υπηρεσίας) Κανονισμοί του 2013
+- Οι περί Υπουργείου Παιδείας και Πολιτισμού - Θέση Επιθεωρητή ∆ημοτικής Εκπαίδευσης
+  (Σχέδια Υπηρεσίας) Κανονισμοί του 2013
+- Οι περί Υπουργείου Παιδείας και Πολιτισμού - Θέση Επιθεωρητή ∆ημοτικής Εκπαίδευσης
+  7 (Σχέδια Υπηρεσίας) Κανονισμοί του 2013
+- Οι περί Υπουργείου Παιδείας και Πολιτισμού - Θέση Επιθεωρητή Δημοτικής Εκπαίδευσης
+  (Σχέδια Υπηρεσίας) Κανονισμοί του 2014
+title: Οι περί Υπουργείου Παιδείας και Πολιτισμού - Θέση Επιθεωρητή Δημοτικής Εκπαίδευσης
+  (Σχέδια Υπηρεσίας) Κανονισμοί του 2014

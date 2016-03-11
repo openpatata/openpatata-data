@@ -1,0 +1,33 @@
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2011-09-15.doc
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2011-11-10.doc
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2011-12-08.doc
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-02-02.doc
+actions:
+- action: submission
+  at_plenary_id: 2011-09-15_Ι_Α_1
+  committees_referred_to: Νομικών
+  sponsors: Υγείας
+- action: submission
+  at_plenary_id: 2011-11-10_Ι_Α_10
+  committees_referred_to: Νομικών
+  sponsors: Υγείας
+- action: submission
+  at_plenary_id: 2011-12-08_Ι_Α_14
+  committees_referred_to: Νομικών
+  sponsors: Υγείας
+- action: submission
+  at_plenary_id: 2012-02-02_Ι_Α_22
+  committees_referred_to: Νομικών
+  sponsors: Υγείας
+identifier: 23.03.048.043-2011
+other_titles:
+- Οι περί Υπουργείου Υγείας, Διοίκηση - Διεύθυνση Νοσηλευτικών Υπηρεσιών, Νοσηλευτικός
+  Κλάδος Ψυχικής Υγείας - Θέση Ανώτερου/ης Νοσηλευτικού Λειτουργού (Σχέδια Υπηρεσίας)
+  Κανονισμοί του 2011
+- Οι περί Υπουργείου Υγείας, Διοίκηση - Διεύθυνση Νοσηλευτικών Υπηρεσιών, Νοσηλευτικός
+  Κλάδος Ψυχικής Υγείας - Θέση Ανώτερου/ης Νοσηλευτικού Λειτουργού (Σχέδια Υπηρεσίας)
+  Κανονισμοί του 2012
+title: Οι περί Υπουργείου Υγείας, Διοίκηση - Διεύθυνση Νοσηλευτικών Υπηρεσιών, Νοσηλευτικός
+  Κλάδος Ψυχικής Υγείας - Θέση Ανώτερου/ης Νοσηλευτικού Λειτουργού (Σχέδια Υπηρεσίας)
+  Κανονισμοί του 2012

@@ -1,8 +1,11 @@
-events:
-- date: '2013-09-26'
-  description: κατατέθηκε από τον Νίκο Κουτσού, βουλευτή εκλογικής περιφέρειας Αμμοχώστου· παραπέμφθηκε στην Επιτροπή Οικονομικών και Προϋπολογισμού
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-09-26.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-09-26_Ι_Γ_5
+  committees_referred_to: Προϋπολογισμού
+  sponsors: περιφέρειας Αμμοχώστου
 identifier: 23.02.054.090-2013
-in_committees:
-- el: Οικονομικών και Προϋπολογισμού
-  en: Finance and Budget
-title: Ο περί Ελευθεροποίησης του Επιτοκίου και Συναφών Θεμάτων (Τροποποιητικός) όμος του 2013
+other_titles:
+- Νόμος του 2013
+title: Νόμος του 2013

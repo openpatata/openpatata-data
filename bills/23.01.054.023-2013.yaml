@@ -1,2 +1,12 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/517
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-03-07.doc
+actions:
+- action: submission
+  at_plenary_id: 2013-03-07_Ι_Β_21
+  committees_referred_to: Νομικών
+  sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
 identifier: 23.01.054.023-2013
+other_titles:
+- Ο περί Παραγραφής Αγώγιμων Δικαιωμάτων (Τροποποιητικός) Νόμος του 2013
 title: Ο περί Παραγραφής Αγώγιμων Δικαιωμάτων (Τροποποιητικός) Νόμος του 2013

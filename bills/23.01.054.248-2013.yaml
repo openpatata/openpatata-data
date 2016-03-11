@@ -1,8 +1,12 @@
-events:
-- date: '2013-11-14'
-  description: κατατέθηκε από τον Υπουργό Δικαιοσύνης και Δημοσίας Τάξεως· παραπέμφθηκε στην Επιτροπή Νομικών
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1550
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-11-14.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-11-14_Ι_Γ_12
+  committees_referred_to: Νομικών
+  sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
 identifier: 23.01.054.248-2013
-in_committees:
-- el: Νομικών
-  en: Legal Affairs
+other_titles:
+- Ο περί Ποινικού Κώδικα (Τροποποιητικός) (Αρ. 5) Νόμος του 2013
 title: Ο περί Ποινικού Κώδικα (Τροποποιητικός) (Αρ. 5) Νόμος του 2013

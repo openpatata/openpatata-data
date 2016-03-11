@@ -1,10 +1,31 @@
-events:
-- date: '2014-11-20'
-  description: κατατέθηκαν από τον Υπουργό Δικαιοσύνης και Δημοσίας Τάξεως· παραπέμφθηκαν στην Επιτροπή Νομικών
-- date: '2015-01-15'
-  description: επανακατατέθηκαν
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1270
+- http://www.parliament.cy/easyconsole.cfm/id/1364
+- http://www.parliament.cy/easyconsole.cfm/id/1440
+- http://www.parliament.cy/easyconsole.cfm/id/1453
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-01-15.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-11-20.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-03-12.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-05-07.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-11-20_Ι_Δ_10
+  committees_referred_to: Νομικών
+  sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
+- action: submission
+  at_plenary_id: 2015-01-15_Ι_Δ_17
+  committees_referred_to: Νομικών
+  sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
+- action: submission
+  at_plenary_id: 2015-03-12_Ι_Δ_26
+  committees_referred_to: Νομικών
+  sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
+- action: submission
+  at_plenary_id: 2015-05-07_Ι_Δ_35
+  committees_referred_to: Νομικών
+  sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
 identifier: 23.03.051.077-2014
-in_committees:
-- el: Νομικών
-  en: Legal Affairs
-title: Οι περί Αστυνομίας (Προαγωγές) (Τροποποιητικοί) Κανονισμοί του 2014
+other_titles:
+- Οι περί Αστυνομίας (Προαγωγές) (Τροποποιητικοί) Κανονισμοί του 2014
+- Οι περί Αστυνομίας (Προαγωγές) (Τροποποιητικοί) Κανονισμοί του 2015
+title: Οι περί Αστυνομίας (Προαγωγές) (Τροποποιητικοί) Κανονισμοί του 2015

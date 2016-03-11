@@ -1,14 +1,13 @@
-events:
-- date: '2015-01-22'
-  description: κατατέθηκε από τον Υπουργό Συγκοινωνιών και Έργων· παραπέμφθηκε στην Επιτροπή Συγκοινωνιών και Έργων
-- date: '2015-02-05'
-  description: επανήλθε στην Ολομέλεια
-- date: '2015-02-05'
-  description: υπερψηφίστηκε
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1302
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-01-22.pdf
+actions:
+- action: submission
+  at_plenary_id: 2015-01-22_Ι_Δ_18
+  committees_referred_to: Συγκοινωνιών και Έργων
+  sponsors: Συγκοινωνιών και Έργων
 identifier: 23.01.056.013-2015
-in_committees:
-- el: Συγκοινωνιών και Έργων
-  en: Communications and Works
-law: 9(I)/2015
-status: pass
-title: Ο περί Πρόσβασης στο Επάγγελμα του Οδικού Μεταφορέα (Τροποποιητικός) Νόμος του 2015
+other_titles:
+- Ο περί Πρόσβασης στο Επάγγελμα του Οδικού Μεταφορέα (Τροποποιητικός) Νόμος του 2015
+title: Ο περί Πρόσβασης στο Επάγγελμα του Οδικού Μεταφορέα (Τροποποιητικός) Νόμος
+  του 2015

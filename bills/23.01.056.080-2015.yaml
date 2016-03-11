@@ -1,2 +1,12 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1462
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-04-23.pdf
+actions:
+- action: submission
+  at_plenary_id: 2015-04-23_Ι_Δ_33
+  committees_referred_to: Εμπορίου και Βιομηχανίας
+  sponsors: Ενέργειας, Εμπορίου, Βιομηχανίας και Τουρισμού
 identifier: 23.01.056.080-2015
+other_titles:
+- Ο περί Εταιρειών (Τροποποιητικός) (Αρ. 4) Νόμος του 2015
 title: Ο περί Εταιρειών (Τροποποιητικός) (Αρ. 4) Νόμος του 2015

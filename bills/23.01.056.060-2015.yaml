@@ -1,2 +1,13 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1413
+- http://www.parliament.cy/easyconsole.cfm/id/1426
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-03-19.pdf
+actions:
+- action: submission
+  at_plenary_id: 2015-03-19_Ι_Δ_27
+  committees_referred_to: Παιδείας
+  sponsors: Παιδείας και Πολιτισμού
 identifier: 23.01.056.060-2015
+other_titles:
+- Ο περί Προϋπολογισμού του Οργανισμού Νεολαίας του 2015 Νόμος του 2015
 title: Ο περί Προϋπολογισμού του Οργανισμού Νεολαίας του 2015 Νόμος του 2015

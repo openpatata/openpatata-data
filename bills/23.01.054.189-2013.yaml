@@ -1,12 +1,15 @@
-events:
-- date: '2013-08-29'
-  description: κατατέθηκε από τον Yπουργό Οικονομικών· παραπέμφθηκε στην Επιτροπή Οικονομικών και Προϋπολογισμού
-- date: '2014-04-10'
-  description: null
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/902
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-08-29.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-08-29.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-08-29_Ι_None_None
+  committees_referred_to: Οικονομικών και Προϋπολογισμού
+  sponsors: Οικονομικών
 identifier: 23.01.054.189-2013
-in_committees:
-- el: Οικονομικών και Προϋπολογισμού
-  en: Finance and Budget
-tags:
-- κρατικός προϋπολογισμός
-title: Ο περί Προϋπολογισμού του 2013 Νόμος του 2012
+other_titles:
+- Ο περί Προϋπολογισμού του 2013 Νόμος του 2012 (Τροποποιητικός) (Αρ. 11) Νόμος του
+  2013
+title: Ο περί Προϋπολογισμού του 2013 Νόμος του 2012 (Τροποποιητικός) (Αρ. 11) Νόμος
+  του 2013

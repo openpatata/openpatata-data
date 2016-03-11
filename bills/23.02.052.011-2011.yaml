@@ -1,16 +1,7 @@
-events:
-- date: '2011-02-10'
-  description: κατατέθηκε από τον Γιώργο Περδίκη, βουλευτή Κινήματος Οικολόγων Περιβαλλοντιστών· παραπέμφθηκε στην Επιτροπή Παιδείας
-- date: '2014-07-10'
-  description: επανήλθε στην Ολομέλεια
-- date: '2014-07-10'
-  description: υπερψηφίστηκε
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/996
+actions: []
 identifier: 23.02.052.011-2011
-in_committees:
-- el: Παιδείας
-  en: Education
-law: 113(I)/2014
-status: pass
-tags:
-- εκπαίδευση
+other_titles:
+- Ο περί Σχολικών Εφορειών (Τροποποιητικός) Νόμος του 2011
 title: Ο περί Σχολικών Εφορειών (Τροποποιητικός) Νόμος του 2011

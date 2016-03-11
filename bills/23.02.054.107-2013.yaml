@@ -1,15 +1,7 @@
-events:
-- date: '2013-10-31'
-  description: κατατέθηκε από τον Χρίστο Μέση εκ μέρους της κοινοβουλευτικής ομάδας ΑΚΕΛ-Αριστερά-Νέες Δυνάμεις· παραπέμφθηκε στην Επιτροπή Εσωτερικών
-- date: '2014-02-27'
-  description: επανήλθε στην Ολομέλεια
-- date: '2014-02-27'
-  description: αποσύρθηκε
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/862
+actions: []
 identifier: 23.02.054.107-2013
-in_committees:
-- el: Εσωτερικών
-  en: Home Affairs
-status: withdrawn
-tags:
-- αυτοδιοίκηση
+other_titles:
+- Ο περί Κοινοτήτων (Τροποποιητικός) (Αρ. 2) Νόμος του 2013
 title: Ο περί Κοινοτήτων (Τροποποιητικός) (Αρ. 2) Νόμος του 2013

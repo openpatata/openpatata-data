@@ -1,12 +1,16 @@
-events:
-- date: '2013-06-20'
-  description: κατατέθηκε από τους Αθηνά Κυριακίδου εκ μέρους της κοινοβουλευτικής ομάδας του Δημοκρατικού Κόμματος και Ευθύμιο Δίπλαρο εκ μέρους της κοινοβουλευτικής ομάδας του Δημοκρατικού Συναγερμού· παραπέμφθηκε στην Επιτροπή Παιδείας
-- date: '2013-09-26'
-  description: null
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/662
+- http://www.parliament.cy/easyconsole.cfm/id/671
+- http://www.parliament.cy/images/media/redirectfile/40-1107013 - agenda0001.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-06-20.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-06-20_Ι_Β_37
+  committees_referred_to: Παιδείας
+  sponsors: Αθηνά Κυριακίδου εκ μέρους της κοινοβουλευτικής ομάδας του Δημοκρατικού
+    Κόμματος και Ευθύμιο Δίπλαρο εκ μέρους της κοινοβουλευτικής ομάδας του Δημοκρατικού
+    Συναγερμού
 identifier: 23.02.054.059-2013
-in_committees:
-- el: Παιδείας
-  en: Education
-tags:
-- εκπαίδευση
+other_titles:
+- Ο περί Πανεπιστημίου Κύπρου (Τροποποιητικός) Νόμος του 2013
 title: Ο περί Πανεπιστημίου Κύπρου (Τροποποιητικός) Νόμος του 2013

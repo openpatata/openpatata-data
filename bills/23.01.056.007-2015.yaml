@@ -1,8 +1,12 @@
-events:
-- date: '2015-01-15'
-  description: κατατέθηκε από τον Υπουργό Εσωτερικών· παραπέμφθηκε στην Επιτροπή Εσωτερικών
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1302
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-01-15.pdf
+actions:
+- action: submission
+  at_plenary_id: 2015-01-15_Ι_Δ_17
+  committees_referred_to: Εσωτερικών
+  sponsors: Εσωτερικών
 identifier: 23.01.056.007-2015
-in_committees:
-- el: Εσωτερικών
-  en: Home Affairs
+other_titles:
+- Ο περί Αλλοδαπών και Μεταναστεύσεως (Τροποποιητικός) Νόμος του 2015
 title: Ο περί Αλλοδαπών και Μεταναστεύσεως (Τροποποιητικός) Νόμος του 2015

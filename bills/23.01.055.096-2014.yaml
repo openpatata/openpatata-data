@@ -1,8 +1,8 @@
-events:
-- date: '2014-07-03'
-  description: null
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/926
+- http://www.parliament.cy/easyconsole.cfm/id/987
+actions: []
 identifier: 23.01.055.096-2014
-in_committees:
-- el: Νομικών
-  en: Legal Affairs
+other_titles:
+- Ο περί Πολιτικής Δικονομίας (Τροποποιητικός) Νόμος του 2014
 title: Ο περί Πολιτικής Δικονομίας (Τροποποιητικός) Νόμος του 2014

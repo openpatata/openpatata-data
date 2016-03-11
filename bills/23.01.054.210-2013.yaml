@@ -1,10 +1,7 @@
-events:
-- date: '2013-10-03'
-  description: κατατέθηκε από τον Υπουργό Άμυνας· παραπέμφθηκε στην Επιτροπή Άμυνας
-- date: '2013-10-17'
-  description: null
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/707
+actions: []
 identifier: 23.01.054.210-2013
-in_committees:
-- el: Άμυνας
-  en: Defence
+other_titles:
+- Ο περί Εθνικής Φρουράς (Τροποποιητικός) (Αρ. 4) Νόμος του 2013
 title: Ο περί Εθνικής Φρουράς (Τροποποιητικός) (Αρ. 4) Νόμος του 2013

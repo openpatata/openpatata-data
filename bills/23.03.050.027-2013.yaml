@@ -1,12 +1,55 @@
-events:
-- date: '2013-05-23'
-  description: κατατέθηκαν από τον Υπουργό Συγκοινωνιών και Έργων· παραπέμφθηκαν στην Επιτροπή Νομικών
-- date: '2014-01-16'
-  description: επανακατατέθηκαν
-- date: '2014-03-13'
-  description: επανακατατέθηκαν
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1133
+- http://www.parliament.cy/easyconsole.cfm/id/870
+- http://www.parliament.cy/easyconsole.cfm/id/926
+- http://www.parliament.cy/easyconsole.cfm/id/987
+- http://www.parliament.cy/images/media/redirectfile/09-24102013 - agenda.pdf
+- http://www.parliament.cy/images/media/redirectfile/17-12122013 - agenda.pdf
+- http://www.parliament.cy/images/media/redirectfile/40-1107013 - agenda0001.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-05-23.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-08-29.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-08-29.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-10-24.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-12-16.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-03-13.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-05-08.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-09-23.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-05-23_Ι_Β_33
+  committees_referred_to: Νομικών
+  sponsors: Συγκοινωνιών και Έργων
+- action: submission
+  at_plenary_id: 2013-08-29_Ι_None_None
+  committees_referred_to: Νομικών
+  sponsors: Συγκοινωνιών και Έργων
+- action: submission
+  at_plenary_id: 2013-10-24_Ι_Γ_9
+  committees_referred_to: Νομικών
+  sponsors: Συγκοινωνιών και Έργων
+- action: submission
+  at_plenary_id: 2014-01-16_Ι_Γ_20
+  committees_referred_to: Νομικών
+  sponsors: Συγκοινωνιών και Έργων
+- action: submission
+  at_plenary_id: 2014-03-13_Ι_Γ_29
+  committees_referred_to: Νομικών
+  sponsors: Συγκοινωνιών και Έργων
+- action: submission
+  at_plenary_id: 2014-05-08_Ι_Γ_35
+  committees_referred_to: Νομικών
+  sponsors: Συγκοινωνιών και Έργων
+- action: submission
+  at_plenary_id: 2014-09-23_Ι_Δ_1
+  committees_referred_to: Νομικών
+  sponsors: Συγκοινωνιών και Έργων
 identifier: 23.03.050.027-2013
-in_committees:
-- el: Νομικών
-  en: Legal Affairs
-title: Οι περί Τμήματος Ηλεκτρονικών Επικοινωνιών - Θέση Διευθυντή (Σχέδια Υπηρεσίας) Κανονισμοί του 2013
+other_titles:
+- Οι περί Τμήματος Ηλεκτρονικών Επικοινωνιών - Θέση Διευθυντή (Σχέδια Υπηρεσίας) Κανονισμοί
+  του 2013
+- Οι περί Τμήματος Ηλεκτρονικών Επικοινωνιών - Θέση ∆ιευθυντή (Σχέδια Υπηρεσίας) Κανονισμοί
+  του 2013
+- Οι περί Τμήματος Ηλεκτρονικών Επικοινωνιών - Θέση Διευθυντή (Σχέδια Υπηρεσίας) Κανονισμοί
+  του 2014
+title: Οι περί Τμήματος Ηλεκτρονικών Επικοινωνιών - Θέση Διευθυντή (Σχέδια Υπηρεσίας)
+  Κανονισμοί του 2014

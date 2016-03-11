@@ -1,2 +1,12 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/617
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-07-27.doc
+actions:
+- action: submission
+  at_plenary_id: 2012-07-27_Ι_Α_48
+  committees_referred_to: Νομικών
+  sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
 identifier: 23.01.053.163-2012
+other_titles:
+- Ο περί της Έβδομης Τροποποίησης του Συντάγματος Νόμος του 2012
 title: Ο περί της Έβδομης Τροποποίησης του Συντάγματος Νόμος του 2012

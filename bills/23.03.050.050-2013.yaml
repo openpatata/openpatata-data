@@ -1,8 +1,19 @@
-events:
-- date: '2013-09-12'
-  description: κατατέθηκαν από τον Υπουργό Εσωτερικών· παραπέμφθηκαν στην Επιτροπή Εσωτερικών
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/727
+- http://www.parliament.cy/easyconsole.cfm/id/756
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-09-12.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-11-07.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-09-12_Ι_Γ_3
+  committees_referred_to: Εσωτερικών
+  sponsors: Εσωτερικών
+- action: submission
+  at_plenary_id: 2013-11-07_Ι_Γ_11
+  committees_referred_to: Εσωτερικών
+  sponsors: Εσωτερικών
 identifier: 23.03.050.050-2013
-in_committees:
-- el: Εσωτερικών
-  en: Home Affairs
+other_titles:
+- Οι περί Αποχετεύσεων Λεμεσού- Αμαθούντας (Τροποποιητικοί) Κανονισμοί του 2013
+- Οι περί Αποχετεύσεων Λεμεσού-Αμαθούντας (Τροποποιητικοί) Κανονισμοί του 2013
 title: Οι περί Αποχετεύσεων Λεμεσού-Αμαθούντας (Τροποποιητικοί) Κανονισμοί του 2013

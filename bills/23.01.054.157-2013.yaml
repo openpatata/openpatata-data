@@ -1,10 +1,12 @@
-events:
-- date: '2013-07-11'
-  description: κατατέθηκε από τον Yπουργό Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος· παραπέμφθηκε στην Επιτροπή Γεωργίας και Φυσικών Πόρων
-- date: '2013-11-14'
-  description: null
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/736
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-07-11.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-07-11_Ι_Β_40
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
 identifier: 23.01.054.157-2013
-in_committees:
-- el: Γεωργίας και Φυσικών Πόρων
-  en: Agriculture and Natural Resources
+other_titles:
+- Ο περί του Ελέγχου της Εμπορίας Ξυλείας και Προϊόντων Ξυλείας Νόμος του 2013
 title: Ο περί του Ελέγχου της Εμπορίας Ξυλείας και Προϊόντων Ξυλείας Νόμος του 2013

@@ -1,0 +1,27 @@
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2011-12-01.doc
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-01-26.doc
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-05-17.doc
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2012-09-13.doc
+actions:
+- action: submission
+  at_plenary_id: 2011-12-01_Ι_Α_13
+  committees_referred_to: Εσωτερικών
+  sponsors: Εσωτερικών
+- action: submission
+  at_plenary_id: 2012-01-26_Ι_Α_21
+  committees_referred_to: Εσωτερικών
+  sponsors: Εσωτερικών
+- action: submission
+  at_plenary_id: 2012-05-17_Ι_Α_37
+  committees_referred_to: Εσωτερικών
+  sponsors: Εσωτερικών
+- action: submission
+  at_plenary_id: 2012-09-13_Ι_Β_1
+  committees_referred_to: Εσωτερικών
+  sponsors: Εσωτερικών
+identifier: 23.03.048.120-2011
+other_titles:
+- Οι περί Αποχετεύσεων Λεμεσού- Αμαθούντας (Τροποποιητικοί) Κανονισμοί του 2011
+- Οι περί Αποχετεύσεων Λεμεσού-Αμαθούντας (Τροποποιητικοί) Κανονισμοί του 2012
+title: Οι περί Αποχετεύσεων Λεμεσού-Αμαθούντας (Τροποποιητικοί) Κανονισμοί του 2012

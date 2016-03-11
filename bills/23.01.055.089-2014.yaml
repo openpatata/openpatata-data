@@ -1,12 +1,13 @@
-events:
-- date: '2014-11-27'
-  description: επανήλθε στην Ολομέλεια
-- date: '2014-11-27'
-  description: υπερψηφίστηκε
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1172
+- http://www.parliament.cy/easyconsole.cfm/id/1213
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-04-10.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-04-10_Ι_Γ_33
+  committees_referred_to: Συγκοινωνιών και Έργων
+  sponsors: Συγκοινωνιών και Έργων
 identifier: 23.01.055.089-2014
-in_committees:
-- el: Συγκοινωνιών και Έργων
-  en: Communications and Works
-law: 188(I)/2014
-status: pass
+other_titles:
+- Ο περί των Τεχνιτών Οχημάτων (Τροποποιητικός) Νόμος του 2014
 title: Ο περί των Τεχνιτών Οχημάτων (Τροποποιητικός) Νόμος του 2014

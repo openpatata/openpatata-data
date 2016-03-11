@@ -1,11 +1,8 @@
-events:
-- date: '2014-11-06'
-  description: επανήλθε στην Ολομέλεια
-- date: '2014-11-06'
-  description: αποσύρθηκε
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1172
+- http://www.parliament.cy/easyconsole.cfm/id/996
+actions: []
 identifier: 23.02.055.055-2014
-in_committees:
-- el: Οικονομικών και Προϋπολογισμού
-  en: Finance and Budget
-status: withdrawn
+other_titles:
+- Ο περί Φορολογίας του Εισοδήματος (Τροποποιητικός) (Αρ. 5) Νόμος του 2014
 title: Ο περί Φορολογίας του Εισοδήματος (Τροποποιητικός) (Αρ. 5) Νόμος του 2014

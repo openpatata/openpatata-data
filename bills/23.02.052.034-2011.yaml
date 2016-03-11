@@ -1,10 +1,7 @@
-events:
-- date: '2011-06-16'
-  description: κατατέθηκε από τον Γιώργο Περδίκη, βουλευτή Κινήματος Οικολόγων Περιβαλλοντιστών· παραπέφθηκε στην Επιτροπή Περιβάλλοντος
-- date: '2013-12-12'
-  description: null
+_sources:
+- http://www.parliament.cy/images/media/redirectfile/17-12122013 - agenda.pdf
+actions: []
 identifier: 23.02.052.034-2011
-in_committees:
-- el: Περιβάλλοντος
-  en: Environment
+other_titles:
+- Ο περί Ελέγχου της Ρύπανσης της Ατμόσφαιρας (Τροποποιητικός) Νόμος του 2011
 title: Ο περί Ελέγχου της Ρύπανσης της Ατμόσφαιρας (Τροποποιητικός) Νόμος του 2011

@@ -1,9 +1,14 @@
-events:
-- date: '2013-10-17'
-  description: κατατέθηκαν από τον Υπουργό Παιδείας και Πολιτισμού· παραπέμφθηκαν στην Επιτροπή Παιδείας
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/767
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-10-17.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-10-17_Ι_Γ_8
+  committees_referred_to: Παιδείας
+  sponsors: Παιδείας και Πολιτισμού
 identifier: 23.03.050.067-2013
-in_committees:
-- el: Παιδείας
-  en: Education
-title: Οι περί Πανεπιστημίου Κύπρου (Ίδρυση Ερευνητικών Μονάδων) (Τροποποιητικοί) Κανονισμοί του 2013
-
+other_titles:
+- Οι περί Πανεπιστημίου Κύπρου (Ίδρυση Ερευνητικών Μονάδων) (Τροποποιητικοί) Κανονισμοί
+  του 2013
+title: Οι περί Πανεπιστημίου Κύπρου (Ίδρυση Ερευνητικών Μονάδων) (Τροποποιητικοί)
+  Κανονισμοί του 2013

@@ -1,13 +1,35 @@
-events:
-- date: '2014-09-23'
-  description: κατατέθηκαν από τον Υπουργό Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος· παραπέμφθηκαν στην Επιτροπή Γεωργίας και Φυσικών Πόρων
-- date: '2014-11-20'
-  description: επανακατατέθηκαν
-- date: '2015-01-15'
-  description: επανακατατέθηκαν
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1192
+- http://www.parliament.cy/easyconsole.cfm/id/1261
+- http://www.parliament.cy/easyconsole.cfm/id/1270
+- http://www.parliament.cy/easyconsole.cfm/id/1273
+- http://www.parliament.cy/easyconsole.cfm/id/996
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-06-26.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-01-15.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-09-23.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-11-20.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-06-26_Ι_Γ_40
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2014-09-23_Ι_Δ_1
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2014-11-20_Ι_Δ_10
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2015-01-15_Ι_Δ_17
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
 identifier: 23.03.051.044-2014
-in_committees:
-- el: Γεωργίας και Φυσικών Πόρων
-  en: Agriculture and Natural Resources
-status: pending
-title: Οι περί Ενιαίας Διαχείρισης Υδάτων (Ασφάλεια Μεγάλων Υπερυψωμένων Ταμιευτήρων) Κανονισμοί του 2014
+other_titles:
+- Οι περί Ενιαίας Διαχείρισης Υδάτων (Ασφάλεια Μεγάλων Υπερυψωμένων Ταμιευτήρων) Κανονισμοί
+  του 2014
+- Οι περί Ενιαίας Διαχείρισης Υδάτων (Ασφάλεια Μεγάλων Υπερυψωμένων Ταμιευτήρων) Κανονισμοί
+  του 2015
+title: Οι περί Ενιαίας Διαχείρισης Υδάτων (Ασφάλεια Μεγάλων Υπερυψωμένων Ταμιευτήρων)
+  Κανονισμοί του 2015

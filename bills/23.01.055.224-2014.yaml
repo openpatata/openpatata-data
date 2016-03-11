@@ -1,14 +1,15 @@
-events:
-- date: '2014-10-30'
-  description: κατατέθηκε από τον Υπουργό Παιδείας και Πολιτισμού· παραπέμφθηκε στην Επιτροπή Παιδείας
-- date: '2014-12-04'
-  description: επανήλθε στην Ολομέλεια
-- date: '2014-12-04'
-  description: υπερψηφίστηκε
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1213
+- http://www.parliament.cy/easyconsole.cfm/id/1235
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-10-30.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-10-30_Ι_Δ_6
+  committees_referred_to: Παιδείας
+  sponsors: Παιδείας και Πολιτισμού
 identifier: 23.01.055.224-2014
-in_committees:
-- el: Παιδείας
-  en: Education
-law: 51(II)/2014
-status: pass
-title: Ο Τροποποιητικός του περί Προϋπολογισμού του Ανοικτού Πανεπιστημίου Κύπρου του 2014 Νόμου του 2014 Νόμος του 2014
+other_titles:
+- Ο Τροποποιητικός του περί Προϋπολογισμού του Ανοικτού Πανεπιστημίου Κύπρου του 2014
+  Νόμου του 2014 Νόμος του 2014
+title: Ο Τροποποιητικός του περί Προϋπολογισμού του Ανοικτού Πανεπιστημίου Κύπρου
+  του 2014 Νόμου του 2014 Νόμος του 2014

@@ -1,10 +1,9 @@
-events:
-- date: '2013-11-21'
-  description: κατατέθηκε από τον Yπουργό Οικονομικών· παραπέμφθηκε στην Επιτροπή Οικονομικών και Προϋπολογισμού
-- date: '2014-02-13'
-  description: null
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/823
+- http://www.parliament.cy/easyconsole.cfm/id/843
+- http://www.parliament.cy/easyconsole.cfm/id/848
+actions: []
 identifier: 23.01.054.251-2013
-in_committees:
-- el: Οικονομικών και Προϋπολογισμού
-  en: Finance and Budget
+other_titles:
+- Ο περί Δημόσιας Υπηρεσίας (Τροποποιητικός) (Αρ. 6) Νόμος του 2013
 title: Ο περί Δημόσιας Υπηρεσίας (Τροποποιητικός) (Αρ. 6) Νόμος του 2013

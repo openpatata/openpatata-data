@@ -1,10 +1,20 @@
-events:
-- date: '2013-06-06'
-  description: κατατέθηκε από τον Yπουργό Οικονομικών· παραπέμφθηκε στην Επιτροπή Νομικών
-- date: '2013-09-26'
-  description: null
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/557
+- http://www.parliament.cy/easyconsole.cfm/id/574
+- http://www.parliament.cy/easyconsole.cfm/id/662
+- http://www.parliament.cy/easyconsole.cfm/id/671
+- http://www.parliament.cy/images/media/redirectfile/40-1107013 - agenda0001.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-06-06.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-06-06_Ι_Β_35
+  committees_referred_to: Νομικών
+  sponsors: Οικονομικών
 identifier: 23.01.054.114-2013
-in_committees:
-- el: Νομικών
-  en: Legal Affairs
-title: Ο περί Ορισμένων Νομικών Προσώπων Δημοσίου Δικαίου (Διορισμός Διοικητικών Συμβουλίων) (Τροποποιητικός) (Αρ. 2) Νόμος του 2013
+other_titles:
+- Ο περί Ορισμένων Νομικών Προσώπων Δημοσίου Δικαίου (Διορισμός Διοικητικών Συμβουλίων)
+  (Τροποποιητικός) (Αρ. 2) Νόμος του 2013
+- Ο περί Ορισμένων Νομικών Προσώπων ∆ημοσίου ∆ικαίου (∆ιορισμός ∆ιοικητικών Συμβουλίων)
+  (Τροποποιητικός) (Αρ. 2) Νόμος του 2013
+title: Ο περί Ορισμένων Νομικών Προσώπων ∆ημοσίου ∆ικαίου (∆ιορισμός ∆ιοικητικών Συμβουλίων)
+  (Τροποποιητικός) (Αρ. 2) Νόμος του 2013

@@ -1,8 +1,11 @@
-events:
-- date: '2013-11-21'
-  description: κατατέθηκε από τον Νίκο Κουτσού, βουλευτή εκλογικής περιφέρειας Αμμοχώστου, εκπροσωπούντα τη Συμμαχία Πολιτών· παραπέμφθηκε στην Επιτροπή Θεσμών, Αξιών και Επιτρόπου Διοικήσεως
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1688
+- http://www.parliament.cy/easyconsole.cfm/id/1713
+- http://www.parliament.cy/easyconsole.cfm/id/1729
+- http://www.parliament.cy/easyconsole.cfm/id/1752
+actions: []
 identifier: 23.02.054.121-2013
-in_committees:
-- el: Θεσμών, Αξιών και Επιτρόπου Διοικήσεως
-  en: Institutions, Merit and Commissioner for Administration (Ombudsman)
-title: Ο περί Πολιτικών Κομμάτων (Τροποποιητικός) Νόμος του 2013
+other_titles:
+- Ο περί Πολιτικών Κομμάτων και Πολιτικών Κινημάτων (Τροποποιητικός) Νόμος του 2013
+title: Ο περί Πολιτικών Κομμάτων και Πολιτικών Κινημάτων (Τροποποιητικός) Νόμος του
+  2013

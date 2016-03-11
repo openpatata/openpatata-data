@@ -1,13 +1,34 @@
-events:
-- date: '2014-09-23'
-  description: κατατέθηκαν από τον Υπουργό Παιδείας και Πολιτισμού· παραπέμφθηκαν στην Επιτροπή Παιδείας
-- date: '2014-11-20'
-  description: επανακατατέθηκαν
-- date: '2015-01-15'
-  description: επανακατατέθηκαν
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1192
+- http://www.parliament.cy/easyconsole.cfm/id/1270
+- http://www.parliament.cy/easyconsole.cfm/id/1302
+- http://www.parliament.cy/easyconsole.cfm/id/996
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-06-12.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-01-15.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-09-23.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-11-20.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-06-12_Ι_Γ_38
+  committees_referred_to: Παιδείας
+  sponsors: Παιδείας και Πολιτισμού
+- action: submission
+  at_plenary_id: 2014-09-23_Ι_Δ_1
+  committees_referred_to: Παιδείας
+  sponsors: Παιδείας και Πολιτισμού
+- action: submission
+  at_plenary_id: 2014-11-20_Ι_Δ_10
+  committees_referred_to: Παιδείας
+  sponsors: Παιδείας και Πολιτισμού
+- action: submission
+  at_plenary_id: 2015-01-15_Ι_Δ_17
+  committees_referred_to: Παιδείας
+  sponsors: Παιδείας και Πολιτισμού
 identifier: 23.03.051.037-2014
-in_committees:
-- el: Παιδείας
-  en: Education
-status: pending
-title: Οι περί Τεχνολογικού Πανεπιστημίου Κύπρου (Φοιτητικά Θέματα και Θέματα Σπουδών) Κανονισμοί του 2014
+other_titles:
+- Οι περί Τεχνολογικού Πανεπιστημίου Κύπρου (Φοιτητικά Θέματα και Θέματα Σπουδών)
+  Κανονισμοί του 2014
+- Οι περί Τεχνολογικού Πανεπιστημίου Κύπρου (Φοιτητικά Θέματα και Θέματα Σπουδών)
+  Κανονισμοί του 2015
+title: Οι περί Τεχνολογικού Πανεπιστημίου Κύπρου (Φοιτητικά Θέματα και Θέματα Σπουδών)
+  Κανονισμοί του 2015

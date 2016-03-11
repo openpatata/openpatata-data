@@ -1,2 +1,12 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/299
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2012-12-20.doc
+actions:
+- action: submission
+  at_plenary_id: 2012-12-20_Ι_Β_18
+  committees_referred_to: Νομικών
+  sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
 identifier: 23.03.049.093-2012
+other_titles:
+- Οι περί Πυροβόλων και Μη Πυροβόλων Όπλων (Τροποποιητικοί) Κανονισμοί του 2012
 title: Οι περί Πυροβόλων και Μη Πυροβόλων Όπλων (Τροποποιητικοί) Κανονισμοί του 2012

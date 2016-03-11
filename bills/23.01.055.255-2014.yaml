@@ -1,8 +1,12 @@
-events:
-- date: '2014-12-04'
-  description: κατατέθηκε απο τον Υπουργό Εσωτερικών· παραπέμφθηκε στην Επιτροπή Προσφύγων-Εγκλωβισμένων-Αγνοουμένων-Παθόντων
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1319
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-12-04.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-12-04_Ι_Δ_12
+  committees_referred_to: Προσφύγων- Εγκλωβισμένων- Αγνοουμένων-Παθόντων
+  sponsors: Εσωτερικών
 identifier: 23.01.055.255-2014
-in_committees:
-- el: Προσφύγων-Εγκλωβισμένων-Αγνοουμένων-Παθόντων
-  en: Refugees, and Enclaved, Missing and Adversely-Affected Persons
+other_titles:
+- Ο περί Προϋπολογισμού του Ταμείου Τ/Κ Περιουσιών του 2015 Νόμος του 2014
 title: Ο περί Προϋπολογισμού του Ταμείου Τ/Κ Περιουσιών του 2015 Νόμος του 2014

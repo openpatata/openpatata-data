@@ -1,9 +1,11 @@
-events:
-- date: '2014-07-23'
-  description: κατατέθηκε από τον Υπουργό Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος· παραπέμφθηκε στην Επιτροπή Οικονομικών και Προϋπολογισμού
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-07-23.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-07-23_Ι_Γ_44
+  committees_referred_to: Οικονομικών και Προϋπολογισμού
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
 identifier: 23.01.055.168-2014
-in_committees:
-- el: Οικονομικών και Προϋπολογισμού
-  en: Finance and Budget
-status: pending
+other_titles:
+- Ο περί Επιτροπής Σιτηρών Κύπρου Νόμος του 2014
 title: Ο περί Επιτροπής Σιτηρών Κύπρου Νόμος του 2014

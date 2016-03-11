@@ -4,7 +4,7 @@ properties:
   actions:
     description: >
       A list of actions parliament has taken on this bill, in chronological
-      order. An action must be one of the following predefined types.
+      order.  An action must be one of the following predefined types.
     type: array
     items:
       type: object
@@ -12,216 +12,27 @@ properties:
       - description: Submission (first reading) of a bill.
         type: object
         properties:
-          date: &_action_property_date
-            description: The date, in ISO format (YYYY-MM-DD).
-            type: string
-            format: date
           action:
             type: string
             enum:
-            - submit
-          by:
+            - submission
+          at_plenary: &_action_property_at_plenary
+            description: The plenary sitting's unique id.
+            type: string
+          sponsors:
             description: The bill's sponsors.
-            type: array
-            items:
-              type: string
+            type: string
+          committees_referred_to:
+            description: The committees the bill was referred to.
+            type: string
         required:
-        - date
         - action
-        - by
-      - description: Referral of a bill to a committee.
-        type: object
-        properties:
-          date: *_action_property_date
-          action:
-            type: string
-            enum:
-            - refer
-          to:
-            description: The committees the bill has been referred to.
-            type: array
-            items:
-              type: object
-              properties:
-                el:
-                  description: The name of the committee in Greek.
-                  type: string
-                en:
-                  description: The name of the committee in English.
-                  type: string
-              required:
-              - el
-              - en
-        required:
-        - date
-        - action
-        - to
-      - description: Resubmission of a bill.
-        type: object
-        properties:
-          date: *_action_property_date
-          action:
-            type: string
-            enum:
-            - resubmit
-        required:
-        - date
-        - action
-      - description: Postponement of a bill.
-        type: object
-        properties:
-          date: *_action_property_date
-          action:
-            type: string
-            enum:
-            - postpone
-          what:
-            description: Stage at which the bill was postponed.
-            type: string
-            enum:
-            - second reading
-            - third reading
-            - veto
-        required:
-        - date
-        - action
-        - what
-      - description: A vote event.
-        type: object
-        properties:
-          date: *_action_property_date
-          action:
-            type: string
-            enum:
-            - vote
-          type:
-            description: The "type" of vote.
-            type: string
-            enum:
-            - second reading
-            - third reading
-            - veto
-          motion:
-            description: The motion, word-for-word.
-            type: string
-          breakdown:
-            description: Individual MP votes; inferred.
-            type: array
-            items:
-              type: object
-              properties:
-                name:
-                  description: >
-                    The name of the MP, in Greek, in the following order: last
-                    name, middle name, first name.
-                  type: string
-                option:
-                  description: >
-                    Whether the MP has voted for or against, or abstained.
-                  type: string
-                  enum:
-                  - 'yes'
-                  - 'no'
-                  - abstain
-              required:
-              - name
-              - option
-          counts:
-            description: >
-              Official counts. Options must be in the following order: yes, no,
-              abstain. This is to ensure that there is only one of each option.
-            type: array
-            items:
-            - type: object
-              properties:
-                count:
-                  description: The vote tally for this `option`.
-                  type: integer
-                option:
-                  description: >
-                    Whether this option is for MPs who've voted for or against,
-                    or abstained.
-                  type: string
-                  enum:
-                  - 'yes'
-              required:
-              - count
-              - option
-            - type: object
-              properties:
-                count:
-                  description: The vote tally for this `option`.
-                  type: integer
-                option:
-                  description: >
-                    Whether this option is for MPs who've voted for or against,
-                    or abstained.
-                  type: string
-                  enum:
-                  - 'no'
-              required:
-              - count
-              - option
-            - type: object
-              properties:
-                count:
-                  description: The vote tally for this `option`.
-                  type: integer
-                option:
-                  description: >
-                    Whether this option is for MPs who've voted for or against,
-                    or abstained.
-                  type: string
-                  enum:
-                  - abstain
-              required:
-              - count
-              - option
-            minItems: 3
-            additionalItems: false
-          remarks:
-            description: Editor remarks.
-            type: string
-            format: markdown
-          result:
-            description: The outcome of the vote.
-            type: string
-            enum:
-            - pass
-            - fail
-        required:
-        - date
-        - action
-        - type
-        - result
-      - description: Any other kind of action.
-        type: object
-        properties:
-          date: *_action_property_date
-          action:
-            type: string
-            enum:
-            - other
-          description:
-            description: A brief description of this action.
-            type: object
-            properties:
-              el:
-                description: The description in Greek.
-                type: string
-              en:
-                description: The description in English.
-                type: string
-            required:
-            - el
-            - en
-        required:
-        - date
-        - action
-        - description
+        - at_plenary
+        - sponsors
+        - committees_referred_to
   explanatory_note:
     description: >
-      An accompanying explanatory note published in the Government Gazette.
+      An accompanying explanatory note as published in the Government Gazette.
     type:
     - object
     - 'null'
@@ -247,7 +58,7 @@ properties:
           required:
           - name
       in:
-        description: Where the note is found in the Gazette.
+        description: Where the note can be found in the Gazette.
         type: object
         properties:
           issue:
@@ -272,7 +83,7 @@ properties:
     - in
     - text
   identifier:
-    description: The bill's unique identifier assigned to it by parliament.
+    description: The bill's number assigned to it by parliament.
     type: string
   law:
     description: The law number, if the bill has been enacted.
@@ -323,6 +134,100 @@ properties:
     - string
     - 'null'
     format: markdown
+  votes:
+    type: array
+    items:
+      description: A vote event corresponding to an action.
+      type: object
+      properties:
+        breakdown:
+          description: Individual MP votes; inferred.
+          type: array
+          items:
+            type: object
+            properties:
+              name:
+                description: >
+                  The name of the MP, in Greek, in the following order: last
+                  name, middle name, first name.
+                type: string
+              option:
+                description: >
+                  Whether the MP has voted for or against, or abstained.
+                type: string
+                enum:
+                - 'yes'
+                - 'no'
+                - abstain
+            required:
+            - name
+            - option
+        counts:
+          description: >
+            Official counts. Options must be in the following order: yes, no,
+            abstain. This is to ensure that there is only one of each option.
+          type: array
+          items:
+          - type: object
+            properties:
+              count:
+                description: The vote tally for this `option`.
+                type: integer
+              option:
+                description: >
+                  Whether this option is for MPs who've voted for or against,
+                  or abstained.
+                type: string
+                enum:
+                - 'yes'
+            required:
+            - count
+            - option
+          - type: object
+            properties:
+              count:
+                description: The vote tally for this `option`.
+                type: integer
+              option:
+                description: >
+                  Whether this option is for MPs who've voted for or against,
+                  or abstained.
+                type: string
+                enum:
+                - 'no'
+            required:
+            - count
+            - option
+          - type: object
+            properties:
+              count:
+                description: The vote tally for this `option`.
+                type: integer
+              option:
+                description: >
+                  Whether this option is for MPs who've voted for or against,
+                  or abstained.
+                type: string
+                enum:
+                - abstain
+            required:
+            - count
+            - option
+          minItems: 3
+          additionalItems: false
+        remarks:
+          description: Editor remarks.
+          type: string
+          format: markdown
+        result:
+          description: The outcome of the vote.
+          type: string
+          enum:
+          - pass
+          - fail
+      required:
+      - counts
+      - result
 required:
 - identifier
 - title

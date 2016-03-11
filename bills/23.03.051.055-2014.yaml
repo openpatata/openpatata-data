@@ -1,13 +1,64 @@
-events:
-- date: '2014-09-23'
-  description: κατατέθηκαν από τον Υπουργό Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος· παραπέμφθηκαν στην Επιτροπή Γεωργίας και Φυσικών Πόρων
-- date: '2014-11-20'
-  description: επανακατατέθηκαν
-- date: '2015-01-15'
-  description: επανακατατέθηκαν
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1192
+- http://www.parliament.cy/easyconsole.cfm/id/1270
+- http://www.parliament.cy/easyconsole.cfm/id/1364
+- http://www.parliament.cy/easyconsole.cfm/id/1440
+- http://www.parliament.cy/easyconsole.cfm/id/1550
+- http://www.parliament.cy/easyconsole.cfm/id/1864
+- http://www.parliament.cy/images/media/redirectfile/14-1012015- agenda.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-01-15.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-09-23.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-11-20.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-03-12.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-05-07.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-09-03.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-10-29.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-12-10.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-02-04.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-09-23_Ι_Δ_1
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2014-11-20_Ι_Δ_10
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2015-01-15_Ι_Δ_17
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2015-03-12_Ι_Δ_26
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2015-05-07_Ι_Δ_35
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2015-09-03_Ι_Ε_1
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2015-10-29_Ι_Ε_7
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2015-12-10_Ι_Ε_14
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2016-02-04_Ι_Ε_20
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
 identifier: 23.03.051.055-2014
-in_committees:
-- el: Γεωργίας και Φυσικών Πόρων
-  en: Agriculture and Natural Resources
-status: pending
-title: Οι περί Δασών (Διάθεση Κρατικής Δασικής Γης) (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2014
+other_titles:
+- Οι περί Δασών (Διάθεση Κρατικής Δασικής Γης) (Τροποποιητικοί) (Αρ. 2) Κανονισμοί
+  του 2014
+- Οι περί Δασών (Διάθεση Κρατικής Δασικής Γης) (Τροποποιητικοί) (Αρ. 2) Κανονισμοί
+  του 2015
+- Οι περί Δασών (Διάθεση Κρατικής Δασικής Γης) (Τροποποιητικοί) Κανονισμοί του 2015
+- Οι περί Δασών (Διάθεση Κρατικής Δασικής Γης) (Τροποποιητικοί) Κανονισμοί του 2016
+title: Οι περί Δασών (Διάθεση Κρατικής Δασικής Γης) (Τροποποιητικοί) Κανονισμοί του
+  2016

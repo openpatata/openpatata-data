@@ -1,14 +1,12 @@
-events:
-- date: '2014-12-11'
-  description: κατατέθηκε από τον Υπουργό Άμυνας· παραπέμφθηκε στην Επιτροπή Άμυνας
-- date: '2015-01-15'
-  description: επανήλθε στην Ολομέλεια
-- date: '2015-01-15'
-  description: υπερψηφίστηκε
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1270
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-12-11.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-12-11_Ι_Δ_13
+  committees_referred_to: Άμυνας
+  sponsors: Άμυνας
 identifier: 23.01.055.258-2014
-law: 2(I)/2015
-in_committees:
-- el: Άμυνας
-  en: Defence
-status: pass
+other_titles:
+- Ο περί Εθνικής Φρουράς (Τροποποιητικός) (Αρ. 3) Νόμος του 2014
 title: Ο περί Εθνικής Φρουράς (Τροποποιητικός) (Αρ. 3) Νόμος του 2014

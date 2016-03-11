@@ -1,10 +1,18 @@
-events:
-- date: '2012-06-28'
-  description: κατατέθηκε από το Υπουργείο Εμπορίου, Βιομηχανίας και Τουρισμού· παραπέμφθηκε στην Επιτροπή Εμπορίου και Βιομηχανίας
-- date: '2013-12-05'
-  description: null
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/707
+- http://www.parliament.cy/easyconsole.cfm/id/736
+- http://www.parliament.cy/easyconsole.cfm/id/744
+- http://www.parliament.cy/easyconsole.cfm/id/767
+- http://www.parliament.cy/images/media/redirectfile/40-1107013 - agenda0001.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-06-28.doc
+actions:
+- action: submission
+  at_plenary_id: 2012-06-28_Ι_Α_44
+  committees_referred_to: Εμπορίου και Βιομηχανίας
+  sponsors: Εμπορίου, Βιομηχανίας και Τουρισμού
 identifier: 23.01.053.152-2012
-in_committees:
-- el: Εμπορίου και Βιομηχανίας
-  en: Commerce and Industry
-title: Ο περί Ελεγκτών και Υποχρεωτικών Ελέγχων των Ετησίων και των Ενοποιημένων Λογαριασμών (Τροποποιητικός) Νόμος του 2012
+other_titles:
+- Ο περί Ελεγκτών και Υποχρεωτικών Ελέγχων των Ετησίων και των Ενοποιημένων Λογαριασμών
+  (Τροποποιητικός) Νόμος του 2012
+title: Ο περί Ελεγκτών και Υποχρεωτικών Ελέγχων των Ετησίων και των Ενοποιημένων Λογαριασμών
+  (Τροποποιητικός) Νόμος του 2012

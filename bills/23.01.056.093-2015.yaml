@@ -1,3 +1,14 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1462
+- http://www.parliament.cy/easyconsole.cfm/id/1475
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-04-30.pdf
+actions:
+- action: submission
+  at_plenary_id: 2015-04-30_Ι_Δ_34
+  committees_referred_to: Παιδείας
+  sponsors: Παιδείας και Πολιτισμού
 identifier: 23.01.056.093-2015
+other_titles:
+- Ο περί Προϋπολογισμού του Τεχνολογικού Πανεπιστημίου Κύπρου του 2015 Νόμος του 2015
 title: Ο περί Προϋπολογισμού του Τεχνολογικού Πανεπιστημίου Κύπρου του 2015 Νόμος
   του 2015

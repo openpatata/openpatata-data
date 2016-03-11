@@ -1,2 +1,12 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/546
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-06-06.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-06-06_Ι_Β_35
+  committees_referred_to: Περιβάλλοντος
+  sponsors: Κοινοβουλευτική Επιτροπή Περιβάλλοντος
 identifier: 23.02.054.046-2013
+other_titles:
+- Ο περί Ελέγχου της Ρύπανσης της Ατμόσφαιρας (Τροποποιητικός) Νόμος του 2013
 title: Ο περί Ελέγχου της Ρύπανσης της Ατμόσφαιρας (Τροποποιητικός) Νόμος του 2013

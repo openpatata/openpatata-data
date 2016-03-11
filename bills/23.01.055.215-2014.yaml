@@ -1,8 +1,14 @@
-events:
-- date: '2014-10-19'
-  description: κατατέθηκε από τον Υπουργό Οικονομικών· παραπέμφθηκε στην Επιτροπή Οικονομικών και Προϋπολογισμού
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1253
+- http://www.parliament.cy/easyconsole.cfm/id/1257
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-10-09.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-10-09_Ι_Δ_3
+  committees_referred_to: Οικονομικών και Προϋπολογισμού
+  sponsors: Οικονομικών
 identifier: 23.01.055.215-2014
-in_committees:
-- el: Οικονομικών και Προϋπολογισμού
-  en: Finance and Budget
+other_titles:
+- Ο περί Προϋπολογισμού του 2015 Νόμος του 2014
+- Ο περί Προϋπολογισμού του 2015, Νόμος του 2014
 title: Ο περί Προϋπολογισμού του 2015, Νόμος του 2014

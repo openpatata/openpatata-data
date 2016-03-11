@@ -1,8 +1,15 @@
-events:
-- date: '2013-12-12'
-  description: κατατέθηκαν από τον Υπουργό Ενέργειας, Εμπορίου, Βιομηχανίας και Τουρισμού· παραπέμφθηκαν στην Επιτροπή Εμπορίου και Βιομηχανίας
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/807
+- http://www.parliament.cy/easyconsole.cfm/id/815
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-12-12.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-12-12_Ι_Γ_17
+  committees_referred_to: Εμπορίου και Βιομηχανίας
+  sponsors: Ενέργειας, Εμπορίου, Βιομηχανίας και Τουρισμού
 identifier: 23.03.050.088-2013
-in_committees:
-- el: Εμπορίου και Βιομηχανίας
-  en: Commerce and Industry
-title: Οι περί Ξενοδοχείων και Τουριστικών Καταλυμάτων (Γενικοί) (Τροποποιητικοί) Κανονισμοί του 2013
+other_titles:
+- Οι περί Ξενοδοχείων και Τουριστικών Καταλυμάτων (Γενικοί) (Τροποποιητικοί) Κανονισμοί
+  του 2013
+title: Οι περί Ξενοδοχείων και Τουριστικών Καταλυμάτων (Γενικοί) (Τροποποιητικοί)
+  Κανονισμοί του 2013

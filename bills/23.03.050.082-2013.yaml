@@ -1,8 +1,14 @@
-events:
-- date: '2013-11-28'
-  description: κατατέθηκαν από τον Εξωτερικών· παραπέμφθηκαν στην Επιτροπή Εξωτερικών και Ευρωπαϊκών Υποθέσεων
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/815
+- http://www.parliament.cy/easyconsole.cfm/id/843
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-12-23.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-01-23_Ι_Γ_21
+  committees_referred_to: Εξωτερικών και Ευρωπαϊκών Υποθέσεων
+  sponsors: Εξωτερικών
 identifier: 23.03.050.082-2013
-in_committees:
-- el: Εξωτερικών και Ευρωπαϊκών Υποθέσεων
-  en: Foreign and European Affairs
-title: Οι περί Προξενικών Τελών (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2013
+other_titles:
+- Οι περί Προξενικών Τελών (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2013
+- Οι περί Προξενικών Τελών (Τροποποιητικοί) Κανονισμοί του 2014
+title: Οι περί Προξενικών Τελών (Τροποποιητικοί) Κανονισμοί του 2014

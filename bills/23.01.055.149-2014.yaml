@@ -1,16 +1,15 @@
-events:
-- date: '2014-10-23'
-  description: υπερψηφίστηκε
-explanatory_note:
-  authors:
-  - name: Κληρίδης Κώστας
-    note: Γενικός Εισαγγελέας της Δημοκρατίας
-  in:
-    issue: 4148
-    pages: 1132
-  text: |
-    Σκοπός του παρόντος Νομοσχεδίου είναι η δημιουργία ενός Ανεξάρτητου Φορέα Κοινωνικής Στήριξης το οποίο έχει σκοπό την οικονομική στήριξη δυσπραγούντων φυσικών προσώπων, τα οποία λόγω έκτακτων περιστατικών ή άλλων εξαιρετικών συμβάντων, θα επηρεασθεί άμεσα η συνέχεια της εκπαίδευσης τους ή έχουν άμεσα ανάγκες άλλης οικονομικής βοήθειας, η οποία δεν παρέχεται από άλλο ισχύοντα Νόμο.
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1061
+- http://www.parliament.cy/easyconsole.cfm/id/1062
+- http://www.parliament.cy/easyconsole.cfm/id/1133
+- http://www.parliament.cy/easyconsole.cfm/id/1136
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-06-26.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-06-26_Ι_Γ_40
+  committees_referred_to: Οικονομικών και Προϋπολογισμού
+  sponsors: Οικονομικών
 identifier: 23.01.055.149-2014
-law: 156(I)/2014
-status: pass
+other_titles:
+- Ο περί του Ανεξάρτητου Φορέα Κοινωνικής Στήριξης Νόμος του 2014
 title: Ο περί του Ανεξάρτητου Φορέα Κοινωνικής Στήριξης Νόμος του 2014

@@ -1,12 +1,12 @@
-events:
-- date: '2014-01-16'
-  description: κατατέθηκε από τον Νίκο Νουρή εκ μέρους της κοινοβουλευτικής ομάδας του Δημοκρατικού Συναγερμού· παραπέμφθηκε στην Επιτροπή Εσωτερικών
-- date: '2014-04-10'
-  description:
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/902
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-12-16.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-01-16_Ι_Γ_20
+  committees_referred_to: Εσωτερικών
+  sponsors: Νίκο Νουρή εκ μέρους της κοινοβουλευτικής ομάδας του Δημοκρατικού Συναγερμού
 identifier: 23.02.055.003-2014
-in_committees:
-- el: Εσωτερικών
-  en: Home Affairs
-tags:
-- αυτοδιοίκηση
+other_titles:
+- Ο περί Δημοσίων Οδών (Τροποποιητικός) Νόμος του 2014
 title: Ο περί Δημοσίων Οδών (Τροποποιητικός) Νόμος του 2014

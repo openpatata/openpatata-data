@@ -1,3 +1,26 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/466
+- http://www.parliament.cy/easyconsole.cfm/id/550
+- http://www.parliament.cy/easyconsole.cfm/id/574
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-03-07.doc
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-04-25.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-06-20.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-03-07_Ι_Β_21
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2013-04-25_Ι_Β_30
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+- action: submission
+  at_plenary_id: 2013-06-20_Ι_Β_37
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
 identifier: 23.03.050.006-2013
+other_titles:
+- Οι περί Καθορισμού Πληρωτέων Δικαιωμάτων για τη χρήση του Κεκλιμένου Ανέλκυσης/Καθέλκυσης
+  Σκαφών στο Αλιευτικό Καταφύγιο Ζυγίου Κανονισμοί του 2013
 title: Οι περί Καθορισμού Πληρωτέων Δικαιωμάτων για τη χρήση του Κεκλιμένου Ανέλκυσης/Καθέλκυσης
   Σκαφών στο Αλιευτικό Καταφύγιο Ζυγίου Κανονισμοί του 2013

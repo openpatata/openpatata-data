@@ -1,3 +1,14 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/502
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2011-09-15.doc
+actions:
+- action: submission
+  at_plenary_id: 2011-09-15_Ι_Α_1
+  committees_referred_to: Οικονομικών και Προϋπολογισμού
+  sponsors: Εσωτερικών
 identifier: 23.01.052.171-2011
+other_titles:
+- Ο περί Επεξεργασίας Δεδομένων Προσωπικού Χαρακτήρα (Προστασία του Ατόμου) (Τροποποιητικός)
+  Νόμος του 2011
 title: Ο περί Επεξεργασίας Δεδομένων Προσωπικού Χαρακτήρα (Προστασία του Ατόμου) (Τροποποιητικός)
   Νόμος του 2011

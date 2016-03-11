@@ -1,10 +1,7 @@
-events:
-- date: '2013-10-03'
-  description: κατατέθηκε από τον Υπουργό Υγείας· παραπέμφθηκε στην Επιτροπή Υγείας
-- date: '2013-11-21'
-  description: null
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/744
+actions: []
 identifier: 23.01.054.209-2013
-in_committees:
-- el: Υγείας
-  en: Health
+other_titles:
+- Ο περί Φαρμακευτικής και Δηλητηρίων (Τροποποιητικός) Νόμος του 2013
 title: Ο περί Φαρμακευτικής και Δηλητηρίων (Τροποποιητικός) Νόμος του 2013

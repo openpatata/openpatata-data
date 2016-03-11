@@ -1,10 +1,13 @@
-events:
-- date: '2013-08-29'
-  description: κατατέθηκε από τον Yπουργό Οικονομικών· παραπέμφθηκε στην Επιτροπή Οικονομικών και Προϋπολογισμού
-- date: '2013-09-26'
-  description: null
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/671
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-08-29.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-08-29.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-08-29_Ι_None_None
+  committees_referred_to: Οικονομικών και Προϋπολογισμού
+  sponsors: Οικονομικών
 identifier: 23.01.054.171-2013
-in_committees:
-- el: Οικονομικών και Προϋπολογισμού
-  en: Finance and Budget
+other_titles:
+- Ο περί Φορολογίας Ακινήτου Ιδιοκτησίας (Τροποποιητικός) (Αρ. 4) Νόμος του 2013
 title: Ο περί Φορολογίας Ακινήτου Ιδιοκτησίας (Τροποποιητικός) (Αρ. 4) Νόμος του 2013

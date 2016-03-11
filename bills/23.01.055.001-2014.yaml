@@ -1,8 +1,11 @@
-events:
-- date: '2014-01-16'
-  description: κατατέθηκε από τον Υπουργό Άμυνας· παραπέμφθηκε στην Επιτροπή Άμυνας
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-12-16.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-01-16_Ι_Γ_20
+  committees_referred_to: Άμυνας
+  sponsors: Άμυνας
 identifier: 23.01.055.001-2014
-in_committees:
-- el: Άμυνας
-  en: Defence
+other_titles:
+- Ο περί Εθνικής Φρουράς (Τροποποιητικός) Νόμος του 2014
 title: Ο περί Εθνικής Φρουράς (Τροποποιητικός) Νόμος του 2014

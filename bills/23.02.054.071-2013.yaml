@@ -1,14 +1,12 @@
-events:
-- date: '2013-06-27'
-  description: κατατέθηκε από τον Γιώργο Βαρνάβα εκ μέρους της Κοινοβουλευτικής Επιτροπής Άμυνας· παραπέμφθηκε στις Επιτροπές Νομικών και Παιδείας
-- date: '2014-01-23'
-  description: υπερψηφίστηκε
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/815
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-06-27.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-06-27_Ι_Β_38
+  committees_referred_to: Νομικών και Παιδείας
+  sponsors: Γιώργο Βαρνάβα εκ μέρους της Κοινοβουλευτικής Επιτροπής Άμυνας
 identifier: 23.02.054.071-2013
-in_committees:
-- el: Νομικών
-  en: Legal Affairs
-- el: Παιδείας
-  en: Education
-law: 8(I)/2014
-status: pass
+other_titles:
+- Ο περί Δημόσιας Εκπαιδευτικής Υπηρεσίας (Τροποποιητικός) Νόμος του 2013
 title: Ο περί Δημόσιας Εκπαιδευτικής Υπηρεσίας (Τροποποιητικός) Νόμος του 2013

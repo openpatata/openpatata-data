@@ -1,2 +1,13 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/517
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-04-25.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-04-25_Ι_Β_30
+  committees_referred_to: Οικονομικών και Προϋπολογισμού
+  sponsors: Αβέρωφ Νεοφύτου εκ μέρους της κοινοβουλευτικής ομάδας του Δημοκρατικού
+    Συναγερμού
 identifier: 23.02.054.028-2013
+other_titles:
+- Ο περί Φόρων Κατανάλωσης (Τροποποιητικός) (Αρ. 3) Νόμος του 2013
 title: Ο περί Φόρων Κατανάλωσης (Τροποποιητικός) (Αρ. 3) Νόμος του 2013

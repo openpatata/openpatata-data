@@ -1,2 +1,12 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1440
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-04-17.pdf
+actions:
+- action: submission
+  at_plenary_id: 2015-04-17_Ι_Δ_32
+  committees_referred_to: Υγείας
+  sponsors: Υγείας
 identifier: 23.01.056.077-2015
+other_titles:
+- Ο περί Προϋπολογισμού του Οργανισμού Ασφάλισης Υγείας του 2015 Νόμος του 2015
 title: Ο περί Προϋπολογισμού του Οργανισμού Ασφάλισης Υγείας του 2015 Νόμος του 2015

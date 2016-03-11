@@ -1,2 +1,15 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1654
+- http://www.parliament.cy/easyconsole.cfm/id/1687
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-06-11.pdf
+actions:
+- action: submission
+  at_plenary_id: 2015-06-11_Ι_Δ_40
+  committees_referred_to: Ενέργειας, Εμπορίου, Βιομηχανίας και Τουρισμού
+  sponsors: Ενέργειας, Εμπορίου, Βιομηχανίας και Τουρισμού
 identifier: 23.01.056.113-2015
+other_titles:
+- Ο περί της Εξώδικης Διευθέτησης των Καταναλωτικών Απαιτήσεων με την Παραπομπή τους
+  σε Διαιτησία Νόμος του 2015
 title: Ο περί της Εξώδικης Διευθέτησης των Καταναλωτικών Απαιτήσεων με την Παραπομπή
+  τους σε Διαιτησία Νόμος του 2015

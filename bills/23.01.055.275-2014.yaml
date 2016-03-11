@@ -1,14 +1,12 @@
-events:
-- date: '2014-12-18'
-  description: κατατέθηκε από τον Υπουργό Ενέργειας, Εμπορίου, Βιομηχανίας και Τουρισμού· παραπέμφθηκε στην Επιτροπή Εμπορίου και Βιομηχανίας
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1302
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-12-18.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-12-18_Ι_Δ_16
+  committees_referred_to: Εμπορίου και Βιομηχανίας
+  sponsors: Ενέργειας, Εμπορίου, Βιομηχανίας και Τουρισμού
 identifier: 23.01.055.275-2014
-in_committees:
-- el: Εμπορίου και Βιομηχανίας
-  en: Commerce and Industry
-sources:
-- id: epitropi-emporiou-ekkremounta-sn
-  text: Εκκρεμούντα Σχέδια Νόμου της Επιτροπής Εμπορίου και Βιομηχανίας. http://www2.parliament.cy/parliamentgr/008_06/02/003.04.10.02.pdf
-status: pending
-summary: |
-  «Σκοπός του νομοσχεδίου είναι η τροποποίηση του περί Εταιρειών Νόμου με σκοπό την εναρμόνιση με την Οδηγία 2012/17/ΕΕ του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου, της 13ης Ιουνίου 2012, όσον αφορά τη διασύνδεση των κεντρικών και των εμπορικών μητρώων καθώς και των μητρώων εταιρειών» ([#epitropi-emporiou-ekkremounta-sn](#epitropi-emporiou-ekkremounta-sn)).
+other_titles:
+- Ο περί Εταιρειών (Τροποποιητικός) (Αρ. 5) Νόμος του 2014
 title: Ο περί Εταιρειών (Τροποποιητικός) (Αρ. 5) Νόμος του 2014

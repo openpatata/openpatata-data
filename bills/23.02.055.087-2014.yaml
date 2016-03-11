@@ -1,10 +1,12 @@
-events:
-- date: '2014-10-02'
-  description: κατατέθηκε από τον Νίκο Κουτσού, εκπροσωπούντα τη Συμμαχία Πολιτών· παραπέμφθηκε στις Επιτροπές Οικονομικών και Προϋπολογισμού, και Εσωτερικών
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1246
+- http://www.parliament.cy/easyconsole.cfm/id/1261
+- http://www.parliament.cy/easyconsole.cfm/id/1373
+- http://www.parliament.cy/easyconsole.cfm/id/1412
+actions: []
 identifier: 23.02.055.087-2014
-in_committees:
-- el: Οικονομικών και Προϋπολογισμού
-  en: Finance and Budget
-- el: Εσωτερικών
-  en: Home Affairs
-title: Ο περί Ελευθεροποίησης του Επιτοκίου και Συναφών Θεμάτων (Τροποποιητικός) (Αρ. 2) Νόμος του 2014
+other_titles:
+- Ο περί Ελευθεροποίησης του Επιτοκίου και Συναφών Θεμάτων (Τροποποιητικός) (Αρ. 2)
+  Νόμος του 2014
+title: Ο περί Ελευθεροποίησης του Επιτοκίου και Συναφών Θεμάτων (Τροποποιητικός) (Αρ.
+  2) Νόμος του 2014

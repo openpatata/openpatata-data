@@ -1,10 +1,15 @@
-events:
-- date: '2013-08-29'
-  description: κατατέθηκε από τον Yπουργό Εσωτερικών· παραπέμφθηκε στην Επιτροπή Συγκοινωνιών και Έργων
-- date: '2013-11-21'
-  description: null
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/744
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-08-29.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-08-29.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-08-29_Ι_None_None
+  committees_referred_to: Συγκοινωνιών και Έργων
+  sponsors: Εσωτερικών
 identifier: 23.01.054.180-2013
-in_committees:
-- el: Συγκοινωνιών και Έργων
-  en: Communications and Works
-title: Ο περί Εγγραφής και Ελέγχου Εργοληπτών Οικοδομικών και Τεχνικών Έργων (Τροποποιητικός) Νόμος του 2013
+other_titles:
+- Ο περί Εγγραφής και Ελέγχου Εργοληπτών Οικοδομικών και Τεχνικών Έργων (Τροποποιητικός)
+  Νόμος του 2013
+title: Ο περί Εγγραφής και Ελέγχου Εργοληπτών Οικοδομικών και Τεχνικών Έργων (Τροποποιητικός)
+  Νόμος του 2013

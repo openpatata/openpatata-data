@@ -1,14 +1,12 @@
-events:
-- date: '2013-12-19'
-  description: κατατέθηκε από τον Υπουργό Εσωτερικών· παραπέμφθηκε στην Επιτροπή Εσωτερικών
-- date: '2014-06-19'
-  description: επανήλθε στην Ολομέλεια
-- date: '2014-06-19'
-  description: υπερψηφίστηκε
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/962
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-12-19.pdf
+actions:
+- action: submission
+  at_plenary_id: 2013-12-19_Ι_Γ_19
+  committees_referred_to: Εσωτερικών
+  sponsors: Εσωτερικών
 identifier: 23.01.054.267-2013
-in_committees:
-- el: Εσωτερικών
-  en: Home Affairs
-law: 88(I)/2014
+other_titles:
+- Ο περί Αλλοδαπών και Μεταναστεύσεως (Τροποποιητικός) (Αρ. 5) Νόμος του 2013
 title: Ο περί Αλλοδαπών και Μεταναστεύσεως (Τροποποιητικός) (Αρ. 5) Νόμος του 2013
-status: pass

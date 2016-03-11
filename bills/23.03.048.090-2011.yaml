@@ -1,0 +1,27 @@
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2011-09-15.doc
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2011-11-10.doc
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2011-12-08.doc
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-02-02.doc
+actions:
+- action: submission
+  at_plenary_id: 2011-09-15_Ι_Α_1
+  committees_referred_to: Παιδείας
+  sponsors: Παιδείας και Πολιτισμού
+- action: submission
+  at_plenary_id: 2011-11-10_Ι_Α_10
+  committees_referred_to: Παιδείας
+  sponsors: Παιδείας και Πολιτισμού
+- action: submission
+  at_plenary_id: 2011-12-08_Ι_Α_14
+  committees_referred_to: Παιδείας
+  sponsors: Παιδείας και Πολιτισμού
+- action: submission
+  at_plenary_id: 2012-02-02_Ι_Α_22
+  committees_referred_to: Παιδείας
+  sponsors: Παιδείας και Πολιτισμού
+identifier: 23.03.048.090-2011
+other_titles:
+- Οι περί Ιδιωτικών Σχολών Γυμναστικής (Τροποποιητικοί) Κανονισμοί του 2011
+- Οι περί Ιδιωτικών Σχολών Γυμναστικής (Τροποποιητικοί) Κανονισμοί του 2012
+title: Οι περί Ιδιωτικών Σχολών Γυμναστικής (Τροποποιητικοί) Κανονισμοί του 2012

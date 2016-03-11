@@ -1,14 +1,12 @@
-events:
-- date: '2014-11-06'
-  description: κατατέθηκε από τον Υπουργό Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος· παραπέμφθηκε στην Επιτροπή Γεωργίας και Φυσικών Πόρων
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1302
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-11-06.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-11-06_Ι_Δ_7
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
 identifier: 23.01.055.231-2014
-in_committees:
-- el: Γεωργίας και Φυσικών Πόρων
-  en: Agriculture and Natural Resources
-sources:
-- id: epitropi-georgias-ekkremounta-sn
-  text: Εκκρεμούντα Σχέδια Νόμου της Επιτροπής Γεωργίας και Φυσικών Πόρων. http://www2.parliament.cy/parliamentgr/008_06/02/003.04.09.02.pdf
-status: pending
-summary: |
-  «Σκοπός του νομοσχεδίου είναι η τροποποίηση του περί Εγγραφής Γεωπόνων Νόμου, για πληρέστερη συμμόρφωση με την Οδηγία 2006/123/ΕΚ του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 12ηςΔεκεμβρίου 2006, σχετικά με τις υπηρεσίες στην εσωτερική αγορά» ([#epitropi-georgias-ekkremounta-sn](#epitropi-georgias-ekkremounta-sn)).
+other_titles:
+- Ο περί της Εγγραφής Γεωπόνων (Τροποποιητικός) Νόμος του 2014
 title: Ο περί της Εγγραφής Γεωπόνων (Τροποποιητικός) Νόμος του 2014

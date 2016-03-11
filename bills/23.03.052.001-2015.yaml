@@ -1,10 +1,19 @@
-events:
-- date: '2015-01-15'
-  description: κατατέθηκαν από τον Υπουργό Οικονομικών· παραπέμφθηκαν στις Επιτροπές Οικονομικών και Προϋπολογισμού, και Εσωτερικών
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1344
+- http://www.parliament.cy/easyconsole.cfm/id/1364
+- http://www.parliament.cy/easyconsole.cfm/id/1412
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-01-15.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-03-12.pdf
+actions:
+- action: submission
+  at_plenary_id: 2015-01-15_Ι_Δ_17
+  committees_referred_to: Οικονομικών και Προϋπολογισμού και Εσωτερικών
+  sponsors: Οικονομικών
+- action: submission
+  at_plenary_id: 2015-03-12_Ι_Δ_26
+  committees_referred_to: Οικονομικών και Προϋπολογισμού και Εσωτερικών
+  sponsors: Οικονομικών
 identifier: 23.03.052.001-2015
-in_committees:
-- el: Οικονομικών και Προϋπολογισμού
-  en: Finance and Budget
-- el: Εσωτερικών
-  en: Home Affairs
+other_titles:
+- Οι περί Συμβούλων Αφερεγγυότητας Κανονισμοί του 2015
 title: Οι περί Συμβούλων Αφερεγγυότητας Κανονισμοί του 2015

@@ -1,0 +1,42 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1864
+- http://www.parliament.cy/easyconsole.cfm/id/1868
+- http://www.parliament.cy/images/media/redirectfile/14-1012015- agenda.pdf
+- http://www.parliament.cy/images/media/redirectfile/44-0907015 - agenda0001.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-05-28.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-09-03.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-10-29.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-12-10.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-02-04.pdf
+actions:
+- action: submission
+  at_plenary_id: 2015-05-28_Ι_Δ_38
+  committees_referred_to: Περιβάλλοντος
+  sponsors: Εργασίας, Πρόνοιας και Κοινωνικών Ασφαλίσεων
+- action: submission
+  at_plenary_id: 2015-09-03_Ι_Ε_1
+  committees_referred_to: Περιβάλλοντος
+  sponsors: Εργασίας, Πρόνοιας και Κοινωνικών Ασφαλίσεων
+- action: submission
+  at_plenary_id: 2015-10-29_Ι_Ε_7
+  committees_referred_to: Περιβάλλοντος
+  sponsors: Εργασίας, Πρόνοιας και Κοινωνικών Ασφαλίσεων
+- action: submission
+  at_plenary_id: 2015-12-10_Ι_Ε_14
+  committees_referred_to: Περιβάλλοντος
+  sponsors: Εργασίας, Πρόνοιας και Κοινωνικών Ασφαλίσεων
+- action: submission
+  at_plenary_id: 2016-02-04_Ι_Ε_20
+  committees_referred_to: Περιβάλλοντος
+  sponsors: Εργασίας, Πρόνοιας και Κοινωνικών Ασφαλίσεων
+identifier: 23.03.052.030-2015
+other_titles:
+- Οι περί Ελέγχου της Ρύπανσης της Ατμόσφαιρας (Φάση ΙΙ της Ανάκτησης Ατμών Βενζίνης
+  κατά τη Διάρκεια του Ανεφοδιασμού Μηχανοκίνητων Οχημάτων σε Πρατήρια Καυσίμων) (Τροποποιητικοί)
+  Κανονισμοί του 2015
+- Οι περί Ελέγχου της Ρύπανσης της Ατμόσφαιρας (Φάση ΙΙ της Ανάκτησης Ατμών Βενζίνης
+  κατά τη Διάρκεια του Ανεφοδιασμού Μηχανοκίνητων Οχημάτων σε Πρατήρια Καυσίμων) (Τροποποιητικοί)
+  Κανονισμοί του 2016
+title: Οι περί Ελέγχου της Ρύπανσης της Ατμόσφαιρας (Φάση ΙΙ της Ανάκτησης Ατμών Βενζίνης
+  κατά τη Διάρκεια του Ανεφοδιασμού Μηχανοκίνητων Οχημάτων σε Πρατήρια Καυσίμων) (Τροποποιητικοί)
+  Κανονισμοί του 2016

@@ -1,14 +1,15 @@
-events:
-- date: '2014-09-23'
-  description: κατατέθηκε από τον Υπουργό Υγείας· παραπέμφθηκε στην Επιτροπή Υγείας
-- date: '2014-10-23'
-  description: επανήλθε στην Ολομέλεια
-- date: '2014-10-23'
-  description: υπερψηφίστηκε
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1133
+- http://www.parliament.cy/easyconsole.cfm/id/1136
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-09-23.pdf
+actions:
+- action: submission
+  at_plenary_id: 2014-09-23_Ι_Δ_1
+  committees_referred_to: Υγείας
+  sponsors: Υγείας
 identifier: 23.01.055.180-2014
-in_committees:
-- el: Υγείας
-  en: Health
-law: 167(Ι)/2014
-status: pass
-title: Ο περί Φαρμακοποιών (Σύλλογοι, Πειθαρχία και Ταμείο Συντάξεων) (Τροποποιητικός) Νόμος του 2014
+other_titles:
+- Ο περί Φαρμακοποιών (Σύλλογοι, Πειθαρχία και Ταμείο Συντάξεων) (Τροποποιητικός)
+  Νόμος του 2014
+title: Ο περί Φαρμακοποιών (Σύλλογοι, Πειθαρχία και Ταμείο Συντάξεων) (Τροποποιητικός)
+  Νόμος του 2014
