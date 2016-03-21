@@ -1,3 +1,5 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/420
 birth_date: '1964-03-19'
 dofi: null
 email: icharalambides@parliament.cy
@@ -6,12 +8,12 @@ links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
-    tr: 
+    tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/420
 - note:
     el: Wikipedia [el]
     en: Wikipedia [el]
-  url: https://el.wikipedia.org/wiki/%CE%95%CE%B9%CF%81%CE%AE%CE%BD%CE%B7_%CE%A7%CE%B1%CF%81%CE%B1%CE%BB%CE%B1%CE%BC%CF%80%CE%AF%CE%B4%CE%BF%CF%85
+  url: https://el.wikipedia.org/wiki/Ειρήνη_Χαραλαμπίδου
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Charalambidou%20Eirini%20a.jpg
 name:
   el: Χαραλαμπίδου Ειρήνη

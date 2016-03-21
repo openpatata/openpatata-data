@@ -1,3 +1,5 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/390
 birth_date: '1968-12-05'
 dofi: null
 email: gloukaides@parliament.cy
@@ -6,12 +8,12 @@ links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
-    tr: 
+    tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/390
 - note:
     el: Wikipedia [el]
     en: Wikipedia [el]
-  url: https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%9B%CE%BF%CF%85%CE%BA%CE%B1%CE%90%CE%B4%CE%B7%CF%82
+  url: https://el.wikipedia.org/wiki/Γιώργος_Λουκαΐδης
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Loukaidis%20Giwrgos%20a.jpg
 name:
   el: Λουκαΐδης Γιώργος

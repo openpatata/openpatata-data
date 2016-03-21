@@ -1,3 +1,5 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/367
 birth_date: '1971-10-21'
 dofi: null
 email: akafkalias@parliament.cy
@@ -6,12 +8,12 @@ links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
-    tr: 
+    tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/367
 - note:
     el: Wikipedia [el]
     en: Wikipedia [el]
-  url: https://el.wikipedia.org/wiki/%CE%91%CE%BD%CF%84%CF%81%CE%AD%CE%B1%CF%82_%CE%9A%CE%B1%CF%85%CE%BA%CE%B1%CE%BB%CE%B9%CE%AC%CF%82
+  url: https://el.wikipedia.org/wiki/Αντρέας_Καυκαλιάς
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Kafkalias%20Andros%20a.jpg
 name:
   el: Καυκαλιάς Αντρέας

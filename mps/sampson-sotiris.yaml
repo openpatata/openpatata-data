@@ -1,3 +1,5 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/410
 birth_date: '1965-08-06'
 dofi: null
 email: ssampson@parliament.cy
@@ -6,7 +8,7 @@ links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
-    tr: 
+    tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/410
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/SAMPSON%20Sotiris.jpg
 name:

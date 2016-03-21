@@ -1,4 +1,7 @@
+_sources: []
+birth_date: null
 gender: female
+links: []
 name:
   el: Κληρίδου Καίτη
   en: Kliridou Kaiti
@@ -6,3 +9,4 @@ name:
 other_names:
 - name: Κληρίδη Καίτη
   note: Alternative spelling (el-Grek)
+tenures: []

@@ -1,3 +1,5 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/313
 birth_date: '1963-04-09'
 dofi: null
 email: gegeorgiou@parliament.cy
@@ -6,12 +8,12 @@ links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
-    tr: 
+    tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/313
 - note:
     el: Wikipedia [el]
     en: Wikipedia [el]
-  url: https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_%CE%93%CE%B5%CF%89%CF%81%CE%B3%CE%AF%CE%BF%CF%85_(%CE%B2%CE%BF%CF%85%CE%BB%CE%B5%CF%85%CF%84%CE%AE%CF%82)
+  url: https://el.wikipedia.org/wiki/Γιώργος_Γεωργίου_(βουλευτής)
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Georgiou%20Giwrgos%20a.jpg
 name:
   el: Γεωργίου Γιώργος

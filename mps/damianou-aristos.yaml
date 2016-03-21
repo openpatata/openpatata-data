@@ -1,3 +1,5 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/360
 birth_date: '1972-06-03'
 dofi: null
 email: adamianou@parliament.cy
@@ -6,12 +8,12 @@ links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
-    tr:
+    tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/360
 - note:
     el: Wikipedia [el]
     en: Wikipedia [el]
-  url: https://el.wikipedia.org/wiki/%CE%86%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%82_%CE%94%CE%B1%CE%BC%CE%B9%CE%B1%CE%BD%CE%BF%CF%8D
+  url: https://el.wikipedia.org/wiki/Άριστος_Δαμιανού
 - note:
     el: twitter
     en: twitter

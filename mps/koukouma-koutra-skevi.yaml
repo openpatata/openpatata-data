@@ -1,3 +1,5 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/368
 birth_date: '1954-07-18'
 dofi: null
 email: skoukouma@parliament.cy
@@ -6,12 +8,12 @@ links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
-    tr: 
+    tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/368
 - note:
     el: Wikipedia [el]
     en: Wikipedia [el]
-  url: https://el.wikipedia.org/wiki/%CE%A3%CE%BA%CE%B5%CF%8D%CE%B7_%CE%9A%CE%BF%CF%85%CE%BA%CE%BF%CF%85%CE%BC%CE%AC_%CE%9A%CE%BF%CF%8D%CF%84%CF%81%CE%B1
+  url: https://el.wikipedia.org/wiki/Σκεύη_Κουκουμά_Κούτρα
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Koutra-%20Koukouma%20Skevi%20a.jpg
 name:
   el: Κουκουμά Κούτρα Σκεύη

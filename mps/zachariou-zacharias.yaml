@@ -1,3 +1,5 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/364
 birth_date: '1963-12-13'
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/z_zachariou_DISI.pdf
 email: zzachariou@parliament.cy
@@ -6,7 +8,7 @@ links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
-    tr:
+    tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/364
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/ZACHARIOU%20Zacharias.jpg
 name:

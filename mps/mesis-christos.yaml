@@ -1,3 +1,5 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/393
 birth_date: '1957-08-25'
 dofi: null
 email: cmessis@parliament.cy
@@ -6,12 +8,12 @@ links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
-    tr: 
+    tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/393
 - note:
     el: Wikipedia [el]
     en: Wikipedia [el]
-  url: https://el.wikipedia.org/wiki/%CE%A7%CF%81%CE%AF%CF%83%CF%84%CE%BF%CF%82_%CE%9C%CE%AD%CF%83%CE%B7%CF%82
+  url: https://el.wikipedia.org/wiki/Χρίστος_Μέσης
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Mesis%20Christos%20a.jpg
 name:
   el: Μέσης Χρίστος

@@ -1,3 +1,5 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/363
 birth_date: '1959-09-23'
 dofi: null
 email: sevagorou@parliament.cy
@@ -6,12 +8,12 @@ links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
-    tr: 
+    tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/363
 - note:
     el: Wikipedia [el]
     en: Wikipedia [el]
-  url: https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%B1%CF%8D%CF%81%CE%BF%CF%82_%CE%95%CF%85%CE%B1%CE%B3%CF%8C%CF%81%CE%BF%CF%85
+  url: https://el.wikipedia.org/wiki/Σταύρος_Ευαγόρου
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Evagorou%20Stavros%20a.jpg
 name:
   el: Ευαγόρου Σταύρος

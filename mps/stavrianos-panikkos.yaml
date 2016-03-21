@@ -1,3 +1,5 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/412
 birth_date: '1964-02-07'
 dofi: null
 email: pstavrianos@parliament.cy
@@ -6,12 +8,12 @@ links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
-    tr: 
+    tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/412
 - note:
     el: Wikipedia [el]
     en: Wikipedia [el]
-  url: https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%BD%CE%AF%CE%BA%CE%BA%CE%BF%CF%82_%CE%A3%CF%84%CE%B1%CF%85%CF%81%CE%B9%CE%B1%CE%BD%CF%8C%CF%82
+  url: https://el.wikipedia.org/wiki/Πανίκκος_Σταυριανός
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Stavrianos%20Panikkos%20a.jpg
 name:
   el: Σταυριανός Πανίκκος

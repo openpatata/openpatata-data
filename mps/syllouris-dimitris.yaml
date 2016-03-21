@@ -1,3 +1,5 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/414
 birth_date: '1953-07-27'
 dofi: null
 email: dsyllouris@parliament.cy
@@ -6,12 +8,12 @@ links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
-    tr: 
+    tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/414
 - note:
     el: Wikipedia [el]
     en: Wikipedia [el]
-  url: https://el.wikipedia.org/wiki/%CE%94%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82_%CE%A3%CF%85%CE%BB%CE%BB%CE%BF%CF%8D%CF%81%CE%B7%CF%82
+  url: https://el.wikipedia.org/wiki/Δημήτρης_Συλλούρης
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/SYLLOURIS%20Demetris.jpg
 name:
   el: Συλλούρης Δημήτρης

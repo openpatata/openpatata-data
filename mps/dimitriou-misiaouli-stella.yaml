@@ -1,3 +1,5 @@
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/361
 birth_date: '1954-10-18'
 dofi: null
 email: smisiaouli@parliament.cy
@@ -6,12 +8,12 @@ links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
-    tr: 
+    tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/361
 - note:
     el: Wikipedia [el]
     en: Wikipedia [el]
-  url: https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%AD%CE%BB%CE%BB%CE%B1_%CE%94%CE%B7%CE%BC%CE%B7%CF%84%CF%81%CE%AF%CE%BF%CF%85_%CE%9C%CE%B9%CF%83%CE%B9%CE%B1%CE%BF%CF%8D%CE%BB%CE%B7
+  url: https://el.wikipedia.org/wiki/Στέλλα_Δημητρίου_Μισιαούλη
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Dimitriou-Misiaouli%20Stella%20a.jpg
 name:
   el: Δημητρίου Μισιαούλη Στέλλα
