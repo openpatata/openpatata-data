@@ -6,7 +6,7 @@ dofi: null
 email: lchristoforou@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+  http://www.wikidata.org/entity/: Q16571128
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
