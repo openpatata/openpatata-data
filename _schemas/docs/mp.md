@@ -16,6 +16,14 @@
 
     See [`foaf:gender`](http://xmlns.com/foaf/spec/#term_gender).
 
+* **identifiers** (`object|null`)
+
+    A mapping of issued identifiers.
+
+    * **http://www.wikidata.org/entity/** (`string|null`)
+
+        A Wikidata item ID.
+
 * **links** (`array [object]|null`)
 
     A list of pertinent links, e.g. to the MP's page on Parliament.  Generally no more than five.  If linking to Wikipedia, link only to one language edition of it, preferably the English Wikipedia.

@@ -4,6 +4,8 @@ birth_date: '1956-03-10'
 dofi: null
 email: skyriakidou@parliament.cy
 gender: female
+identifiers:
+  http://www.wikidata.org/entity/: null
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -13,6 +15,7 @@ links:
 - note:
     el: Προσωπική ιστοσελίδα
     en: Personal website
+    tr: null
   url: http://www.stellakyriakides.com/
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/KYRIAKIDOU%20Stella.jpg
 name:

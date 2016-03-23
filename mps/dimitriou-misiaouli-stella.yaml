@@ -4,16 +4,14 @@ birth_date: '1954-10-18'
 dofi: null
 email: smisiaouli@parliament.cy
 gender: female
+identifiers:
+  http://www.wikidata.org/entity/: Q16329024
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/361
-- note:
-    el: Wikipedia [el]
-    en: Wikipedia [el]
-  url: https://el.wikipedia.org/wiki/Στέλλα_Δημητρίου_Μισιαούλη
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Dimitriou-Misiaouli%20Stella%20a.jpg
 name:
   el: Δημητρίου Μισιαούλη Στέλλα

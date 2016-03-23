@@ -4,6 +4,8 @@ birth_date: null
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_kyriakidou_DIKO.pdf
 email: akyriakidou@parliament.cy
 gender: female
+identifiers:
+  http://www.wikidata.org/entity/: null
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής

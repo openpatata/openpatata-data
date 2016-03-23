@@ -4,6 +4,8 @@ birth_date: '1962-03-23'
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/g_perdikis_KEP.pdf
 email: gperdikes@parliament.cy
 gender: male
+identifiers:
+  http://www.wikidata.org/entity/: Q5543328
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -13,11 +15,8 @@ links:
 - note:
     el: Blog
     en: Blog
+    tr: Blog
   url: http://georgeperdikis.blogspot.com/
-- note:
-    el: Wikipedia [en]
-    en: Wikipedia [en]
-  url: https://en.wikipedia.org/wiki/George_Perdikes
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/PERDIKES%20George.jpg
 name:
   el: Περδίκης Γιώργος

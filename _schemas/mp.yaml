@@ -46,6 +46,17 @@ properties:
       required:
       - name
       - note
+  identifiers:
+    description: A mapping of issued identifiers.
+    type:
+    - object
+    - 'null'
+    properties:
+      http://www.wikidata.org/entity/:
+        description: A Wikidata item ID.
+        type:
+        - string
+        - 'null'
   birth_date:
     description: Their date of birth in the ISO format.
     type:

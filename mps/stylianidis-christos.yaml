@@ -2,6 +2,8 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/914
 birth_date: '1958-06-26'
 gender: male
+identifiers:
+  http://www.wikidata.org/entity/: null
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής

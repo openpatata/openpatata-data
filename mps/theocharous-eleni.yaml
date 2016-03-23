@@ -1,7 +1,25 @@
-_sources: []
-birth_date: null
+_sources:
+- http://www.europarl.europa.eu/meps/en/25704/ELENI_THEOCHAROUS_home.html
+birth_date: '1953-06-24'
 gender: female
-links: []
+identifiers:
+  http://www.wikidata.org/entity/: Q468077
+links:
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Personal website
+    tr: null
+  url: http://www.elenitheocharous.com/
+- note:
+    el: Facebook
+    en: Facebook
+    tr: Facebook
+  url: https://www.facebook.com/elenitheocharous
+- note:
+    el: twitter
+    en: twitter
+    tr: twitter
+  url: https://twitter.com/THEOCHAROUSE
 name:
   el: Θεοχάρους Ελένη
   en: Theocharous Eleni

@@ -4,6 +4,8 @@ birth_date: '1950-12-07'
 dofi: null
 email: zkoulias@parliament.cy
 gender: male
+identifiers:
+  http://www.wikidata.org/entity/: null
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής

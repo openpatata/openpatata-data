@@ -4,16 +4,14 @@ birth_date: '1954-07-18'
 dofi: null
 email: skoukouma@parliament.cy
 gender: female
+identifiers:
+  http://www.wikidata.org/entity/: Q12884514
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/368
-- note:
-    el: Wikipedia [el]
-    en: Wikipedia [el]
-  url: https://el.wikipedia.org/wiki/Σκεύη_Κουκουμά_Κούτρα
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Koutra-%20Koukouma%20Skevi%20a.jpg
 name:
   el: Κουκουμά Κούτρα Σκεύη

@@ -4,16 +4,14 @@ birth_date: '1963-04-09'
 dofi: null
 email: gegeorgiou@parliament.cy
 gender: male
+identifiers:
+  http://www.wikidata.org/entity/: Q16329183
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/313
-- note:
-    el: Wikipedia [el]
-    en: Wikipedia [el]
-  url: https://el.wikipedia.org/wiki/Γιώργος_Γεωργίου_(βουλευτής)
 mugshot: http://www.parliament.cy/assets/image/imageoriginal/Georgiou%20Giwrgos%20a.jpg
 name:
   el: Γεωργίου Γιώργος

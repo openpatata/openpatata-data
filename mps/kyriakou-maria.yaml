@@ -4,6 +4,8 @@ birth_date: '1950-09-26'
 dofi: null
 email: mkyriakou@parliament.cy
 gender: female
+identifiers:
+  http://www.wikidata.org/entity/: null
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής

@@ -1,6 +1,8 @@
 _sources: []
 birth_date: null
 gender: male
+identifiers:
+  http://www.wikidata.org/entity/: null
 links: []
 name:
   el: Καράς Αντώνης
