@@ -1,5 +1,6 @@
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1869
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-02-11-2.pdf
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-02-11.pdf
 agenda:
   cap1: []
@@ -61,6 +62,8 @@ links:
   url: http://www.parliament.cy/easyconsole.cfm/id/1869
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-02-11.pdf
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-02-11-2.pdf
 parliamentary_period: Ι
 session: Ε
 sitting: 22
