@@ -5,14 +5,17 @@ dofi: null
 email: ylamaris@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q16329147
+- identifier: Q16329147
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/Lamaris Giannos a.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/Lamaris Giannos a.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/389
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/Lamaris%20Giannos%20a.jpg
 name:
   el: Λαμάρης Γιάννος
   en: Lamaris Giannos

@@ -5,14 +5,17 @@ dofi: null
 email: sfittis@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/FITTIS SOFOKLIS.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/FITTIS SOFOKLIS.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/419
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/FITTIS%20SOFOKLIS.jpg
 name:
   el: Φυττής Σοφοκλής
   en: Fyttis Sofoklis

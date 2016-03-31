@@ -49,14 +49,21 @@ properties:
   identifiers:
     description: A mapping of issued identifiers.
     type:
-    - object
+    - array
     - 'null'
-    properties:
-      http://www.wikidata.org/entity/:
-        description: A Wikidata item ID.
-        type:
-        - string
-        - 'null'
+    items:
+      type: object
+      properties:
+        identifier:
+          type:
+          - string
+          - 'null'
+        scheme:
+          type: string
+          enum:
+          - http://www.wikidata.org/entity/
+      required:
+      - scheme
   birth_date:
     description: Their date of birth in the ISO format.
     type:
@@ -162,14 +169,22 @@ properties:
       required:
       - note
       - url
-  mugshot:
-    description: >
-      A link to the MP's head shot on Parliament. Use the highest resolution
-      available.
+  image:
+    description: A link to a preferred image of the MP.
     type:
     - string
     - 'null'
     format: uri
+  images:
+    description: All images of the MP available on Parliament.
+    type:
+    - array
+    - 'null'
+    items:
+      type:
+      - string
+      - 'null'
+      format: uri
 required:
 - name
 - tenures

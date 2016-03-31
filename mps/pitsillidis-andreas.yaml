@@ -3,18 +3,24 @@ _sources:
 birth_date: '1977-06-09'
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q11685756
+- identifier: Q11685756
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/PITSILLIDES Andreas.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/PITSILLIDES Andreas.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/913
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/PITSILLIDES%20Andreas.jpg
 name:
   el: Πιτσιλλίδης Ανδρέας
   en: Pitsillidis Andreas
   tr: Pitsillídis Andréas
+other_names:
+- name: Pitsillides Andreas
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - electoral_district:
     el: Λευκωσία

@@ -5,14 +5,17 @@ dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/r_vavronikola.pd
 email: rmavronikola@parliament.cy
 gender: female
 identifiers:
-  http://www.wikidata.org/entity/: Q12884190
+- identifier: Q12884190
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/MAVRONIKOLA Roula.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/MAVRONIKOLA Roula.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/392
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/MAVRONIKOLA%20Roula.jpg
 name:
   el: Μαυρονικόλα Ρούλα
   en: Mavronikola Roula

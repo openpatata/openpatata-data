@@ -5,14 +5,17 @@ dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_kyriakidou_DIK
 email: akyriakidou@parliament.cy
 gender: female
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/KYRIAKIDOU Athina.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/KYRIAKIDOU Athina.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/373
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/KYRIAKIDOU%20Athina.jpg
 name:
   el: Κυριακίδου Αθηνά
   en: Kyriakidou Athina
@@ -20,6 +23,8 @@ name:
 other_names:
 - name: Kyriakidou Athina
   note: Official spelling in the 'en' locale; possibly anglicised
+- name: Kyriakidou Athina
+  note: Official spelling in the 'el' locale; possibly anglicised
 tenures:
 - electoral_district:
     el: Λεμεσός

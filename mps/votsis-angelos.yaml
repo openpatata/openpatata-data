@@ -5,7 +5,11 @@ dofi: null
 email: avotsis@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/VOTSIS Aggelos.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/VOTSIS Aggelos.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -17,7 +21,6 @@ links:
     en: twitter
     tr: twitter
   url: https://twitter.com/AngelosEmVotsis
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/VOTSIS%20Aggelos.jpg
 name:
   el: Βότσης Άγγελος
   en: Votsis Angelos

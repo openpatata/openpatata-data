@@ -5,7 +5,11 @@ dofi: null
 email: skyriakidou@parliament.cy
 gender: female
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/KYRIAKIDOU Stella.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/KYRIAKIDOU Stella.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -17,7 +21,6 @@ links:
     en: Personal website
     tr: null
   url: http://www.stellakyriakides.com/
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/KYRIAKIDOU%20Stella.jpg
 name:
   el: Κυριακίδου Στέλλα
   en: Kyriakidou Stella

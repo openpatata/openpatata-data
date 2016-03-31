@@ -5,14 +5,21 @@ dofi: null
 email: mgaroyan@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q2634360
+- identifier: Q2634360
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/GAROYIAN Marios.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/Marios Garoyian.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/GAROYIAN Marios.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/GAR_BAR_CHR-25-06-09.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/GAR_Limassol June 2010.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/GAROYIAN-PAPOULIAS.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/365
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/GAROYIAN%20Marios.jpg
 name:
   el: Καρογιάν Μάριος
   en: Karogian Marios

@@ -5,7 +5,11 @@ dofi: null
 email: adamianou@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q12872352
+- identifier: Q12872352
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/Damianou Aristos a.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/Damianou Aristos a.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -17,7 +21,6 @@ links:
     en: twitter
     tr: twitter
   url: https://twitter.com/AristosDamianou
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/Damianou%20Aristos%20a.jpg
 name:
   el: Δαμιανού Άριστος
   en: Damianou Aristos

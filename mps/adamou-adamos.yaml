@@ -6,14 +6,17 @@ dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_adamou_AKEL.pd
 email: aadamou@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q351655
+- identifier: Q351655
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/Adamou Adamos a.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/Adamou Adamos a.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/305
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/Adamou%20Adamos%20a.jpg
 name:
   el: Αδάμου Αδάμος
   en: Adamou Adamos

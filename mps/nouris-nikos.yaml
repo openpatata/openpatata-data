@@ -5,7 +5,11 @@ dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/n_nouris_DISI.pd
 email: nnouris@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/NOURIS Nikos.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/NOURIS Nikos.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -17,7 +21,6 @@ links:
     en: Personal website
     tr: null
   url: http://www.nicosnouris.com/
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/NOURIS%20Nikos.jpg
 name:
   el: Νουρής Νίκος
   en: Nouris Nikos

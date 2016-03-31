@@ -5,14 +5,17 @@ dofi: null
 email: cconstantinou@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/KONSTANTINOU Kostas.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/KONSTANTINOU Kostas.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/386
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/KONSTANTINOU%20Kostas.jpg
 name:
   el: Κωνσταντίνου Κώστας
   en: Konstantinou Kostas
@@ -20,6 +23,8 @@ name:
 other_names:
 - name: Constantinou Costas
   note: Official spelling in the 'en' locale; possibly anglicised
+- name: Constantinou Costas
+  note: Official spelling in the 'el' locale; possibly anglicised
 tenures:
 - electoral_district:
     el: Πάφος

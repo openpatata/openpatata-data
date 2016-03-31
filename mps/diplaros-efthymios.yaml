@@ -5,7 +5,11 @@ dofi: null
 email: ediplaros@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/DIPLAROS Efthymios.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/DIPLAROS Efthymios.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -22,7 +26,6 @@ links:
     en: twitter
     tr: twitter
   url: https://twitter.com/ediplaros
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/DIPLAROS%20Efthymios.jpg
 name:
   el: Δίπλαρος Ευθύμιος
   en: Diplaros Efthymios

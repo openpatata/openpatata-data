@@ -5,7 +5,11 @@ dofi: null
 email: pprodromou@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/PRODROMOU Prodromos.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/PRODROMOU Prodromos.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -22,7 +26,6 @@ links:
     en: twitter
     tr: twitter
   url: https://twitter.com/pprodromou
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/PRODROMOU%20Prodromos.jpg
 name:
   el: Προδρόμου Πρόδρομος
   en: Prodromou Prodromos
@@ -30,6 +33,8 @@ name:
 other_names:
 - name: Prodromou Prodromos
   note: Official spelling in the 'en' locale; possibly anglicised
+- name: Prodromou Prodromos
+  note: Official spelling in the 'el' locale; possibly anglicised
 tenures:
 - electoral_district:
     el: Λευκωσία

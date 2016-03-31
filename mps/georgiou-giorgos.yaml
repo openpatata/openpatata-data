@@ -5,14 +5,17 @@ dofi: null
 email: gegeorgiou@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q16329183
+- identifier: Q16329183
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/Georgiou Giwrgos a.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/Georgiou Giwrgos a.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/313
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/Georgiou%20Giwrgos%20a.jpg
 name:
   el: Γεωργίου Γιώργος
   en: Georgiou Giorgos

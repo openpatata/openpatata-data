@@ -5,7 +5,11 @@ dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_neophytou_DISI
 email: aneofytou@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q15951474
+- identifier: Q15951474
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/NEOFYTOU Averof.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/NEOFYTOU Averof.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -26,7 +30,6 @@ links:
     en: twitter
     tr: twitter
   url: https://twitter.com/AverofCY
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/NEOFYTOU%20Averof.jpg
 name:
   el: Νεοφύτου Αβέρωφ
   en: Neofytou Averof
@@ -34,6 +37,8 @@ name:
 other_names:
 - name: Neofytou Averof
   note: Official spelling in the 'en' locale; possibly anglicised
+- name: Neofytou Averof
+  note: Official spelling in the 'el' locale; possibly anglicised
 tenures:
 - electoral_district:
     el: Λευκωσία

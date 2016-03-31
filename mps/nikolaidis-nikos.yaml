@@ -5,7 +5,11 @@ dofi: null
 email: nnikolaides@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q12912924
+- identifier: Q12912924
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/Nikos_Nikolaides.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/Nikos_Nikolaides.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -17,7 +21,6 @@ links:
     en: Personal website
     tr: null
   url: http://nnicolaides.com.cy/
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/Nikos_Nikolaides.jpg
 name:
   el: Νικολαΐδης Νίκος
   en: Nikolaidis Nikos

@@ -3,18 +3,26 @@ _sources:
 birth_date: '1946-09-27'
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q2112764
+- identifier: Q2112764
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/Anastasiades Nikos.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/Anastasiades Nikos.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/ANASTASIADES Nicos.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/ANASTASIADES Nikos0001.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/909
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/Anastasiades%20Nikos.jpg
 name:
   el: Αναστασιάδης Νίκος
   en: Anastasiadis Nikos
   tr: Anastasiádis Níkos
+other_names:
+- name: Anastasiades Nicos
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - electoral_district:
     el: Λεμεσός

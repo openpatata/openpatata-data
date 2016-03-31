@@ -5,14 +5,17 @@ dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/G_Varnavas.pdf
 email: gvarnavas@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/VARNAVAS George.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/VARNAVAS George.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/308
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/VARNAVAS%20George.jpg
 name:
   el: Βαρνάβα Γιώργος
   en: Varnava Giorgos

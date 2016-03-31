@@ -5,14 +5,17 @@ dofi: null
 email: ssampson@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/SAMPSON Sotiris.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/SAMPSON Sotiris.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/410
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/SAMPSON%20Sotiris.jpg
 name:
   el: Σαμψών Σωτήρης
   en: Sampson Sotiris

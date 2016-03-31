@@ -5,14 +5,18 @@ dofi: null
 email: dsyllouris@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q12875947
+- identifier: Q12875947
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/SYLLOURIS Demetris.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/SYLLOURIS Demetris.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/Demetris Syllouris.JPG
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/414
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/SYLLOURIS%20Demetris.jpg
 name:
   el: Συλλούρης Δημήτρης
   en: Syllouris Dimitris

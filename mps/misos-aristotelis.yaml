@@ -5,14 +5,17 @@ dofi: null
 email: amisos@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/MISOS Aristotelis.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/MISOS Aristotelis.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/397
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/MISOS%20Aristotelis.jpg
 name:
   el: Μισός Αριστοτέλης
   en: Misos Aristotelis
@@ -20,6 +23,8 @@ name:
 other_names:
 - name: Misos Aristotelis
   note: Official spelling in the 'en' locale; possibly anglicised
+- name: Misos Aristotelis
+  note: Official spelling in the 'el' locale; possibly anglicised
 tenures:
 - electoral_district:
     el: Λάρνακα

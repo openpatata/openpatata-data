@@ -3,18 +3,24 @@ _sources:
 birth_date: '1958-06-26'
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/STYLIANIDES Christos.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/STYLIANIDES Christos.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/914
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/STYLIANIDES%20Christos.jpg
 name:
   el: Στυλιανίδης Χρήστος
   en: Stylianidis Christos
   tr: Stilianídis Hrístos
+other_names:
+- name: Stylianides Christos
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - electoral_district:
     el: Λευκωσία

@@ -2,7 +2,9 @@ _sources: []
 birth_date: null
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: null
 links: []
 name:
   el: Αγγελίδης Ανδρέας

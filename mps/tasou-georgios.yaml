@@ -5,14 +5,17 @@ dofi: null
 email: gtasou@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/TASOU Georgios.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/TASOU Georgios.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/415
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/TASOU%20Georgios.jpg
 name:
   el: Τάσου Γεώργιος
   en: Tasou Georgios

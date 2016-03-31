@@ -5,7 +5,11 @@ dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/g_georgiou_DISI.
 email: ggeorgiou@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/GEORGIOU Georgios.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/GEORGIOU Georgios.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -17,7 +21,6 @@ links:
     en: twitter
     tr: twitter
   url: https://twitter.com/GeorgeKGeorgiou
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/GEORGIOU%20Georgios.jpg
 name:
   el: Γεωργίου Γεώργιος
   en: Georgiou Georgios

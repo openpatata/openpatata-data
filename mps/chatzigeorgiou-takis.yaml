@@ -3,7 +3,9 @@ _sources:
 birth_date: '1956-12-11'
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q545492
+- identifier: Q545492
+  scheme: http://www.wikidata.org/entity/
+image: null
 links:
 - note:
     el: Facebook

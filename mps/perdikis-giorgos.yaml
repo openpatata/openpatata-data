@@ -5,7 +5,11 @@ dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/g_perdikis_KEP.p
 email: gperdikes@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q5543328
+- identifier: Q5543328
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/PERDIKES George.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/PERDIKES George.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -17,7 +21,6 @@ links:
     en: Blog
     tr: Blog
   url: http://georgeperdikis.blogspot.com/
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/PERDIKES%20George.jpg
 name:
   el: Περδίκης Γιώργος
   en: Perdikis Giorgos
@@ -25,6 +28,8 @@ name:
 other_names:
 - name: Perdikis Giorgos
   note: Official spelling in the 'en' locale; possibly anglicised
+- name: Perdikis Giorgos
+  note: Official spelling in the 'el' locale; possibly anglicised
 tenures:
 - electoral_district:
     el: Λευκωσία

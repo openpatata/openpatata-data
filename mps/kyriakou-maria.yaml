@@ -5,14 +5,17 @@ dofi: null
 email: mkyriakou@parliament.cy
 gender: female
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/KYRIAKOU MARIA.JPG
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/KYRIAKOU MARIA.JPG
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/396
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/KYRIAKOU%20MARIA.JPG
 name:
   el: Κυριακού Μαρία
   en: Kyriakou Maria
@@ -20,6 +23,8 @@ name:
 other_names:
 - name: Kyriakou Maria
   note: Official spelling in the 'en' locale; possibly anglicised
+- name: Kyriacou Maria
+  note: Official spelling in the 'el' locale; possibly anglicised
 tenures:
 - electoral_district:
     el: Λευκωσία

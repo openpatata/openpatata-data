@@ -5,7 +5,14 @@ dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/G_Omirou.pdf
 email: yomirou@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q8053482
+- identifier: Q8053482
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/Yiannakis Omirou.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/Yiannakis Omirou.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/omirou_strasbourg_6-2-2013.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/2013-02-11 09.15.32.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/EgkatProedr28Febr2013.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -17,7 +24,6 @@ links:
     en: Personal website
     tr: null
   url: http://www.giannakisomirou.com/
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/Yiannakis%20Omirou.jpg
 name:
   el: Ομήρου Γιαννάκης
   en: Omirou Giannakis

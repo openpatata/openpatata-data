@@ -5,7 +5,11 @@ dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_antoniou_DIKO.
 email: aantoniou@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q12873774
+- identifier: Q12873774
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/ANTONIOU ANTONIS.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/ANTONIOU ANTONIS.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -17,7 +21,6 @@ links:
     en: Blog
     tr: Blog
   url: http://antoniouantonis.blogspot.com/
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/ANTONIOU%20ANTONIS.jpg
 name:
   el: Αντωνίου Αντώνης
   en: Antoniou Antonis

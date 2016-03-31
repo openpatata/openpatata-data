@@ -5,7 +5,11 @@ dofi: null
 email: khadjiyianni@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/HADJIGIANNIS Kiriakos.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/HADJIGIANNIS Kiriakos.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -17,7 +21,6 @@ links:
     en: Personal website
     tr: null
   url: http://hadjiyiannis.net/
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/HADJIGIANNIS%20Kiriakos.jpg
 name:
   el: Χατζηγιάννης Κυριάκος
   en: Chatzigiannis Kyriakos

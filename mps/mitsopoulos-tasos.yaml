@@ -3,18 +3,24 @@ _sources:
 birth_date: '1965-05-30'
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/MITSOPOULOS Tasos.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/MITSOPOULOS Tasos.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/911
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/MITSOPOULOS%20Tasos.jpg
 name:
   el: Μητσόπουλος Τάσος
   en: Mitsopoulos Tasos
   tr: Mitsópulos Tásos
+other_names:
+- name: Mitsopoulos Tasos
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - electoral_district:
     el: Λάρνακα

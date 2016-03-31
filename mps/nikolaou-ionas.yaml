@@ -3,18 +3,24 @@ _sources:
 birth_date: '1963-01-21'
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/NIKOLAOU Ionas.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/NIKOLAOU Ionas.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/912
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/NIKOLAOU%20Ionas.jpg
 name:
   el: Νικολάου Ιωνάς
   en: Nikolaou Ionas
   tr: Nikoláu İonás
+other_names:
+- name: Nicolaou Ionas
+  note: Official spelling in the 'el' locale; possibly anglicised
 tenures:
 - electoral_district:
     el: Λευκωσία

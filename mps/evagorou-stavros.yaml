@@ -5,14 +5,17 @@ dofi: null
 email: sevagorou@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q15950881
+- identifier: Q15950881
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/Evagorou Stavros a.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/Evagorou Stavros a.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/363
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/Evagorou%20Stavros%20a.jpg
 name:
   el: Ευαγόρου Σταύρος
   en: Evagorou Stavros

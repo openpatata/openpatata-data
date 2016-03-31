@@ -5,14 +5,18 @@ dofi: null
 email: zkoulias@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/KOULIAS ZACHARIAS.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/KOULIAS ZACHARIAS.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/KOULIAS ZACHARIAS office.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/369
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/KOULIAS%20ZACHARIAS.jpg
 name:
   el: Κουλίας Ζαχαρίας
   en: Koulias Zacharias
@@ -20,6 +24,8 @@ name:
 other_names:
 - name: Koulias Zacharias
   note: Official spelling in the 'en' locale; possibly anglicised
+- name: Koulias Zacharias
+  note: Official spelling in the 'el' locale; possibly anglicised
 tenures:
 - electoral_district:
     el: Αμμόχωστος

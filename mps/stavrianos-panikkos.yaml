@@ -5,14 +5,17 @@ dofi: null
 email: pstavrianos@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q12882663
+- identifier: Q12882663
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/Stavrianos Panikkos a.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/Stavrianos Panikkos a.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/412
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/Stavrianos%20Panikkos%20a.jpg
 name:
   el: Σταυριανός Πανίκκος
   en: Stavrianos Panikkos

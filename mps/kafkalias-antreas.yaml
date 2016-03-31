@@ -5,14 +5,17 @@ dofi: null
 email: akafkalias@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q12873768
+- identifier: Q12873768
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/Kafkalias Andros a.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/Kafkalias Andros a.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/367
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/Kafkalias%20Andros%20a.jpg
 name:
   el: Καυκαλιάς Αντρέας
   en: Kafkalias Antreas

@@ -3,7 +3,9 @@ _sources:
 birth_date: '1953-06-24'
 gender: female
 identifiers:
-  http://www.wikidata.org/entity/: Q468077
+- identifier: Q468077
+  scheme: http://www.wikidata.org/entity/
+image: null
 links:
 - note:
     el: Προσωπική ιστοσελίδα

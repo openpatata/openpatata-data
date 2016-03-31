@@ -5,14 +5,17 @@ dofi: null
 email: cmessis@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q16332700
+- identifier: Q16332700
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/Mesis Christos a.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/Mesis Christos a.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/393
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/Mesis%20Christos%20a.jpg
 name:
   el: Μέσης Χρίστος
   en: Mesis Christos
@@ -20,6 +23,8 @@ name:
 other_names:
 - name: Messis Christos
   note: Official spelling in the 'en' locale; possibly anglicised
+- name: Messis Christos
+  note: Official spelling in the 'el' locale; possibly anglicised
 tenures:
 - electoral_district:
     el: Λεμεσός

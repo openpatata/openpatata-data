@@ -5,20 +5,23 @@ dofi: null
 email: amappourides@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/MAPPOURIDES Rikkos.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/MAPPOURIDES Rikkos.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/399
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/MAPPOURIDES%20Rikkos.jpg
 name:
   el: Μαππουρίδης Ρίκκος
   en: Mappouridis Rikkos
   tr: Mappurídis Ríkkos
 other_names:
-- name: Mappourides Andreas
+- name: Mappourides Rikkos
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - electoral_district:

@@ -16,13 +16,25 @@
 
     See [`foaf:gender`](http://xmlns.com/foaf/spec/#term_gender).
 
-* **identifiers** (`object|null`)
+* **identifiers** (`array [object]|null`)
 
     A mapping of issued identifiers.
 
-    * **http://www.wikidata.org/entity/** (`string|null`)
+    * **identifier** (`string|null`)
 
-        A Wikidata item ID.
+    * [required] **scheme** (`string`)
+
+        One of:
+
+        * http://www.wikidata.org/entity/
+
+* **image** (`string|null`)
+
+    A link to a preferred image of the MP.
+
+* **images** (`array [string|null]|null`)
+
+    All images of the MP available on Parliament.
 
 * **links** (`array [object]|null`)
 
@@ -45,10 +57,6 @@
     * [required] **url** (`string`)
 
         The link itself.
-
-* **mugshot** (`string|null`)
-
-    A link to the MP's head shot on Parliament. Use the highest resolution available.
 
 * [required] **name** (`object`)
 

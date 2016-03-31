@@ -5,7 +5,11 @@ dofi: null
 email: npapadopoulos@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q3161181
+- identifier: Q3161181
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/PAPADOPOULOS Nikolas.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/PAPADOPOULOS Nikolas.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -22,7 +26,6 @@ links:
     en: twitter
     tr: twitter
   url: https://twitter.com/NicholasPapadop
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/PAPADOPOULOS%20Nikolas.jpg
 name:
   el: Παπαδόπουλος Νικόλας
   en: Papadopoulos Nikolas
@@ -30,6 +33,8 @@ name:
 other_names:
 - name: Papadopoulos Nicholas
   note: Official spelling in the 'en' locale; possibly anglicised
+- name: Papadopoulos Nicholas
+  note: Official spelling in the 'el' locale; possibly anglicised
 tenures:
 - electoral_district:
     el: Λευκωσία

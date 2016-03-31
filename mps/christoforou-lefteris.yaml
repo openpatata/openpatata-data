@@ -6,7 +6,11 @@ dofi: null
 email: lchristoforou@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q16571128
+- identifier: Q16571128
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/CHRISTOFOROU Lefteris.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/CHRISTOFOROU Lefteris.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -23,7 +27,6 @@ links:
     en: twitter
     tr: twitter
   url: https://twitter.com/LefChristoforou
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/CHRISTOFOROU%20Lefteris.jpg
 name:
   el: Χριστοφόρου Λευτέρης
   en: Christoforou Lefteris

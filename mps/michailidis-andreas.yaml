@@ -5,14 +5,17 @@ dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/A_Michaelides_DI
 email: amichaelides@parliament.cy
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: Q4755548
+- identifier: Q4755548
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/MICHAELIDES Antreas.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/MICHAELIDES Antreas.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/401
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/MICHAELIDES%20Antreas.jpg
 name:
   el: Μιχαηλίδης Ανδρέας
   en: Michailidis Andreas

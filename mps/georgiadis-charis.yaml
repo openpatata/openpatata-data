@@ -3,18 +3,24 @@ _sources:
 birth_date: '1972-04-09'
 gender: male
 identifiers:
-  http://www.wikidata.org/entity/: null
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/GEORGIADES Harris.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/GEORGIADES Harris.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/910
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/GEORGIADES%20Harris.jpg
 name:
   el: Γεωργιάδης Χάρης
   en: Georgiadis Charis
   tr: Yeoryiádis Háris
+other_names:
+- name: Georgiades Haris
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - electoral_district:
     el: Λευκωσία

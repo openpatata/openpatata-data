@@ -5,14 +5,17 @@ dofi: null
 email: icharalambides@parliament.cy
 gender: female
 identifiers:
-  http://www.wikidata.org/entity/: Q12876791
+- identifier: Q12876791
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/Charalambidou Eirini a.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/Charalambidou Eirini a.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/420
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/Charalambidou%20Eirini%20a.jpg
 name:
   el: Χαραλαμπίδου Ειρήνη
   en: Charalampidou Eirini

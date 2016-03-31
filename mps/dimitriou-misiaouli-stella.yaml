@@ -5,14 +5,18 @@ dofi: null
 email: smisiaouli@parliament.cy
 gender: female
 identifiers:
-  http://www.wikidata.org/entity/: Q16329024
+- identifier: Q16329024
+  scheme: http://www.wikidata.org/entity/
+image: http://www.parliament.cy/assets/image/imageoriginal/Dimitriou-Misiaouli Stella
+  a.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/Dimitriou-Misiaouli Stella a.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
     en: Page on Parliament
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/361
-mugshot: http://www.parliament.cy/assets/image/imageoriginal/Dimitriou-Misiaouli%20Stella%20a.jpg
 name:
   el: Δημητρίου Μισιαούλη Στέλλα
   en: Dimitriou Misiaouli Stella
