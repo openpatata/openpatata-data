@@ -1,3 +1,4 @@
+_id: 2013-05-30_Ι_Β_34
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/523
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-05-30.pdf
@@ -69,6 +70,6 @@ links:
   url: http://www.parliament.cy/easyconsole.cfm/id/523
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-05-30.pdf
-parliamentary_period: Ι
+parliamentary_period_id: Ι
 session: Β
 sitting: 34

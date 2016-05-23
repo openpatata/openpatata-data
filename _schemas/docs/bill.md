@@ -1,3 +1,5 @@
+* **_id** (`string`)
+
 * **actions** (`array [object]`)
 
     A list of actions parliament has taken on this bill, in chronological order.  An action must be one of the following predefined types.

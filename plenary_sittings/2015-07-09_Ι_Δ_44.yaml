@@ -1,3 +1,4 @@
+_id: 2015-07-09_Ι_Δ_44
 _sources:
 - http://www.parliament.cy/images/media/redirectfile/44-0907015 - agenda0001.pdf
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-07-09.pdf
@@ -133,6 +134,6 @@ links:
   url: http://www.parliament.cy/images/media/redirectfile/44-0907015 - agenda0001.pdf
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-07-09.pdf
-parliamentary_period: Ι
+parliamentary_period_id: Ι
 session: Δ
 sitting: 44

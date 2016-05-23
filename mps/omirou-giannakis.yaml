@@ -1,3 +1,4 @@
+_id: omirou-giannakis
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/187
 birth_date: '1951-09-18'
@@ -32,24 +33,15 @@ other_names:
 - name: Omirou Yiannakis
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- electoral_district:
-    el: Πάφος
-    en: Pafos
-    tr: Baf
+- electoral_district_id: pafos
   end_date: '2006-05-31'
-  parliamentary_group_id: kisos
+  party_id: kisos
   start_date: '2001-06-07'
-- electoral_district:
-    el: Λευκωσία
-    en: Lefkosia
-    tr: Lefkoşa
+- electoral_district_id: lefkosia
   end_date: '2011-06-01'
-  parliamentary_group_id: edek
+  party_id: edek
   start_date: '2006-06-01'
-- electoral_district:
-    el: Λευκωσία
-    en: Lefkosia
-    tr: Lefkoşa
+- electoral_district_id: lefkosia
   end_date: '2016-04-14'
-  parliamentary_group_id: edek
+  party_id: edek
   start_date: '2011-06-02'

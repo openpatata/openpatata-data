@@ -1,3 +1,4 @@
+_id: 2015-03-12_Ι_Δ_26
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1364
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-03-12.pdf
@@ -162,6 +163,6 @@ links:
   url: http://www.parliament.cy/easyconsole.cfm/id/1364
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-03-12.pdf
-parliamentary_period: Ι
+parliamentary_period_id: Ι
 session: Δ
 sitting: 26

@@ -1,0 +1,16 @@
+$schema: 'http://json-schema.org/schema#'
+type: object
+properties:
+  _id:
+    type: string
+  start_date:
+    description: The start date in the ISO format (YYYY-MM-DD).
+    type: string
+    format: date
+  end_date:
+    description: The end date in the ISO format (YYYY-MM-DD).
+    type:
+    - string
+    - 'null'
+required:
+- start_date

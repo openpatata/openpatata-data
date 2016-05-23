@@ -1,3 +1,4 @@
+_id: 2011-11-03_Ι_Α_8
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2011-11-03.doc
 agenda:
@@ -56,6 +57,6 @@ date: '2011-11-03'
 links:
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2011-11-03.doc
-parliamentary_period: Ι
+parliamentary_period_id: Ι
 session: Α
 sitting: 8

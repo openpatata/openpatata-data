@@ -1,3 +1,4 @@
+_id: dimitriou-misiaouli-stella
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/361
 birth_date: '1954-10-18'
@@ -27,24 +28,15 @@ other_names:
 - name: Demetriou Misiaouli Stella
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- electoral_district:
-    el: Λευκωσία
-    en: Lefkosia
-    tr: Lefkoşa
+- electoral_district_id: lefkosia
   end_date: '2006-05-31'
-  parliamentary_group_id: akel-nd
+  party_id: akel-nd
   start_date: '2004-07-20'
-- electoral_district:
-    el: Λευκωσία
-    en: Lefkosia
-    tr: Lefkoşa
+- electoral_district_id: lefkosia
   end_date: '2011-06-01'
-  parliamentary_group_id: akel-nd
+  party_id: akel-nd
   start_date: '2008-03-06'
-- electoral_district:
-    el: Λευκωσία
-    en: Lefkosia
-    tr: Lefkoşa
+- electoral_district_id: lefkosia
   end_date: '2016-04-14'
-  parliamentary_group_id: akel-nd
+  party_id: akel-nd
   start_date: '2011-06-02'

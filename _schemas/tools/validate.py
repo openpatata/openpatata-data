@@ -22,9 +22,10 @@ def _parse_errors(validator, item):
                 for error in validator.iter_errors(yaml.load(file)))
 
 
-def main(folder):
-    with Path('_schemas', '{}.yaml'.format(folder.rstrip('s/'))).open() \
-            as file:
+def main(folder, schema):
+    if not schema:
+        schema = ('_schemas', '{}.yaml'.format(folder.rstrip('s/')))
+    with Path(*schema).open() as file:
         validator = Validator(yaml.load(file),
                               format_checker=FormatChecker(('date', 'email')))
 
@@ -41,4 +42,4 @@ def main(folder):
             return 1
 
 if __name__ == '__main__':
-    sys.exit(main(sys.argv[1]))
+    sys.exit(main(sys.argv[1], sys.argv[2:]))

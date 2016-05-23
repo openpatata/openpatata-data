@@ -1,3 +1,4 @@
+_id: neofytou-averof
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/402
 birth_date: '1961-07-31'
@@ -40,17 +41,11 @@ other_names:
 - name: Neofytou Averof
   note: Official spelling in the 'el' locale; possibly anglicised
 tenures:
-- electoral_district:
-    el: Λευκωσία
-    en: Lefkosia
-    tr: Lefkoşa
+- electoral_district_id: lefkosia
   end_date: '2011-06-01'
-  parliamentary_group_id: disy
+  party_id: disy
   start_date: '2006-06-01'
-- electoral_district:
-    el: Λευκωσία
-    en: Lefkosia
-    tr: Lefkoşa
+- electoral_district_id: lefkosia
   end_date: '2016-04-14'
-  parliamentary_group_id: disy
+  party_id: disy
   start_date: '2011-06-02'

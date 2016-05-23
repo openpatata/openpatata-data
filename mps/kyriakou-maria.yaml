@@ -1,3 +1,4 @@
+_id: kyriakou-maria
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/396
 birth_date: '1950-09-26'
@@ -26,24 +27,15 @@ other_names:
 - name: Kyriacou Maria
   note: Official spelling in the 'el' locale; possibly anglicised
 tenures:
-- electoral_district:
-    el: Λευκωσία
-    en: Lefkosia
-    tr: Lefkoşa
+- electoral_district_id: lefkosia
   end_date: '2006-05-31'
-  parliamentary_group_id: disy
+  party_id: disy
   start_date: '2001-06-07'
-- electoral_district:
-    el: Λευκωσία
-    en: Lefkosia
-    tr: Lefkoşa
+- electoral_district_id: lefkosia
   end_date: '2011-06-01'
-  parliamentary_group_id: disy
+  party_id: disy
   start_date: '2006-06-01'
-- electoral_district:
-    el: Λευκωσία
-    en: Lefkosia
-    tr: Lefkoşa
+- electoral_district_id: lefkosia
   end_date: '2016-04-14'
-  parliamentary_group_id: disy
+  party_id: disy
   start_date: '2013-03-07'

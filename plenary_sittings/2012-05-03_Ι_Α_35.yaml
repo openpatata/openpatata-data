@@ -1,3 +1,4 @@
+_id: 2012-05-03_Ι_Α_35
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-05-03.doc
 agenda:
@@ -72,6 +73,6 @@ date: '2012-05-03'
 links:
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-05-03.doc
-parliamentary_period: Ι
+parliamentary_period_id: Ι
 session: Α
 sitting: 35

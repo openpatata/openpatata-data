@@ -1,3 +1,5 @@
+* **_id** (`string`)
+
 * [required] **_sources** (`array [string]`)
 
 * [required] **date_circulated** (`string`)

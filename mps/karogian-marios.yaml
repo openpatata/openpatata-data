@@ -1,3 +1,4 @@
+_id: karogian-marios
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/365
 birth_date: '1961-05-31'
@@ -28,17 +29,11 @@ other_names:
 - name: Garoyian Marios
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- electoral_district:
-    el: Λευκωσία
-    en: Lefkosia
-    tr: Lefkoşa
+- electoral_district_id: lefkosia
   end_date: '2011-06-01'
-  parliamentary_group_id: diko
+  party_id: diko
   start_date: '2006-06-01'
-- electoral_district:
-    el: Λευκωσία
-    en: Lefkosia
-    tr: Lefkoşa
+- electoral_district_id: lefkosia
   end_date: '2016-04-14'
-  parliamentary_group_id: diko
+  party_id: diko
   start_date: '2011-06-02'

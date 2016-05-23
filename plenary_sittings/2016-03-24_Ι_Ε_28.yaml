@@ -1,3 +1,4 @@
+_id: 2016-03-24_Ι_Ε_28
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1936
 agenda:
@@ -27,6 +28,6 @@ date: '2016-03-24'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/1936
-parliamentary_period: Ι
+parliamentary_period_id: Ι
 session: Ε
 sitting: 28

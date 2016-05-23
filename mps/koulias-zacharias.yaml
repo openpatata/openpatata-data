@@ -1,3 +1,4 @@
+_id: koulias-zacharias
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/369
 birth_date: '1950-12-07'
@@ -27,31 +28,19 @@ other_names:
 - name: Koulias Zacharias
   note: Official spelling in the 'el' locale; possibly anglicised
 tenures:
-- electoral_district:
-    el: Αμμόχωστος
-    en: Ammochostos
-    tr: Mağusa
+- electoral_district_id: ammochostos
   end_date: '2006-05-31'
-  parliamentary_group_id: diko
+  party_id: diko
   start_date: '2001-06-07'
-- electoral_district:
-    el: Αμμόχωστος
-    en: Ammochostos
-    tr: Mağusa
+- electoral_district_id: ammochostos
   end_date: '2011-06-01'
-  parliamentary_group_id: diko
+  party_id: diko
   start_date: '2006-06-01'
-- electoral_district:
-    el: Αμμόχωστος
-    en: Ammochostos
-    tr: Mağusa
+- electoral_district_id: ammochostos
   end_date: '2011-06-03'
-  parliamentary_group_id: diko
+  party_id: diko
   start_date: '2011-06-02'
-- electoral_district:
-    el: Αμμόχωστος
-    en: Ammochostos
-    tr: Mağusa
+- electoral_district_id: ammochostos
   end_date: '2016-04-14'
-  parliamentary_group_id: null
+  party_id: null
   start_date: '2011-06-03'

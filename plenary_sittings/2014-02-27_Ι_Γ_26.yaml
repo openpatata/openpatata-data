@@ -1,3 +1,4 @@
+_id: 2014-02-27_Ι_Γ_26
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/862
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-02-27.pdf
@@ -94,6 +95,6 @@ links:
   url: http://www.parliament.cy/easyconsole.cfm/id/862
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-02-27.pdf
-parliamentary_period: Ι
+parliamentary_period_id: Ι
 session: Γ
 sitting: 26

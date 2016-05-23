@@ -1,3 +1,4 @@
+_id: adamou-adamos
 _sources:
 - http://www.europarl.europa.eu/meps/en/28469/ADAMOS_ADAMOU_home.html
 - http://www.parliament.cy/easyconsole.cfm/id/305
@@ -25,17 +26,11 @@ other_names:
 - name: Adamou Adamos
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- electoral_district:
-    el: Λευκωσία
-    en: Lefkosia
-    tr: Lefkoşa
+- electoral_district_id: lefkosia
   end_date: '2004-07-19'
-  parliamentary_group_id: akel-nd
+  party_id: akel-nd
   start_date: '2003-03-06'
-- electoral_district:
-    el: Λεμεσός
-    en: Lemesos
-    tr: Limasol
+- electoral_district_id: lemesos
   end_date: '2016-04-14'
-  parliamentary_group_id: akel-nd
+  party_id: akel-nd
   start_date: '2011-06-02'

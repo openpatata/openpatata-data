@@ -1,3 +1,4 @@
+_id: mavridis-marios
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/391
 birth_date: '1963-08-05'
@@ -26,10 +27,7 @@ other_names:
 - name: Mavrides Marios
   note: Official spelling in the 'el' locale; possibly anglicised
 tenures:
-- electoral_district:
-    el: Κερύνεια
-    en: Keryneia
-    tr: Girne
+- electoral_district_id: keryneia
   end_date: '2016-04-14'
-  parliamentary_group_id: disy
+  party_id: disy
   start_date: '2011-06-02'

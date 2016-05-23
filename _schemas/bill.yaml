@@ -1,6 +1,8 @@
 $schema: 'http://json-schema.org/schema#'
 type: object
 properties:
+  _id:
+    type: string
   actions:
     description: >
       A list of actions parliament has taken on this bill, in chronological

@@ -1,3 +1,4 @@
+_id: 2016-04-07_Ι_Ε_31
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1956
 agenda:
@@ -56,6 +57,6 @@ date: '2016-04-07'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/1956
-parliamentary_period: Ι
+parliamentary_period_id: Ι
 session: Ε
 sitting: 31

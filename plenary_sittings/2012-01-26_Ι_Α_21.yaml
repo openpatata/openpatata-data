@@ -1,3 +1,4 @@
+_id: 2012-01-26_Ι_Α_21
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-01-26.doc
 agenda:
@@ -55,6 +56,6 @@ date: '2012-01-26'
 links:
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-01-26.doc
-parliamentary_period: Ι
+parliamentary_period_id: Ι
 session: Α
 sitting: 21

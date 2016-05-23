@@ -1,3 +1,4 @@
+_id: 2012-12-18_Ι_Β_16
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2012-12-18.doc
 agenda:
@@ -58,6 +59,6 @@ date: '2012-12-18'
 links:
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2012-12-18.doc
-parliamentary_period: Ι
+parliamentary_period_id: Ι
 session: Β
 sitting: 16

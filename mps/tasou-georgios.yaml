@@ -1,3 +1,4 @@
+_id: tasou-georgios
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/415
 birth_date: '1953-10-01'
@@ -24,24 +25,15 @@ other_names:
 - name: Tasou Georgios
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- electoral_district:
-    el: Λάρνακα
-    en: Larnaka
-    tr: Larnaka
+- electoral_district_id: larnaka
   end_date: '2006-05-31'
-  parliamentary_group_id: disy
+  party_id: disy
   start_date: '2001-06-07'
-- electoral_district:
-    el: Λάρνακα
-    en: Larnaka
-    tr: Larnaka
+- electoral_district_id: larnaka
   end_date: '2011-06-01'
-  parliamentary_group_id: disy
+  party_id: disy
   start_date: '2006-06-01'
-- electoral_district:
-    el: Λάρνακα
-    en: Larnaka
-    tr: Larnaka
+- electoral_district_id: larnaka
   end_date: '2016-04-14'
-  parliamentary_group_id: disy
+  party_id: disy
   start_date: '2011-06-02'

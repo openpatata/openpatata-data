@@ -1,3 +1,4 @@
+_id: fyttis-sofoklis
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/419
 birth_date: '1947-03-31'
@@ -24,24 +25,15 @@ other_names:
 - name: Fittis Sophoclis
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- electoral_district:
-    el: Κερύνεια
-    en: Keryneia
-    tr: Girne
+- electoral_district_id: keryneia
   end_date: '2006-05-31'
-  parliamentary_group_id: diko
+  party_id: diko
   start_date: '2001-06-07'
-- electoral_district:
-    el: Κερύνεια
-    en: Keryneia
-    tr: Girne
+- electoral_district_id: keryneia
   end_date: '2011-06-01'
-  parliamentary_group_id: diko
+  party_id: diko
   start_date: '2006-06-01'
-- electoral_district:
-    el: Κερύνεια
-    en: Keryneia
-    tr: Girne
+- electoral_district_id: keryneia
   end_date: '2016-04-14'
-  parliamentary_group_id: diko
+  party_id: diko
   start_date: '2011-06-02'

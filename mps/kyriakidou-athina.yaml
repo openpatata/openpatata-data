@@ -1,3 +1,4 @@
+_id: kyriakidou-athina
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/373
 birth_date: null
@@ -26,24 +27,15 @@ other_names:
 - name: Kyriakidou Athina
   note: Official spelling in the 'el' locale; possibly anglicised
 tenures:
-- electoral_district:
-    el: Λεμεσός
-    en: Lemesos
-    tr: Limasol
+- electoral_district_id: lemesos
   end_date: '2006-05-31'
-  parliamentary_group_id: diko
+  party_id: diko
   start_date: '2004-07-20'
-- electoral_district:
-    el: Λεμεσός
-    en: Lemesos
-    tr: Limasol
+- electoral_district_id: lemesos
   end_date: '2011-06-01'
-  parliamentary_group_id: diko
+  party_id: diko
   start_date: '2006-06-01'
-- electoral_district:
-    el: Λεμεσός
-    en: Lemesos
-    tr: Limasol
+- electoral_district_id: lemesos
   end_date: '2016-04-14'
-  parliamentary_group_id: diko
+  party_id: diko
   start_date: '2011-06-02'

@@ -1,3 +1,4 @@
+_id: champoullas-evgenios
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1226
 birth_date: '1969-01-12'
@@ -26,10 +27,7 @@ other_names:
 - name: Χαμπουλάς Ευγένιος
   note: Common misspelling (el-Grek)
 tenures:
-- electoral_district:
-    el: Αμμόχωστος
-    en: Ammochostos
-    tr: Mağusa
+- electoral_district_id: ammochostos
   end_date: '2016-04-14'
-  parliamentary_group_id: disy
+  party_id: disy
   start_date: '2014-11-06'

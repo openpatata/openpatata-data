@@ -1,3 +1,4 @@
+_id: nikolaidis-nikos
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/403
 birth_date: '1953-11-02'
@@ -29,10 +30,7 @@ other_names:
 - name: Nicolaides Nicos
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- electoral_district:
-    el: Λεμεσός
-    en: Lemesos
-    tr: Limasol
+- electoral_district_id: lemesos
   end_date: '2016-04-14'
-  parliamentary_group_id: edek
+  party_id: edek
   start_date: '2011-06-02'

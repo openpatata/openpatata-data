@@ -1,3 +1,4 @@
+_id: pitsillidis-andreas
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/913
 birth_date: '1977-06-09'
@@ -22,10 +23,7 @@ other_names:
 - name: Pitsillides Andreas
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- electoral_district:
-    el: Λευκωσία
-    en: Lefkosia
-    tr: Lefkoşa
+- electoral_district_id: lefkosia
   end_date: '2013-02-28'
-  parliamentary_group_id: disy
+  party_id: disy
   start_date: '2011-06-02'

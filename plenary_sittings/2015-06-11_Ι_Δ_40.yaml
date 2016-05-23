@@ -1,3 +1,4 @@
+_id: 2015-06-11_Ι_Δ_40
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1504
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-06-11.pdf
@@ -87,6 +88,6 @@ links:
   url: http://www.parliament.cy/easyconsole.cfm/id/1504
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-06-11.pdf
-parliamentary_period: Ι
+parliamentary_period_id: Ι
 session: Δ
 sitting: 40

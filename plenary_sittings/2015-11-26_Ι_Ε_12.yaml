@@ -1,3 +1,4 @@
+_id: 2015-11-26_Ι_Ε_12
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1770
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-11-26.pdf
@@ -114,6 +115,6 @@ links:
   url: http://www.parliament.cy/easyconsole.cfm/id/1770
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-11-26.pdf
-parliamentary_period: Ι
+parliamentary_period_id: Ι
 session: Ε
 sitting: 12

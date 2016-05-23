@@ -1,3 +1,4 @@
+_id: 2015-12-10_Ι_Ε_14
 _sources:
 - http://www.parliament.cy/images/media/redirectfile/14-1012015- agenda.pdf
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-12-10.pdf
@@ -197,6 +198,6 @@ links:
   url: http://www.parliament.cy/images/media/redirectfile/14-1012015- agenda.pdf
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-12-10.pdf
-parliamentary_period: Ι
+parliamentary_period_id: Ι
 session: Ε
 sitting: 14

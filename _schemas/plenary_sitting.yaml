@@ -1,6 +1,8 @@
 $schema: 'http://json-schema.org/schema#'
 type: object
 properties:
+  _id:
+    type: string
   _sources:
     type: array
     items:
@@ -70,7 +72,7 @@ properties:
       required:
       - type
       - url
-  parliamentary_period:
+  parliamentary_period_id:
     description: >
       The parliamentary period, as published on the agenda, e.g. 'Ι'.  The
       parliamentary period is the period between elections.
@@ -104,6 +106,6 @@ required:
 - attendees
 - date
 - links
-- parliamentary_period
+- parliamentary_period_id
 - session
 - sitting

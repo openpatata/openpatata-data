@@ -1,3 +1,5 @@
+* **_id** (`string`)
+
 * **_sources** (`array [string]`)
 
 * **birth_date** (`string|null`)
@@ -86,34 +88,22 @@
 
         What sort of name is it?
 
-* [required] **tenures** (`array [object]`)
+* **tenures** (`array [object]`)
 
     The MP's tenures in parliament.
 
-    * [required] **electoral_district** (`object`)
+    * [required] **electoral_district_id** (`string`)
 
         The district served.
-
-        * [required] **el** (`string`)
-
-            The name of the district in Greek.
-
-        * [required] **en** (`string`)
-
-            The name of the district in English, ISO 843-transliterated from Greek.
-
-        * [required] **tr** (`string`)
-
-            The name of the district in Turkish
 
     * [required] **end_date** (`string|null`)
 
         The end date, in ISO format (YYYY-MM-DD).  Leave blank if MP currently in office.
 
-    * [required] **parliamentary_group_id** (`string|null`)
+    * [required] **party_id** (`string|null`)
 
-        The `id` of the parliament group the MP is affiliated to, if any; otherwise leave blank.
+        The `id` of the party the MP is affiliated to, if any; otherwise leave blank.
 
-    * [required] **start_date** (`string`)
+    * [required] **start_date** (`string|null`)
 
         The start date, in ISO format (YYYY-MM-DD).

@@ -1,3 +1,5 @@
+* **_id** (`string`)
+
 * **_sources** (`array [string]`)
 
 * [required] **abbreviation** (`object`)
@@ -12,7 +14,7 @@
 
     * [required] **tr** (`string`)
 
-        Abbreviation in Turkish
+        Abbreviation in Turkish.
 
 * [required] **name** (`object`)
 
@@ -26,4 +28,4 @@
 
     * [required] **tr** (`string`)
 
-        Name in Turkish
+        Name in Turkish.

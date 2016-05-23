@@ -1,3 +1,4 @@
+_id: 2014-10-30_Ι_Δ_6
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1160
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-10-30.pdf
@@ -87,6 +88,6 @@ links:
   url: http://www.parliament.cy/easyconsole.cfm/id/1160
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-10-30.pdf
-parliamentary_period: Ι
+parliamentary_period_id: Ι
 session: Δ
 sitting: 6

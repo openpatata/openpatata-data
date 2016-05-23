@@ -1,3 +1,5 @@
+* **_id** (`string`)
+
 * [required] **_sources** (`array [string]`)
 
 * [required] **agenda** (`object`)
@@ -41,7 +43,7 @@
 
         The link.
 
-* [required] **parliamentary_period** (`string`)
+* [required] **parliamentary_period_id** (`string`)
 
     The parliamentary period, as published on the agenda, e.g. 'Ι'.  The parliamentary period is the period between elections.
 

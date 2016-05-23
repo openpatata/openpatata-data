@@ -1,3 +1,4 @@
+_id: 2015-01-15_Ι_Δ_17
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1270
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-01-15.pdf
@@ -163,6 +164,6 @@ links:
   url: http://www.parliament.cy/easyconsole.cfm/id/1270
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-01-15.pdf
-parliamentary_period: Ι
+parliamentary_period_id: Ι
 session: Δ
 sitting: 17

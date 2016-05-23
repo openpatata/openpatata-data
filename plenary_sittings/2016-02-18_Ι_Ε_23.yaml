@@ -1,3 +1,4 @@
+_id: 2016-02-18_Ι_Ε_23
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1876
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-02-18.pdf
@@ -95,6 +96,6 @@ links:
   url: http://www.parliament.cy/easyconsole.cfm/id/1876
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-02-18.pdf
-parliamentary_period: Ι
+parliamentary_period_id: Ι
 session: Ε
 sitting: 23

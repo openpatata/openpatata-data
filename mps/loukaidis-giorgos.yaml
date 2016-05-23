@@ -1,3 +1,4 @@
+_id: loukaidis-giorgos
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/390
 birth_date: '1968-12-05'
@@ -26,10 +27,7 @@ other_names:
 - name: Loukaides George
   note: Official spelling in the 'el' locale; possibly anglicised
 tenures:
-- electoral_district:
-    el: Λευκωσία
-    en: Lefkosia
-    tr: Lefkoşa
+- electoral_district_id: lefkosia
   end_date: '2016-04-14'
-  parliamentary_group_id: akel-nd
+  party_id: akel-nd
   start_date: '2011-06-02'

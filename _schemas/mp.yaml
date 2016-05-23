@@ -1,6 +1,8 @@
 $schema: 'http://json-schema.org/schema#'
 type: object
 properties:
+  _id:
+    type: string
   _sources:
     type: array
     items:
@@ -91,29 +93,14 @@ properties:
     items:
       type: object
       properties:
-        electoral_district:
+        electoral_district_id:
           description: The district served.
-          type: object
-          properties:
-            el:
-              description: The name of the district in Greek.
-              type: string
-            en:
-              description: >
-                The name of the district in English, ISO 843-transliterated
-                from Greek.
-              type: string
-            tr:
-              description: >
-                The name of the district in Turkish
-              type: string
-          required:
-          - el
-          - en
-          - tr
+          type: string
         start_date:
           description: The start date, in ISO format (YYYY-MM-DD).
-          type: string
+          type:
+          - string
+          - 'null'
           format: date
         end_date:
           description: >
@@ -123,18 +110,18 @@ properties:
           - string
           - 'null'
           format: date
-        parliamentary_group_id:
+        party_id:
           description: >
-            The `id` of the parliament group the MP is affiliated to, if any;
+            The `id` of the party the MP is affiliated to, if any;
             otherwise leave blank.
           type:
           - string
           - 'null'
       required:
-      - electoral_district
+      - electoral_district_id
       - start_date
       - end_date
-      - parliamentary_group_id
+      - party_id
   links:
     description: >
       A list of pertinent links, e.g. to the MP's page on Parliament.  Generally
@@ -187,4 +174,3 @@ properties:
       format: uri
 required:
 - name
-- tenures

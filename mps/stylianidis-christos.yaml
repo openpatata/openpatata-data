@@ -1,3 +1,4 @@
+_id: stylianidis-christos
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/914
 birth_date: '1958-06-26'
@@ -22,17 +23,11 @@ other_names:
 - name: Stylianides Christos
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
-- electoral_district:
-    el: Λευκωσία
-    en: Lefkosia
-    tr: Lefkoşa
+- electoral_district_id: lefkosia
   end_date: '2011-06-01'
-  parliamentary_group_id: disy
+  party_id: disy
   start_date: '2006-06-01'
-- electoral_district:
-    el: Λευκωσία
-    en: Lefkosia
-    tr: Lefkoşa
+- electoral_district_id: lefkosia
   end_date: '2013-02-28'
-  parliamentary_group_id: disy
+  party_id: disy
   start_date: '2011-06-02'
