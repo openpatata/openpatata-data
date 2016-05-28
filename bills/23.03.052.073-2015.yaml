@@ -1,16 +1,22 @@
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1868
+- http://www.parliament.cy/easyconsole.cfm/id/1950
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-12-16.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-02-11-1.pdf
 actions:
 - action: submission
   at_plenary_id: 2015-12-16_Ι_Ε_15
   committees_referred_to: Οικονομικών και Προϋπολογισμού
   sponsors: Οικονομικών
+- action: submission
+  at_plenary_id: 2016-02-11_Ι_Ε_21
+  committees_referred_to: Οικονομικών και Προϋπολογισμού
+  sponsors: Οικονομικών
 identifier: 23.03.052.073-2015
-other_titles:
+title: Οι περί Προσωπικού της Αρχής Τηλεπικοινωνιών Κύπρου (Γενικοί) (Τροποποιητικοί)
+  Κανονισμοί του 2016
+titles:
 - Οι περί Προσωπικού της Αρχής Τηλεπικοινωνιών Κύπρου (Γενικοί) (Τροποποιητικοί) Κανονισμοί
   του 2015
 - Οι περί Προσωπικού της Αρχής Τηλεπικοινωνιών Κύπρου (Γενικοί) (Τροποποιητικοί) Κανονισμοί
   του 2016
-title: Οι περί Προσωπικού της Αρχής Τηλεπικοινωνιών Κύπρου (Γενικοί) (Τροποποιητικοί)
-  Κανονισμοί του 2016

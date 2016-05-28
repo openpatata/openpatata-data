@@ -1,4 +1,5 @@
 _sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1950
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-09-03.pdf
 actions:
 - action: submission
@@ -6,6 +7,6 @@ actions:
   committees_referred_to: Οικονομικών και Προϋπολογισμού
   sponsors: Οικονομικών
 identifier: 23.01.056.168-2015
-other_titles:
-- Ο περί Υπηρεσίας Τηλεπικοινωνιών (Τροποποιητικός) Νόμος του 2015
 title: Ο περί Υπηρεσίας Τηλεπικοινωνιών (Τροποποιητικός) Νόμος του 2015
+titles:
+- Ο περί Υπηρεσίας Τηλεπικοινωνιών (Τροποποιητικός) Νόμος του 2015

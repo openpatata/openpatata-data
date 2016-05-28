@@ -5,6 +5,7 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1440
 - http://www.parliament.cy/easyconsole.cfm/id/1550
 - http://www.parliament.cy/easyconsole.cfm/id/1864
+- http://www.parliament.cy/easyconsole.cfm/id/1950
 - http://www.parliament.cy/easyconsole.cfm/id/466
 - http://www.parliament.cy/easyconsole.cfm/id/550
 - http://www.parliament.cy/easyconsole.cfm/id/870
@@ -142,7 +143,8 @@ actions:
   committees_referred_to: Εσωτερικών
   sponsors: Εσωτερικών
 identifier: 23.03.251.2002
-other_titles:
+title: Οι περί Πολεοδομίας και Χωροταξίας (Έλεγχος Διαφημίσεων) Κανονισμοί του 2016
+titles:
 - Οι περί Πολεοδομίας και Χωροταξίας (Έλεγχος Διαφημίσεων) Κανονισμοί του 2011
 - Οι περί Πολεοδομίας και Χωροταξίας (Έλεγχος Διαφημίσεων) Κανονισμοί του 2012
 - Οι περί Πολεοδομίας και Χωροταξίας (Έλεγχος Διαφημίσεων) Κανονισμοί του 2013
@@ -150,4 +152,3 @@ other_titles:
 - Οι περί Πολεοδομίας και Χωροταξίας (Έλεγχος Διαφημίσεων) Κανονισμοί του 2014
 - Οι περί Πολεοδομίας και Χωροταξίας (Έλεγχος Διαφημίσεων) Κανονισμοί του 2015
 - Οι περί Πολεοδομίας και Χωροταξίας (Έλεγχος Διαφημίσεων) Κανονισμοί του 2016
-title: Οι περί Πολεοδομίας και Χωροταξίας (Έλεγχος Διαφημίσεων) Κανονισμοί του 2016

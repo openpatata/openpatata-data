@@ -5,6 +5,7 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1440
 - http://www.parliament.cy/easyconsole.cfm/id/1550
 - http://www.parliament.cy/easyconsole.cfm/id/1864
+- http://www.parliament.cy/easyconsole.cfm/id/1950
 - http://www.parliament.cy/easyconsole.cfm/id/870
 - http://www.parliament.cy/easyconsole.cfm/id/926
 - http://www.parliament.cy/easyconsole.cfm/id/987
@@ -85,7 +86,9 @@ actions:
   committees_referred_to: Παιδείας και Πολιτισμού
   sponsors: Παιδείας και Πολιτισμού
 identifier: 23.03.050.028-2013
-other_titles:
+title: Οι περί Πανεπιστημίου Κύπρου (Διοικητικό Προσωπικό) (Τροποποιητικοί) Κανονισμοί
+  του 2016
+titles:
 - Οι περί Πανεπιστημίου Κύπρου (Διοικητικό Προσωπικό) (Τροποποιητικοί) Κανονισμοί
   του 2013
 - Οι περί Πανεπιστημίου Κύπρου (∆ιοικητικό Προσωπικό) (Τροποποιητικοί) Κανονισμοί
@@ -95,6 +98,4 @@ other_titles:
 - Οι περί Πανεπιστημίου Κύπρου (Διοικητικό Προσωπικό) (Τροποποιητικοί) Κανονισμοί
   του 2015
 - Οι περί Πανεπιστημίου Κύπρου (Διοικητικό Προσωπικό) (Τροποποιητικοί) Κανονισμοί
-  του 2016
-title: Οι περί Πανεπιστημίου Κύπρου (Διοικητικό Προσωπικό) (Τροποποιητικοί) Κανονισμοί
   του 2016

@@ -1,9 +1,12 @@
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1864
+- http://www.parliament.cy/easyconsole.cfm/id/1950
+- http://www.parliament.cy/easyconsole.cfm/id/1956
 - http://www.parliament.cy/images/media/redirectfile/14-1012015- agenda.pdf
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-10-29.pdf
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-12-10.pdf
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-02-04.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-03-31.pdf
 actions:
 - action: submission
   at_plenary_id: 2015-10-29_Ι_Ε_7
@@ -17,11 +20,15 @@ actions:
   at_plenary_id: 2016-02-04_Ι_Ε_20
   committees_referred_to: Οικονομικών και Προϋπολογισμού
   sponsors: Οικονομικών
+- action: submission
+  at_plenary_id: 2016-03-31_Ι_Ε_30
+  committees_referred_to: Ενέργειας, Εμπορίου, Βιομηχανίας και Τουρισμού
+  sponsors: Οικονομικών
 identifier: 23.03.052.061-2015
-other_titles:
+title: Οι περί Ασφαλιστικών και Αντασφαλιστικών Εργασιών και Άλλων Συναφών Θεμάτων
+  Κανονισμοί του 2016
+titles:
 - Οι περί Ασφαλιστικών και Αντασφαλιστικών Εργασιών και Άλλων Συναφών Θεμάτων Κανονισμοί
   του 2015
 - Οι περί Ασφαλιστικών και Αντασφαλιστικών Εργασιών και Άλλων Συναφών Θεμάτων Κανονισμοί
   του 2016
-title: Οι περί Ασφαλιστικών και Αντασφαλιστικών Εργασιών και Άλλων Συναφών Θεμάτων
-  Κανονισμοί του 2016

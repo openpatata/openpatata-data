@@ -1,4 +1,6 @@
 _sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1956
+- http://www.parliament.cy/images/media/redirectfile/32-1404016 - agenda.pdf
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-02-09.doc
 actions:
 - action: submission
@@ -7,6 +9,6 @@ actions:
   sponsors: Νίκο Τορναρίτη εκ μέρους της κοινοβουλευτικής ομάδας του Δημοκρατικού
     Συναγερμού
 identifier: 23.02.053.007-2012
-other_titles:
-- Ο περί Ιδιωτικών Φροντιστηρίων Νόμος του 2012
 title: Ο περί Ιδιωτικών Φροντιστηρίων Νόμος του 2012
+titles:
+- Ο περί Ιδιωτικών Φροντιστηρίων Νόμος του 2012

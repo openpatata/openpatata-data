@@ -1,4 +1,5 @@
 _sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1950
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-06-04.pdf
 actions:
 - action: submission
@@ -6,8 +7,8 @@ actions:
   committees_referred_to: Υγείας
   sponsors: Υγείας
 identifier: 23.01.056.112-2015
-other_titles:
-- Ο περί Θεραπείας Κατηγορούμενων και Καταδικασθέντων, Χρηστών ή Ουσιοεξαρτημένων
-  Νόμος του 2015
 title: Ο περί Θεραπείας Κατηγορούμενων και Καταδικασθέντων, Χρηστών ή Ουσιοεξαρτημένων
+  Νόμος του 2015
+titles:
+- Ο περί Θεραπείας Κατηγορούμενων και Καταδικασθέντων, Χρηστών ή Ουσιοεξαρτημένων
   Νόμος του 2015

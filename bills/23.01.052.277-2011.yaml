@@ -1,4 +1,6 @@
 _sources:
+- http://www.parliament.cy/easyconsole.cfm/id/1956
+- http://www.parliament.cy/images/media/redirectfile/32-1404016 - agenda.pdf
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2011-12-14-(2).doc
 actions:
 - action: submission
@@ -6,8 +8,10 @@ actions:
   committees_referred_to: Οικονομικών και Προϋπολογισμού
   sponsors: Οικονομικών
 identifier: 23.01.052.277-2011
-other_titles:
+title: Ο περί Ακίνητης Ιδιοκτησίας (Διακατοχή, Εγγραφή και Εκτίμηση) (Τροποποιητικός)
+  (Αρ. 3) Νόμος του 2011
+titles:
 - Ο περί Ακίνητης Ιδιοκτησίας (Διακατοχή, Εγγραφή και Εκτίμηση) (Τροποποιητικός (Αρ.
   3) Νόμος του 2011
-title: Ο περί Ακίνητης Ιδιοκτησίας (Διακατοχή, Εγγραφή και Εκτίμηση) (Τροποποιητικός
-  (Αρ. 3) Νόμος του 2011
+- Ο περί Ακίνητης Ιδιοκτησίας (Διακατοχή, Εγγραφή και Εκτίμηση) (Τροποποιητικός) (Αρ.
+  3) Νόμος του 2011

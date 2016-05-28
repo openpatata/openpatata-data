@@ -1,7 +1,13 @@
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1911
-actions: []
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-02-18.pdf
+actions:
+- action: submission
+  at_plenary_id: 2016-02-18_Ι_Ε_23
+  committees_referred_to: Προϋπολογισμού
+  sponsors: Βιομηχανίας και Τουρισμού
 identifier: 23.01.057.033-2016
-other_titles:
-- Ο περί Προϋπολογισμού της Αρχής Ηλεκτρισμού Κύπρου του 2016 Νόμος του 2016
 title: Ο περί Προϋπολογισμού της Αρχής Ηλεκτρισμού Κύπρου του 2016 Νόμος του 2016
+titles:
+- Αρχής Ηλεκτρισμού Κύπρου του 2016 Νόμος του 2016
+- Ο περί Προϋπολογισμού της Αρχής Ηλεκτρισμού Κύπρου του 2016 Νόμος του 2016
