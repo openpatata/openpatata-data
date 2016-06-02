@@ -1,0 +1,18 @@
+_id: leonidou-panikos
+_sources:
+- http://neavouli.eu/person/231
+birth_date: ''
+email: null
+gender: male
+image: null
+images: []
+links: []
+name:
+  el: Λεωνίδου Πανίκος
+  en: Leonidou Panikos
+  tr: Leonídu Paníkos
+other_names: []
+tenures:
+- electoral_district_id: lemesos
+  parliamentary_period_id: '11'
+  party_id: diko

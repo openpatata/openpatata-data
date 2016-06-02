@@ -32,6 +32,6 @@ tenures:
   parliamentary_period_id: '9'
   party_id: disy
 - electoral_district_id: lemesos
-  parliamentary_period_id: '10'
   end_date: '2013-02-28'
+  parliamentary_period_id: '10'
   party_id: disy

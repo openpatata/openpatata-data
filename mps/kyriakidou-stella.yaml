@@ -1,6 +1,7 @@
 _id: kyriakidou-stella
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/385
+- http://neavouli.eu/person/202
 birth_date: '1956-03-10'
 dofi: null
 email: skyriakidou@parliament.cy
@@ -35,4 +36,7 @@ tenures:
   party_id: disy
 - electoral_district_id: lefkosia
   parliamentary_period_id: '10'
+  party_id: disy
+- electoral_district_id: lefkosia
+  parliamentary_period_id: '11'
   party_id: disy

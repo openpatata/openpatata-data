@@ -2,6 +2,7 @@ _id: adamou-adamos
 _sources:
 - http://www.europarl.europa.eu/meps/en/28469/ADAMOS_ADAMOU_home.html
 - http://www.parliament.cy/easyconsole.cfm/id/305
+- http://neavouli.eu/person/82
 birth_date: '1950-10-30'
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_adamou_AKEL.pdf
 email: aadamou@parliament.cy
@@ -33,4 +34,7 @@ tenures:
   start_date: '2003-03-06'
 - electoral_district_id: lemesos
   parliamentary_period_id: '10'
+  party_id: akel-nd
+- electoral_district_id: lemesos
+  parliamentary_period_id: '11'
   party_id: akel-nd

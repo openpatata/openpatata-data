@@ -1,0 +1,18 @@
+_id: pittokopitis-charalampos
+_sources:
+- http://neavouli.eu/person/112
+birth_date: ''
+email: null
+gender: male
+image: null
+images: []
+links: []
+name:
+  el: Πιττοκοπίτης Χαράλαμπος
+  en: Pittokopitis Charalampos
+  tr: Pittokopítis Harálambos
+other_names: []
+tenures:
+- electoral_district_id: pafos
+  parliamentary_period_id: '11'
+  party_id: diko

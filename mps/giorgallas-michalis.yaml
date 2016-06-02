@@ -1,0 +1,18 @@
+_id: giorgallas-michalis
+_sources:
+- http://neavouli.eu/person/360
+birth_date: ''
+email: null
+gender: male
+image: null
+images: []
+links: []
+name:
+  el: Γιωργαλλάς Μιχάλης
+  en: Giorgallas Michalis
+  tr: Yiorgallás Mihális
+other_names: []
+tenures:
+- electoral_district_id: ammochostos
+  parliamentary_period_id: '11'
+  party_id: allilengyi

@@ -1,6 +1,7 @@
 _id: tornaritis-nikos
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/417
+- http://neavouli.eu/person/213
 birth_date: '1964-12-06'
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/n_tornaritis_DISI.pdf
 email: ntornaritis@parliament.cy
@@ -43,4 +44,7 @@ tenures:
   party_id: disy
 - electoral_district_id: lefkosia
   parliamentary_period_id: '10'
+  party_id: disy
+- electoral_district_id: lefkosia
+  parliamentary_period_id: '11'
   party_id: disy

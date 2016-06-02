@@ -1,6 +1,7 @@
 _id: votsis-angelos
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/309
+- http://neavouli.eu/person/229
 birth_date: '1963-10-01'
 dofi: null
 email: avotsis@parliament.cy
@@ -35,4 +36,7 @@ tenures:
   party_id: diko
 - electoral_district_id: lemesos
   parliamentary_period_id: '10'
+  party_id: diko
+- electoral_district_id: lemesos
+  parliamentary_period_id: '11'
   party_id: diko

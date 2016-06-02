@@ -1,6 +1,7 @@
 _id: kyprianou-antros
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/372
+- http://neavouli.eu/person/110
 birth_date: '1955-10-26'
 dofi: null
 email: akyprianou@parliament.cy
@@ -33,4 +34,7 @@ tenures:
   party_id: akel-nd
 - electoral_district_id: lefkosia
   parliamentary_period_id: '10'
+  party_id: akel-nd
+- electoral_district_id: lefkosia
+  parliamentary_period_id: '11'
   party_id: akel-nd

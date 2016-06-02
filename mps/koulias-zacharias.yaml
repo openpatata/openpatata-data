@@ -2,6 +2,7 @@ _id: koulias-zacharias
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/259
 - http://www.parliament.cy/easyconsole.cfm/id/369
+- http://neavouli.eu/person/219
 birth_date: '1950-12-07'
 dofi: null
 email: zkoulias@parliament.cy
@@ -36,10 +37,13 @@ tenures:
   parliamentary_period_id: '9'
   party_id: diko
 - electoral_district_id: ammochostos
-  parliamentary_period_id: '10'
   end_date: '2011-06-02'
+  parliamentary_period_id: '10'
   party_id: diko
 - electoral_district_id: ammochostos
   parliamentary_period_id: '10'
   party_id: null
   start_date: '2011-06-03'
+- electoral_district_id: ammochostos
+  parliamentary_period_id: '11'
+  party_id: diko

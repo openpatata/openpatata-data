@@ -1,6 +1,7 @@
 _id: georgiou-giorgos
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/313
+- http://neavouli.eu/person/15
 birth_date: '1963-04-09'
 dofi: null
 email: gegeorgiou@parliament.cy
@@ -27,4 +28,7 @@ other_names:
 tenures:
 - electoral_district_id: larnaka
   parliamentary_period_id: '10'
+  party_id: akel-nd
+- electoral_district_id: larnaka
+  parliamentary_period_id: '11'
   party_id: akel-nd

@@ -1,0 +1,18 @@
+_id: papagiannis-linos
+_sources:
+- http://neavouli.eu/person/451
+birth_date: ''
+email: null
+gender: male
+image: null
+images: []
+links: []
+name:
+  el: Παπαγιάννης Λίνος
+  en: Papagiannis Linos
+  tr: Papayánnis Línos
+other_names: []
+tenures:
+- electoral_district_id: ammochostos
+  parliamentary_period_id: '11'
+  party_id: elam

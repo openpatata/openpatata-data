@@ -1,0 +1,18 @@
+_id: dimitriou-annita
+_sources:
+- http://neavouli.eu/person/127
+birth_date: ''
+email: null
+gender: female
+image: null
+images: []
+links: []
+name:
+  el: Δημητρίου Αννίτα
+  en: Dimitriou Annita
+  tr: Dimitríu Anníta
+other_names: []
+tenures:
+- electoral_district_id: larnaka
+  parliamentary_period_id: '11'
+  party_id: disy

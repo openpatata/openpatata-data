@@ -1,0 +1,18 @@
+_id: savva-evanthia
+_sources:
+- http://neavouli.eu/person/19
+birth_date: '1964'
+email: null
+gender: female
+image: null
+images: []
+links: []
+name:
+  el: Σάββα Ευανθία
+  en: Savva Evanthia
+  tr: Sávva Evanthía
+other_names: []
+tenures:
+- electoral_district_id: larnaka
+  parliamentary_period_id: '11'
+  party_id: akel-nd

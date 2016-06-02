@@ -1,0 +1,18 @@
+_id: stavrou-eleni
+_sources:
+- http://neavouli.eu/person/195
+birth_date: '1970'
+email: null
+gender: female
+image: null
+images: []
+links: []
+name:
+  el: Σταύρου Ελένη
+  en: Stavrou Eleni
+  tr: Stávru Eléni
+other_names: []
+tenures:
+- electoral_district_id: lemesos
+  parliamentary_period_id: '11'
+  party_id: disy

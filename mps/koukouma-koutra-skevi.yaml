@@ -1,6 +1,7 @@
 _id: koukouma-koutra-skevi
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/368
+- http://neavouli.eu/person/120
 birth_date: '1954-07-18'
 dofi: null
 email: skoukouma@parliament.cy
@@ -34,4 +35,7 @@ tenures:
   start_date: '2008-03-06'
 - electoral_district_id: ammochostos
   parliamentary_period_id: '10'
+  party_id: akel-nd
+- electoral_district_id: ammochostos
+  parliamentary_period_id: '11'
   party_id: akel-nd

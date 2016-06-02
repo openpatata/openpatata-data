@@ -1,0 +1,18 @@
+_id: christos-christou
+_sources:
+- http://neavouli.eu/person/470
+birth_date: ''
+email: null
+gender: male
+image: null
+images: []
+links: []
+name:
+  el: Χρίστος Χρίστου
+  en: Christos Christou
+  tr: Hrístos Hrístu
+other_names: []
+tenures:
+- electoral_district_id: lefkosia
+  parliamentary_period_id: '11'
+  party_id: elam

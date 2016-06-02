@@ -1,0 +1,18 @@
+_id: georgiou-t-giorgos
+_sources:
+- http://neavouli.eu/person/83
+birth_date: ''
+email: null
+gender: male
+image: null
+images: []
+links: []
+name:
+  el: Γεωργίου Τ. Γιώργος
+  en: Georgiou T. Giorgos
+  tr: Yeoryíu T. Yórgos
+other_names: []
+tenures:
+- electoral_district_id: lemesos
+  parliamentary_period_id: '11'
+  party_id: akel-nd

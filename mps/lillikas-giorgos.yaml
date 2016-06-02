@@ -1,0 +1,18 @@
+_id: lillikas-giorgos
+_sources:
+- http://neavouli.eu/person/370
+birth_date: '1960-06-01'
+email: null
+gender: male
+image: null
+images: []
+links: []
+name:
+  el: Λιλλήκας Γιώργος
+  en: Lillikas Giorgos
+  tr: Lillíkas Yórgos
+other_names: []
+tenures:
+- electoral_district_id: lefkosia
+  parliamentary_period_id: '11'
+  party_id: sypol

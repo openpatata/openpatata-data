@@ -1,5 +1,6 @@
 _id: myrianthous-ilias
-_sources: []
+_sources:
+- http://neavouli.eu/person/116
 birth_date: null
 gender: male
 identifiers:
@@ -11,4 +12,8 @@ name:
   el: Μυριάνθους Ηλίας
   en: Myrianthous Ilias
   tr: Miriánthus İlías
-tenures: []
+other_names: []
+tenures:
+- electoral_district_id: pafos
+  parliamentary_period_id: '11'
+  party_id: edek

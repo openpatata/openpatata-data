@@ -1,6 +1,7 @@
 _id: prokopiou-georgios
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/409
+- http://neavouli.eu/person/23
 birth_date: '1956-10-22'
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/g_prokopiou_DIKO.pdf
 email: giprokopiou@parliament.cy
@@ -27,4 +28,7 @@ other_names:
 tenures:
 - electoral_district_id: larnaka
   parliamentary_period_id: '10'
+  party_id: diko
+- electoral_district_id: larnaka
+  parliamentary_period_id: '11'
   party_id: diko

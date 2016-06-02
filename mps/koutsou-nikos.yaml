@@ -30,8 +30,8 @@ tenures:
   parliamentary_period_id: '9'
   party_id: evroko
 - electoral_district_id: ammochostos
-  parliamentary_period_id: '10'
   end_date: '2013-06-25'
+  parliamentary_period_id: '10'
   party_id: evroko
 - electoral_district_id: ammochostos
   parliamentary_period_id: '10'

@@ -1,0 +1,18 @@
+_id: erotokritou-christiana
+_sources:
+- http://neavouli.eu/person/243
+birth_date: ''
+email: null
+gender: female
+image: null
+images: []
+links: []
+name:
+  el: Ερωτοκρίτου Χριστιάνα
+  en: Erotokritou Christiana
+  tr: Erotokrítu Hristiána
+other_names: []
+tenures:
+- electoral_district_id: lefkosia
+  parliamentary_period_id: '11'
+  party_id: diko

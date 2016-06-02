@@ -1,0 +1,18 @@
+_id: karoullas-giorgos
+_sources:
+- http://neavouli.eu/person/179
+birth_date: ''
+email: null
+gender: male
+image: null
+images: []
+links: []
+name:
+  el: Καρουλλάς Γιώργος
+  en: Karoullas Giorgos
+  tr: Karullás Yórgos
+other_names: []
+tenures:
+- electoral_district_id: ammochostos
+  parliamentary_period_id: '11'
+  party_id: disy
