@@ -12,5 +12,20 @@ properties:
     type:
     - string
     - 'null'
+  number:
+    description: The number as shown on official government documents.
+    type: object
+    properties:
+      el:
+        type: string
+      en:
+        type: string
+      tr:
+        type: string
+    required:
+    - el
+    - en
+    - tr
 required:
 - start_date
+- number

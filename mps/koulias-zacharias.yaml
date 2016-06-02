@@ -1,5 +1,6 @@
 _id: koulias-zacharias
 _sources:
+- http://www.parliament.cy/easyconsole.cfm/id/259
 - http://www.parliament.cy/easyconsole.cfm/id/369
 birth_date: '1950-12-07'
 dofi: null
@@ -15,7 +16,7 @@ images:
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
-    en: Page on Parliament
+    en: Page on Parliament website
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/369
 name:
@@ -29,18 +30,16 @@ other_names:
   note: Official spelling in the 'el' locale; possibly anglicised
 tenures:
 - electoral_district_id: ammochostos
-  end_date: '2006-05-31'
+  parliamentary_period_id: '8'
   party_id: diko
-  start_date: '2001-06-07'
 - electoral_district_id: ammochostos
-  end_date: '2011-06-01'
+  parliamentary_period_id: '9'
   party_id: diko
-  start_date: '2006-06-01'
 - electoral_district_id: ammochostos
-  end_date: '2011-06-03'
+  parliamentary_period_id: '10'
+  end_date: '2011-06-02'
   party_id: diko
-  start_date: '2011-06-02'
 - electoral_district_id: ammochostos
-  end_date: '2016-04-14'
+  parliamentary_period_id: '10'
   party_id: null
   start_date: '2011-06-03'

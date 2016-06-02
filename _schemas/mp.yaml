@@ -96,6 +96,10 @@ properties:
         electoral_district_id:
           description: The district served.
           type: string
+        parliamentary_period_id:
+          description: >
+            The parliamentary period number during their term of office.
+          type: string
         start_date:
           description: The start date, in ISO format (YYYY-MM-DD).
           type:
@@ -119,8 +123,7 @@ properties:
           - 'null'
       required:
       - electoral_district_id
-      - start_date
-      - end_date
+      - parliamentary_period_id
       - party_id
   links:
     description: >

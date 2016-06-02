@@ -14,7 +14,7 @@ images:
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
-    en: Page on Parliament
+    en: Page on Parliament website
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/366
 name:
@@ -26,14 +26,11 @@ other_names:
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - electoral_district_id: lefkosia
-  end_date: '2006-05-31'
+  parliamentary_period_id: '8'
   party_id: akel-nd
-  start_date: '2001-06-07'
 - electoral_district_id: lefkosia
-  end_date: '2011-06-01'
+  parliamentary_period_id: '9'
   party_id: akel-nd
-  start_date: '2006-06-01'
 - electoral_district_id: lefkosia
-  end_date: '2016-04-14'
+  parliamentary_period_id: '10'
   party_id: akel-nd
-  start_date: '2011-06-02'

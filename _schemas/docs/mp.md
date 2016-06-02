@@ -96,14 +96,18 @@
 
         The district served.
 
-    * [required] **end_date** (`string|null`)
+    * **end_date** (`string|null`)
 
         The end date, in ISO format (YYYY-MM-DD).  Leave blank if MP currently in office.
+
+    * [required] **parliamentary_period_id** (`string`)
+
+        The parliamentary period number during their term of office.
 
     * [required] **party_id** (`string|null`)
 
         The `id` of the party the MP is affiliated to, if any; otherwise leave blank.
 
-    * [required] **start_date** (`string|null`)
+    * **start_date** (`string|null`)
 
         The start date, in ISO format (YYYY-MM-DD).

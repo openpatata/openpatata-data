@@ -14,13 +14,13 @@ images:
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
-    en: Page on Parliament
+    en: Page on Parliament website
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/398
 - note:
     el: Προσωπική ιστοσελίδα
     en: Personal website
-    tr: null
+    tr: Kişisel web sitesi
   url: http://www.nicosnouris.com/
 name:
   el: Νουρής Νίκος
@@ -31,6 +31,6 @@ other_names:
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - electoral_district_id: lefkosia
-  end_date: '2016-04-14'
+  parliamentary_period_id: '10'
   party_id: disy
   start_date: '2013-03-07'

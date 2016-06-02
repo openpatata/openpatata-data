@@ -14,7 +14,7 @@ images:
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
-    en: Page on Parliament
+    en: Page on Parliament website
     tr: null
   url: http://www.parliament.cy/easyconsole.cfm/id/1226
 name:
@@ -28,6 +28,6 @@ other_names:
   note: Common misspelling (el-Grek)
 tenures:
 - electoral_district_id: ammochostos
-  end_date: '2016-04-14'
+  parliamentary_period_id: '10'
   party_id: disy
   start_date: '2014-11-06'
