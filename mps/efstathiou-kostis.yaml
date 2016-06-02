@@ -4,6 +4,9 @@ _sources:
 birth_date: '1961'
 email: null
 gender: male
+identifiers:
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
 image: null
 images: []
 links: []
