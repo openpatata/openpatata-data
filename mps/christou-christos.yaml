@@ -1,4 +1,4 @@
-_id: christos-christou
+_id: christou-christos
 _sources:
 - http://neavouli.eu/person/470
 birth_date: ''
@@ -11,9 +11,9 @@ image: null
 images: []
 links: []
 name:
-  el: Χρίστος Χρίστου
-  en: Christos Christou
-  tr: Hrístos Hrístu
+  el: Χρίστου Χρίστος
+  en: Christou Christos
+  tr: Hrístu Hrístos
 other_names: []
 tenures:
 - electoral_district_id: lefkosia
