@@ -2,12 +2,12 @@ _id: mylonas-pavlos
 _sources:
 - http://neavouli.eu/person/401
 birth_date: '1967'
-email: null
+email: mylonas.p@live.com
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: null
+image: http://neavouli.eu/media/images/images/401.png
 images: []
 links: []
 name:

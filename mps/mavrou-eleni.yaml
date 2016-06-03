@@ -6,7 +6,8 @@ gender: female
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: null
+image: http://neavouli.eu/media/images/images/27.png
+images: []
 links: []
 name:
   el: Μαύρου Ελένη

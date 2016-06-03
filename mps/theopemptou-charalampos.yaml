@@ -2,14 +2,24 @@ _id: theopemptou-charalampos
 _sources:
 - http://neavouli.eu/person/327
 birth_date: '1955'
-email: null
+email: theopemptou@gmail.com
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: null
+image: http://neavouli.eu/media/images/images/327.png
 images: []
-links: []
+links:
+- note:
+    el: twitter
+    en: twitter
+    tr: twitter
+  url: https://twitter.com/theopemptou
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Personal website
+    tr: Kişisel websitesi
+  url: http://theopemptou.com/
 name:
   el: Θεοπέμπτου Χαράλαμπος
   en: Theopemptou Charalampos

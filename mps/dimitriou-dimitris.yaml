@@ -7,9 +7,19 @@ gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: null
+image: http://neavouli.eu/media/images/images/7.png
 images: []
-links: []
+links:
+- note:
+    el: twitter
+    en: twitter
+    tr: twitter
+  url: https://twitter.com/dmdemetriou
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Personal website
+    tr: Kişisel websitesi
+  url: http://www.dmdemetriou.com/
 name:
   el: Δημητρίου Δημήτρης
   en: Dimitriou Dimitris

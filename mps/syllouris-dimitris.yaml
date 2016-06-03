@@ -19,6 +19,16 @@ links:
     en: Page on Parliament website
     tr: Parlemento websitesindeki sayfa
   url: http://www.parliament.cy/easyconsole.cfm/id/414
+- note:
+    el: twitter
+    en: twitter
+    tr: twitter
+  url: https://twitter.com/syllouris
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Personal website
+    tr: Kişisel websitesi
+  url: http://syllouris.eu/
 name:
   el: Συλλούρης Δημήτρης
   en: Syllouris Dimitris

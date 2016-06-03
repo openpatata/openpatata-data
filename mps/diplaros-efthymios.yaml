@@ -19,15 +19,15 @@ links:
     tr: Parlemento websitesindeki sayfa
   url: http://www.parliament.cy/easyconsole.cfm/id/362
 - note:
-    el: Προσωπική ιστοσελίδα
-    en: Personal website
-    tr: Kişisel websitesi
-  url: http://www.diplaros.com/
-- note:
     el: twitter
     en: twitter
     tr: twitter
-  url: https://twitter.com/ediplaros
+  url: https://twitter.com/diplarose
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Personal website
+    tr: Kişisel websitesi
+  url: http://diplaros.com/
 name:
   el: Δίπλαρος Ευθύμιος
   en: Diplaros Efthymios

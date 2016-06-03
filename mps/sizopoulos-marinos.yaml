@@ -2,14 +2,19 @@ _id: sizopoulos-marinos
 _sources:
 - http://neavouli.eu/person/265
 birth_date: '1957-07-17'
-email: null
+email: marinos@sizopoulos.com
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: null
+image: http://neavouli.eu/media/images/images/265_c132Tv1.png
 images: []
-links: []
+links:
+- note:
+    el: twitter
+    en: twitter
+    tr: twitter
+  url: https://twitter.com/sizopoulos
 name:
   el: Σιζόπουλος Μαρίνος
   en: Sizopoulos Marinos

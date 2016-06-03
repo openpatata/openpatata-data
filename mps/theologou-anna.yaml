@@ -2,12 +2,12 @@ _id: theologou-anna
 _sources:
 - http://neavouli.eu/person/387
 birth_date: '1986'
-email: null
+email: anna_theologou@hotmail.com
 gender: female
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: null
+image: http://neavouli.eu/media/images/images/387.png
 images: []
 links: []
 name:
