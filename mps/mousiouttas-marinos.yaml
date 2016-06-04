@@ -1,15 +1,20 @@
 _id: mousiouttas-marinos
 _sources:
 - http://neavouli.eu/person/248
-birth_date: ''
-email: null
+birth_date: '1964'
+email: marinosm2000@hotmail.com
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
 image: http://neavouli.eu/media/images/images/248.png
 images: []
-links: []
+links:
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Personal website
+    tr: Kişisel websitesi
+  url: http://www.marinosmousiouttas.com/
 name:
   el: Μουσιούττας Μαρίνος
   en: Mousiouttas Marinos

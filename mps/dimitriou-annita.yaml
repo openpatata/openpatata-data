@@ -9,7 +9,17 @@ identifiers:
   scheme: http://www.wikidata.org/entity/
 image: http://neavouli.eu/media/images/images/127_UxkWpsi.png
 images: []
-links: []
+links:
+- note:
+    el: twitter
+    en: twitter
+    tr: twitter
+  url: https://twitter.com/AnnitaDemetriou
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Personal website
+    tr: Kişisel websitesi
+  url: http://www.annitademetriou.com/
 name:
   el: Δημητρίου Αννίτα
   en: Dimitriou Annita

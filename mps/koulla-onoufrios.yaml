@@ -1,7 +1,7 @@
 _id: koulla-onoufrios
 _sources:
 - http://neavouli.eu/person/180
-birth_date: ''
+birth_date: '1974'
 email: null
 gender: male
 identifiers:
@@ -9,7 +9,12 @@ identifiers:
   scheme: http://www.wikidata.org/entity/
 image: http://neavouli.eu/media/images/images/180.png
 images: []
-links: []
+links:
+- note:
+    el: twitter
+    en: twitter
+    tr: twitter
+  url: https://twitter.com/OnoufriosKoulla
 name:
   el: Κουλλά Ονούφριος
   en: Koulla Onoufrios
