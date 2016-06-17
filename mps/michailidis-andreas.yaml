@@ -1,7 +1,11 @@
 _id: michailidis-andreas
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/401
+- http://www.parliament.cy/easyconsole.cfm/id/2007
 birth_date: '1952-12-29'
+contact_details:
+- type: email
+  value: amichaelides@parliament.cy
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/A_Michaelides_DISI1.pdf
 email: amichaelides@parliament.cy
 gender: male

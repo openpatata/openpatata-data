@@ -2,6 +2,11 @@ _id: kyriakidou-athina
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/373
 birth_date: null
+contact_details:
+- type: email
+  value: akyriakidou@parliament.cy
+- type: email
+  value: athinakyriakidou@cytanet.com.cy
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_kyriakidou_DIKO.pdf
 email: akyriakidou@parliament.cy
 gender: female
@@ -25,7 +30,7 @@ other_names:
 - name: Kyriakidou Athina
   note: Official spelling in the 'en' locale; possibly anglicised
 - name: Kyriakidou Athina
-  note: Official spelling in the 'el' locale; possibly anglicised
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - electoral_district_id: lemesos
   parliamentary_period_id: '8'

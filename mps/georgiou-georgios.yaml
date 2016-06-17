@@ -3,6 +3,11 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/312
 - http://neavouli.eu/person/177
 birth_date: '1957-10-09'
+contact_details:
+- type: email
+  value: ggeorgiou@parliament.cy
+- type: email
+  value: ggeorgiou_mp@yahoo.com
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/g_georgiou_DISI.pdf
 email: ggeorgiou@parliament.cy
 gender: male

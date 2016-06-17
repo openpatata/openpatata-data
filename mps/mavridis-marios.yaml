@@ -3,6 +3,11 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/391
 - http://neavouli.eu/person/142
 birth_date: '1963-08-05'
+contact_details:
+- type: email
+  value: mmavrides@parliament.cy
+- type: email
+  value: m.mavrides@euc.ac.cy
 dofi: null
 email: mmavrides@parliament.cy
 gender: male
@@ -26,7 +31,7 @@ other_names:
 - name: Mavrides Marios
   note: Official spelling in the 'en' locale; possibly anglicised
 - name: Mavrides Marios
-  note: Official spelling in the 'el' locale; possibly anglicised
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - electoral_district_id: keryneia
   parliamentary_period_id: '10'

@@ -2,16 +2,23 @@ _id: kosta-kostas
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/388
 - http://neavouli.eu/person/88
+- http://www.parliament.cy/easyconsole.cfm/id/2083
 birth_date: '1971-03-26'
+contact_details:
+- type: email
+  value: ccosta@parliament.cy
+- type: email
+  value: costascosta.z@gmail.com
 dofi: null
 email: ccosta@parliament.cy
 gender: male
 identifiers:
 - identifier: Q12879928
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/Costa Costas a.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/Costa Costas.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/Costa Costas a.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/Costa Costas.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -26,7 +33,7 @@ other_names:
 - name: Costa Costas
   note: Official spelling in the 'en' locale; possibly anglicised
 - name: Costa Costas
-  note: Official spelling in the 'el' locale; possibly anglicised
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - electoral_district_id: lemesos
   parliamentary_period_id: '10'

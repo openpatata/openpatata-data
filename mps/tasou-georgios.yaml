@@ -1,7 +1,13 @@
 _id: tasou-georgios
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/415
+- http://www.parliament.cy/easyconsole.cfm/id/2024
 birth_date: '1953-10-01'
+contact_details:
+- type: email
+  value: gtasou@parliament.cy
+- type: email
+  value: g.tasou@cytanet.com.cy
 dofi: null
 email: gtasou@parliament.cy
 gender: male

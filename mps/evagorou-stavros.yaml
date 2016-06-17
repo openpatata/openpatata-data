@@ -2,6 +2,11 @@ _id: evagorou-stavros
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/363
 birth_date: '1959-09-23'
+contact_details:
+- type: email
+  value: sevagorou@parliament.cy
+- type: email
+  value: sevagorou@akel.org.cy
 dofi: null
 email: sevagorou@parliament.cy
 gender: male

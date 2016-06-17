@@ -3,16 +3,25 @@ _sources:
 - http://www.europarl.europa.eu/meps/en/28469/ADAMOS_ADAMOU_home.html
 - http://www.parliament.cy/easyconsole.cfm/id/305
 - http://neavouli.eu/person/82
+- http://www.parliament.cy/easyconsole.cfm/id/2054
 birth_date: '1950-10-30'
+contact_details:
+- type: email
+  value: aadamou@parliament.cy
+- type: email
+  value: aadamou@logosnet.cy.net
+- type: email
+  value: adamosad@spidernet.com.cy
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_adamou_AKEL.pdf
 email: aadamou@parliament.cy
 gender: male
 identifiers:
 - identifier: Q351655
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/Adamou Adamos a.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/Adamou Adamos.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/Adamou Adamos a.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/Adamou Adamos.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής

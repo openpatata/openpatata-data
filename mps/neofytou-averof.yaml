@@ -2,7 +2,13 @@ _id: neofytou-averof
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/402
 - http://neavouli.eu/person/198
+- http://www.parliament.cy/easyconsole.cfm/id/2008
 birth_date: '1961-07-31'
+contact_details:
+- type: email
+  value: aneofytou@parliament.cy
+- type: email
+  value: averof@disy.org.cy
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_neophytou_DISI.pdf
 email: aneofytou@parliament.cy
 gender: male
@@ -41,7 +47,7 @@ other_names:
 - name: Neofytou Averof
   note: Official spelling in the 'en' locale; possibly anglicised
 - name: Neofytou Averof
-  note: Official spelling in the 'el' locale; possibly anglicised
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - electoral_district_id: lefkosia
   parliamentary_period_id: '9'

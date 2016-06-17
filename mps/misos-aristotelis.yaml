@@ -2,7 +2,13 @@ _id: misos-aristotelis
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/259
 - http://www.parliament.cy/easyconsole.cfm/id/397
+- http://www.parliament.cy/easyconsole.cfm/id/2005
 birth_date: '1959-12-02'
+contact_details:
+- type: email
+  value: amisos@parliament.cy
+- type: email
+  value: aristotelis.misos@yahoo.gr
 dofi: null
 email: amisos@parliament.cy
 gender: male
@@ -26,7 +32,7 @@ other_names:
 - name: Misos Aristotelis
   note: Official spelling in the 'en' locale; possibly anglicised
 - name: Misos Aristotelis
-  note: Official spelling in the 'el' locale; possibly anglicised
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - electoral_district_id: larnaka
   parliamentary_period_id: '10'

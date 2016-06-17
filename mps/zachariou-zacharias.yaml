@@ -3,6 +3,11 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/364
 - http://neavouli.eu/person/128
 birth_date: '1963-12-13'
+contact_details:
+- type: email
+  value: zzachariou@parliament.cy
+- type: email
+  value: z.zachariou@cytanet.com.cy
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/z_zachariou_DISI.pdf
 email: zzachariou@parliament.cy
 gender: male

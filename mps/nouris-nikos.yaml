@@ -2,7 +2,11 @@ _id: nouris-nikos
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/398
 - http://neavouli.eu/person/208
+- http://www.parliament.cy/easyconsole.cfm/id/2011
 birth_date: '1960-11-14'
+contact_details:
+- type: email
+  value: nnouris@parliament.cy
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/n_nouris_DISI.pdf
 email: nnouris@parliament.cy
 gender: male

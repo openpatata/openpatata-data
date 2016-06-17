@@ -3,6 +3,11 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/259
 - http://www.parliament.cy/easyconsole.cfm/id/395
 birth_date: '1962-04-15'
+contact_details:
+- type: email
+  value: athemistocleous@parliament.cy
+- type: email
+  value: themistocleousandreas@hotmail.com
 dofi: null
 email: athemistocleous@parliament.cy
 gender: male

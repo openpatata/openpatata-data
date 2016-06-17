@@ -1,14 +1,22 @@
 _id: theopemptou-charalampos
 _sources:
 - http://neavouli.eu/person/327
-birth_date: '1955'
-email: theopemptou@gmail.com
+- http://www.parliament.cy/easyconsole.cfm/id/2071
+birth_date: '1955-11-26'
+contact_details:
+- type: email
+  value: ctheopemptou@parliament.cy
+- type: email
+  value: theopemptou@gmail.com
+email: ctheopemptou@parliament.cy
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
 image: http://neavouli.eu/media/images/images/327.png
-images: []
+images:
+- http://neavouli.eu/media/images/images/327.png
+- http://www.parliament.cy/assets/image/imageoriginal/TheopemptouX15.jpg
 links:
 - note:
     el: twitter
@@ -24,7 +32,9 @@ name:
   el: Θεοπέμπτου Χαράλαμπος
   en: Theopemptou Charalampos
   tr: Theopémbtu Harálambos
-other_names: []
+other_names:
+- name: Theopemptou Charalambos
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - electoral_district_id: lefkosia
   parliamentary_period_id: '11'

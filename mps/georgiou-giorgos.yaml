@@ -3,6 +3,11 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/313
 - http://neavouli.eu/person/15
 birth_date: '1963-04-09'
+contact_details:
+- type: email
+  value: gegeorgiou@parliament.cy
+- type: email
+  value: odysseas1@cytanet.com.cy
 dofi: null
 email: gegeorgiou@parliament.cy
 gender: male

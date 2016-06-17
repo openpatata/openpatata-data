@@ -2,6 +2,11 @@ _id: mavronikola-roula
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/392
 birth_date: '1957-07-16'
+contact_details:
+- type: email
+  value: rmavronikola@parliament.cy
+- type: email
+  value: roulla.mavronikola@gmail.com
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/r_vavronikola.pdf
 email: rmavronikola@parliament.cy
 gender: female

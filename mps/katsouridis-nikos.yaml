@@ -2,6 +2,9 @@ _id: katsouridis-nikos
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/366
 birth_date: '1951-12-14'
+contact_details:
+- type: email
+  value: nkatsourides@parliament.cy
 dofi: null
 email: nkatsourides@parliament.cy
 gender: male

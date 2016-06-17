@@ -3,6 +3,11 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/309
 - http://neavouli.eu/person/229
 birth_date: '1963-10-01'
+contact_details:
+- type: email
+  value: avotsis@parliament.cy
+- type: email
+  value: vangelos@spidernet.com.cy
 dofi: null
 email: avotsis@parliament.cy
 gender: male

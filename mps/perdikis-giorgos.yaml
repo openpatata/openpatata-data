@@ -2,7 +2,13 @@ _id: perdikis-giorgos
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/407
 - http://neavouli.eu/person/338
+- http://www.parliament.cy/easyconsole.cfm/id/2014
 birth_date: '1962-03-23'
+contact_details:
+- type: email
+  value: gperdikes@parliament.cy
+- type: email
+  value: greenparty@cytanet.com.cy
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/g_perdikis_KEP.pdf
 email: gperdikes@parliament.cy
 gender: male
@@ -31,7 +37,7 @@ other_names:
 - name: Perdikis Giorgos
   note: Official spelling in the 'en' locale; possibly anglicised
 - name: Perdikis Giorgos
-  note: Official spelling in the 'el' locale; possibly anglicised
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - electoral_district_id: lefkosia
   parliamentary_period_id: '8'

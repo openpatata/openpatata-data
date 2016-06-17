@@ -1,7 +1,13 @@
 _id: fyttis-sofoklis
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/419
+- http://www.parliament.cy/easyconsole.cfm/id/2028
 birth_date: '1947-03-31'
+contact_details:
+- type: email
+  value: sfittis@parliament.cy
+- type: email
+  value: fyttis@cytanet.com.cy
 dofi: null
 email: sfittis@parliament.cy
 gender: male

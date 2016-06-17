@@ -2,7 +2,13 @@ _id: chatzigiannis-kyriakos
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/421
 - http://neavouli.eu/person/185
+- http://www.parliament.cy/easyconsole.cfm/id/2031
 birth_date: '1963-08-22'
+contact_details:
+- type: email
+  value: khadjiyianni@parliament.cy
+- type: email
+  value: khadjiyianni@cytanet.com.cy
 dofi: null
 email: khadjiyianni@parliament.cy
 gender: male

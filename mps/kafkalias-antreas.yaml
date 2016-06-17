@@ -2,16 +2,23 @@ _id: kafkalias-antreas
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/367
 - http://neavouli.eu/person/86
+- http://www.parliament.cy/easyconsole.cfm/id/2074
 birth_date: '1971-10-21'
+contact_details:
+- type: email
+  value: akafkalias@parliament.cy
+- type: email
+  value: a.kafkalias@cytanet.com.cy
 dofi: null
 email: akafkalias@parliament.cy
 gender: male
 identifiers:
 - identifier: Q12873768
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/Kafkalias Andros a.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/Kafkalias Andros.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/Kafkalias Andros a.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/Kafkalias Andros.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής

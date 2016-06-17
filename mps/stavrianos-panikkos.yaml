@@ -1,7 +1,13 @@
 _id: stavrianos-panikkos
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/412
+- http://www.parliament.cy/easyconsole.cfm/id/2020
 birth_date: '1964-02-07'
+contact_details:
+- type: email
+  value: pstavrianos@parliament.cy
+- type: email
+  value: pstavrianos@hotmail.com
 dofi: null
 email: pstavrianos@parliament.cy
 gender: male

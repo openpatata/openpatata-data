@@ -1,7 +1,13 @@
 _id: nikolaidis-nikos
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/403
+- http://www.parliament.cy/easyconsole.cfm/id/2009
 birth_date: '1953-11-02'
+contact_details:
+- type: email
+  value: nnikolaides@parliament.cy
+- type: email
+  value: nnicolaides@logos.cy.net
 dofi: null
 email: nnikolaides@parliament.cy
 gender: male

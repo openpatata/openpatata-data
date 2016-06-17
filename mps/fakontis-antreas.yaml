@@ -2,7 +2,13 @@ _id: fakontis-antreas
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/418
 - http://neavouli.eu/person/44
+- http://www.parliament.cy/easyconsole.cfm/id/2027
 birth_date: '1964-10-22'
+contact_details:
+- type: email
+  value: afakontis@parliament.cy
+- type: email
+  value: facontis@cytanet.com.cy
 dofi: null
 email: afakontis@parliament.cy
 gender: male

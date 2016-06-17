@@ -2,16 +2,23 @@ _id: diplaros-efthymios
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/362
 - http://neavouli.eu/person/187
+- http://www.parliament.cy/easyconsole.cfm/id/2064
 birth_date: '1980-03-18'
+contact_details:
+- type: email
+  value: ediplaros@parliament.cy
+- type: email
+  value: e.diplaros@cytanet.com.cy
 dofi: null
 email: ediplaros@parliament.cy
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/DIPLAROS Efthymios.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/Diplaros Efthymios 2016.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/DIPLAROS Efthymios.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/Diplaros Efthymios 2016.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής

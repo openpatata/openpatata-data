@@ -1,7 +1,11 @@
 _id: sarikas-feidias
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/411
+- http://www.parliament.cy/easyconsole.cfm/id/2019
 birth_date: '1957-10-01'
+contact_details:
+- type: email
+  value: fsarikas@parliament.cy
 dofi: null
 email: fsarikas@parliament.cy
 gender: male
@@ -25,7 +29,7 @@ other_names:
 - name: Sarikas Fidias
   note: Official spelling in the 'en' locale; possibly anglicised
 - name: Sarikas Fidias
-  note: Official spelling in the 'el' locale; possibly anglicised
+  note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - electoral_district_id: pafos
   parliamentary_period_id: '9'
