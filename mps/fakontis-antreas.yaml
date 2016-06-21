@@ -9,6 +9,8 @@ contact_details:
   value: afakontis@parliament.cy
 - type: email
   value: facontis@cytanet.com.cy
+- type: voice
+  value: '22407257'
 dofi: null
 email: afakontis@parliament.cy
 gender: male

@@ -2,7 +2,14 @@ _id: pittokopitis-charalampos
 _sources:
 - http://neavouli.eu/person/112
 birth_date: '1955'
-email: pampospittokopitis@hotmail.com
+contact_details:
+- type: email
+  value: pampospittokopitis@hotmail.com
+- type: email
+  value: cpittokopitis@parliament.cy
+- type: voice
+  value: '22407225'
+email: cpittokopitis@parliament.cy
 gender: male
 identifiers:
 - identifier: null

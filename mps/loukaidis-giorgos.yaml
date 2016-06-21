@@ -10,6 +10,8 @@ contact_details:
   value: george.loukaides@gmail.com
 - type: email
   value: gloukaides@akel.org.cy
+- type: voice
+  value: '22407234'
 dofi: null
 email: gloukaides@parliament.cy
 gender: male

@@ -8,6 +8,8 @@ contact_details:
   value: ctheopemptou@parliament.cy
 - type: email
   value: theopemptou@gmail.com
+- type: voice
+  value: '22407226'
 email: ctheopemptou@parliament.cy
 gender: male
 identifiers:

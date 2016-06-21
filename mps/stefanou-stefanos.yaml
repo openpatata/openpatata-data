@@ -2,7 +2,12 @@ _id: stefanou-stefanos
 _sources:
 - http://neavouli.eu/person/67
 birth_date: '1965-01-21'
-email: null
+contact_details:
+- type: email
+  value: sstefanou@parliament.cy
+- type: voice
+  value: '22407258'
+email: sstefanou@parliament.cy
 gender: male
 identifiers:
 - identifier: null

@@ -12,6 +12,8 @@ contact_details:
   value: dsyllouris@parliament.cy
 - type: email
   value: sylouris@cytanet.com.cy
+- type: voice
+  value: '22407301'
 dofi: null
 email: dsyllouris@parliament.cy
 gender: male

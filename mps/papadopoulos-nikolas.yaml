@@ -9,6 +9,8 @@ contact_details:
   value: npapadopoulos@parliament.cy
 - type: email
   value: nicholas@papadopoulos.com.cy
+- type: voice
+  value: '22407439'
 dofi: null
 email: npapadopoulos@parliament.cy
 gender: male

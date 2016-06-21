@@ -1,14 +1,22 @@
 _id: machtesian-vartkes
 _sources: []
 birth_date: null
+contact_details:
+- type: email
+  value: vmahdessian@parliament.cy
+- type: voice
+  value: '22407202'
+email: vmahdessian@parliament.cy
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
 image: null
+images: []
 links: []
 name:
   el: Μαχτεσιάν Βαρτκές
   en: Machtesian Vartkes
   tr: Mahtesián Vartkés
+other_names: []
 tenures: []

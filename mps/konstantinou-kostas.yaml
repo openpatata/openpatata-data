@@ -8,6 +8,8 @@ contact_details:
   value: cconstantinou@parliament.cy
 - type: email
   value: c.constantinou@yahoo.com
+- type: voice
+  value: '22407208'
 dofi: null
 email: cconstantinou@parliament.cy
 gender: male

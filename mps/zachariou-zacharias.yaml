@@ -8,6 +8,8 @@ contact_details:
   value: zzachariou@parliament.cy
 - type: email
   value: z.zachariou@cytanet.com.cy
+- type: voice
+  value: '22407211'
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/z_zachariou_DISI.pdf
 email: zzachariou@parliament.cy
 gender: male

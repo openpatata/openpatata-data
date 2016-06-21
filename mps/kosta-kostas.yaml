@@ -9,6 +9,8 @@ contact_details:
   value: ccosta@parliament.cy
 - type: email
   value: costascosta.z@gmail.com
+- type: voice
+  value: '22407250'
 dofi: null
 email: ccosta@parliament.cy
 gender: male

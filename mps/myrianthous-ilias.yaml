@@ -2,6 +2,12 @@ _id: myrianthous-ilias
 _sources:
 - http://neavouli.eu/person/116
 birth_date: null
+contact_details:
+- type: email
+  value: emyrianthous@parliament.cy
+- type: voice
+  value: '22407261'
+email: emyrianthous@parliament.cy
 gender: male
 identifiers:
 - identifier: null

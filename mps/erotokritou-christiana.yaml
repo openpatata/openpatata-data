@@ -2,7 +2,12 @@ _id: erotokritou-christiana
 _sources:
 - http://neavouli.eu/person/243
 birth_date: ''
-email: null
+contact_details:
+- type: email
+  value: cerotokritou@parliament.cy
+- type: voice
+  value: '22407229'
+email: cerotokritou@parliament.cy
 gender: female
 identifiers:
 - identifier: null

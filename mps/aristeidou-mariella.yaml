@@ -2,7 +2,14 @@ _id: aristeidou-mariella
 _sources:
 - http://neavouli.eu/person/140
 birth_date: '1985'
-email: mariella_aristeidou@hotmail.com
+contact_details:
+- type: email
+  value: mariella_aristeidou@hotmail.com
+- type: email
+  value: maristidou@parliament.cy
+- type: voice
+  value: '22407212'
+email: maristidou@parliament.cy
 gender: female
 identifiers:
 - identifier: null

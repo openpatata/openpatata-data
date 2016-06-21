@@ -2,7 +2,12 @@ _id: georgiou-t-giorgos
 _sources:
 - http://neavouli.eu/person/83
 birth_date: ''
-email: null
+contact_details:
+- type: email
+  value: geogeorgiou@parliament.cy
+- type: voice
+  value: '22407260'
+email: geogeorgiou@parliament.cy
 gender: male
 identifiers:
 - identifier: null

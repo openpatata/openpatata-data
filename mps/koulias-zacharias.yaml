@@ -9,6 +9,8 @@ contact_details:
   value: zkoulias@parliament.cy
 - type: email
   value: z.koulias@cytanet.com.cy
+- type: voice
+  value: '22407240'
 dofi: null
 email: zkoulias@parliament.cy
 gender: male

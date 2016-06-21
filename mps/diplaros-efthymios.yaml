@@ -9,6 +9,8 @@ contact_details:
   value: ediplaros@parliament.cy
 - type: email
   value: e.diplaros@cytanet.com.cy
+- type: voice
+  value: '22407209'
 dofi: null
 email: ediplaros@parliament.cy
 gender: male

@@ -8,6 +8,8 @@ contact_details:
   value: andkyprianou@parliament.cy
 - type: email
   value: andreas@akyprianou.com
+- type: voice
+  value: '22407203'
 dofi: null
 email: andkyprianou@parliament.cy
 gender: male

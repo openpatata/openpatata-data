@@ -8,6 +8,8 @@ contact_details:
   value: avotsis@parliament.cy
 - type: email
   value: vangelos@spidernet.com.cy
+- type: voice
+  value: '22407239'
 dofi: null
 email: avotsis@parliament.cy
 gender: male

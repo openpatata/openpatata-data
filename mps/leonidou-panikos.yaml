@@ -2,7 +2,14 @@ _id: leonidou-panikos
 _sources:
 - http://neavouli.eu/person/231
 birth_date: '1959'
-email: panleon@cytanet.com.cy
+contact_details:
+- type: email
+  value: panleon@cytanet.com.cy
+- type: email
+  value: pleonidou@parliament.cy
+- type: voice
+  value: '22407222'
+email: pleonidou@parliament.cy
 gender: male
 identifiers:
 - identifier: null

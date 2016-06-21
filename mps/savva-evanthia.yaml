@@ -2,7 +2,12 @@ _id: savva-evanthia
 _sources:
 - http://neavouli.eu/person/19
 birth_date: '1964'
-email: null
+contact_details:
+- type: email
+  value: esavva@parliament.cy
+- type: voice
+  value: '22407251'
+email: esavva@parliament.cy
 gender: female
 identifiers:
 - identifier: null

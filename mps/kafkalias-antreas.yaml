@@ -9,6 +9,8 @@ contact_details:
   value: akafkalias@parliament.cy
 - type: email
   value: a.kafkalias@cytanet.com.cy
+- type: voice
+  value: '22407254'
 dofi: null
 email: akafkalias@parliament.cy
 gender: male

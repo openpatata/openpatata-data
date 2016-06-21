@@ -2,7 +2,14 @@ _id: giorgallas-michalis
 _sources:
 - http://neavouli.eu/person/360
 birth_date: ''
-email: mgiorgallas@yahoo.gr
+contact_details:
+- type: email
+  value: mgiorgallas@yahoo.gr
+- type: email
+  value: mgiorgallas@parliament.cy
+- type: voice
+  value: '22407228'
+email: mgiorgallas@parliament.cy
 gender: male
 identifiers:
 - identifier: null

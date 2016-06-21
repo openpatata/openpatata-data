@@ -12,6 +12,8 @@ contact_details:
   value: aadamou@logosnet.cy.net
 - type: email
   value: adamosad@spidernet.com.cy
+- type: voice
+  value: '22407245'
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_adamou_AKEL.pdf
 email: aadamou@parliament.cy
 gender: male

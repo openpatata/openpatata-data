@@ -9,6 +9,8 @@ contact_details:
   value: ctziovanis@parliament.cy
 - type: email
   value: christakisgiovanis@gmail.com
+- type: voice
+  value: '22407247'
 dofi: null
 email: ctziovanis@parliament.cy
 gender: male

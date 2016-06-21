@@ -11,6 +11,8 @@ contact_details:
   value: tornaritisn@gmail.com
 - type: email
   value: nicostorn@cytanet.com.cy
+- type: voice
+  value: '22407215'
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/n_tornaritis_DISI.pdf
 email: ntornaritis@parliament.cy
 gender: male

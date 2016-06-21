@@ -2,7 +2,14 @@ _id: orfanidis-christos
 _sources:
 - http://neavouli.eu/person/22
 birth_date: ''
-email: orphanidesch@gmail.com
+contact_details:
+- type: email
+  value: orphanidesch@gmail.com
+- type: email
+  value: corfanides@parliament.cy
+- type: voice
+  value: '22407440'
+email: corfanides@parliament.cy
 gender: male
 identifiers:
 - identifier: null

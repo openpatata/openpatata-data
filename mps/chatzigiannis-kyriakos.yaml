@@ -9,6 +9,8 @@ contact_details:
   value: khadjiyianni@parliament.cy
 - type: email
   value: khadjiyianni@cytanet.com.cy
+- type: voice
+  value: '22407217'
 dofi: null
 email: khadjiyianni@parliament.cy
 gender: male

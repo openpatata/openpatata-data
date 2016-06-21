@@ -9,6 +9,8 @@ contact_details:
   value: akyprianou@parliament.cy
 - type: email
   value: k.e.akel@cytanet.com.cy
+- type: voice
+  value: '22407253'
 dofi: null
 email: akyprianou@parliament.cy
 gender: male

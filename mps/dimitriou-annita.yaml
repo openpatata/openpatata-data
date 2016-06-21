@@ -2,7 +2,12 @@ _id: dimitriou-annita
 _sources:
 - http://neavouli.eu/person/127
 birth_date: ''
-email: null
+contact_details:
+- type: email
+  value: ademetriou@parliament.cy
+- type: voice
+  value: '22407210'
+email: ademetriou@parliament.cy
 gender: female
 identifiers:
 - identifier: null

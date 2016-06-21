@@ -9,6 +9,8 @@ contact_details:
   value: icharalambides@parliament.cy
 - type: email
   value: irene.pc@cytanet.com.cy
+- type: voice
+  value: '22407246'
 dofi: null
 email: icharalambides@parliament.cy
 gender: female

@@ -8,6 +8,8 @@ contact_details:
   value: mmavrides@parliament.cy
 - type: email
   value: m.mavrides@euc.ac.cy
+- type: voice
+  value: '22407219'
 dofi: null
 email: mmavrides@parliament.cy
 gender: male
