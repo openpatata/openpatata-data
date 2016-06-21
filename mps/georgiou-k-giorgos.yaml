@@ -1,4 +1,4 @@
-_id: georgiou-giorgos
+_id: georgiou-k-giorgos
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/313
 - http://neavouli.eu/person/15
@@ -8,6 +8,8 @@ contact_details:
   value: gegeorgiou@parliament.cy
 - type: email
   value: odysseas1@cytanet.com.cy
+- type: voice
+  value: '22407248'
 dofi: null
 email: gegeorgiou@parliament.cy
 gender: male
@@ -24,9 +26,9 @@ links:
     tr: Parlemento websitesindeki sayfa
   url: http://www.parliament.cy/easyconsole.cfm/id/313
 name:
-  el: Γεωργίου Γιώργος
-  en: Georgiou Giorgos
-  tr: Yeoryíu Yórgos
+  el: Γεωργίου Κ. Γιώργος
+  en: Georgiou K. Giorgos
+  tr: Yeoryíu K. Yórgos
 other_names:
 - name: Georgiou Giorgos
   note: Official spelling in the 'en' locale; possibly anglicised
