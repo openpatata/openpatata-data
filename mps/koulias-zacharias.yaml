@@ -12,6 +12,12 @@ contact_details:
   value: z.koulias@cytanet.com.cy
 - type: voice
   value: (+357) 22 407240
+- type: address
+  value: Τ.Θ. 40659, 6306 Λάρνακα
+- type: voice
+  value: (+357) 24 626220
+- type: fax
+  value: (+357) 24 654638
 dofi: null
 email: zkoulias@parliament.cy
 gender: male

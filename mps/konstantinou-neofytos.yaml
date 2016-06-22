@@ -7,6 +7,14 @@ contact_details:
   value: nconstantinou@parliament.cy
 - type: email
   value: dico@org.cy
+- type: address
+  value: Τ.Θ. 23979, 1687 Λευκωσία
+- type: voice
+  value: (+357) 22 407231
+- type: voice
+  value: (+357) 22 871035
+- type: fax
+  value: (+357) 22 661938
 dofi: null
 email: nconstantinou@parliament.cy
 gender: male

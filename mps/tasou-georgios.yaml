@@ -8,6 +8,14 @@ contact_details:
   value: gtasou@parliament.cy
 - type: email
   value: g.tasou@cytanet.com.cy
+- type: address
+  value: Μ. Καλομοίρη 4, 6017 Λάρνακα
+- type: voice
+  value: (+357) 22 407218
+- type: voice
+  value: (+357) 24 656767
+- type: fax
+  value: (+357) 24 621766
 dofi: null
 email: gtasou@parliament.cy
 gender: male

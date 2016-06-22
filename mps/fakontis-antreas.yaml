@@ -12,6 +12,14 @@ contact_details:
   value: facontis@cytanet.com.cy
 - type: voice
   value: (+357) 22 407257
+- type: address
+  value: Παλλάδος 4, 8046 Πάφος
+- type: voice
+  value: (+357) 26 932144
+- type: fax
+  value: (+357) 26 943531
+- type: fax
+  value: (+357) 26 923679
 dofi: null
 email: afakontis@parliament.cy
 gender: male

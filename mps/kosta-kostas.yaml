@@ -12,6 +12,10 @@ contact_details:
   value: costascosta.z@gmail.com
 - type: voice
   value: (+357) 22 407250
+- type: address
+  value: Σταυραετού Μαχαιρά 16, 4104 Άγιος Αθανάσιος
+- type: fax
+  value: (+357) 25 751486
 dofi: null
 email: ccosta@parliament.cy
 gender: male

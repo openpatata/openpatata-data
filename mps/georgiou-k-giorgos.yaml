@@ -11,6 +11,12 @@ contact_details:
   value: odysseas1@cytanet.com.cy
 - type: voice
   value: (+357) 22 407248
+- type: address
+  value: Σίμου Μενάρδου 3, 6015 Λάρνακα
+- type: voice
+  value: (+357) 24 652821
+- type: fax
+  value: (+357) 24 623031
 dofi: null
 email: gegeorgiou@parliament.cy
 gender: male
@@ -31,7 +37,7 @@ name:
   en: Georgiou K. Giorgos
   tr: Yeoryíu K. Yórgos
 other_names:
-- name: Georgiou Giorgos
+- name: Georgiou K. Giorgos
   note: Official spelling in the 'en' locale; possibly anglicised
 tenures:
 - electoral_district_id: larnaka

@@ -12,6 +12,10 @@ contact_details:
   value: irene.pc@cytanet.com.cy
 - type: voice
   value: (+357) 22 407246
+- type: address
+  value: Λάμπρου Κατσώνη 15, 2414 Έγκωμη
+- type: fax
+  value: (+357) 22 407291
 dofi: null
 email: icharalambides@parliament.cy
 gender: female

@@ -4,8 +4,18 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2012
 birth_date: '1963-06-15'
 contact_details:
+- type: address
+  value: Τ.Θ. 22006, 1516 Λευκωσία
+- type: address
+  value: Ευρωπαϊκό Πανεπιστήμιο Κύπρου, Διογένους 6, 2404 Έγκωμη
+- type: voice
+  value: (+357) 22 407244
+- type: fax
+  value: (+357) 22 713156
 - type: email
   value: cpapageorgiou@parliament.cy
+- type: email
+  value: B.Papageorgiou@euc.ac.cy
 dofi: null
 email: cpapageorgiou@parliament.cy
 gender: male

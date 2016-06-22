@@ -8,6 +8,16 @@ contact_details:
   value: sfittis@parliament.cy
 - type: email
   value: fyttis@cytanet.com.cy
+- type: address
+  value: Λαπήθου 7, 2412 Έγκωμη
+- type: voice
+  value: (+357) 22 407226
+- type: voice
+  value: (+357) 22 873871
+- type: voice
+  value: (+357) 22 356135 (οικίας)
+- type: fax
+  value: (+357) 22 350695
 dofi: null
 email: sfittis@parliament.cy
 gender: male

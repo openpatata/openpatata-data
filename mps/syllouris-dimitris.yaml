@@ -15,6 +15,18 @@ contact_details:
   value: sylouris@cytanet.com.cy
 - type: voice
   value: (+357) 22 407301
+- type: address
+  value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
+- type: fax
+  value: (+357) 22 677201
+- type: address
+  value: Στασάνδρου 27, 1060 Λευκωσία
+- type: voice
+  value: (+357) 22 407221
+- type: voice
+  value: (+357) 22 757234
+- type: fax
+  value: (+357) 22 375690
 dofi: null
 email: dsyllouris@parliament.cy
 gender: male

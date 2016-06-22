@@ -14,6 +14,12 @@ contact_details:
   value: nicostorn@cytanet.com.cy
 - type: voice
   value: (+357) 22 407215
+- type: address
+  value: Τ.Θ. 20342, 2151 Λευκωσία
+- type: voice
+  value: (+357) 22 665616
+- type: fax
+  value: (+357) 22 671166
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/n_tornaritis_DISI.pdf
 email: ntornaritis@parliament.cy
 gender: male

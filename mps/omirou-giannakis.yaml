@@ -3,8 +3,12 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/187
 birth_date: '1951-09-18'
 contact_details:
-- type: email
-  value: president@parliament.cy
+- type: address
+  value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
+- type: voice
+  value: (+357) 22 407301
+- type: fax
+  value: (+357) 22 677201
 - type: email
   value: yomirou@parliament.cy
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/G_Omirou.pdf

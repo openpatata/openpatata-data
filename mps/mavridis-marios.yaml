@@ -11,6 +11,12 @@ contact_details:
   value: m.mavrides@euc.ac.cy
 - type: voice
   value: (+357) 22 407219
+- type: address
+  value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
+- type: voice
+  value: (+357) 22 480523
+- type: fax
+  value: (+357) 22 480523
 dofi: null
 email: mmavrides@parliament.cy
 gender: male

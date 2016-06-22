@@ -10,6 +10,10 @@ contact_details:
   value: nnouris@parliament.cy
 - type: voice
   value: (+357) 22 407235
+- type: address
+  value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
+- type: fax
+  value: (+357) 22 407388
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/n_nouris_DISI.pdf
 email: nnouris@parliament.cy
 gender: male

@@ -6,6 +6,16 @@ birth_date: '1957-10-01'
 contact_details:
 - type: email
   value: fsarikas@parliament.cy
+- type: address
+  value: Π. Μιχαηλά 1, 8047 Πάφος
+- type: voice
+  value: (+357) 22 407440
+- type: voice
+  value: (+357) 26 932336
+- type: voice
+  value: (+357) 26 937878
+- type: fax
+  value: (+357) 26 945042
 dofi: null
 email: fsarikas@parliament.cy
 gender: male

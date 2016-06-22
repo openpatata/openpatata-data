@@ -11,6 +11,12 @@ contact_details:
   value: andreas@akyprianou.com
 - type: voice
   value: (+357) 22 407203
+- type: address
+  value: Αρχιεπισκόπου Μακαρίου και Νίκου Γκύζη 2, 3060 Λεμεσός
+- type: voice
+  value: (+357) 25 577555
+- type: fax
+  value: (+357) 25 577533
 dofi: null
 email: andkyprianou@parliament.cy
 gender: male

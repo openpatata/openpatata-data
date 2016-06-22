@@ -8,6 +8,16 @@ contact_details:
   value: nnikolaides@parliament.cy
 - type: email
   value: nnicolaides@logos.cy.net
+- type: address
+  value: Καποδίστρια 61, 3032 Λεμεσός
+- type: voice
+  value: (+357) 22 407220
+- type: voice
+  value: (+357) 25 375706
+- type: fax
+  value: (+357) 25 341896
+- type: fax
+  value: (+357) 25 824580
 dofi: null
 email: nnikolaides@parliament.cy
 gender: male

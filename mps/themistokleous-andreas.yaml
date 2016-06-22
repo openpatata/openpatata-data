@@ -8,6 +8,14 @@ contact_details:
   value: athemistocleous@parliament.cy
 - type: email
   value: themistocleousandreas@hotmail.com
+- type: address
+  value: Ασίας 60, 3048 Λεμεσός
+- type: voice
+  value: (+357) 22 407204
+- type: voice
+  value: (+357) 25 356505
+- type: fax
+  value: (+357) 25 376363
 dofi: null
 email: athemistocleous@parliament.cy
 gender: male

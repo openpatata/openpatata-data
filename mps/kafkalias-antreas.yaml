@@ -12,6 +12,12 @@ contact_details:
   value: a.kafkalias@cytanet.com.cy
 - type: voice
   value: (+357) 22 407254
+- type: address
+  value: Γεωργίου Φραγκούδη 9Β, 3061 Λεμεσός
+- type: voice
+  value: (+357) 25 370404
+- type: fax
+  value: (+357) 25 662455
 dofi: null
 email: akafkalias@parliament.cy
 gender: male

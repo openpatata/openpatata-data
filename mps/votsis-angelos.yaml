@@ -11,6 +11,12 @@ contact_details:
   value: vangelos@spidernet.com.cy
 - type: voice
   value: (+357) 22 407239
+- type: address
+  value: Δωδεκανήσου 19, 3021 Λεμεσός
+- type: voice
+  value: (+357) 25 341123
+- type: fax
+  value: (+357) 25 341926
 dofi: null
 email: avotsis@parliament.cy
 gender: male

@@ -9,6 +9,16 @@ contact_details:
   value: amisos@parliament.cy
 - type: email
   value: aristotelis.misos@yahoo.gr
+- type: address
+  value: Πλατεία Βασιλέως Παύλου 39, 3ος όροφος, Διαμ. 31, 6023 Λάρνακα
+- type: voice
+  value: (+357) 22 407256
+- type: voice
+  value: (+357) 24 623706
+- type: voice
+  value: (+357) 24 626220
+- type: fax
+  value: (+357) 24 654638
 dofi: null
 email: amisos@parliament.cy
 gender: male

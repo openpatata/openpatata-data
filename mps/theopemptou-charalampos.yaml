@@ -11,6 +11,10 @@ contact_details:
   value: theopemptou@gmail.com
 - type: voice
   value: (+357) 22 407226
+- type: address
+  value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
+- type: fax
+  value: (+357) 22 407430
 email: ctheopemptou@parliament.cy
 gender: male
 identifiers:

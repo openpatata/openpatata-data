@@ -6,12 +6,18 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1963-08-22'
 contact_details:
+- type: address
+  value: Κοκκίνου Πατρόκλου 000, 5523 Δασάκι Άχνας
+- type: voice
+  value: (+357) 22 407217
+- type: voice
+  value: (+357) 99 592323
+- type: fax
+  value: (+357) 23 828702
 - type: email
   value: khadjiyianni@parliament.cy
 - type: email
   value: khadjiyianni@cytanet.com.cy
-- type: voice
-  value: (+357) 22 407217
 dofi: null
 email: khadjiyianni@parliament.cy
 gender: male

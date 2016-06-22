@@ -12,6 +12,12 @@ contact_details:
   value: nicholas@papadopoulos.com.cy
 - type: voice
   value: (+357) 22 407439
+- type: address
+  value: Σοφούλη 2, 2ος όροφος, 1096 Λευκωσία
+- type: voice
+  value: (+357) 22 369999
+- type: fax
+  value: (+357) 22 669090
 dofi: null
 email: npapadopoulos@parliament.cy
 gender: male

@@ -9,6 +9,12 @@ contact_details:
   value: pprodromou@parliament.cy
 - type: email
   value: ppmail@cytanet.com.cy
+- type: address
+  value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
+- type: voice
+  value: (+357) 22 407232
+- type: fax
+  value: (+357) 22 375800
 dofi: null
 email: pprodromou@parliament.cy
 gender: male

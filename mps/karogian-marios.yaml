@@ -7,6 +7,16 @@ contact_details:
   value: mgaroyan@parliament.cy
 - type: email
   value: diko@diko.org.cy
+- type: address
+  value: Γρίβα Διγενή 50, 1080 Λευκωσία
+- type: voice
+  value: (+357) 22 407229
+- type: voice
+  value: (+357) 22 873800
+- type: voice
+  value: (+357) 22 791011
+- type: fax
+  value: (+357) 22 873801
 dofi: null
 email: mgaroyan@parliament.cy
 gender: male

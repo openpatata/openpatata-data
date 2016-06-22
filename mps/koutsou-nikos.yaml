@@ -8,6 +8,16 @@ contact_details:
   value: nkoutsou@parliament.cy
 - type: email
   value: europaiko.komma@cytanet.com.cy
+- type: address
+  value: Λήδρας 57, Γραφείο 5, 1011 Λευκωσία
+- type: voice
+  value: (+357) 22 407205
+- type: voice
+  value: (+357) 22 680413
+- type: voice
+  value: (+357) 22 460033
+- type: fax
+  value: (+357) 22 668692
 dofi: null
 email: nkoutsou@parliament.cy
 gender: male
@@ -23,6 +33,11 @@ links:
     en: Page on Parliament website
     tr: Parlemento websitesindeki sayfa
   url: http://www.parliament.cy/easyconsole.cfm/id/370
+- note:
+    el: Blog
+    en: Blog
+    tr: Blog
+  url: http://nkoutsou.blogspot.com/
 name:
   el: Κουτσού Νίκος
   en: Koutsou Nikos

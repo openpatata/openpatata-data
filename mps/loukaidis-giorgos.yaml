@@ -13,6 +13,12 @@ contact_details:
   value: gloukaides@akel.org.cy
 - type: voice
   value: (+357) 22 407234
+- type: address
+  value: Εζεκία Παπαϊωάννου 4, 1075 Λευκωσία
+- type: voice
+  value: (+357) 22 761121
+- type: fax
+  value: (+357) 22 589503
 dofi: null
 email: gloukaides@parliament.cy
 gender: male

@@ -12,6 +12,12 @@ contact_details:
   value: christakisgiovanis@gmail.com
 - type: voice
   value: (+357) 22 407247
+- type: address
+  value: Τ.Θ. 33480, 5314 Παραλίμνι
+- type: voice
+  value: (+357) 23 832444
+- type: fax
+  value: (+357) 23 831969
 dofi: null
 email: ctziovanis@parliament.cy
 gender: male

@@ -12,6 +12,12 @@ contact_details:
   value: k.e.akel@cytanet.com.cy
 - type: voice
   value: (+357) 22 407253
+- type: address
+  value: Τ.Θ. 21827, 1513 Λευκωσία
+- type: voice
+  value: (+357) 22 761121
+- type: fax
+  value: (+357) 22 764725
 dofi: null
 email: akyprianou@parliament.cy
 gender: male
@@ -32,7 +38,7 @@ links:
     el: twitter
     en: twitter
     tr: twitter
-  url: https://twitter.com/gensecakel
+  url: https://twitter.com/GenSecAKEL
 name:
   el: Κυπριανού Άντρος
   en: Kyprianou Antros

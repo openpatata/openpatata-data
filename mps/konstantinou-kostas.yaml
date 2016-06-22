@@ -11,6 +11,14 @@ contact_details:
   value: c.constantinou@yahoo.com
 - type: voice
   value: (+357) 22 407208
+- type: address
+  value: Τ.Θ. 60327, 8101 Πάφος
+- type: voice
+  value: (+357) 26 936320
+- type: voice
+  value: (+357) 26 936256
+- type: fax
+  value: (+357) 26 937948
 dofi: null
 email: cconstantinou@parliament.cy
 gender: male

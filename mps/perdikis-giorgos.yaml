@@ -12,6 +12,14 @@ contact_details:
   value: greenparty@cytanet.com.cy
 - type: voice
   value: (+357) 22 407242
+- type: address
+  value: Τ.Θ. 29682, 1722 Λευκωσία
+- type: voice
+  value: (+357) 22 518787
+- type: fax
+  value: (+357) 22 407430
+- type: fax
+  value: (+357) 22 512710
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/g_perdikis_KEP.pdf
 email: gperdikes@parliament.cy
 gender: male

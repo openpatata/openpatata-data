@@ -4,6 +4,14 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2018
 birth_date: '1965-08-06'
 contact_details:
+- type: address
+  value: Γεωργίου Τυρίμου 1, Διαμ. 21, 1101 Λευκωσία
+- type: voice
+  value: (+357) 22 407216
+- type: voice
+  value: (+357) 22 590217
+- type: fax
+  value: (+357) 22 590203
 - type: email
   value: ssampson@parliament.cy
 - type: email

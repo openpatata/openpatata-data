@@ -7,6 +7,14 @@ contact_details:
   value: aantoniou@parliament.cy
 - type: email
   value: antonischryso@cytanet.com.cy
+- type: address
+  value: Λεωφ. Ελλάδος 36, Διαμ. 201, 8020 Πάφος
+- type: voice
+  value: (+357) 22 407222
+- type: voice
+  value: (+357) 26 822500
+- type: fax
+  value: (+357) 26 811495
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_antoniou_DIKO.pdf
 email: aantoniou@parliament.cy
 gender: male

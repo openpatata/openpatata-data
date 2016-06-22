@@ -7,6 +7,14 @@ contact_details:
   value: ycavriel@parliament.cy
 - type: email
   value: giannakis.gavriel@cytanet.com.cy
+- type: address
+  value: Αρχιμήδους 4, 5380 Δερύνεια
+- type: voice
+  value: (+357) 22 407259
+- type: voice
+  value: (+357) 23 743000
+- type: fax
+  value: (+357) 23 743333
 dofi: null
 email: ycavriel@parliament.cy
 gender: male

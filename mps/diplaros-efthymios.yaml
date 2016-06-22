@@ -12,6 +12,16 @@ contact_details:
   value: e.diplaros@cytanet.com.cy
 - type: voice
   value: (+357) 22 407209
+- type: address
+  value: Ηροδότου 16, 3095 Λεμεσός
+- type: voice
+  value: (+357) 25 822966
+- type: fax
+  value: (+357) 25 343031
+- type: address
+  value: Λεοντίου Αˊ 187, 3ος όροφος, 3020 Λεμεσός
+- type: fax
+  value: (+357) 25 333385
 dofi: null
 email: ediplaros@parliament.cy
 gender: male

@@ -11,6 +11,12 @@ contact_details:
   value: z.zachariou@cytanet.com.cy
 - type: voice
   value: (+357) 22 407211
+- type: address
+  value: Γλάδστωνος 27, Σοφιάνα Κωρτ, 6023 Λάρνακα
+- type: voice
+  value: (+357) 24 627828
+- type: fax
+  value: (+357) 24 628060
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/z_zachariou_DISI.pdf
 email: zzachariou@parliament.cy
 gender: male

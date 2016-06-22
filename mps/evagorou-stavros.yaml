@@ -7,6 +7,12 @@ contact_details:
   value: sevagorou@parliament.cy
 - type: email
   value: sevagorou@akel.org.cy
+- type: address
+  value: Γρηγόρη Αυξεντίου 1, 1096 Λευκωσία
+- type: voice
+  value: (+357) 22 407258
+- type: fax
+  value: (+357) 22 752933
 dofi: null
 email: sevagorou@parliament.cy
 gender: male

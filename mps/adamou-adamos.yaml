@@ -15,6 +15,14 @@ contact_details:
   value: adamosad@spidernet.com.cy
 - type: voice
   value: (+357) 22 407245
+- type: address
+  value: Λαπήθου 24, 2410 Έγκωμη
+- type: address
+  value: Κασσιανής 9Α, 3067 Λεμεσός
+- type: voice
+  value: (+357) 22 514335
+- type: fax
+  value: (+357) 22 514337
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_adamou_AKEL.pdf
 email: aadamou@parliament.cy
 gender: male

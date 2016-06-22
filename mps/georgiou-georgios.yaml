@@ -11,6 +11,12 @@ contact_details:
   value: ggeorgiou_mp@yahoo.com
 - type: voice
   value: (+357) 22 407207
+- type: address
+  value: Τ.Θ. 40985, 6308 Λάρνακα
+- type: voice
+  value: (+357) 24 659444
+- type: fax
+  value: (+357) 24 628498
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/g_georgiou_DISI.pdf
 email: ggeorgiou@parliament.cy
 gender: male
@@ -31,6 +37,11 @@ links:
     en: twitter
     tr: twitter
   url: https://twitter.com/GeorgeKGeorgiou
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Personal website
+    tr: Kişisel websitesi
+  url: http://www.georgekgeorgiou.com
 name:
   el: Γεωργίου Γεώργιος
   en: Georgiou Georgios

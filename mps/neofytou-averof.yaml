@@ -12,6 +12,12 @@ contact_details:
   value: averof@disy.org.cy
 - type: voice
   value: (+357) 22 407230
+- type: address
+  value: Τ.Θ. 25305, 1308 Λευκωσία
+- type: voice
+  value: (+357) 22 883151
+- type: fax
+  value: (+357) 22 753821
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_neophytou_DISI.pdf
 email: aneofytou@parliament.cy
 gender: male
