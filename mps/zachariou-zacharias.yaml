@@ -2,6 +2,7 @@ _id: zachariou-zacharias
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/364
 - http://neavouli.eu/person/128
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1963-12-13'
 contact_details:
 - type: email
@@ -9,7 +10,7 @@ contact_details:
 - type: email
   value: z.zachariou@cytanet.com.cy
 - type: voice
-  value: '22407211'
+  value: (+357) 22 407211
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/z_zachariou_DISI.pdf
 email: zzachariou@parliament.cy
 gender: male

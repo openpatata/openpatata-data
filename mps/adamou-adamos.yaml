@@ -4,6 +4,7 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/305
 - http://neavouli.eu/person/82
 - http://www.parliament.cy/easyconsole.cfm/id/2054
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1950-10-30'
 contact_details:
 - type: email
@@ -13,7 +14,7 @@ contact_details:
 - type: email
   value: adamosad@spidernet.com.cy
 - type: voice
-  value: '22407245'
+  value: (+357) 22 407245
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_adamou_AKEL.pdf
 email: aadamou@parliament.cy
 gender: male

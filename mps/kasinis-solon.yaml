@@ -1,12 +1,13 @@
 _id: kasinis-solon
 _sources:
 - http://neavouli.eu/person/201
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: ''
 contact_details:
 - type: email
   value: skassinis@parliament.cy
 - type: voice
-  value: '22407216'
+  value: (+357) 22 407216
 email: skassinis@parliament.cy
 gender: male
 identifiers:

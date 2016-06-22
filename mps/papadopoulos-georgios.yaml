@@ -1,12 +1,13 @@
 _id: papadopoulos-georgios
 _sources:
 - http://neavouli.eu/person/356
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: ''
 contact_details:
 - type: email
   value: gpapadopoulos@parliament.cy
 - type: voice
-  value: '22407221'
+  value: (+357) 22 407221
 email: gpapadopoulos@parliament.cy
 gender: male
 identifiers:

@@ -1,12 +1,13 @@
 _id: christou-christos
 _sources:
 - http://neavouli.eu/person/470
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: ''
 contact_details:
 - type: email
   value: cchristou@parliament.cy
 - type: voice
-  value: '22407214'
+  value: (+357) 22 407214
 email: cchristou@parliament.cy
 gender: male
 identifiers:

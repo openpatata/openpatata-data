@@ -3,6 +3,7 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/372
 - http://neavouli.eu/person/110
 - http://www.parliament.cy/easyconsole.cfm/id/2080
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1955-10-26'
 contact_details:
 - type: email
@@ -10,7 +11,7 @@ contact_details:
 - type: email
   value: k.e.akel@cytanet.com.cy
 - type: voice
-  value: '22407253'
+  value: (+357) 22 407253
 dofi: null
 email: akyprianou@parliament.cy
 gender: male

@@ -4,6 +4,7 @@ _sources:
 - http://neavouli.eu/person/318
 - http://www.parliament.cy/easyconsole.cfm/id/2050
 - http://www.parliament.cy/easyconsole.cfm/id/2023
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1953-07-27'
 contact_details:
 - type: email
@@ -13,7 +14,7 @@ contact_details:
 - type: email
   value: sylouris@cytanet.com.cy
 - type: voice
-  value: '22407301'
+  value: (+357) 22 407301
 dofi: null
 email: dsyllouris@parliament.cy
 gender: male

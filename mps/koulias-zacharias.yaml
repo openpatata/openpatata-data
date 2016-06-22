@@ -3,6 +3,7 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/259
 - http://www.parliament.cy/easyconsole.cfm/id/369
 - http://neavouli.eu/person/219
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1950-12-07'
 contact_details:
 - type: email
@@ -10,7 +11,7 @@ contact_details:
 - type: email
   value: z.koulias@cytanet.com.cy
 - type: voice
-  value: '22407240'
+  value: (+357) 22 407240
 dofi: null
 email: zkoulias@parliament.cy
 gender: male

@@ -2,6 +2,7 @@ _id: loukaidis-giorgos
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/390
 - http://neavouli.eu/person/65
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1968-12-05'
 contact_details:
 - type: email
@@ -11,7 +12,7 @@ contact_details:
 - type: email
   value: gloukaides@akel.org.cy
 - type: voice
-  value: '22407234'
+  value: (+357) 22 407234
 dofi: null
 email: gloukaides@parliament.cy
 gender: male

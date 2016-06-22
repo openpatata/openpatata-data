@@ -3,12 +3,13 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/398
 - http://neavouli.eu/person/208
 - http://www.parliament.cy/easyconsole.cfm/id/2011
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1960-11-14'
 contact_details:
 - type: email
   value: nnouris@parliament.cy
 - type: voice
-  value: '22407235'
+  value: (+357) 22 407235
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/n_nouris_DISI.pdf
 email: nnouris@parliament.cy
 gender: male

@@ -2,12 +2,13 @@ _id: damianou-aristos
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/360
 - http://neavouli.eu/person/11
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1972-06-03'
 contact_details:
 - type: email
   value: adamianou@parliament.cy
 - type: voice
-  value: '22407249'
+  value: (+357) 22 407249
 dofi: null
 email: adamianou@parliament.cy
 gender: male

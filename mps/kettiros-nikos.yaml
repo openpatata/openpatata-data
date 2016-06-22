@@ -1,12 +1,13 @@
 _id: kettiros-nikos
 _sources:
 - http://neavouli.eu/person/119
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1974'
 contact_details:
 - type: email
   value: nkettiros@parliament.cy
 - type: voice
-  value: '22407259'
+  value: (+357) 22 407259
 email: nkettiros@parliament.cy
 gender: male
 identifiers:

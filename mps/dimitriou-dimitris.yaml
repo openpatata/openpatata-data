@@ -1,12 +1,13 @@
 _id: dimitriou-dimitris
 _sources:
 - http://neavouli.eu/person/7
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1981'
 contact_details:
 - type: email
   value: ddemetriou@parliament.cy
 - type: voice
-  value: '22407218'
+  value: (+357) 22 407218
 email: ddemetriou@parliament.cy
 gender: male
 identifiers:

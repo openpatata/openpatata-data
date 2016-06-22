@@ -1,12 +1,13 @@
 _id: georgiou-t-giorgos
 _sources:
 - http://neavouli.eu/person/83
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: ''
 contact_details:
 - type: email
   value: geogeorgiou@parliament.cy
 - type: voice
-  value: '22407260'
+  value: (+357) 22 407260
 email: geogeorgiou@parliament.cy
 gender: male
 identifiers:

@@ -1,12 +1,13 @@
 _id: karoullas-giorgos
 _sources:
 - http://neavouli.eu/person/179
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: ''
 contact_details:
 - type: email
   value: gkaroullas@parliament.cy
 - type: voice
-  value: '22407256'
+  value: (+357) 22 407256
 email: gkaroullas@parliament.cy
 gender: male
 identifiers:

@@ -1,6 +1,7 @@
 _id: giorgallas-michalis
 _sources:
 - http://neavouli.eu/person/360
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: ''
 contact_details:
 - type: email
@@ -8,7 +9,7 @@ contact_details:
 - type: email
   value: mgiorgallas@parliament.cy
 - type: voice
-  value: '22407228'
+  value: (+357) 22 407228
 email: mgiorgallas@parliament.cy
 gender: male
 identifiers:

@@ -1,11 +1,12 @@
 _id: machtesian-vartkes
-_sources: []
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: null
 contact_details:
 - type: email
   value: vmahdessian@parliament.cy
 - type: voice
-  value: '22407202'
+  value: (+357) 22 407202
 email: vmahdessian@parliament.cy
 gender: male
 identifiers:

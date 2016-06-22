@@ -1,6 +1,7 @@
 _id: lillikas-giorgos
 _sources:
 - http://neavouli.eu/person/370
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1960-06-01'
 contact_details:
 - type: email
@@ -8,7 +9,7 @@ contact_details:
 - type: email
   value: glillikas@parliament.cy
 - type: voice
-  value: '22407231'
+  value: (+357) 22 407231
 email: glillikas@parliament.cy
 gender: male
 identifiers:

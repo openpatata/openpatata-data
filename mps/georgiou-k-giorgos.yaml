@@ -2,6 +2,7 @@ _id: georgiou-k-giorgos
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/313
 - http://neavouli.eu/person/15
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1963-04-09'
 contact_details:
 - type: email
@@ -9,7 +10,7 @@ contact_details:
 - type: email
   value: odysseas1@cytanet.com.cy
 - type: voice
-  value: '22407248'
+  value: (+357) 22 407248
 dofi: null
 email: gegeorgiou@parliament.cy
 gender: male

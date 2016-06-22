@@ -3,6 +3,7 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/417
 - http://neavouli.eu/person/213
 - http://www.parliament.cy/easyconsole.cfm/id/2026
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1964-12-06'
 contact_details:
 - type: email
@@ -12,7 +13,7 @@ contact_details:
 - type: email
   value: nicostorn@cytanet.com.cy
 - type: voice
-  value: '22407215'
+  value: (+357) 22 407215
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/n_tornaritis_DISI.pdf
 email: ntornaritis@parliament.cy
 gender: male

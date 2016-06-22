@@ -3,6 +3,7 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/406
 - http://neavouli.eu/person/237
 - http://www.parliament.cy/easyconsole.cfm/id/2013
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1973-04-22'
 contact_details:
 - type: email
@@ -10,7 +11,7 @@ contact_details:
 - type: email
   value: nicholas@papadopoulos.com.cy
 - type: voice
-  value: '22407439'
+  value: (+357) 22 407439
 dofi: null
 email: npapadopoulos@parliament.cy
 gender: male

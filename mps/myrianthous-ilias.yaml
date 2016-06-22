@@ -1,12 +1,13 @@
 _id: myrianthous-ilias
 _sources:
 - http://neavouli.eu/person/116
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: null
 contact_details:
 - type: email
   value: emyrianthous@parliament.cy
 - type: voice
-  value: '22407261'
+  value: (+357) 22 407261
 email: emyrianthous@parliament.cy
 gender: male
 identifiers:

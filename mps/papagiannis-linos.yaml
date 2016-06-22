@@ -1,12 +1,13 @@
 _id: papagiannis-linos
 _sources:
 - http://neavouli.eu/person/451
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: ''
 contact_details:
 - type: email
   value: lpapayiannis@parliament.cy
 - type: voice
-  value: '22407206'
+  value: (+357) 22 407206
 email: lpapayiannis@parliament.cy
 gender: male
 identifiers:

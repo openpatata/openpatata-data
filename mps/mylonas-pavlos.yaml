@@ -1,6 +1,7 @@
 _id: mylonas-pavlos
 _sources:
 - http://neavouli.eu/person/401
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1967'
 contact_details:
 - type: email
@@ -8,7 +9,7 @@ contact_details:
 - type: email
   value: pmylonas@parliament.cy
 - type: voice
-  value: '22407233'
+  value: (+357) 22 407233
 email: pmylonas@parliament.cy
 gender: male
 identifiers:

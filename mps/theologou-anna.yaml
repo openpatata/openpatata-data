@@ -1,6 +1,7 @@
 _id: theologou-anna
 _sources:
 - http://neavouli.eu/person/387
+- http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1986'
 contact_details:
 - type: email
@@ -8,7 +9,7 @@ contact_details:
 - type: email
   value: atheologou@parliament.cy
 - type: voice
-  value: '22407205'
+  value: (+357) 22 407205
 email: atheologou@parliament.cy
 gender: female
 identifiers:
