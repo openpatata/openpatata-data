@@ -1,0 +1,24 @@
+_id: 2016-06-23_Ι_None_4
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/2120
+agenda:
+  cap1:
+  - 23.01.057.088-2016
+  - 23.03.053.041-2016
+  - 23.03.053.042-2016
+  - 23.01.055.013-2014
+  - 23.01.055.196-2014
+  - 23.01.055.197-2014
+  - 23.01.055.199-2014
+  - 23.01.055.200-2014
+  - 23.01.055.256-2014
+  cap2: []
+  cap4: []
+attendees: []
+date: '2016-06-23'
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/2120
+parliamentary_period_id: Ι
+session: null
+sitting: 4

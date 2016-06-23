@@ -1,0 +1,17 @@
+_id: 2016-06-16_Ι_None_3
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/2115
+agenda:
+  cap1:
+  - 23.01.054.028-2013
+  - 23.01.056.140-2015
+  cap2: []
+  cap4: []
+attendees: []
+date: '2016-06-16'
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/2115
+parliamentary_period_id: Ι
+session: null
+sitting: 3

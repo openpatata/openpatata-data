@@ -1,0 +1,15 @@
+_id: 2016-06-02_Ι_None_1
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/2041
+agenda:
+  cap1: []
+  cap2: []
+  cap4: []
+attendees: []
+date: '2016-06-02'
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/2041
+parliamentary_period_id: Ι
+session: null
+sitting: 1
