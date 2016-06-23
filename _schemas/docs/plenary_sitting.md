@@ -18,9 +18,13 @@
 
         A list of the numbers of documents on Chapter 4 of the agenda.
 
-* [required] **attendees** (`array [string]|boolean`)
+* [required] **attendees** (`array [object]`)
 
     A list of MPs who were present at the meeting.
+
+    * **mp_id** (`string`)
+
+        The `id` of the attending MP.
 
 * [required] **date** (`string`)
 

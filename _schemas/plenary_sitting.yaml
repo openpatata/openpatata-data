@@ -37,11 +37,13 @@ properties:
     - cap4
   attendees:
     description: A list of MPs who were present at the meeting.
-    type:
-    - array
-    - boolean
+    type: array
     items:
-      type: string
+      type: object
+      properties:
+        mp_id:
+          description: The `id` of the attending MP.
+          type: string
     minItems: 1
     not:
       enum:
