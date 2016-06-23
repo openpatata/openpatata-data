@@ -1,0 +1,73 @@
+_id: 2009-03-26_Θ_Γ_26
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2009-03-26.doc
+agenda:
+  cap1: []
+  cap2:
+  - 23.01.050.074-2009
+  - 23.01.050.075-2009
+  - 23.01.050.076-2009
+  - 23.01.050.077-2009
+  - 23.3.046.038-2009
+  - 23.03.045.116-2008
+  - 23.03.045.117-2008
+  - 23.03.045.118-2008
+  - 23.03.045.119-2008
+  - 23.03.045.120-2008
+  - 23.03.045.121-2008
+  - 23.03.045.122-2008
+  - 13.06.001
+  cap4: []
+attendees:
+- mp_id: angelidis-andreas
+- mp_id: akkelidou-ntina
+- mp_id: antoniou-antonis
+- mp_id: aristotelous-aristos
+- mp_id: varnava-giorgos
+- mp_id: votsis-angelos
+- mp_id: gavriil-giannakis
+- mp_id: georgiou-aristofanis
+- mp_id: dimitriou-misiaouli-stella
+- mp_id: erotokritou-rikkos
+- mp_id: themistokleous-andreas
+- mp_id: theocharous-eleni
+- mp_id: thoma-giannakis
+- mp_id: katsouridis-nikos
+- mp_id: kleanthous-nikos
+- mp_id: koukouma-koutra-skevi
+- mp_id: koulias-zacharias
+- mp_id: koutsou-nikos
+- mp_id: kyritsis-pampis
+- mp_id: kyriakidou-athina
+- mp_id: kyriakidou-stella
+- mp_id: kyriakou-maria
+- mp_id: konstantinou-kostas
+- mp_id: konstantinou-neofytos
+- mp_id: mavronikola-roula
+- mp_id: mavrochannas-klavdios
+- mp_id: mitsopoulos-tasos
+- mp_id: mouskallis-andreas
+- mp_id: nikolaou-ionas
+- mp_id: omirou-giannakis
+- mp_id: papadopoulou-antigoni
+- mp_id: perdikis-giorgos
+- mp_id: pourgouridis-christos
+- mp_id: sizopoulos-marinos
+- mp_id: stavrianos-panikkos
+- mp_id: stylianidis-christos
+- mp_id: syllouris-dimitris
+- mp_id: tasou-georgios
+- mp_id: tornaritis-nikos
+- mp_id: fakontis-antreas
+- mp_id: fyttis-sofoklis
+- mp_id: chatzigeorgiou-takis
+- mp_id: chatzigiannis-kyriakos
+- mp_id: chatzinikolas-ntinos
+- mp_id: christoforou-lefteris
+date: '2009-03-26'
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/praktiko2009-03-26.doc
+parliamentary_period_id: Θ
+session: Γ
+sitting: 26

@@ -1,0 +1,89 @@
+_id: 2003-11-13_Η_Γ_8
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2003-11-13.doc
+agenda:
+  cap1: []
+  cap2:
+  - 23.01.233.2003
+  - 23.01.235.2003
+  - 23.01.236.2003
+  - 23.01.237.2003
+  - 23.01.238.2003
+  - 23.03.200.2003
+  - 23.03.201.2003
+  - 23.03.202.2003
+  - 23.03.203.2003
+  - 23.03.204.2003
+  - 23.03.245.2002
+  - 23.03.140.2003
+  - 23.03.116.2000
+  - 23.03.057.2001
+  - 23.03.251.2002
+  - 23.03.158.2003
+  - 23.03.042.2003
+  - 23.03.067.2003
+  - 23.03.110.2003
+  - 23.03.043.2003
+  - 23.03.142.2003
+  - 23.02.074.2003
+  - 23.02.075.2003
+  - 23.02.076.2003
+  - 23.02.077.2003
+  - 23.02.078.2003
+  - 23.02.079.2003
+  - 23.02.080.2003
+  - 23.02.081.2003
+  cap4: []
+attendees:
+- mp_id: agapiou-agis
+- mp_id: angelidis-andreas
+- mp_id: adamou-adamos
+- mp_id: varnava-giorgos
+- mp_id: georgiou-aristofanis
+- mp_id: georgiou-georgios
+- mp_id: giankou-kikis
+- mp_id: dimitriou-panagiotis
+- mp_id: erotokritou-rikkos
+- mp_id: evagorou-stavros
+- mp_id: zachariou-zacharias
+- mp_id: thoma-giannakis
+- mp_id: karas-antonis
+- mp_id: kleanthous-nikos
+- mp_id: kliridis-christos
+- mp_id: koulias-zacharias
+- mp_id: kyprianou-antros
+- mp_id: kyriakou-maria
+- mp_id: konstantinou-neofytos
+- mp_id: lamaris-giannos
+- mp_id: lyssaridis-vasos
+- mp_id: mavrokordatos-christos
+- mp_id: mavrou-eleni
+- mp_id: michailidis-thasos
+- mp_id: michailidis-ntinos
+- mp_id: nikolaou-ionas
+- mp_id: papadopoulou-antigoni
+- mp_id: papakostas-kostas
+- mp_id: papapolyviou-andreas
+- mp_id: perdikis-giorgos
+- mp_id: prodromou-prodromos
+- mp_id: sampson-sotiris
+- mp_id: sizopoulos-marinos
+- mp_id: syllouris-dimitris
+- mp_id: taramountas-christodoulos
+- mp_id: tornaritis-nikos
+- mp_id: tyrimos-kyriakos
+- mp_id: fyttis-sofoklis
+- mp_id: charalampous-sotiroula
+- mp_id: chatzigeorgiou-takis
+- mp_id: chatzinikolas-ntinos
+- mp_id: christodoulidis-doros
+- mp_id: christoforou-lefteris
+- mp_id: christofias-dimitris
+- mp_id: chrysostomou-aristos
+date: '2003-11-13'
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/praktiko2003-11-13.doc
+parliamentary_period_id: Η
+session: Γ
+sitting: 8

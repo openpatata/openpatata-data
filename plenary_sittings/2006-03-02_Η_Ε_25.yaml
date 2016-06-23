@@ -1,0 +1,82 @@
+_id: 2006-03-02_Η_Ε_25
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2006-03-02.doc
+agenda:
+  cap1: []
+  cap2:
+  - 23.01.083.2006
+  - 23.01.084.2006
+  - 23.01.085.2006
+  - 23.01.086.2006
+  - 23.01.087.2006
+  - 23.01.088.2006
+  - 23.01.089.2006
+  - 23.01.090.2006
+  - 23.01.091.2006
+  - 23.01.092.2006
+  - 23.01.093.2006
+  - 23.01.094.2006
+  - 23.03.087.2006
+  - 23.03.088.2006
+  - 23.03.089.2006
+  - 13.04.003
+  - 23.02.025.2006
+  - 23.02.026.2006
+  - 23.02.027.2006
+  cap4: []
+attendees:
+- mp_id: agapiou-agis
+- mp_id: angelidis-andreas
+- mp_id: varnava-giorgos
+- mp_id: vasileiou-androula
+- mp_id: georgiou-aristofanis
+- mp_id: georgiou-georgios
+- mp_id: giankou-kikis
+- mp_id: erotokritou-rikkos
+- mp_id: evagorou-stavros
+- mp_id: zachariou-zacharias
+- mp_id: thoma-giannakis
+- mp_id: karas-antonis
+- mp_id: katsouridis-nikos
+- mp_id: kleanthous-nikos
+- mp_id: kliridis-christos
+- mp_id: kliridou-kaiti
+- mp_id: koulias-zacharias
+- mp_id: kyprianou-antros
+- mp_id: kyriakidou-athina
+- mp_id: kyriakou-maria
+- mp_id: konstantinou-kostas
+- mp_id: konstantinou-neofytos
+- mp_id: lamaris-giannos
+- mp_id: mavrou-eleni
+- mp_id: michailidis-thasos
+- mp_id: michailidis-ntinos
+- mp_id: nikolaou-ionas
+- mp_id: omirou-giannakis
+- mp_id: papadopoulou-antigoni
+- mp_id: papakostas-kostas
+- mp_id: papapolyviou-andreas
+- mp_id: perdikis-giorgos
+- mp_id: pittokopitis-nikos
+- mp_id: prodromou-prodromos
+- mp_id: sampson-sotiris
+- mp_id: sizopoulos-marinos
+- mp_id: syllouris-dimitris
+- mp_id: tasou-georgios
+- mp_id: taramountas-christodoulos
+- mp_id: tornaritis-nikos
+- mp_id: tyrimos-kyriakos
+- mp_id: fyttis-sofoklis
+- mp_id: charalampous-sotiroula
+- mp_id: chatzigeorgiou-takis
+- mp_id: chatzinikolas-ntinos
+- mp_id: christoforou-lefteris
+- mp_id: christofias-dimitris
+- mp_id: chrysostomou-aristos
+date: '2006-03-02'
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/praktiko2006-03-02.doc
+parliamentary_period_id: Η
+session: Ε
+sitting: 25

@@ -1,0 +1,71 @@
+_id: 2005-07-07_Η_Δ_39
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2005-07-07.doc
+agenda:
+  cap1: []
+  cap2:
+  - 23.01.127.2005
+  - 23.01.128.2005
+  - 23.01.129.2005
+  - 23.01.130.2005
+  - 23.01.131.2005
+  - 23.01.132.2005
+  - 23.01.133.2005
+  - 23.01.134.2005
+  - 13.04.003
+  - 23.02.043.2005
+  - 23.02.044.2005
+  - 23.02.045.2005
+  cap4: []
+attendees:
+- mp_id: agapiou-agis
+- mp_id: angelidis-andreas
+- mp_id: varnava-giorgos
+- mp_id: vasileiou-androula
+- mp_id: georgiou-aristofanis
+- mp_id: georgiou-georgios
+- mp_id: giankou-kikis
+- mp_id: dimitriou-misiaouli-stella
+- mp_id: erotokritou-rikkos
+- mp_id: zachariou-zacharias
+- mp_id: thoma-giannakis
+- mp_id: karas-antonis
+- mp_id: katsouridis-nikos
+- mp_id: kleanthous-nikos
+- mp_id: kliridis-christos
+- mp_id: kliridou-kaiti
+- mp_id: koulias-zacharias
+- mp_id: kyriakidou-athina
+- mp_id: kyriakou-maria
+- mp_id: konstantinou-kostas
+- mp_id: konstantinou-neofytos
+- mp_id: lamaris-giannos
+- mp_id: lyssaridis-vasos
+- mp_id: mavrokordatos-christos
+- mp_id: michailidis-thasos
+- mp_id: michailidis-ntinos
+- mp_id: nikolaou-ionas
+- mp_id: omirou-giannakis
+- mp_id: papakostas-kostas
+- mp_id: papapolyviou-andreas
+- mp_id: perdikis-giorgos
+- mp_id: pittokopitis-nikos
+- mp_id: prodromou-prodromos
+- mp_id: sizopoulos-marinos
+- mp_id: syllouris-dimitris
+- mp_id: tasou-georgios
+- mp_id: taramountas-christodoulos
+- mp_id: tyrimos-kyriakos
+- mp_id: fyttis-sofoklis
+- mp_id: charalampous-sotiroula
+- mp_id: chatzigeorgiou-giorgos
+- mp_id: chatzigeorgiou-takis
+- mp_id: chatzinikolas-ntinos
+- mp_id: christofias-dimitris
+date: '2005-07-07'
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/praktiko2005-07-07.doc
+parliamentary_period_id: Η
+session: Δ
+sitting: 39

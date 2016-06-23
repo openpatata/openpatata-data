@@ -1,0 +1,75 @@
+_id: 2004-05-20_Η_Γ_35
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2004-05-20.doc
+agenda:
+  cap1: []
+  cap2:
+  - 23.01.248.2004
+  - 23.01.249.2004
+  - 23.03.191.2004
+  - 23.03.192.2004
+  - 23.03.193.2004
+  - 23.03.064.2004
+  - 13.04.003
+  - 23.02.040.2004
+  - 23.06.008.03.570
+  - 23.06.008.03.571
+  - 23.06.008.03.572
+  - 23.06.008.03.573
+  - 23.06.008.03.574
+  cap4: []
+attendees:
+- mp_id: angelidis-andreas
+- mp_id: adamou-adamos
+- mp_id: varnava-giorgos
+- mp_id: vasileiou-androula
+- mp_id: georgiou-aristofanis
+- mp_id: georgiou-georgios
+- mp_id: giankou-kikis
+- mp_id: erotokritou-rikkos
+- mp_id: evagorou-stavros
+- mp_id: zachariou-zacharias
+- mp_id: thoma-giannakis
+- mp_id: karas-antonis
+- mp_id: katsouridis-nikos
+- mp_id: kleanthous-nikos
+- mp_id: kliridis-christos
+- mp_id: koulias-zacharias
+- mp_id: kyprianou-antros
+- mp_id: kyriakou-maria
+- mp_id: konstantinou-kostas
+- mp_id: konstantinou-neofytos
+- mp_id: lamaris-giannos
+- mp_id: matsakis-marios
+- mp_id: mavrokordatos-christos
+- mp_id: mavrou-eleni
+- mp_id: michailidis-thasos
+- mp_id: nikolaou-ionas
+- mp_id: omirou-giannakis
+- mp_id: papadopoulou-antigoni
+- mp_id: papakostas-kostas
+- mp_id: papapolyviou-andreas
+- mp_id: perdikis-giorgos
+- mp_id: pittokopitis-nikos
+- mp_id: pourgouridis-christos
+- mp_id: sampson-sotiris
+- mp_id: sizopoulos-marinos
+- mp_id: tasou-georgios
+- mp_id: taramountas-christodoulos
+- mp_id: tornaritis-nikos
+- mp_id: tyrimos-kyriakos
+- mp_id: fyttis-sofoklis
+- mp_id: charalampous-sotiroula
+- mp_id: chatzigeorgiou-giorgos
+- mp_id: chatzigeorgiou-takis
+- mp_id: christodoulidis-doros
+- mp_id: christoforou-lefteris
+- mp_id: christofias-dimitris
+- mp_id: chrysostomou-aristos
+date: '2004-05-20'
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/praktiko2004-05-20.doc
+parliamentary_period_id: Η
+session: Γ
+sitting: 35

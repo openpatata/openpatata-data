@@ -1,0 +1,110 @@
+_id: 2006-02-16_Η_Ε_23
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2006-02-16.doc
+agenda:
+  cap1: []
+  cap2:
+  - 23.01.052.2006
+  - 23.01.053.2006
+  - 23.01.054.2006
+  - 23.01.055.2006
+  - 23.01.056.2006
+  - 23.01.057.2006
+  - 23.01.058.2006
+  - 23.01.059.2006
+  - 23.01.060.2006
+  - 23.01.061.2006
+  - 23.01.062.2006
+  - 23.01.063.2006
+  - 23.01.064.2006
+  - 23.01.065.2006
+  - 23.01.066.2006
+  - 23.01.067.2006
+  - 23.01.068.2006
+  - 23.01.069.2006
+  - 23.01.070.2006
+  - 23.01.071.2006
+  - 23.01.072.2006
+  - 23.03.057.2006
+  - 23.03.058.2006
+  - 23.03.059.2006
+  - 23.03.060.2006
+  - 23.03.061.2006
+  - 23.03.062.2006
+  - 23.03.063.2006
+  - 23.03.064.2006
+  - 23.03.065.2006
+  - 23.03.066.2006
+  - 23.03.067.2006
+  - 23.03.068.2006
+  - 23.03.069.2006
+  - 23.03.070.2006
+  - 23.03.071.2006
+  - 23.03.072.2006
+  - 23.03.073.2006
+  - 23.03.074.2006
+  - 23.03.075.2006
+  - 23.03.127.2005
+  - 23.03.141.2005
+  - 23.03.146.2005
+  - 23.03.147.2005
+  - 23.02.019.2006
+  - 23.02.020.2006
+  - 23.02.021.2006
+  cap4: []
+attendees:
+- mp_id: angelidis-andreas
+- mp_id: varnava-giorgos
+- mp_id: vasileiou-androula
+- mp_id: georgiou-aristofanis
+- mp_id: georgiou-georgios
+- mp_id: giankou-kikis
+- mp_id: dimitriou-misiaouli-stella
+- mp_id: erotokritou-rikkos
+- mp_id: evagorou-stavros
+- mp_id: zachariou-zacharias
+- mp_id: theocharous-eleni
+- mp_id: karas-antonis
+- mp_id: katsouridis-nikos
+- mp_id: kleanthous-nikos
+- mp_id: kliridou-kaiti
+- mp_id: koulias-zacharias
+- mp_id: kyprianou-antros
+- mp_id: kyriakou-maria
+- mp_id: konstantinou-kostas
+- mp_id: konstantinou-neofytos
+- mp_id: lamaris-giannos
+- mp_id: lyssaridis-vasos
+- mp_id: mavrokordatos-christos
+- mp_id: mavrou-eleni
+- mp_id: michailidis-thasos
+- mp_id: michailidis-ntinos
+- mp_id: nikolaou-ionas
+- mp_id: papadopoulou-antigoni
+- mp_id: papakostas-kostas
+- mp_id: papapolyviou-andreas
+- mp_id: perdikis-giorgos
+- mp_id: pittokopitis-nikos
+- mp_id: pourgouridis-christos
+- mp_id: sampson-sotiris
+- mp_id: sizopoulos-marinos
+- mp_id: syllouris-dimitris
+- mp_id: taramountas-christodoulos
+- mp_id: tornaritis-nikos
+- mp_id: tyrimos-kyriakos
+- mp_id: fyttis-sofoklis
+- mp_id: charalampous-sotiroula
+- mp_id: chatzigeorgiou-giorgos
+- mp_id: chatzigeorgiou-takis
+- mp_id: chatzinikolas-ntinos
+- mp_id: christodoulidis-doros
+- mp_id: christoforou-lefteris
+- mp_id: christofias-dimitris
+- mp_id: chrysostomou-aristos
+date: '2006-02-16'
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/praktiko2006-02-16.doc
+parliamentary_period_id: Η
+session: Ε
+sitting: 23

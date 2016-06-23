@@ -1,0 +1,111 @@
+_id: 2004-11-11_Η_Δ_5
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2004-11-11.doc
+agenda:
+  cap1: []
+  cap2:
+  - 23.01.339.2004
+  - 23.01.340.2004
+  - 23.01.341.2004
+  - 23.01.342.2004
+  - 23.01.343.2004
+  - 23.01.344.2004
+  - 23.01.345.2004
+  - 23.01.346.2004
+  - 23.01.347.2004
+  - 23.01.348.2004
+  - 23.01.349.2004
+  - 23.01.350.2004
+  - 23.01.351.2004
+  - 23.01.352.2004
+  - 23.03.249.2004
+  - 23.03.250.2004
+  - 23.03.251.2004
+  - 23.03.252.2004
+  - 23.03.253.2004
+  - 23.03.254.2004
+  - 13.04.003
+  - 23.02.071.2004
+  - 23.02.072.2004
+  - 23.02.073.2004
+  - 23.02.074.2004
+  - 23.06.008.04.382
+  - 23.06.008.04.383
+  - 23.06.008.04.385
+  - 23.06.008.04.386
+  - 23.06.008.04.387
+  - 23.06.008.04.388
+  - 23.06.008.04.389
+  - 23.06.008.04.391
+  - 23.06.008.04.392
+  - 23.06.008.04.393
+  - 23.06.008.04.395
+  - 23.06.008.04.396
+  - 23.06.008.04.397
+  - 23.06.008.04.398
+  - 23.06.008.04.399
+  - 23.06.008.04.404
+  - 23.06.008.04.407
+  - 23.06.008.04.408
+  - 23.06.008.04.409
+  cap4: []
+attendees:
+- mp_id: agapiou-agis
+- mp_id: angelidis-andreas
+- mp_id: anastasiadis-nikos
+- mp_id: varnava-giorgos
+- mp_id: vasileiou-androula
+- mp_id: georgiou-aristofanis
+- mp_id: georgiou-georgios
+- mp_id: giankou-kikis
+- mp_id: dimitriou-misiaouli-stella
+- mp_id: erotokritou-rikkos
+- mp_id: evagorou-stavros
+- mp_id: zachariou-zacharias
+- mp_id: theocharous-eleni
+- mp_id: thoma-giannakis
+- mp_id: karas-antonis
+- mp_id: katsouridis-nikos
+- mp_id: kleanthous-nikos
+- mp_id: kliridis-christos
+- mp_id: kliridou-kaiti
+- mp_id: koulias-zacharias
+- mp_id: kyriakidou-athina
+- mp_id: kyriakou-maria
+- mp_id: konstantinou-kostas
+- mp_id: konstantinou-neofytos
+- mp_id: lamaris-giannos
+- mp_id: lyssaridis-vasos
+- mp_id: mavrokordatos-christos
+- mp_id: mavrou-eleni
+- mp_id: michailidis-thasos
+- mp_id: michailidis-ntinos
+- mp_id: nikolaou-ionas
+- mp_id: omirou-giannakis
+- mp_id: papadopoulou-antigoni
+- mp_id: papapolyviou-andreas
+- mp_id: perdikis-giorgos
+- mp_id: pittokopitis-nikos
+- mp_id: pourgouridis-christos
+- mp_id: prodromou-prodromos
+- mp_id: sampson-sotiris
+- mp_id: sizopoulos-marinos
+- mp_id: syllouris-dimitris
+- mp_id: tasou-georgios
+- mp_id: taramountas-christodoulos
+- mp_id: tornaritis-nikos
+- mp_id: tyrimos-kyriakos
+- mp_id: fyttis-sofoklis
+- mp_id: charalampous-sotiroula
+- mp_id: chatzigeorgiou-giorgos
+- mp_id: chatzigeorgiou-takis
+- mp_id: chatzinikolas-ntinos
+- mp_id: christodoulidis-doros
+- mp_id: chrysostomou-aristos
+date: '2004-11-11'
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/praktiko2004-11-11.doc
+parliamentary_period_id: Η
+session: Δ
+sitting: 5

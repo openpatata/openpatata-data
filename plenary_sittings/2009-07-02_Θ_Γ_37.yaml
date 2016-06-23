@@ -1,0 +1,64 @@
+_id: 2009-07-02_Θ_Γ_37
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2009-07-02.doc
+agenda:
+  cap1: []
+  cap2:
+  - 23.01.050.145-2009
+  - 23.01.050.146-2009
+  - 23.01.050.147-2009
+  - 23.03.046.064-2009
+  - 23.03.046.035-2009
+  - 13.04.001
+  - 13.29.003.003
+  - 23.02.050.031-2009
+  - 23.02.050.032-2009
+  cap4: []
+attendees:
+- mp_id: angelidis-andreas
+- mp_id: akkelidou-ntina
+- mp_id: antoniou-antonis
+- mp_id: aristotelous-aristos
+- mp_id: varnava-giorgos
+- mp_id: votsis-angelos
+- mp_id: georgiou-aristofanis
+- mp_id: georgiou-georgios
+- mp_id: evagorou-stavros
+- mp_id: themistokleous-andreas
+- mp_id: thoma-giannakis
+- mp_id: karogian-marios
+- mp_id: katsouridis-nikos
+- mp_id: kleanthous-nikos
+- mp_id: koulias-zacharias
+- mp_id: kyritsis-pampis
+- mp_id: kyriakou-maria
+- mp_id: konstantinou-kostas
+- mp_id: konstantinou-neofytos
+- mp_id: lamaris-giannos
+- mp_id: mavrochannas-klavdios
+- mp_id: mitsopoulos-tasos
+- mp_id: mouskallis-andreas
+- mp_id: neofytou-averof
+- mp_id: nikolaou-ionas
+- mp_id: omirou-giannakis
+- mp_id: papadopoulou-antigoni
+- mp_id: papadopoulos-nikolas
+- mp_id: perdikis-giorgos
+- mp_id: pourgouridis-christos
+- mp_id: sampson-sotiris
+- mp_id: sarikas-feidias
+- mp_id: sizopoulos-marinos
+- mp_id: stavrianos-panikkos
+- mp_id: tornaritis-nikos
+- mp_id: fakontis-antreas
+- mp_id: fyttis-sofoklis
+- mp_id: chatzigeorgiou-takis
+- mp_id: chatzigiannis-kyriakos
+- mp_id: christoforou-lefteris
+date: '2009-07-02'
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/praktiko2009-07-02.doc
+parliamentary_period_id: Θ
+session: Γ
+sitting: 37

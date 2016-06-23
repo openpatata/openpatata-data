@@ -24,43 +24,43 @@ agenda:
   - 23.05.046.010-2013
   - 23.05.046.011-2013
 attendees:
-- Αδάμου Αδάμος
-- Αντωνίου Αντώνης
-- Γαβριήλ Γιαννάκης
-- Γεωργίου Γιώργος
-- Δίπλαρος Ευθύμιος
-- Δαμιανού Άριστος
-- Δημητρίου Μισιαούλη Στέλλα
-- Ευαγόρου Σταύρος
-- Ζαχαρίου Ζαχαρίας
-- Θεμιστοκλέους Ανδρέας
-- Κατσουρίδης Νίκος
-- Καυκαλιάς Αντρέας
-- Κουκουμά Κούτρα Σκεύη
-- Κουλίας Ζαχαρίας
-- Κουτσού Νίκος
-- Κυπριανού Άντρος
-- Κυπριανού Ανδρέας
-- Κυριακού Μαρία
-- Κώστα Κώστας
-- Λαμάρης Γιάννος
-- Λουκαΐδης Γιώργος
-- Μαππουρίδης Ρίκκος
-- Μαυρίδης Μάριος
-- Μισός Αριστοτέλης
-- Νουρής Νίκος
-- Παπαγεωργίου Πάμπος
-- Περδίκης Γιώργος
-- Προκοπίου Γεώργιος
-- Σαμψών Σωτήρης
-- Σταυριανός Πανίκκος
-- Τάσου Γεώργιος
-- Τζιοβάνης Χριστάκης
-- Τορναρίτης Νίκος
-- Φακοντής Αντρέας
-- Χαραλαμπίδου Ειρήνη
-- Χατζηγιάννης Κυριάκος
-- Χριστοφόρου Λευτέρης
+- mp_id: adamou-adamos
+- mp_id: antoniou-antonis
+- mp_id: gavriil-giannakis
+- mp_id: georgiou-k-giorgos
+- mp_id: diplaros-efthymios
+- mp_id: damianou-aristos
+- mp_id: dimitriou-misiaouli-stella
+- mp_id: evagorou-stavros
+- mp_id: zachariou-zacharias
+- mp_id: themistokleous-andreas
+- mp_id: katsouridis-nikos
+- mp_id: kafkalias-antreas
+- mp_id: koukouma-koutra-skevi
+- mp_id: koulias-zacharias
+- mp_id: koutsou-nikos
+- mp_id: kyprianou-antros
+- mp_id: kyprianou-andreas
+- mp_id: kyriakou-maria
+- mp_id: kosta-kostas
+- mp_id: lamaris-giannos
+- mp_id: loukaidis-giorgos
+- mp_id: mappouridis-rikkos
+- mp_id: mavridis-marios
+- mp_id: misos-aristotelis
+- mp_id: nouris-nikos
+- mp_id: papageorgiou-pampos
+- mp_id: perdikis-giorgos
+- mp_id: prokopiou-georgios
+- mp_id: sampson-sotiris
+- mp_id: stavrianos-panikkos
+- mp_id: tasou-georgios
+- mp_id: tziovanis-christakis
+- mp_id: tornaritis-nikos
+- mp_id: fakontis-antreas
+- mp_id: charalampidou-eirini
+- mp_id: chatzigiannis-kyriakos
+- mp_id: christoforou-lefteris
 date: '2013-11-28'
 links:
 - type: agenda

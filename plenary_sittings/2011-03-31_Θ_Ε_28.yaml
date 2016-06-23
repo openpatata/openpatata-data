@@ -1,0 +1,76 @@
+_id: 2011-03-31_Θ_Ε_28
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_TE/praktiko2011-03-31.doc
+agenda:
+  cap1: []
+  cap2:
+  - 23.01.052.107-2011
+  - 23.01.052.108-2011
+  - 23.01.052.109-2011
+  - 23.01.052.110-2011
+  - 23.01.052.111-2011
+  - 23.01.052.112-2011
+  - 23.01.052.113-2011
+  - 23.03.048.049-2011
+  - 23.03.048.050-2011
+  - 23.03.047.129-2010
+  - 23.02.052.030-2011
+  cap4: []
+attendees:
+- mp_id: angelidis-andreas
+- mp_id: akkelidou-ntina
+- mp_id: aristotelous-aristos
+- mp_id: varnava-giorgos
+- mp_id: votsis-angelos
+- mp_id: gavriil-giannakis
+- mp_id: georgiou-aristofanis
+- mp_id: georgiou-georgios
+- mp_id: dimitriou-misiaouli-stella
+- mp_id: erotokritou-rikkos
+- mp_id: evagorou-stavros
+- mp_id: themistokleous-andreas
+- mp_id: thoma-giannakis
+- mp_id: ieronymidis-stelios
+- mp_id: karogian-marios
+- mp_id: katsouridis-nikos
+- mp_id: kleanthous-nikos
+- mp_id: koukouma-koutra-skevi
+- mp_id: koulias-zacharias
+- mp_id: kyprianou-andreas
+- mp_id: kyritsis-pampis
+- mp_id: kyriakidou-athina
+- mp_id: kyriakidou-stella
+- mp_id: kyriakou-maria
+- mp_id: konstantinou-kostas
+- mp_id: lamaris-giannos
+- mp_id: mavronikola-roula
+- mp_id: mavrochannas-klavdios
+- mp_id: mitsopoulos-tasos
+- mp_id: mouskallis-andreas
+- mp_id: neofytou-averof
+- mp_id: nikolaou-ionas
+- mp_id: omirou-giannakis
+- mp_id: papadopoulos-nikolas
+- mp_id: perdikis-giorgos
+- mp_id: pourgouridis-christos
+- mp_id: sampson-sotiris
+- mp_id: sarikas-feidias
+- mp_id: sizopoulos-marinos
+- mp_id: stavrianos-panikkos
+- mp_id: stylianidis-christos
+- mp_id: syllouris-dimitris
+- mp_id: tasou-georgios
+- mp_id: tornaritis-nikos
+- mp_id: fakontis-antreas
+- mp_id: fyttis-sofoklis
+- mp_id: champas-panikos
+- mp_id: chatzigiannis-kyriakos
+- mp_id: chatzinikolas-ntinos
+- mp_id: christoforou-lefteris
+date: '2011-03-31'
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_TE/praktiko2011-03-31.doc
+parliamentary_period_id: Θ
+session: Ε
+sitting: 28

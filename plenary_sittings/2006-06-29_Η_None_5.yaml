@@ -1,0 +1,89 @@
+_id: 2006-06-29_Η_None_5
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2006-06-29.doc
+agenda:
+  cap1: []
+  cap2:
+  - 23.01.150.2006
+  - 23.01.151.2006
+  - 23.01.152.2006
+  - 23.01.153.2006
+  - 23.01.154.2006
+  - 23.01.155.2006
+  - 23.01.156.2006
+  - 23.01.157.2006
+  - 23.01.158.2006
+  - 23.01.159.2006
+  - 23.01.160.2006
+  - 23.01.161.2006
+  - 23.01.162.2006
+  - 23.01.163.2006
+  - 23.01.164.2006
+  - 23.03.132.2006
+  - 23.03.133.2006
+  - 23.03.134.2006
+  - 23.03.135.2006
+  - 23.03.136.2006
+  - 23.03.137.2006
+  - 23.03.138.2006
+  - 23.03.139.2006
+  - 23.03.140.2006
+  - 23.03.141.2006
+  - 23.03.142.2006
+  - 23.02.048.2006
+  cap4: []
+attendees:
+- mp_id: angelidis-andreas
+- mp_id: antoniou-antonis
+- mp_id: aristotelous-aristos
+- mp_id: votsis-angelos
+- mp_id: georgiou-aristofanis
+- mp_id: georgiou-georgios
+- mp_id: erotokritou-rikkos
+- mp_id: evagorou-stavros
+- mp_id: themistokleous-andreas
+- mp_id: theocharous-eleni
+- mp_id: thoma-giannakis
+- mp_id: karogian-marios
+- mp_id: katsouridis-nikos
+- mp_id: kleanthous-nikos
+- mp_id: koulias-zacharias
+- mp_id: koutsou-nikos
+- mp_id: kyritsis-pampis
+- mp_id: kyriakidou-athina
+- mp_id: kyriakidou-stella
+- mp_id: kyriakou-maria
+- mp_id: konstantinou-kostas
+- mp_id: konstantinou-neofytos
+- mp_id: lamaris-giannos
+- mp_id: mavronikola-roula
+- mp_id: mavrou-eleni
+- mp_id: mitsopoulos-tasos
+- mp_id: mouskallis-andreas
+- mp_id: neofytou-averof
+- mp_id: nikolaou-ionas
+- mp_id: papadopoulos-nikolas
+- mp_id: papakostas-kostas
+- mp_id: perdikis-giorgos
+- mp_id: sampson-sotiris
+- mp_id: sizopoulos-marinos
+- mp_id: stavrianos-panikkos
+- mp_id: stylianidis-christos
+- mp_id: syllouris-dimitris
+- mp_id: tasou-georgios
+- mp_id: fakontis-antreas
+- mp_id: fyttis-sofoklis
+- mp_id: chasikos-sokratis
+- mp_id: charalampous-sotiroula
+- mp_id: chatzigeorgiou-takis
+- mp_id: chatzigiannis-kyriakos
+- mp_id: chatzinikolas-ntinos
+- mp_id: christoforou-lefteris
+- mp_id: chrysostomidis-kypros
+date: '2006-06-29'
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/praktiko2006-06-29.doc
+parliamentary_period_id: Η
+session: null
+sitting: 5

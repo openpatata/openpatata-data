@@ -25,43 +25,43 @@ agenda:
   - 23.05.048.002-2015
   - 23.05.048.003-2015
 attendees:
-- Αδάμου Αδάμος
-- Αντωνίου Αντώνης
-- Γαβριήλ Γιαννάκης
-- Γεωργίου Γιώργος
-- Δαμιανού Άριστος
-- Δημητρίου Μισιαούλη Στέλλα
-- Ευαγόρου Σταύρος
-- Ζαχαρίου Ζαχαρίας
-- Καυκαλιάς Αντρέας
-- Κουκουμά Κούτρα Σκεύη
-- Κυπριανού Ανδρέας
-- Κυριακού Μαρία
-- Κωνσταντίνου Κώστας
-- Κωνσταντίνου Νεόφυτος
-- Κώστα Κώστας
-- Λαμάρης Γιάννος
-- Μέσης Χρίστος
-- Μαππουρίδης Ρίκκος
-- Μαυρίδης Μάριος
-- Μαυρονικόλα Ρούλα
-- Μισός Αριστοτέλης
-- Νουρής Νίκος
-- Παπαγεωργίου Πάμπος
-- Περδίκης Γιώργος
-- Προδρόμου Πρόδρομος
-- Σαμψών Σωτήρης
-- Σαρίκας Φειδίας
-- Σταυριανός Πανίκκος
-- Συλλούρης Δημήτρης
-- Τάσου Γεώργιος
-- Τζιοβάνης Χριστάκης
-- Τορναρίτης Νίκος
-- Φακοντής Αντρέας
-- Φυττής Σοφοκλής
-- Χαμπουλλάς Ευγένιος
-- Χαραλαμπίδου Ειρήνη
-- Χατζηγιάννης Κυριάκος
+- mp_id: adamou-adamos
+- mp_id: antoniou-antonis
+- mp_id: gavriil-giannakis
+- mp_id: georgiou-k-giorgos
+- mp_id: damianou-aristos
+- mp_id: dimitriou-misiaouli-stella
+- mp_id: evagorou-stavros
+- mp_id: zachariou-zacharias
+- mp_id: kafkalias-antreas
+- mp_id: koukouma-koutra-skevi
+- mp_id: kyprianou-andreas
+- mp_id: kyriakou-maria
+- mp_id: konstantinou-kostas
+- mp_id: konstantinou-neofytos
+- mp_id: kosta-kostas
+- mp_id: lamaris-giannos
+- mp_id: mesis-christos
+- mp_id: mappouridis-rikkos
+- mp_id: mavridis-marios
+- mp_id: mavronikola-roula
+- mp_id: misos-aristotelis
+- mp_id: nouris-nikos
+- mp_id: papageorgiou-pampos
+- mp_id: perdikis-giorgos
+- mp_id: prodromou-prodromos
+- mp_id: sampson-sotiris
+- mp_id: sarikas-feidias
+- mp_id: stavrianos-panikkos
+- mp_id: syllouris-dimitris
+- mp_id: tasou-georgios
+- mp_id: tziovanis-christakis
+- mp_id: tornaritis-nikos
+- mp_id: fakontis-antreas
+- mp_id: fyttis-sofoklis
+- mp_id: champoullas-evgenios
+- mp_id: charalampidou-eirini
+- mp_id: chatzigiannis-kyriakos
 date: '2015-04-23'
 links:
 - type: agenda

@@ -39,44 +39,44 @@ agenda:
   - 23.05.048.006-2015
   - 23.05.048.007-2015
 attendees:
-- Αδάμου Αδάμος
-- Αντωνίου Αντώνης
-- Βαρνάβα Γιώργος
-- Γεωργίου Γεώργιος
-- Γεωργίου Γιώργος
-- Δίπλαρος Ευθύμιος
-- Δαμιανού Άριστος
-- Δημητρίου Μισιαούλη Στέλλα
-- Ευαγόρου Σταύρος
-- Ζαχαρίου Ζαχαρίας
-- Καυκαλιάς Αντρέας
-- Κουκουμά Κούτρα Σκεύη
-- Κουλίας Ζαχαρίας
-- Κυπριανού Ανδρέας
-- Κυριακού Μαρία
-- Κωνσταντίνου Νεόφυτος
-- Κώστα Κώστας
-- Λαμάρης Γιάννος
-- Μέσης Χρίστος
-- Μαππουρίδης Ρίκκος
-- Μισός Αριστοτέλης
-- Μιχαηλίδης Ανδρέας
-- Νεοφύτου Αβέρωφ
-- Νουρής Νίκος
-- Παπαγεωργίου Πάμπος
-- Προδρόμου Πρόδρομος
-- Προκοπίου Γεώργιος
-- Σαμψών Σωτήρης
-- Σταυριανός Πανίκκος
-- Συλλούρης Δημήτρης
-- Τάσου Γεώργιος
-- Τζιοβάνης Χριστάκης
-- Τορναρίτης Νίκος
-- Φακοντής Αντρέας
-- Φυττής Σοφοκλής
-- Χαμπουλλάς Ευγένιος
-- Χαραλαμπίδου Ειρήνη
-- Χατζηγιάννης Κυριάκος
+- mp_id: adamou-adamos
+- mp_id: antoniou-antonis
+- mp_id: varnava-giorgos
+- mp_id: georgiou-georgios
+- mp_id: georgiou-k-giorgos
+- mp_id: diplaros-efthymios
+- mp_id: damianou-aristos
+- mp_id: dimitriou-misiaouli-stella
+- mp_id: evagorou-stavros
+- mp_id: zachariou-zacharias
+- mp_id: kafkalias-antreas
+- mp_id: koukouma-koutra-skevi
+- mp_id: koulias-zacharias
+- mp_id: kyprianou-andreas
+- mp_id: kyriakou-maria
+- mp_id: konstantinou-neofytos
+- mp_id: kosta-kostas
+- mp_id: lamaris-giannos
+- mp_id: mesis-christos
+- mp_id: mappouridis-rikkos
+- mp_id: misos-aristotelis
+- mp_id: michailidis-andreas
+- mp_id: neofytou-averof
+- mp_id: nouris-nikos
+- mp_id: papageorgiou-pampos
+- mp_id: prodromou-prodromos
+- mp_id: prokopiou-georgios
+- mp_id: sampson-sotiris
+- mp_id: stavrianos-panikkos
+- mp_id: syllouris-dimitris
+- mp_id: tasou-georgios
+- mp_id: tziovanis-christakis
+- mp_id: tornaritis-nikos
+- mp_id: fakontis-antreas
+- mp_id: fyttis-sofoklis
+- mp_id: champoullas-evgenios
+- mp_id: charalampidou-eirini
+- mp_id: chatzigiannis-kyriakos
 date: '2016-01-28'
 links:
 - type: agenda

@@ -1,0 +1,79 @@
+_id: 2009-12-10_Θ_Γ_11
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_TD/praktiko2009-12-10.doc
+agenda:
+  cap1: []
+  cap2:
+  - 23.01.050.214-2009
+  - 23.01.050.217-2009
+  - 23.01.050.218-2009
+  - 23.01.050.219-2009
+  - 23.03.046.141-2009
+  - 23.03.046.142-2009
+  - 23.03.046.143-2009
+  - 23.03.046.144-2009
+  - 23.03.046.116-2009
+  - 23.03.046.117-2009
+  - 23.03.046.118-2009
+  - 23.03.046.119-2009
+  - 23.03.046.120-2009
+  - 23.03.046.121-2009
+  - 23.03.046.124-2009
+  - 23.03.046.125-2009
+  - 23.03.046.126-2009
+  - 23.03.046.129-2009
+  - 23.03.046.132-2009
+  - 23.03.046.133-2009
+  cap4: []
+attendees:
+- mp_id: angelidis-andreas
+- mp_id: antoniou-antonis
+- mp_id: aristotelous-aristos
+- mp_id: varnava-giorgos
+- mp_id: votsis-angelos
+- mp_id: gavriil-giannakis
+- mp_id: dimitriou-misiaouli-stella
+- mp_id: erotokritou-rikkos
+- mp_id: evagorou-stavros
+- mp_id: themistokleous-andreas
+- mp_id: thoma-giannakis
+- mp_id: katsouridis-nikos
+- mp_id: kleanthous-nikos
+- mp_id: koukouma-koutra-skevi
+- mp_id: kyprianou-antros
+- mp_id: kyprianou-andreas
+- mp_id: kyritsis-pampis
+- mp_id: kyriakidou-athina
+- mp_id: kyriakidou-stella
+- mp_id: kyriakou-maria
+- mp_id: konstantinou-kostas
+- mp_id: konstantinou-neofytos
+- mp_id: lamaris-giannos
+- mp_id: mavrochannas-klavdios
+- mp_id: mouskallis-andreas
+- mp_id: neofytou-averof
+- mp_id: nikolaou-ionas
+- mp_id: omirou-giannakis
+- mp_id: papadopoulos-nikolas
+- mp_id: perdikis-giorgos
+- mp_id: pourgouridis-christos
+- mp_id: sampson-sotiris
+- mp_id: stavrianos-panikkos
+- mp_id: stylianidis-christos
+- mp_id: syllouris-dimitris
+- mp_id: tasou-georgios
+- mp_id: tornaritis-nikos
+- mp_id: fakontis-antreas
+- mp_id: fyttis-sofoklis
+- mp_id: champas-panikos
+- mp_id: chasikos-sokratis
+- mp_id: chatzigiannis-kyriakos
+- mp_id: chatzinikolas-ntinos
+- mp_id: christoforou-lefteris
+date: '2009-12-10'
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_TD/praktiko2009-12-10.doc
+parliamentary_period_id: Θ
+session: Γ
+sitting: 11

@@ -1,0 +1,80 @@
+_id: 2009-01-29_Θ_Γ_18
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2009-01-29.doc
+agenda:
+  cap1: []
+  cap2:
+  - 23.01.050.038-2009
+  - 23.01.050.039-2009
+  - 23.01.050.040-2009
+  - 23.01.050.041-2009
+  - 23.01.050.042-2009
+  - 23.03.046.016-2009
+  - 23.03.046.017-2009
+  - 23.03.045.146-2008
+  - 23.03.045.116-2008
+  - 23.03.045.117-2008
+  - 23.03.045.118-2008
+  - 23.03.045.119-2008
+  - 23.03.045.120-2008
+  - 23.03.045.121-2008
+  - 23.03.045.122-2008
+  - 23.03.045.123-2008
+  - 23.03.045.125-2008
+  - 23.02.050.003-2009
+  cap4: []
+attendees:
+- mp_id: angelidis-andreas
+- mp_id: akkelidou-ntina
+- mp_id: antoniou-antonis
+- mp_id: aristotelous-aristos
+- mp_id: varnava-giorgos
+- mp_id: votsis-angelos
+- mp_id: gavriil-giannakis
+- mp_id: georgiou-aristofanis
+- mp_id: georgiou-georgios
+- mp_id: erotokritou-rikkos
+- mp_id: evagorou-stavros
+- mp_id: themistokleous-andreas
+- mp_id: theocharous-eleni
+- mp_id: thoma-giannakis
+- mp_id: karogian-marios
+- mp_id: kleanthous-nikos
+- mp_id: koukouma-koutra-skevi
+- mp_id: koulias-zacharias
+- mp_id: koutsou-nikos
+- mp_id: kyritsis-pampis
+- mp_id: kyriakidou-athina
+- mp_id: kyriakou-maria
+- mp_id: konstantinou-kostas
+- mp_id: konstantinou-neofytos
+- mp_id: lamaris-giannos
+- mp_id: mavronikola-roula
+- mp_id: mavrochannas-klavdios
+- mp_id: mitsopoulos-tasos
+- mp_id: mouskallis-andreas
+- mp_id: neofytou-averof
+- mp_id: nikolaou-ionas
+- mp_id: omirou-giannakis
+- mp_id: papadopoulos-nikolas
+- mp_id: perdikis-giorgos
+- mp_id: sampson-sotiris
+- mp_id: sizopoulos-marinos
+- mp_id: stavrianos-panikkos
+- mp_id: stylianidis-christos
+- mp_id: syllouris-dimitris
+- mp_id: tasou-georgios
+- mp_id: fakontis-antreas
+- mp_id: fyttis-sofoklis
+- mp_id: chasikos-sokratis
+- mp_id: chatzigeorgiou-takis
+- mp_id: chatzigiannis-kyriakos
+- mp_id: chatzinikolas-ntinos
+- mp_id: christoforou-lefteris
+date: '2009-01-29'
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/praktiko2009-01-29.doc
+parliamentary_period_id: Θ
+session: Γ
+sitting: 18

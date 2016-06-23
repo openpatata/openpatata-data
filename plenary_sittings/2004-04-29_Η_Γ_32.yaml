@@ -1,0 +1,90 @@
+_id: 2004-04-29_Η_Γ_32
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2004-04-29.doc
+agenda:
+  cap1: []
+  cap2:
+  - 23.01.239.2004
+  - 23.01.240.2004
+  - 23.01.242.2004
+  - 23.03.170.2004
+  - 23.03.171.2004
+  - 23.03.172.2004
+  - 23.03.173.2004
+  - 23.03.174.2004
+  - 23.03.175.2004
+  - 23.03.176.2004
+  - 23.03.177.2004
+  - 23.03.178.2004
+  - 23.03.179.2004
+  - 23.03.180.2004
+  - 23.03.181.2004
+  - 23.03.182.2004
+  - 23.03.183.2004
+  - 23.03.184.2004
+  - 23.03.185.2004
+  - 23.03.169.2004
+  - 23.01.238.2004
+  - 23.01.241.2004
+  - 23.03.167.2004
+  - 23.03.168.2004
+  - 23.03.186.2004
+  - 23.03.057.2001
+  - 23.03.251.2002
+  - 23.03.067.2003
+  - 23.03.142.2003
+  - 23.02.033.2004
+  - 23.02.034.2004
+  - 23.02.035.2004
+  cap4: []
+attendees:
+- mp_id: agapiou-agis
+- mp_id: angelidis-andreas
+- mp_id: adamou-adamos
+- mp_id: varnava-giorgos
+- mp_id: georgiou-aristofanis
+- mp_id: georgiou-georgios
+- mp_id: giankou-kikis
+- mp_id: erotokritou-rikkos
+- mp_id: evagorou-stavros
+- mp_id: zachariou-zacharias
+- mp_id: theocharous-eleni
+- mp_id: thoma-giannakis
+- mp_id: karas-antonis
+- mp_id: katsouridis-nikos
+- mp_id: kleanthous-nikos
+- mp_id: kliridis-christos
+- mp_id: koulias-zacharias
+- mp_id: kyriakou-maria
+- mp_id: konstantinou-neofytos
+- mp_id: lamaris-giannos
+- mp_id: lyssaridis-vasos
+- mp_id: mavrokordatos-christos
+- mp_id: mavrou-eleni
+- mp_id: michailidis-thasos
+- mp_id: michailidis-ntinos
+- mp_id: nikolaou-ionas
+- mp_id: omirou-giannakis
+- mp_id: papakostas-kostas
+- mp_id: papapolyviou-andreas
+- mp_id: pittokopitis-nikos
+- mp_id: prodromou-prodromos
+- mp_id: sampson-sotiris
+- mp_id: sizopoulos-marinos
+- mp_id: syllouris-dimitris
+- mp_id: tasou-georgios
+- mp_id: taramountas-christodoulos
+- mp_id: tyrimos-kyriakos
+- mp_id: fyttis-sofoklis
+- mp_id: charalampous-sotiroula
+- mp_id: chatzigeorgiou-giorgos
+- mp_id: chatzinikolas-ntinos
+- mp_id: christoforou-lefteris
+- mp_id: chrysostomou-aristos
+date: '2004-04-29'
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/praktiko2004-04-29.doc
+parliamentary_period_id: Η
+session: Γ
+sitting: 32

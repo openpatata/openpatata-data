@@ -1,0 +1,78 @@
+_id: 2010-05-06_Θ_Δ_29
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_TD/praktiko2010-05-06.doc
+agenda:
+  cap1: []
+  cap2:
+  - 23.01.051.089-2010
+  - 23.01.051.090-2010
+  - 23.01.051.091-2010
+  - 23.03.047.049-2010
+  - 23.03.047.010-2010
+  - 23.03.047.011-2010
+  - 23.03.047.012-2010
+  - 23.03.047.014-2010
+  - 23.03.047.016-2010
+  - 23.03.047.017-2010
+  - 23.03.047.018-2010
+  - 23.03.047.019-2010
+  - 23.02.051.024-2010
+  - 23.02.051.025-2010
+  cap4: []
+attendees:
+- mp_id: angelidis-andreas
+- mp_id: akkelidou-ntina
+- mp_id: antoniou-antonis
+- mp_id: aristotelous-aristos
+- mp_id: varnava-giorgos
+- mp_id: votsis-angelos
+- mp_id: gavriil-giannakis
+- mp_id: georgiou-aristofanis
+- mp_id: georgiou-georgios
+- mp_id: dimitriou-misiaouli-stella
+- mp_id: erotokritou-rikkos
+- mp_id: themistokleous-andreas
+- mp_id: thoma-giannakis
+- mp_id: katsouridis-nikos
+- mp_id: kleanthous-nikos
+- mp_id: koukouma-koutra-skevi
+- mp_id: koulias-zacharias
+- mp_id: kyprianou-andreas
+- mp_id: kyritsis-pampis
+- mp_id: kyriakidou-athina
+- mp_id: kyriakidou-stella
+- mp_id: kyriakou-maria
+- mp_id: konstantinou-kostas
+- mp_id: konstantinou-neofytos
+- mp_id: lamaris-giannos
+- mp_id: mavronikola-roula
+- mp_id: mavrochannas-klavdios
+- mp_id: mitsopoulos-tasos
+- mp_id: mouskallis-andreas
+- mp_id: neofytou-averof
+- mp_id: nikolaou-ionas
+- mp_id: omirou-giannakis
+- mp_id: papadopoulos-nikolas
+- mp_id: perdikis-giorgos
+- mp_id: sampson-sotiris
+- mp_id: sarikas-feidias
+- mp_id: sizopoulos-marinos
+- mp_id: stavrianos-panikkos
+- mp_id: stylianidis-christos
+- mp_id: syllouris-dimitris
+- mp_id: tasou-georgios
+- mp_id: tornaritis-nikos
+- mp_id: fakontis-antreas
+- mp_id: fyttis-sofoklis
+- mp_id: champas-panikos
+- mp_id: chasikos-sokratis
+- mp_id: chatzigiannis-kyriakos
+- mp_id: chatzinikolas-ntinos
+- mp_id: christoforou-lefteris
+date: '2010-05-06'
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_TD/praktiko2010-05-06.doc
+parliamentary_period_id: Θ
+session: Δ
+sitting: 29
