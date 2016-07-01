@@ -2,9 +2,10 @@ _id: 23.06.010.05.197_198
 _position_on_page: 198
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_02/chronological/008_02_IE.htm
-answers: []
+answers:
+- http://www2.parliament.cy/parliamentgr/008_3g/23_06_010_05_197.htm
 by:
-- Περδίκης Γιώργος
+- mp_id: perdikis-giorgos
 date: '2015-10-20'
 heading: Ερώτηση με αρ. 23.06.010.05.197, ημερομηνίας 20 Οκτωβρίου 2015, του βουλευτή
   εκλογικής περιφέρειας Λευκωσίας κ. Γιώργου Περδίκη
