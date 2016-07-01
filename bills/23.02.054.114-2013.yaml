@@ -1,11 +1,14 @@
+_id: 23.02.054.114-2013
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/777
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-11-07.pdf
 actions:
 - action: submission
-  at_plenary_id: 2013-11-07_Ι_Γ_11
   committees_referred_to: Συγκοινωνιών και Έργων
+  plenary_id: 2013-11-07_Ι_Γ_11
   sponsors: Αντώνη Αντωνίου, βουλευτή εκλογικής περιφέρειας Πάφου
+  title: Ο περί Επιστημονικού Τεχνικού Επιμελητηρίου Κύπρου (Τροποποιητικός) (Αρ.
+    2) Νόμος του 2013
 identifier: 23.02.054.114-2013
 title: Ο περί Επιστημονικού Τεχνικού Επιμελητηρίου Κύπρου (Τροποποιητικός) (Αρ. 2)
   Νόμος του 2013

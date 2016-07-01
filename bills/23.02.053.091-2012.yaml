@@ -1,11 +1,13 @@
+_id: 23.02.053.091-2012
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2012-10-11.doc
 actions:
 - action: submission
-  at_plenary_id: 2012-10-11_Ι_Β_5
   committees_referred_to: Νομικών
+  plenary_id: 2012-10-11_Ι_Β_5
   sponsors: Ειρήνη Χαραλαμπίδου εκ μέρους της κοινοβουλευτικής ομάδας ΑΚΕΛ-Αριστερά-Νέες
     Δυνάμεις
+  title: Ο περί Ποινικού Κώδικα (Τροποποιητικός) (Αρ. 4) Νόμος του 2012
 identifier: 23.02.053.091-2012
 title: Ο περί Ποινικού Κώδικα (Τροποποιητικός) (Αρ. 4) Νόμος του 2012
 titles:

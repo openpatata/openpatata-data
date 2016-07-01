@@ -1,12 +1,14 @@
+_id: 23.01.055.089-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1172
 - http://www.parliament.cy/easyconsole.cfm/id/1213
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-04-10.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-04-10_Ι_Γ_33
   committees_referred_to: Συγκοινωνιών και Έργων
+  plenary_id: 2014-04-10_Ι_Γ_33
   sponsors: Συγκοινωνιών και Έργων
+  title: Ο περί των Τεχνιτών Οχημάτων (Τροποποιητικός) Νόμος του 2014
 identifier: 23.01.055.089-2014
 title: Ο περί των Τεχνιτών Οχημάτων (Τροποποιητικός) Νόμος του 2014
 titles:

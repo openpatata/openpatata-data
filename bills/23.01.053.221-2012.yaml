@@ -1,10 +1,12 @@
+_id: 23.01.053.221-2012
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2012-11-22.doc
 actions:
 - action: submission
-  at_plenary_id: 2012-11-22_Ι_Β_11
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2012-11-22_Ι_Β_11
   sponsors: Οικονομικών
+  title: Ο περί Προϋπολογισμού του 2013 Νόμος του 2012
 identifier: 23.01.053.221-2012
 title: Ο περί Προϋπολογισμού του 2013 Νόμος του 2012
 titles:

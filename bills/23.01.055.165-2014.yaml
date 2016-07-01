@@ -1,12 +1,14 @@
+_id: 23.01.055.165-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1364
 - http://www.parliament.cy/easyconsole.cfm/id/1373
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-07-03.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-07-03_Ι_Γ_41
   committees_referred_to: Εσωτερικών
+  plenary_id: 2014-07-03_Ι_Γ_41
   sponsors: Εσωτερικών
+  title: Ο περί Πολεοδομίας και Χωροταξίας (Τροποποιητικός) (Αρ. 2) Νόμος του 2014
 identifier: 23.01.055.165-2014
 title: Ο περί Πολεοδομίας και Χωροταξίας (Τροποποιητικός) (Αρ. 2) Νόμος του 2014
 titles:

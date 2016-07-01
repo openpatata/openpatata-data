@@ -1,12 +1,15 @@
+_id: 23.02.053.119-2012
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/902
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2012-12-13.doc
 actions:
 - action: submission
-  at_plenary_id: 2012-12-13_Ι_Β_15
   committees_referred_to: Νομικών
+  plenary_id: 2012-12-13_Ι_Β_15
   sponsors: Γιάννο Λαμάρη εκ μέρους της κοινοβουλευτικής ομάδας ΑΚΕΛ-Αριστερά-Νέες
     Δυνάμεις
+  title: O περί της Ρύθμισης των Οφειλών Υπερχρεωμένων Φυσικών Προσώπων και Άλλων
+    Διατάξεων Νόμος του 2012
 identifier: 23.02.053.119-2012
 title: O περί της Ρύθμισης των Οφειλών Υπερχρεωμένων Φυσικών Προσώπων και Άλλων Διατάξεων
   Νόμος του 2012

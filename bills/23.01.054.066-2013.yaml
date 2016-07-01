@@ -1,11 +1,14 @@
+_id: 23.01.054.066-2013
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/517
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-04-11.doc
 actions:
 - action: submission
-  at_plenary_id: 2013-04-11_Ι_Β_28
   committees_referred_to: Εμπορίου και Βιομηχανίας
+  plenary_id: 2013-04-11_Ι_Β_28
   sponsors: Εμπορίου, Βιομηχανίας και Τουρισμού
+  title: Ο περί Κυπριακού Οργανισμού Σήμανσης Αντικειμένων από Πολύτιμα Μέταλλα (Τροποποιητικός)
+    Νόμος του 2013
 identifier: 23.01.054.066-2013
 title: Ο περί Κυπριακού Οργανισμού Σήμανσης Αντικειμένων από Πολύτιμα Μέταλλα (Τροποποιητικός)
   Νόμος του 2013

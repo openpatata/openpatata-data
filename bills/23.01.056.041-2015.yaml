@@ -1,11 +1,13 @@
+_id: 23.01.056.041-2015
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1378
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-02-19.pdf
 actions:
 - action: submission
-  at_plenary_id: 2015-02-19_Ι_Δ_23
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2015-02-19_Ι_Δ_23
   sponsors: Οικονομικών
+  title: Ο περί Προϋπολογισμού της Επιτροπής Κεφαλαιαγοράς του 2015 Νόμος του 2015
 identifier: 23.01.056.041-2015
 title: Ο περί Προϋπολογισμού της Επιτροπής Κεφαλαιαγοράς του 2015 Νόμος του 2015
 titles:

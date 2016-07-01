@@ -1,3 +1,4 @@
+_id: 23.03.049.043-2012
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-04-26.doc
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-06-21.doc
@@ -6,25 +7,35 @@ _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-03-07.doc
 actions:
 - action: submission
-  at_plenary_id: 2012-04-26_Ι_Α_34
   committees_referred_to: Νομικών
+  plenary_id: 2012-04-26_Ι_Α_34
   sponsors: Υγείας
+  title: Οι περί Υπουργείου Υγείας, Διοίκηση - Θέση Λειτουργού Υπηρεσιών Υγείας Α΄
+    (Σχέδια Υπηρεσίας) Κανονισμοί του 2012
 - action: submission
-  at_plenary_id: 2012-06-21_Ι_Α_43
   committees_referred_to: Νομικών
+  plenary_id: 2012-06-21_Ι_Α_43
   sponsors: Υγείας
+  title: Οι περί Υπουργείου Υγείας, Διοίκηση - Θέση Λειτουργού Υπηρεσιών Υγείας Α΄
+    (Σχέδια Υπηρεσίας) Κανονισμοί του 2012
 - action: submission
-  at_plenary_id: 2012-09-13_Ι_Β_1
   committees_referred_to: Νομικών
+  plenary_id: 2012-09-13_Ι_Β_1
   sponsors: Υγείας
+  title: Οι περί Υπουργείου Υγείας, Διοίκηση - Θέση Λειτουργού Υπηρεσιών Υγείας Α΄
+    (Σχέδια Υπηρεσίας) Κανονισμοί του 2012
 - action: submission
-  at_plenary_id: 2012-11-08_Ι_Β_9
   committees_referred_to: Νομικών
+  plenary_id: 2012-11-08_Ι_Β_9
   sponsors: Υγείας
+  title: Οι περί Υπουργείου Υγείας, Διοίκηση - Θέση Λειτουργού Υπηρεσιών Υγείας Α΄
+    (Σχέδια Υπηρεσίας) Κανονισμοί του 2012
 - action: submission
-  at_plenary_id: 2013-03-07_Ι_Β_21
   committees_referred_to: Νομικών
+  plenary_id: 2013-03-07_Ι_Β_21
   sponsors: Υγείας
+  title: Οι περί Υπουργείου Υγείας, Διοίκηση - Θέση Λειτουργού Υπηρεσιών Υγείας Α΄
+    (Σχέδια Υπηρεσίας) Κανονισμοί του 2013
 identifier: 23.03.049.043-2012
 title: Οι περί Υπουργείου Υγείας, Διοίκηση - Θέση Λειτουργού Υπηρεσιών Υγείας Α΄ (Σχέδια
   Υπηρεσίας) Κανονισμοί του 2013

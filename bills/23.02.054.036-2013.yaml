@@ -1,3 +1,4 @@
+_id: 23.02.054.036-2013
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/517
 - http://www.parliament.cy/easyconsole.cfm/id/538
@@ -9,10 +10,12 @@ _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-05-16.pdf
 actions:
 - action: submission
-  at_plenary_id: 2013-05-16_Ι_Β_32
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2013-05-16_Ι_Β_32
   sponsors: Αβέρωφ Νεοφύτου εκ μέρους της κοινοβουλευτικής ομάδας του Δημοκρατικού
     Συναγερμού
+  title: Ο περί Εξυγίανσης Πιστωτικών και Άλλων Ιδρυμάτων (Τροποποιητικός) (Αρ. 3)
+    Νόμος του 2013
 identifier: 23.02.054.036-2013
 title: Ο περί Εξυγίανσης Πιστωτικών και Άλλων Ιδρυμάτων (Τροποποιητικός) (Αρ. 3) Νόμος
   του 2013

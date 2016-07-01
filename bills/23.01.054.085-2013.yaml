@@ -1,12 +1,15 @@
+_id: 23.01.054.085-2013
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/475
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-04-25.pdf
 actions:
 - action: submission
-  at_plenary_id: 2013-04-25_Ι_Β_30
   committees_referred_to: Οικονομικών και Προϋπολογισμού και Εξωτερικών και Ευρωπαϊκών
     Υποθέσεων
+  plenary_id: 2013-04-25_Ι_Β_30
   sponsors: Οικονομικών
+  title: Ο περί της Συμφωνίας Διευκόλυνσης Χρηματοδοτικής Στήριξης (Κυρωτικός) Νόμος
+    του 2013
 identifier: 23.01.054.085-2013
 title: Ο περί της Συμφωνίας Διευκόλυνσης Χρηματοδοτικής Στήριξης (Κυρωτικός) Νόμος
   του 2013

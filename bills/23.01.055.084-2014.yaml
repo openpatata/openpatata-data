@@ -1,11 +1,13 @@
+_id: 23.01.055.084-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/902
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-04-03.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-04-03_Ι_Γ_32
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2014-04-03_Ι_Γ_32
   sponsors: Ενέργειας, Εμπορίου, Βιομηχανίας και Τουρισμού
+  title: Ο περί Προϋπολογισμού της Αρχής Ηλεκτρισμού Κύπρου του 2014 Νόμος του 2014
 identifier: 23.01.055.084-2014
 title: Ο περί Προϋπολογισμού της Αρχής Ηλεκτρισμού Κύπρου του 2014 Νόμος του 2014
 titles:

@@ -1,3 +1,4 @@
+_id: 23.02.054.017-2013
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/538
 - http://www.parliament.cy/easyconsole.cfm/id/546
@@ -8,9 +9,11 @@ _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-03-28.doc
 actions:
 - action: submission
-  at_plenary_id: 2013-03-28_Ι_Β_26
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2013-03-28_Ι_Β_26
   sponsors: Γιώργο Περδίκη, βουλευτή του Κινήματος Οικολόγων Περιβαλλοντιστών
+  title: Ο περί Εξυγίανσης Πιστωτικών και Άλλων Ιδρυμάτων (Τροποποιητικός) Νόμος του
+    2013
 identifier: 23.02.054.017-2013
 title: Ο περί Εξυγίανσης Πιστωτικών και Άλλων Ιδρυμάτων (Τροποποιητικός) Νόμος του
   2013

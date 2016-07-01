@@ -1,11 +1,14 @@
+_id: 23.01.055.246-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1246
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-11-20.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-11-20_Ι_Δ_10
   committees_referred_to: Εσωτερικών
+  plenary_id: 2014-11-20_Ι_Δ_10
   sponsors: Εσωτερικών
+  title: Ο περί Μεταβιβάσεως και Υποθηκεύσεως Ακινήτων (Τροποποιητικός) (Αρ. 8) Νόμος
+    του 2014
 identifier: 23.01.055.246-2014
 title: Ο περί Μεταβιβάσεως και Υποθηκεύσεως Ακινήτων (Τροποποιητικός) (Αρ. 8) Νόμος
   του 2014

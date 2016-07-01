@@ -1,11 +1,13 @@
+_id: 23.03.053.012-2016
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1876
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-01-21.pdf
 actions:
 - action: submission
-  at_plenary_id: 2016-01-21_Ι_Ε_18
   committees_referred_to: Εργασίας, Πρόνοιας και Κοινωνικών Ασφαλίσεων
+  plenary_id: 2016-01-21_Ι_Ε_18
   sponsors: Εργασίας, Πρόνοιας και Κοινωνικών Ασφαλίσεων
+  title: Οι περί Πετρελαιοειδών (Τροποποιητικοί) Κανονισμοί του 2016
 identifier: 23.03.053.012-2016
 title: Οι περί Πετρελαιοειδών (Τροποποιητικοί) Κανονισμοί του 2016
 titles:

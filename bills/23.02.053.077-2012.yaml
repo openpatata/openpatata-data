@@ -1,15 +1,17 @@
+_id: 23.02.053.077-2012
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/574
 - http://www.parliament.cy/images/media/redirectfile/40-1107013 - agenda0001.pdf
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-07-12.doc
 actions:
 - action: submission
-  at_plenary_id: 2012-07-12_Ι_Α_46
   committees_referred_to: Άμυνας
+  plenary_id: 2012-07-12_Ι_Α_46
   sponsors: Γιώργο Περδίκη, βουλευτή Κινήματος Οικολόγων Περιβαλλοντιστών, Γιώργο
     Βαρνάβα, βουλευτή Κινήματος Σοσιαλδημοκρατών ΕΔΕΚ, Ζαχαρία Κουλία, βουλευτή εκλογικής
     περιφέρειας Αμμοχώστου, και Νίκο Κουτσού, βουλευτή εκλογικής περιφέρειας Αμμοχώστου
     εκ μέρους του Ευρωπαϊκού Κόμματος
+  title: Ο περί Εθνικής Φρουράς (Τροποποιητικός) Νόμος του 2012
 identifier: 23.02.053.077-2012
 title: Ο περί Εθνικής Φρουράς (Τροποποιητικός) Νόμος του 2012
 titles:

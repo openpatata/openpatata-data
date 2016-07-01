@@ -1,11 +1,14 @@
+_id: 23.01.056.013-2015
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1302
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-01-22.pdf
 actions:
 - action: submission
-  at_plenary_id: 2015-01-22_Ι_Δ_18
   committees_referred_to: Συγκοινωνιών και Έργων
+  plenary_id: 2015-01-22_Ι_Δ_18
   sponsors: Συγκοινωνιών και Έργων
+  title: Ο περί Πρόσβασης στο Επάγγελμα του Οδικού Μεταφορέα (Τροποποιητικός) Νόμος
+    του 2015
 identifier: 23.01.056.013-2015
 title: Ο περί Πρόσβασης στο Επάγγελμα του Οδικού Μεταφορέα (Τροποποιητικός) Νόμος
   του 2015

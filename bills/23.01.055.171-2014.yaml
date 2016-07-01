@@ -1,11 +1,14 @@
+_id: 23.01.055.171-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1133
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-09-23.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-09-23_Ι_Δ_1
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2014-09-23_Ι_Δ_1
   sponsors: Εργασίας, Πρόνοιας και Κοινωνικών Ασφαλίσεων
+  title: Ο περί Συμπληρωματικού Προϋπολογισμού της Αρχής Ανάπτυξης Ανθρώπινου Δυναμικού
+    Κύπρου (Αρ. 1) Νόμος του 2014
 identifier: 23.01.055.171-2014
 title: Ο περί Συμπληρωματικού Προϋπολογισμού της Αρχής Ανάπτυξης Ανθρώπινου Δυναμικού
   Κύπρου (Αρ.1) Νόμος του 2014

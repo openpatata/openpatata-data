@@ -1,6 +1,13 @@
+_id: 23.01.052.038-2011
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/926
-actions: []
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_TE/praktiko2011-01-20.doc
+actions:
+- action: submission
+  committees_referred_to: Νομικών
+  plenary_id: 2011-01-20_Θ_Ε_18
+  sponsors: Εσωτερικών
+  title: Ο περί Αναγκαστικής Απαλλοτρίωσης (Τροποποιητικός) Νόμος του 2011
 identifier: 23.01.052.038-2011
 title: Ο περί Αναγκαστικής Απαλλοτρίωσης (Τροποποιητικός) Νόμος του 2011
 titles:

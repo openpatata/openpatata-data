@@ -1,10 +1,12 @@
+_id: 23.02.056.021-2015
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-02-19.pdf
 actions:
 - action: submission
-  at_plenary_id: 2015-02-19_Ι_Δ_23
   committees_referred_to: Εργασίας και Κοινωνικών Ασφαλίσεων
+  plenary_id: 2015-02-19_Ι_Δ_23
   sponsors: Ζαχαρία Κουλία, βουλευτή εκλογικής περιφέρειας Αμμοχώστου
+  title: O περί Κοινωνικών Ασφαλίσεων (Τροποποιητικός) Νόμος του 2015
 identifier: 23.02.056.021-2015
 title: O περί Κοινωνικών Ασφαλίσεων (Τροποποιητικός) Νόμος του 2015
 titles:

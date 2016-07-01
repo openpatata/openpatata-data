@@ -1,11 +1,14 @@
+_id: 23.01.055.257-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1393
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-12-11.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-12-11_Ι_Δ_13
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2014-12-11_Ι_Δ_13
   sponsors: Γενικό Λογιστή της Δημοκρατίας εκ μέρους του Υπουργού Οικονομικών
+  title: Ο περί Προϋπολογισμού του Ταμείου Δημόσιων Δανείων για το έτος 2015 Νόμος
+    του 2014
 identifier: 23.01.055.257-2014
 title: Ο περί Προϋπολογισμού του Ταμείου Δημόσιων Δανείων για το έτος 2015 Νόμος του
   2014

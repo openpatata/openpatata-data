@@ -1,3 +1,4 @@
+_id: 23.03.051.007-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/885
 - http://www.parliament.cy/easyconsole.cfm/id/902
@@ -5,13 +6,15 @@ _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-03-27.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-01-30_Ι_Γ_22
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  plenary_id: 2014-01-30_Ι_Γ_22
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+  title: Οι περί Σπόρων (Λαχανικά) (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2014
 - action: submission
-  at_plenary_id: 2014-03-27_Ι_Γ_31
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  plenary_id: 2014-03-27_Ι_Γ_31
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+  title: Οι περί Σπόρων (Λαχανικά) (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2014
 identifier: 23.03.051.007-2014
 title: Οι περί Σπόρων (Λαχανικά) (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2014
 titles:

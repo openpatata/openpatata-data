@@ -1,11 +1,13 @@
+_id: 23.02.055.020-2014
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-02-20.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-02-20_Ι_Γ_25
   committees_referred_to: Εσωτερικών
+  plenary_id: 2014-02-20_Ι_Γ_25
   sponsors: Κυριάκο Χατζηγιάννη και Σωτήρη Σαμψών, βουλευτές εκλογικής περιφέρειας
     Αμμοχώστου
+  title: Ο περί Αλλοδαπών και Μεταναστεύσεως (Τροποποιητικός) Νόμος του 2014
 identifier: 23.02.055.020-2014
 title: Ο περί Αλλοδαπών και Μεταναστεύσεως (Τροποποιητικός) Νόμος του 2014
 titles:

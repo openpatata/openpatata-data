@@ -1,0 +1,13 @@
+_id: 23.01.057.092-2016
+_sources:
+- https://morph.io/wfdd/cypriot-parliament-1r-scraper
+actions:
+- action: submission
+  committees_referred_to: Άμυνας
+  plenary_id: 2016-06-16_Ι_None_3
+  sponsors: Άμυνας
+  title: Ο περί Εθνικής Φρουράς (Τροποποιητικός) Νόμος του 2016
+identifier: 23.01.057.092-2016
+title: Ο περί Εθνικής Φρουράς (Τροποποιητικός) Νόμος του 2016
+titles:
+- Ο περί Εθνικής Φρουράς (Τροποποιητικός) Νόμος του 2016

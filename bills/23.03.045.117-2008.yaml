@@ -1,0 +1,32 @@
+_id: 23.03.045.117-2008
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2008-10-09.doc
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2008-12-04.doc
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2009-01-29.doc
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2009-03-26.doc
+actions:
+- action: submission
+  committees_referred_to: Νομικών
+  plenary_id: 2008-10-09_Θ_Γ_2
+  sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
+  title: Οι περί Πυροσβεστικής Υπηρεσίας (Προαγωγές) Κανονισμοί του 2008
+- action: submission
+  committees_referred_to: Νομικών
+  plenary_id: 2008-12-04_Θ_Γ_10
+  sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
+  title: Οι περί Πυροσβεστικής Υπηρεσίας (Προαγωγές) Κανονισμοί του 2008
+- action: submission
+  committees_referred_to: Νομικών
+  plenary_id: 2009-01-29_Θ_Γ_18
+  sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
+  title: Οι περί Πυροσβεστικής Υπηρεσίας (Προαγωγές) Κανονισμοί του 2009
+- action: submission
+  committees_referred_to: Νομικών
+  plenary_id: 2009-03-26_Θ_Γ_26
+  sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
+  title: Οι περί Πυροσβεστικής Υπηρεσίας (Προαγωγές) Κανονισμοί του 2009
+identifier: 23.03.045.117-2008
+title: Οι περί Πυροσβεστικής Υπηρεσίας (Προαγωγές) Κανονισμοί του 2009
+titles:
+- Οι περί Πυροσβεστικής Υπηρεσίας (Προαγωγές) Κανονισμοί του 2008
+- Οι περί Πυροσβεστικής Υπηρεσίας (Προαγωγές) Κανονισμοί του 2009

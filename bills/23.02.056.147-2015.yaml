@@ -1,12 +1,14 @@
+_id: 23.02.056.147-2015
 _sources:
 - http://www.parliament.cy/images/media/redirectfile/14-1012015- agenda.pdf
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-11-12.pdf
 actions:
 - action: submission
-  at_plenary_id: 2015-11-12_Ι_Ε_9
   committees_referred_to: Υγείας
+  plenary_id: 2015-11-12_Ι_Ε_9
   sponsors: Ρούλα Μαυρονικόλα και Στέλλα Κυριακίδου, βουλευτές εκλογικής περιφέρειας
     Λευκωσίας
+  title: Ο περί Νοσηλευτικής και Μαιευτικής (Τροποποιητικός) Νόμος του 2015
 identifier: 23.02.056.147-2015
 title: Ο περί Νοσηλευτικής και Μαιευτικής (Τροποποιητικός) Νόμος του 2015
 titles:

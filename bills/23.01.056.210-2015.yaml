@@ -1,11 +1,14 @@
+_id: 23.01.056.210-2015
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1770
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-11-05.pdf
 actions:
 - action: submission
-  at_plenary_id: 2015-11-05_Ι_Ε_8
   committees_referred_to: Υγείας
+  plenary_id: 2015-11-05_Ι_Ε_8
   sponsors: Υγείας
+  title: Ο περί Συμπληρωματικού Προϋπολογισμού του Αντιναρκωτικού Συμβουλίου Κύπρου
+    (Αρ. 1) Νόμος του 2015
 identifier: 23.01.056.210-2015
 title: Ο περί Συμπληρωματικού Προϋπολογισμού του Αντιναρκωτικού Συμβουλίου Κύπρου
   Νόμος (Αρ. 1) του 2015

@@ -1,11 +1,14 @@
+_id: 23.02.052.057-2011
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/996
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2011-09-29.doc
 actions:
 - action: submission
-  at_plenary_id: 2011-09-29_Ι_Α_3
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2011-09-29_Ι_Α_3
   sponsors: Γιώργο Περδίκη, βουλευτή Κινήματος Οικολόγων Περιβαλλοντιστών
+  title: O περί Φορολογίας Ακινήτου Ιδιοκτησίας (Τροποποιητικός) (Αρ. 2) Νόμος του
+    2011
 identifier: 23.02.052.057-2011
 title: O περί Φορολογίας Ακινήτου Ιδιοκτησίας (Τροποποιητικός) (Αρ. 2) Νόμος του 2011
 titles:

@@ -1,12 +1,15 @@
+_id: 23.01.055.045-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/867
 - http://www.parliament.cy/easyconsole.cfm/id/876
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-02-20.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-02-20_Ι_Γ_25
   committees_referred_to: Εμπορίου και Βιομηχανίας
+  plenary_id: 2014-02-20_Ι_Γ_25
   sponsors: Ενέργειας, Εμπορίου, Βιομηχανίας και Τουρισμού
+  title: Ο περί Πετρελαϊκών Κρίσεων (Έκτακτες Εξουσίες) (Τροποποιητικός) Νόμος του
+    2014
 identifier: 23.01.055.045-2014
 title: Ο περί Πετρελαϊκών Κρίσεων (Έκτακτες Εξουσίες) (Τροποποιητικός) Νόμος του 2014
 titles:

@@ -1,11 +1,14 @@
+_id: 23.01.054.131-2013
 _sources:
 - http://www.parliament.cy/images/media/redirectfile/40-1107013 - agenda0001.pdf
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-06-27.pdf
 actions:
 - action: submission
-  at_plenary_id: 2013-06-27_Ι_Β_38
   committees_referred_to: Υγείας
+  plenary_id: 2013-06-27_Ι_Β_38
   sponsors: Υγείας
+  title: Ο περί Ρυθμίσεως της Άσκησης του Επαγγέλματος των Οπτικών (Τροποποιητικός)
+    Νόμος του 2013
 identifier: 23.01.054.131-2013
 title: Ο περί Ρυθμίσεως της Άσκησης του Επαγγέλματος των Οπτικών (Τροποποιητικός)
   Νόμος του 2013

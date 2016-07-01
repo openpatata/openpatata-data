@@ -1,10 +1,12 @@
+_id: 23.01.052.186-2011
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2011-09-22.doc
 actions:
 - action: submission
-  at_plenary_id: 2011-09-22_Ι_Α_2
   committees_referred_to: Νομικών
+  plenary_id: 2011-09-22_Ι_Α_2
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
+  title: Ο περί Θανατικών Ανακριτών (Τροποποιητικός) Νόμος του 2011
 identifier: 23.01.052.186-2011
 title: Ο περί Θανατικών Ανακριτών (Τροποποιητικός) Νόμος του 2011
 titles:

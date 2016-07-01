@@ -1,10 +1,12 @@
+_id: 23.02.053.048-2012
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-05-03.doc
 actions:
 - action: submission
-  at_plenary_id: 2012-05-03_Ι_Α_35
   committees_referred_to: Άμυνας
+  plenary_id: 2012-05-03_Ι_Α_35
   sponsors: Σωτήρη Σαμψών, βουλευτή εκλογικής περιφέρειας Αμμοχώστου
+  title: Ο περί Στρατού της Δημοκρατίας (Τροποποιητικός) Νόμος του 2012
 identifier: 23.02.053.048-2012
 title: Ο περί Στρατού της Δημοκρατίας (Τροποποιητικός) Νόμος του 2012
 titles:

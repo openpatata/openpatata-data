@@ -1,11 +1,13 @@
+_id: 23.01.054.120-2013
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/574
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-06-13.pdf
 actions:
 - action: submission
-  at_plenary_id: 2013-06-13_Ι_Β_36
   committees_referred_to: Υγείας
+  plenary_id: 2013-06-13_Ι_Β_36
   sponsors: Υγείας
+  title: Ο περί Εγγραφής Ποδολόγων και για Συναφή Θέματα Νόμος του 2013
 identifier: 23.01.054.120-2013
 title: Ο περί Εγγραφής Ποδολόγων και για Συναφή Θέματα Νόμος του 2013
 titles:

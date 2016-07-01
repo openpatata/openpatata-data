@@ -1,12 +1,14 @@
+_id: 23.02.053.059-2012
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1911
 - http://www.parliament.cy/images/media/redirectfile/32-1404016 - agenda.pdf
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-05-31.doc
 actions:
 - action: submission
-  at_plenary_id: 2012-05-31_Ι_Α_40
   committees_referred_to: εκλογικής Εμπορίου και Βιομηχανίας
+  plenary_id: 2012-05-31_Ι_Α_40
   sponsors: Κυριάκο Χατζηγιάννη, βουλευτή περιφέρειας Αμμοχώστου
+  title: περί Εμπορικών Περιγραφών (Τροποποιητικός) Νόμος του 2012. Φακ. 23.02.053.059-2012)
 identifier: 23.02.053.059-2012
 title: περί Εμπορικών Περιγραφών (Τροποποιητικός) Νόμος του 2012. Φακ. 23.02.053.059-2012)
 titles:

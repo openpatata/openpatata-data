@@ -1,6 +1,13 @@
+_id: 23.01.052.108-2011
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/502
-actions: []
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_TE/praktiko2011-03-31.doc
+actions:
+- action: submission
+  committees_referred_to: Εσωτερικών
+  plenary_id: 2011-03-31_Θ_Ε_28
+  sponsors: Εσωτερικών
+  title: Ο περί Ραδιοφωνικών και Τηλεοπτικών Σταθμών (Τροποποιητικός) Νόμος του 2011
 identifier: 23.01.052.108-2011
 title: Ο περί Ραδιοφωνικών και Τηλεοπτικών Σταθμών (Τροποποιητικός) Νόμος του 2011
 titles:

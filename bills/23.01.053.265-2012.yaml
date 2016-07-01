@@ -1,10 +1,12 @@
+_id: 23.01.053.265-2012
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2012-12-13.doc
 actions:
 - action: submission
-  at_plenary_id: 2012-12-13_Ι_Β_15
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2012-12-13_Ι_Β_15
   sponsors: Εμπορίου, Βιομηχανίας και Τουρισμού
+  title: Ο περί Συνεργατικών Εταιρειών (Τροποποιητικός) (Αρ. 3) Νόμος του 2012
 identifier: 23.01.053.265-2012
 title: Ο περί Συνεργατικών Εταιρειών (Τροποποιητικός) (Αρ. 3) Νόμος του 2012
 titles:

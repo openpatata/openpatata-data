@@ -1,11 +1,14 @@
+_id: 23.01.055.154-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/996
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-06-26.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-06-26_Ι_Γ_40
   committees_referred_to: Θεσμών, Αξιών και Επιτρόπου Διοικήσεως
+  plenary_id: 2014-06-26_Ι_Γ_40
   sponsors: Οικονομικών
+  title: Ο περί Αξιολόγησης Υποψηφίων για Διορισμό στη Δημόσια Υπηρεσία (Προσωρινές
+    Διατάξεις) Νόμος του 2014
 identifier: 23.01.055.154-2014
 title: Ο περί Αξιολόγησης Υποψηφίων για Διορισμό στη Δημόσια Υπηρεσία (Προσωρινές
   Διατάξεις) Νόμος του 2014

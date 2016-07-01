@@ -1,3 +1,4 @@
+_id: 23.03.050.005-2013
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/466
 - http://www.parliament.cy/easyconsole.cfm/id/550
@@ -9,21 +10,29 @@ _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-08-29.pdf
 actions:
 - action: submission
-  at_plenary_id: 2013-03-07_Ι_Β_21
   committees_referred_to: Νομικών
+  plenary_id: 2013-03-07_Ι_Β_21
   sponsors: Συγκοινωνιών και Έργων
+  title: Οι περί Ηλεκτρονικών Υπογραφών (Παροχή Υπηρεσιών Αναγνωρισμένης Πιστοποίησης)
+    Κανονισμοί του 2013
 - action: submission
-  at_plenary_id: 2013-04-25_Ι_Β_30
   committees_referred_to: Νομικών
+  plenary_id: 2013-04-25_Ι_Β_30
   sponsors: Συγκοινωνιών και Έργων
+  title: Οι περί Ηλεκτρονικών Υπογραφών (Παροχή Υπηρεσιών Αναγνωρισμένης Πιστοποίησης)
+    Κανονισμοί του 2013
 - action: submission
-  at_plenary_id: 2013-06-20_Ι_Β_37
   committees_referred_to: Νομικών
+  plenary_id: 2013-06-20_Ι_Β_37
   sponsors: Συγκοινωνιών και Έργων
+  title: Οι περί Ηλεκτρονικών Υπογραφών (Παροχή Υπηρεσιών Αναγνωρισμένης Πιστοποίησης)
+    Κανονισμοί του 2013
 - action: submission
-  at_plenary_id: 2013-08-29_Ι_None_None
   committees_referred_to: Νομικών
+  plenary_id: 2013-08-29_Ι_None_None
   sponsors: Συγκοινωνιών και Έργων
+  title: Οι περί Ηλεκτρονικών Υπογραφών (Παροχή Υπηρεσιών Αναγνωρισμένης Πιστοποίησης)
+    Κανονισμοί του 2013
 identifier: 23.03.050.005-2013
 title: Οι περί Ηλεκτρονικών Υπογραφών (Παροχή Υπηρεσιών Αναγνωρισμένης Πιστοποίησης)
   Κανονισμοί του 2013

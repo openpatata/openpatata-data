@@ -1,11 +1,14 @@
+_id: 23.03.051.072-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1246
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-11-20.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-11-20_Ι_Δ_10
   committees_referred_to: Εξωτερικών και Ευρωπαϊκών Υποθέσεων
+  plenary_id: 2014-11-20_Ι_Δ_10
   sponsors: Εξωτερικών
+  title: Οι περί Υδρογονανθράκων (Αναζήτηση, Έρευνα και Εκμετάλλευση) (Τροποποιητικοί)
+    Κανονισμοί του 2014
 identifier: 23.03.051.072-2014
 title: Οι περί Υδρογονανθράκων (Αναζήτηση, Έρευνα και Εκμετάλλευση) (Τροποποιητικοί)
   Κανονισμοί του 2014

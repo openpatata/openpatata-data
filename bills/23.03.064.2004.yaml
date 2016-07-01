@@ -1,0 +1,51 @@
+_id: 23.03.064.2004
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2004-03-26.doc
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2004-05-20.doc
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2004-10-07.doc
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2004-12-02.doc
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2005-01-27.doc
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2005-03-24.doc
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2005-05-19.doc
+actions:
+- action: submission
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  plenary_id: 2004-03-26_Η_Γ_28
+  sponsors: Εξωτερικών
+  title: Οι περί Αλιείας (Τροποποιητικοί) Κανονισμοί του 2004
+- action: submission
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  plenary_id: 2004-05-20_Η_Γ_35
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+  title: Οι περί Αλιείας (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2004
+- action: submission
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  plenary_id: 2004-10-07_Η_Δ_1
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+  title: Οι περί Αλιείας (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2004
+- action: submission
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  plenary_id: 2004-12-02_Η_Δ_10
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+  title: Οι περί Αλιείας (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2004
+- action: submission
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  plenary_id: 2005-01-27_Η_Δ_17
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+  title: Οι περί Αλιείας (Τροποποιητικοί) Κανονισμοί του 2005
+- action: submission
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  plenary_id: 2005-03-24_Η_Δ_25
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+  title: Οι περί Αλιείας (Τροποποιητικοί) Κανονισμοί του 2005
+- action: submission
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  plenary_id: 2005-05-19_Η_Δ_31
+  sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+  title: Οι περί Αλιείας (Τροποποιητικοί) Κανονισμοί του 2005
+identifier: 23.03.064.2004
+title: Οι περί Αλιείας (Τροποποιητικοί) Κανονισμοί του 2005
+titles:
+- Οι περί Αλιείας (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2004
+- Οι περί Αλιείας (Τροποποιητικοί) Κανονισμοί του 2004
+- Οι περί Αλιείας (Τροποποιητικοί) Κανονισμοί του 2005

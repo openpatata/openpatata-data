@@ -1,11 +1,13 @@
+_id: 23.01.055.053-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/876
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-03-06.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-03-06_Ι_Γ_28
   committees_referred_to: Εμπορίου και Βιομηχανίας
+  plenary_id: 2014-03-06_Ι_Γ_28
   sponsors: Ενέργειας, Εμπορίου, Βιομηχανίας και Τουρισμού
+  title: Ο περί της Προστασίας του Ανταγωνισμού (Τροποποιητικός) Νόμος του 2014
 identifier: 23.01.055.053-2014
 title: Ο περί της Προστασίας του Ανταγωνισμού (Τροποποιητικός) Νόμος του 2014
 titles:

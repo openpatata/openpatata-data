@@ -1,11 +1,13 @@
+_id: 23.01.054.241-2013
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/756
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-11-07.pdf
 actions:
 - action: submission
-  at_plenary_id: 2013-11-07_Ι_Γ_11
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2013-11-07_Ι_Γ_11
   sponsors: Οικονομικών
+  title: Ο περί Εργασιών Πιστωτικών Ιδρυμάτων (Τροποποιητικός) (Αρ. 5) Νόμος του 2013
 identifier: 23.01.054.241-2013
 title: Ο περί Εργασιών Πιστωτικών Ιδρυμάτων (Τροποποιητικός) (Αρ. 5) Νόμος του 2013
 titles:

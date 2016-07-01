@@ -1,3 +1,4 @@
+_id: 23.01.055.208-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1950
 - http://www.parliament.cy/easyconsole.cfm/id/1956
@@ -5,9 +6,10 @@ _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-09-23.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-09-23_Ι_Δ_1
   committees_referred_to: Θεσμών, Αξιών και Επιτρόπου Διοικήσεως
+  plenary_id: 2014-09-23_Ι_Δ_1
   sponsors: Οικονομικών
+  title: Ο περί της Κυπριακής Υπηρεσίας Πληροφοριών (ΚΥΠ) Νόμος του 2014
 identifier: 23.01.055.208-2014
 title: Ο περί της Κυπριακής Υπηρεσίας Πληροφοριών (ΚΥΠ) Νόμος του 2014. 2 (Αρ. Φακ.
   23.01.055.208-2014)

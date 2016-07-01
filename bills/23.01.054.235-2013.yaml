@@ -1,12 +1,15 @@
+_id: 23.01.054.235-2013
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/744
 - http://www.parliament.cy/easyconsole.cfm/id/767
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-10-31.pdf
 actions:
 - action: submission
-  at_plenary_id: 2013-10-31_Ι_Γ_10
   committees_referred_to: Εμπορίου και Βιομηχανίας
+  plenary_id: 2013-10-31_Ι_Γ_10
   sponsors: Ενέργειας, Εμπορίου, Βιομηχανίας και Τουρισμού
+  title: Ο περί Γραφείων Τουρισμού και Ταξιδιών και Ξεναγών (Τροποποιητικός) Νόμος
+    του 2013
 identifier: 23.01.054.235-2013
 title: Ο περί Γραφείων Τουρισμού και Ταξιδιών και Ξεναγών (Τροποποιητικός) Νόμος του
   2013

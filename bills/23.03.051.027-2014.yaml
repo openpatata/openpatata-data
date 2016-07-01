@@ -1,11 +1,13 @@
+_id: 23.03.051.027-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/962
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-05-06.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-05-06_Ι_Γ_34
   committees_referred_to: Εμπορίου και Βιομηχανίας
+  plenary_id: 2014-05-06_Ι_Γ_34
   sponsors: Ενέργειας, Εμπορίου, Βιομηχανίας και Τουρισμού
+  title: Οι περί Αναπτύξεως Ηλεκτρισμού (Τροποποιητικοί) Κανονισμοί του 2014
 identifier: 23.03.051.027-2014
 title: Οι περί Αναπτύξεως Ηλεκτρισμού (Τροποποιητικοί) Κανονισμοί του 2014
 titles:

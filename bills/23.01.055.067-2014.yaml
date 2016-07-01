@@ -1,11 +1,14 @@
+_id: 23.01.055.067-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/902
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-03-20.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-03-20_Ι_Γ_30
   committees_referred_to: Υγείας
+  plenary_id: 2014-03-20_Ι_Γ_30
   sponsors: Υγείας
+  title: Ο περί Προϋπολογισμού του Οργανισμού Ασφάλισης Υγείας του 2014 Νόμος του
+    2014
 identifier: 23.01.055.067-2014
 title: Ο περί Προϋπολογισμού του Οργανισμού Ασφάλισης Υγείας του 2014 Νόμος του 2014
 titles:

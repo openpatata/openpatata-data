@@ -1,10 +1,12 @@
+_id: 23.01.052.220-2011
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2011-10-27.doc
 actions:
 - action: submission
-  at_plenary_id: 2011-10-27_Ι_Α_7
   committees_referred_to: Εσωτερικών
+  plenary_id: 2011-10-27_Ι_Α_7
   sponsors: Συγκοινωνιών και Έργων
+  title: Ο περί Δήμων (Τροποποιητικός) (Αρ. 4) Νόμος του 2011
 identifier: 23.01.052.220-2011
 title: Ο περί Δήμων (Τροποποιητικός) (Αρ. 4) Νόμος του 2011
 titles:

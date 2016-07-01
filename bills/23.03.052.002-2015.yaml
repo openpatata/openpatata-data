@@ -1,3 +1,4 @@
+_id: 23.03.052.002-2015
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1373
 - http://www.parliament.cy/easyconsole.cfm/id/1453
@@ -8,17 +9,23 @@ _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-05-14.pdf
 actions:
 - action: submission
-  at_plenary_id: 2015-01-22_Ι_Δ_18
   committees_referred_to: Άμυνας
+  plenary_id: 2015-01-22_Ι_Δ_18
   sponsors: Άμυνας
+  title: Οι περί Στρατού της Δημοκρατίας (Ωράριο Υπηρεσίας - Εκπαίδευσης - Ειδικών
+    Καθηκόντων των μελών του Στρατού της Δημοκρατίας) Κανονισμοί του 2015
 - action: submission
-  at_plenary_id: 2015-03-19_Ι_Δ_27
   committees_referred_to: Άμυνας
+  plenary_id: 2015-03-19_Ι_Δ_27
   sponsors: Άμυνας
+  title: Οι περί Στρατού της Δημοκρατίας (Ωράριο Υπηρεσίας - Εκπαίδευσης - Ειδικών
+    Καθηκόντων των μελών του Στρατού της Δημοκρατίας) Κανονισμοί του 2015
 - action: submission
-  at_plenary_id: 2015-05-14_Ι_Δ_36
   committees_referred_to: Άμυνας
+  plenary_id: 2015-05-14_Ι_Δ_36
   sponsors: Άμυνας
+  title: Οι περί Στρατού της Δημοκρατίας (Ωράριο Υπηρεσίας - Εκπαίδευσης - Ειδικών
+    Καθηκόντων των μελών του Στρατού της Δημοκρατίας) Κανονισμοί του 2015
 identifier: 23.03.052.002-2015
 title: Οι περί Στρατού της Δημοκρατίας (Ωράριο Υπηρεσίας - Εκπαίδευσης - Ειδικών Καθηκόντων
   των μελών του Στρατού της Δημοκρατίας) Κανονισμοί του 2015

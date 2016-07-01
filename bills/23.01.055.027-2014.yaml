@@ -1,11 +1,13 @@
+_id: 23.01.055.027-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/848
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-02-06.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-02-06_Ι_Γ_23
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2014-02-06_Ι_Γ_23
   sponsors: Οικονομικών
+  title: Ο περί Συνεργατικών Εταιρειών (Τροποποιητικός) Νόμος του 2014
 identifier: 23.01.055.027-2014
 title: Ο περί Συνεργατικών Εταιρειών (Τροποποιητικός) Νόμος του 2014
 titles:

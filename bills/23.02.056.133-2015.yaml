@@ -1,12 +1,15 @@
+_id: 23.02.056.133-2015
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1770
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-11-05.pdf
 actions:
 - action: submission
-  at_plenary_id: 2015-11-05_Ι_Ε_8
   committees_referred_to: Εσωτερικών
+  plenary_id: 2015-11-05_Ι_Ε_8
   sponsors: Νικόλα Παπαδόπουλο εκ μέρους της κοινοβουλευτικής ομάδας του Δημοκρατικού
     Κόμματος
+  title: περί Εκλογής Μελών της Βουλής των Αντιπροσώπων (Τροποποιητικός) (Αρ. 5) Νόμος
+    του 2015
 identifier: 23.02.056.133-2015
 title: περί Εκλογής Μελών της Βουλής των Αντιπροσώπων (Τροποποιητικός) (Αρ. 5) Νόμος
   του 2015

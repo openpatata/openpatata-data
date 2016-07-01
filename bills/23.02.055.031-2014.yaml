@@ -1,12 +1,14 @@
+_id: 23.02.055.031-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/996
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-03-13.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-03-13_Ι_Γ_29
   committees_referred_to: Εμπορίου και Βιομηχανίας
+  plenary_id: 2014-03-13_Ι_Γ_29
   sponsors: Λευτέρη Χριστοφόρου εκ μέρους της κοινοβουλευτικής ομάδας του Δημοκρατικού
     Συναγερμού
+  title: Ο περί Φορολογίας του Εισοδήματος (Τροποποιητικός) (Αρ. 4) Νόμος του 2014
 identifier: 23.02.055.031-2014
 title: Ο περί Φορολογίας του Εισοδήματος (Τροποποιητικός) (Αρ. 4) Νόμος του 2014
 titles:

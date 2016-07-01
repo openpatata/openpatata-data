@@ -1,3 +1,4 @@
+_id: 23.03.049.010-2012
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-01-12.doc
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-03-08.doc
@@ -6,25 +7,35 @@ _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2012-09-13.doc
 actions:
 - action: submission
-  at_plenary_id: 2012-01-12_Ι_Α_19
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2012-01-12_Ι_Α_19
   sponsors: Οικονομικών
+  title: Οι περί Αξιών και Χρηματιστηρίου Αξιών Κύπρου (Συντάξεις και Χορηγήματα)
+    (Τροποποιητικοί) Κανονισμοί του 2012
 - action: submission
-  at_plenary_id: 2012-03-08_Ι_Α_27
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2012-03-08_Ι_Α_27
   sponsors: Οικονομικών
+  title: Οι περί Αξιών και Χρηματιστηρίου Αξιών Κύπρου (Συντάξεις και Χορηγήματα)
+    (Τροποποιητικοί) Κανονισμοί του 2012
 - action: submission
-  at_plenary_id: 2012-05-03_Ι_Α_35
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2012-05-03_Ι_Α_35
   sponsors: Οικονομικών
+  title: Οι περί Αξιών και Χρηματιστηρίου Αξιών Κύπρου (Συντάξεις και Χορηγήματα)
+    (Τροποποιητικοί) Κανονισμοί του 2012
 - action: submission
-  at_plenary_id: 2012-06-28_Ι_Α_44
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2012-06-28_Ι_Α_44
   sponsors: Οικονομικών
+  title: Οι περί Αξιών και Χρηματιστηρίου Αξιών Κύπρου (Συντάξεις και Χορηγήματα)
+    (Τροποποιητικοί) Κανονισμοί του 2012
 - action: submission
-  at_plenary_id: 2012-09-13_Ι_Β_1
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2012-09-13_Ι_Β_1
   sponsors: Οικονομικών
+  title: Οι περί Αξιών και Χρηματιστηρίου Αξιών Κύπρου (Συντάξεις και Χορηγήματα)
+    (Τροποποιητικοί) Κανονισμοί του 2012
 identifier: 23.03.049.010-2012
 title: Οι περί Αξιών και Χρηματιστηρίου Αξιών Κύπρου (Συντάξεις και Χορηγήματα) (Τροποποιητικοί)
   Κανονισμοί του 2012

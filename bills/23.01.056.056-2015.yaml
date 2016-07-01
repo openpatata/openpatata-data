@@ -1,12 +1,15 @@
+_id: 23.01.056.056-2015
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1504
 - http://www.parliament.cy/easyconsole.cfm/id/1535
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-03-12.pdf
 actions:
 - action: submission
-  at_plenary_id: 2015-03-12_Ι_Δ_26
   committees_referred_to: Εξωτερικών και Ευρωπαϊκών Υποθέσεων
+  plenary_id: 2015-03-12_Ι_Δ_26
   sponsors: Οικονομικών
+  title: Ο περί της Συμφωνίας για τη Μεταφορά και Αμοιβαιοποίηση των Εισφορών στο
+    Ενιαίο Ταμείο Εξυγίανσης (Κυρωτικός) Νόμος του 2015
 identifier: 23.01.056.056-2015
 title: Ο περί της Συμφωνίας για τη Μεταφορά και Αμοιβαιοποίηση των Εισφορών στο Ενιαίο
   Ταμείο Εξυγίανσης (Κυρωτικός) Νόμος του 2015

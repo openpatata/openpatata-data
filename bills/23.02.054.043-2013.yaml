@@ -1,3 +1,4 @@
+_id: 23.02.054.043-2013
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/574
 - http://www.parliament.cy/easyconsole.cfm/id/680
@@ -5,10 +6,11 @@ _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-05-30.pdf
 actions:
 - action: submission
-  at_plenary_id: 2013-05-30_Ι_Β_34
   committees_referred_to: Εσωτερικών
+  plenary_id: 2013-05-30_Ι_Β_34
   sponsors: Αβέρωφ Νεοφύτου εκ μέρους της κοινοβουλευτικής ομάδας του Δημοκρατικού
     Συναγερμού
+  title: Ο περί Ραδιοφωνικού Ιδρύματος Κύπρου (Τροποποιητικός) Νόμος του 2013
 identifier: 23.02.054.043-2013
 title: Ο περί Ραδιοφωνικού Ιδρύματος Κύπρου (Τροποποιητικός) Νόμος του 2013
 titles:

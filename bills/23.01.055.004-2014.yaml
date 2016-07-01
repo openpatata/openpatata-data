@@ -1,11 +1,13 @@
+_id: 23.01.055.004-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/870
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-12-16.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-01-16_Ι_Γ_20
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  plenary_id: 2014-01-16_Ι_Γ_20
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+  title: Ο περί της Υγείας των Ζώων (Τροποποιητικός) Νόμος του 2014
 identifier: 23.01.055.004-2014
 title: Ο περί της Υγείας των Ζώων (Τροποποιητικός) Νόμος του 2014
 titles:

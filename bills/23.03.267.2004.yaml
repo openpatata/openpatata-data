@@ -1,0 +1,32 @@
+_id: 23.03.267.2004
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2004-12-02.doc
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2005-01-27.doc
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2005-03-24.doc
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2005-05-19.doc
+actions:
+- action: submission
+  committees_referred_to: Νομικών
+  plenary_id: 2004-12-02_Η_Δ_10
+  sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
+  title: Οι περί Αστυνομίας (Προαγωγές) (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2004
+- action: submission
+  committees_referred_to: Νομικών
+  plenary_id: 2005-01-27_Η_Δ_17
+  sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
+  title: Οι περί Αστυνομίας (Προαγωγές) (Τροποποιητικοί) Κανονισμοί του 2005
+- action: submission
+  committees_referred_to: Νομικών
+  plenary_id: 2005-03-24_Η_Δ_25
+  sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
+  title: Οι περί Αστυνομίας (Προαγωγές) (Τροποποιητικοί) Κανονισμοί του 2005
+- action: submission
+  committees_referred_to: Νομικών
+  plenary_id: 2005-05-19_Η_Δ_31
+  sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
+  title: Οι περί Αστυνομίας (Προαγωγές) (Τροποποιητικοί) Κανονισμοί του 2005
+identifier: 23.03.267.2004
+title: Οι περί Αστυνομίας (Προαγωγές) (Τροποποιητικοί) Κανονισμοί του 2005
+titles:
+- Οι περί Αστυνομίας (Προαγωγές) (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2004
+- Οι περί Αστυνομίας (Προαγωγές) (Τροποποιητικοί) Κανονισμοί του 2005

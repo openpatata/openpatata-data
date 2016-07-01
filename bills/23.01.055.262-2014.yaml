@@ -1,12 +1,14 @@
+_id: 23.01.055.262-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1344
 - http://www.parliament.cy/easyconsole.cfm/id/1412
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-12-11.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-12-11_Ι_Δ_13
   committees_referred_to: Οικονομικών και Προϋπολογισμού και Εσωτερικών
+  plenary_id: 2014-12-11_Ι_Δ_13
   sponsors: Οικονομικών
+  title: Ο περί Συμβούλων Αφερεγγυότητας Νόμος του 2014
 identifier: 23.01.055.262-2014
 title: Ο περί Συμβούλων Αφερεγγυότητας Νόμος του 2014
 titles:

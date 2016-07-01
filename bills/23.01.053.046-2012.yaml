@@ -1,10 +1,12 @@
+_id: 23.01.053.046-2012
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-03-01.doc
 actions:
 - action: submission
-  at_plenary_id: 2012-03-01_Ι_Α_26
   committees_referred_to: Παιδείας
+  plenary_id: 2012-03-01_Ι_Α_26
   sponsors: Παιδείας και Πολιτισμού
+  title: Ο περί Σχολικών Κυλικείων (Τροποποιητικός) Νόμος του 2012
 identifier: 23.01.053.046-2012
 title: Ο περί Σχολικών Κυλικείων (Τροποποιητικός) Νόμος του 2012
 titles:

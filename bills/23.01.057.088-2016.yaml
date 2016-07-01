@@ -1,0 +1,14 @@
+_id: 23.01.057.088-2016
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/2120
+- https://morph.io/wfdd/cypriot-parliament-1r-scraper
+actions:
+- action: submission
+  committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2016-06-16_Ι_None_3
+  sponsors: Εργασίας, Πρόνοιας και Κοινωνικών Ασφαλίσεων
+  title: Ο περί Ρύθμισης Ληξιπρόθεσμων Κοινωνικών Εισφορών Νόμος του 2016
+identifier: 23.01.057.088-2016
+title: Ο περί Ρύθμισης Ληξιπρόθεσμων Κοινωνικών Εισφορών Νόμος του 2016
+titles:
+- Ο περί Ρύθμισης Ληξιπρόθεσμων Κοινωνικών Εισφορών Νόμος του 2016

@@ -1,10 +1,13 @@
+_id: 23.03.050.068-2013
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-10-17.pdf
 actions:
 - action: submission
-  at_plenary_id: 2013-10-17_Ι_Γ_8
   committees_referred_to: Εργασίας και Κοινωνικών Ασφαλίσεων
+  plenary_id: 2013-10-17_Ι_Γ_8
   sponsors: Εργασίας και Κοινωνικών Ασφαλίσεων
+  title: Οι περί Κοινωνικών Ασφαλίσεων (Εισφορές) (Τροποποιητικοί) Κανονισμοί του
+    2013
 identifier: 23.03.050.068-2013
 title: Οι περί Κοινωνικών Ασφαλίσεων (Εισφορές) (Τροποποιητικοί) Κανονισμοί του 2013
 titles:

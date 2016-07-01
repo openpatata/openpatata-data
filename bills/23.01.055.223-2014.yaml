@@ -1,12 +1,15 @@
+_id: 23.01.055.223-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1213
 - http://www.parliament.cy/easyconsole.cfm/id/1235
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-10-30.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-10-30_Ι_Δ_6
   committees_referred_to: Παιδείας
+  plenary_id: 2014-10-30_Ι_Δ_6
   sponsors: Παιδείας και Πολιτισμού
+  title: Ο Τροποποιητικός του περί Προϋπολογισμού του Τεχνολογικού Πανεπιστημίου Κύπρου
+    του 2014 Νόμου του 2014 Νόμος του 2014
 identifier: 23.01.055.223-2014
 title: Ο Τροποποιητικός του περί Προϋπολογισμού του Τεχνολογικού Πανεπιστημίου Κύπρου
   του 2014 Νόμου του 2014 Νόμος του 2014

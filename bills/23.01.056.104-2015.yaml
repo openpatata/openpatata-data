@@ -1,11 +1,14 @@
+_id: 23.01.056.104-2015
 _sources:
 - http://www.parliament.cy/images/media/redirectfile/44-0907015 - agenda0001.pdf
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-05-21.pdf
 actions:
 - action: submission
-  at_plenary_id: 2015-05-21_Ι_Δ_37
   committees_referred_to: Οικονομικών και Προϋπολογισμού και Εμπορίου και Βιομηχανίας
+  plenary_id: 2015-05-21_Ι_Δ_37
   sponsors: Ενέργειας, Εμπορίου, Βιομηχανίας και Τουρισμού
+  title: Ο περί Προώθησης και Ενθάρρυνσης της Χρήσης των Ανανεώσιμων Πηγών Ενέργειας
+    (Τροποποιητικός) Νόμος του 2015
 identifier: 23.01.056.104-2015
 title: Ο περί Προώθησης και Ενθάρρυνσης της Χρήσης των Ανανεώσιμων Πηγών Ενέργειας
   (Τροποποιητικός) Νόμος του 2015

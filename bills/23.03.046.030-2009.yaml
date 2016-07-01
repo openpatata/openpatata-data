@@ -1,0 +1,30 @@
+_id: 23.03.046.030-2009
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2009-03-05.doc
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2009-04-30.doc
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2009-06-25.doc
+actions:
+- action: submission
+  committees_referred_to: Παιδείας
+  plenary_id: 2009-03-05_Θ_Γ_23
+  sponsors: Παιδείας και Πολιτισμού
+  title: Οι περί Λειτουργίας των Δημόσιων Σχολείων Μέσης Εκπαίδευσης (Τροποποιητικοί)
+    Κανονισμοί του 2009
+- action: submission
+  committees_referred_to: Παιδείας
+  plenary_id: 2009-04-30_Θ_Γ_30
+  sponsors: Παιδείας και Πολιτισμού
+  title: Οι περί Λειτουργίας των Δημόσιων Σχολείων Μέσης Εκπαίδευσης (Τροποποιητικοί)
+    Κανονισμοί του 2009
+- action: submission
+  committees_referred_to: Παιδείας
+  plenary_id: 2009-06-25_Θ_Γ_36
+  sponsors: Παιδείας και Πολιτισμού
+  title: Οι περί Λειτουργίας των Δημόσιων Σχολείων Μέσης Εκπαίδευσης (Τροποποιητικοί)
+    Κανονισμοί του 2009
+identifier: 23.03.046.030-2009
+title: Οι περί Λειτουργίας των Δημόσιων Σχολείων Μέσης Εκπαίδευσης (Τροποποιητικοί)
+  Κανονισμοί του 2009
+titles:
+- Οι περί Λειτουργίας των Δημόσιων Σχολείων Μέσης Εκπαίδευσης (Τροποποιητικοί) Κανονισμοί
+  του 2009

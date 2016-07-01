@@ -1,11 +1,14 @@
+_id: 23.01.057.024-2016
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1936
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-02-04.pdf
 actions:
 - action: submission
-  at_plenary_id: 2016-02-04_Ι_Ε_20
   committees_referred_to: Υγείας
+  plenary_id: 2016-02-04_Ι_Ε_20
   sponsors: Υγείας
+  title: Ο περί Ιδιωτικών Νοσηλευτηρίων (Έλεγχος, Ίδρυσης και Λειτουργίας) (Τροποποιητικός)
+    Νόμος του 2016
 identifier: 23.01.057.024-2016
 title: Ο περί Ιδιωτικών Νοσηλευτηρίων (Έλεγχος, Ίδρυσης και Λειτουργίας) (Τροποποιητικός)
   Νόμος του 2016

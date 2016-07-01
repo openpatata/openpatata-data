@@ -1,13 +1,15 @@
+_id: 23.02.054.038-2013
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1453
 - http://www.parliament.cy/easyconsole.cfm/id/1521
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-05-23.pdf
 actions:
 - action: submission
-  at_plenary_id: 2013-05-23_Ι_Β_33
   committees_referred_to: Νομικών
+  plenary_id: 2013-05-23_Ι_Β_33
   sponsors: Ρίκκο Μαππουρίδη, Σωτήρη Σαμψών και Γεώργιο Γεωργίου, βουλευτές Δημοκρατικού
     Συναγερμού
+  title: Ο περί Διαθηκών και Διαδοχής (Τροποποιητικός) Νόμος του 2013
 identifier: 23.02.054.038-2013
 title: Ο περί Διαθηκών και Διαδοχής (Τροποποιητικός) Νόμος του 2015
 titles:

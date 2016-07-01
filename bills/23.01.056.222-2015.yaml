@@ -1,11 +1,14 @@
+_id: 23.01.056.222-2015
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1876
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-11-12.pdf
 actions:
 - action: submission
-  at_plenary_id: 2015-11-12_Ι_Ε_9
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2015-11-12_Ι_Ε_9
   sponsors: Εσωτερικών
+  title: Ο περί Προϋπολογισμού του Κυπριακού Πρακτορείου Ειδήσεων του 2016 Νόμος του
+    2015
 identifier: 23.01.056.222-2015
 title: Ο περί Προϋπολογισμού του Κυπριακού Πρακτορείου Ειδήσεων του 2016 Νόμος του
   2015

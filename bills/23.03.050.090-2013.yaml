@@ -1,12 +1,15 @@
+_id: 23.03.050.090-2013
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/843
 - http://www.parliament.cy/easyconsole.cfm/id/848
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-02-06.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-02-06_Ι_Γ_23
   committees_referred_to: Εμπορίου και Βιομηχανίας
+  plenary_id: 2014-02-06_Ι_Γ_23
   sponsors: Εσωτερικών
+  title: Οι περί Ρύθμισης Οδών και Οικοδομών (Ενεργειακή Απόδοση των Κτιρίων) (Τροποποιητικοί)
+    Κανονισμοί του 2014
 identifier: 23.03.050.090-2013
 title: Οι περί Ρύθμισης Οδών και Οικοδομών (Ενεργειακή Απόδοση των Κτιρίων) (Τροποποιητικοί)
   Κανονισμοί του 2014

@@ -1,11 +1,18 @@
+_id: 23.02.055.078-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1062
 - http://www.parliament.cy/easyconsole.cfm/id/1133
 - http://www.parliament.cy/easyconsole.cfm/id/1136
-actions: []
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-09-06.pdf
+actions:
+- action: submission
+  committees_referred_to: ''
+  plenary_id: 2014-09-06_Ι_None_None
+  sponsors: Οικολόγων Περιβαλλοντιστών
+  title: 2) Νόμος του 2014. Φακ. 23.02.055.078-2014)
 identifier: 23.02.055.078-2014
-title: Ο περί Εκτίμησης των Επιπτώσεων στο Περιβάλλον από Ορισμένα Έργα (Τροποποιητικός)
-  (Αρ. 2) Νόμος του 2014
+title: 2) Νόμος του 2014. Φακ. 23.02.055.078-2014)
 titles:
 - Ο περί Εκτίμησης των Επιπτώσεων στο Περιβάλλον από Ορισμένα Έργα (Τροποποιητικός)
   (Αρ. 2) Νόμος του 2014
+- 2) Νόμος του 2014. Φακ. 23.02.055.078-2014)

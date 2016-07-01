@@ -1,0 +1,19 @@
+_id: 23.03.216.2004
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2004-10-07.doc
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2004-12-02.doc
+actions:
+- action: submission
+  committees_referred_to: Υγείας
+  plenary_id: 2004-10-07_Η_Δ_1
+  sponsors: Υγείας
+  title: Οι περί Φαρμάκων Ανθρώπινης Χρήσης (Τέλη) Κανονισμοί του 2004
+- action: submission
+  committees_referred_to: Υγείας
+  plenary_id: 2004-12-02_Η_Δ_10
+  sponsors: Υγείας
+  title: Οι περί Φαρμάκων Ανθρώπινης Χρήσης (Τέλη) Κανονισμοί του 2004
+identifier: 23.03.216.2004
+title: Οι περί Φαρμάκων Ανθρώπινης Χρήσης (Τέλη) Κανονισμοί του 2004
+titles:
+- Οι περί Φαρμάκων Ανθρώπινης Χρήσης (Τέλη) Κανονισμοί του 2004

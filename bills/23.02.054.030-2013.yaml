@@ -1,10 +1,12 @@
+_id: 23.02.054.030-2013
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-04-25.pdf
 actions:
 - action: submission
-  at_plenary_id: 2013-04-25_Ι_Β_30
   committees_referred_to: Εργασίας και Κοινωνικών Ασφαλίσεων
+  plenary_id: 2013-04-25_Ι_Β_30
   sponsors: Γιώργο Βαρνάβα, βουλευτή εκλογικής περιφέρειας Αμμοχώστου
+  title: Ο περί Κοινωνικών Ασφαλίσεων (Τροποποιητικός) Νόμος του 2013
 identifier: 23.02.054.030-2013
 title: Ο περί Κοινωνικών Ασφαλίσεων (Τροποποιητικός) Νόμος του 2013
 titles:

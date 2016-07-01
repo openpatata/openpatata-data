@@ -1,12 +1,15 @@
+_id: 23.03.051.026-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/944
 - http://www.parliament.cy/easyconsole.cfm/id/951
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-04-10.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-04-10_Ι_Γ_33
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2014-04-10_Ι_Γ_33
   sponsors: Οικονομικών
+  title: Οι περί της Δημοσιονομικής Ευθύνης και του Δημοσιονομικού Πλαισίου (Πρόσληψη,
+    Προαγωγή και Υπηρεσία Προσωπικού) Κανονισμοί του 2014
 identifier: 23.03.051.026-2014
 title: Οι περί της Δημοσιονομικής Ευθύνης και του Δημοσιονομικού Πλαισίου (Πρόσληψη,
   Προαγωγή και Υπηρεσία Προσωπικού) Κανονισμοί του 2014

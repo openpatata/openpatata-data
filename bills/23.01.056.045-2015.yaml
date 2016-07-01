@@ -1,10 +1,12 @@
+_id: 23.01.056.045-2015
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-02-26.pdf
 actions:
 - action: submission
-  at_plenary_id: 2015-02-26_Ι_Δ_24
   committees_referred_to: Εσωτερικών
+  plenary_id: 2015-02-26_Ι_Δ_24
   sponsors: Εσωτερικών
+  title: Ο περί Σωματείων και Ιδρυμάτων και για άλλα Συναφή Θέματα Νόμος του 2015
 identifier: 23.01.056.045-2015
 title: Ο περί Σωματείων και Ιδρυμάτων και για άλλα Συναφή Θέματα Νόμος του 2015
 titles:

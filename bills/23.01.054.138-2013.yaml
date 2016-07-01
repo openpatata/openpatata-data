@@ -1,11 +1,14 @@
+_id: 23.01.054.138-2013
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/654
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-06-27.pdf
 actions:
 - action: submission
-  at_plenary_id: 2013-06-27_Ι_Β_38
   committees_referred_to: Νομικών
+  plenary_id: 2013-06-27_Ι_Β_38
   sponsors: Δικαιοσύνης και Δημόσιας Τάξεως
+  title: Ο περί Παρεμπόδισης και Καταπολέμησης της Νομιμοποίησης Εσόδων από Παράνομες
+    Δραστηριότητες (Τροποποιητικός) Νόμος του 2013
 identifier: 23.01.054.138-2013
 title: Ο περί Παρεμπόδισης και Καταπολέμησης της Νομιμοποίησης Εσόδων από Παράνομες
   Δραστηριότητες (Τροποποιητικός) Νόμος του 2013

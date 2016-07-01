@@ -1,13 +1,15 @@
+_id: 23.02.056.157-2015
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1936
 - http://www.parliament.cy/images/media/redirectfile/32-1404016 - agenda.pdf
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-11-19.pdf
 actions:
 - action: submission
-  at_plenary_id: 2015-11-19_Ι_Ε_10
   committees_referred_to: Υγείας
+  plenary_id: 2015-11-19_Ι_Ε_10
   sponsors: Κυριάκο Χατζηγιάννη, βουλευτή του Δημοκρατικού Συναγερμού, και Άγγελο
     Βότση, βουλευτή του Δημοκρατικού Κόμματος
+  title: Ο περί Τροφίμων (Έλεγχος και Πώληση) (Τροποποιητικός) (Αρ. 2) Νόμος του 2015
 identifier: 23.02.056.157-2015
 title: Ο περί Τροφίμων (Έλεγχος και Πώληση) (Τροποποιητικός) (Αρ. 2) Νόμος του 2015
 titles:

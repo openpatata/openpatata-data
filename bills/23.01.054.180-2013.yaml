@@ -1,12 +1,15 @@
+_id: 23.01.054.180-2013
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/744
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-08-29.pdf
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-08-29.pdf
 actions:
 - action: submission
-  at_plenary_id: 2013-08-29_Ι_None_None
   committees_referred_to: Συγκοινωνιών και Έργων
+  plenary_id: 2013-08-29_Ι_None_None
   sponsors: Εσωτερικών
+  title: Ο περί Εγγραφής και Ελέγχου Εργοληπτών Οικοδομικών και Τεχνικών Έργων (Τροποποιητικός)
+    Νόμος του 2013
 identifier: 23.01.054.180-2013
 title: Ο περί Εγγραφής και Ελέγχου Εργοληπτών Οικοδομικών και Τεχνικών Έργων (Τροποποιητικός)
   Νόμος του 2013

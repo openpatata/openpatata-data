@@ -1,9 +1,18 @@
+_id: 23.02.050.034-2009
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1831
 - http://www.parliament.cy/easyconsole.cfm/id/1864
 - http://www.parliament.cy/easyconsole.cfm/id/1876
 - http://www.parliament.cy/easyconsole.cfm/id/1911
-actions: []
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2009-07-09.doc
+actions:
+- action: submission
+  committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  plenary_id: 2009-07-09_Θ_Γ_38
+  sponsors: Κυριάκο Χατζηγιάννη, Σωτήρη Σαμψών, Γεώργιο Τάσου, Λευτέρη Χριστοφόρου,
+    Μαρία Κυριακού, Γεώργιο Γεωργίου, Κώστα Κωνσταντίνου και Τάσο Μητσόπουλο εκ μέρους
+    της κοινοβουλευτικής ομάδας του Δημοκρατικού Συναγερμού
+  title: Ο περί Εγγραφής Αγροτών και Αγροτικών Εκμεταλλεύσεων Νόμος του 2009
 identifier: 23.02.050.034-2009
 title: Ο περί Εγγραφής Αγροτών και Αγροτικών Εκμεταλλεύσεων Νόμος του 2009
 titles:

@@ -1,11 +1,13 @@
+_id: 23.01.055.234-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1261
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-11-06.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-11-06_Ι_Δ_7
   committees_referred_to: Υγείας
+  plenary_id: 2014-11-06_Ι_Δ_7
   sponsors: Υγείας
+  title: Ο περί Εγγραφής Επαγγελματιών Εργοθεραπευτών (Τροποποιητικός) Νόμος του 2014
 identifier: 23.01.055.234-2014
 title: Ο περί Εγγραφής Επαγγελματιών Εργοθεραπευτών (Τροποποιητικός) Νόμος του 2014
 titles:

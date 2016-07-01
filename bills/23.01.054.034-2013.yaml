@@ -1,10 +1,13 @@
+_id: 23.01.054.034-2013
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-03-07.doc
 actions:
 - action: submission
-  at_plenary_id: 2013-03-07_Ι_Β_21
   committees_referred_to: Νομικών
+  plenary_id: 2013-03-07_Ι_Β_21
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
+  title: Ο περί Ιδιωτικών Γραφείων Παροχής Υπηρεσιών Ασφάλειας (Τροποποιητικός) Νόμος
+    του 2013
 identifier: 23.01.054.034-2013
 title: Ο περί Ιδιωτικών Γραφείων Παροχής Υπηρεσιών Ασφάλειας (Τροποποιητικός) Νόμος
   του 2013

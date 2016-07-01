@@ -1,10 +1,12 @@
+_id: 23.01.056.186-2015
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-10-08.pdf
 actions:
 - action: submission
-  at_plenary_id: 2015-10-08_Ι_Ε_4
   committees_referred_to: Νομικών
+  plenary_id: 2015-10-08_Ι_Ε_4
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
+  title: Ο περί Αποκαταστάσεως Καταδικασθέντων (Τροποποιητικός) Νόμος του 2015
 identifier: 23.01.056.186-2015
 title: Ο περί Αποκαταστάσεως Καταδικασθέντων (Τροποποιητικός) Νόμος του 2015
 titles:

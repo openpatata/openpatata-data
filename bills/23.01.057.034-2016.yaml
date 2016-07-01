@@ -1,11 +1,14 @@
+_id: 23.01.057.034-2016
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1911
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-02-18.pdf
 actions:
 - action: submission
-  at_plenary_id: 2016-02-18_Ι_Ε_23
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2016-02-18_Ι_Ε_23
   sponsors: Ενέργειας, Εμπορίου, Βιομηχανίας και Τουρισμού
+  title: Ο περί Προϋπολογισμού του Διαχειριστή Συστήματος Μεταφοράς Κύπρου του 2016
+    Νόμος του 2016
 identifier: 23.01.057.034-2016
 title: Ο περί Προϋπολογισμού του Διαχειριστή Συστήματος Μεταφοράς Κύπρου του 2016
   Νόμος του 2016

@@ -1,11 +1,13 @@
+_id: 23.01.055.243-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1413
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-11-20.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-11-20_Ι_Δ_10
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2014-11-20_Ι_Δ_10
   sponsors: Οικονομικών
+  title: Ο περί Κρατικών Οργανισμών και Κρατικών Επιχειρήσεων Νόμος του 2014
 identifier: 23.01.055.243-2014
 title: Ο περί Κρατικών Οργανισμών και Κρατικών Επιχειρήσεων Νόμος του 2014
 titles:

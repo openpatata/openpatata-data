@@ -1,11 +1,14 @@
+_id: 23.01.056.180-2015
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1813
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-09-24.pdf
 actions:
 - action: submission
-  at_plenary_id: 2015-09-24_Ι_Ε_3
   committees_referred_to: Υγείας
+  plenary_id: 2015-09-24_Ι_Ε_3
   sponsors: Υγείας
+  title: Ο περί Φαρμάκων Ανθρώπινης Χρήσης (Έλεγχος Ποιότητας, Προμήθειας και Τιμών)
+    (Τροποποιητικός) (Αρ. 2) Νόμος του 2015
 identifier: 23.01.056.180-2015
 title: Ο περί Φαρμάκων Ανθρώπινης Χρήσης (Έλεγχος Ποιότητας, Προμήθειας και Τιμών)
   (Τροποποιητικός) (Αρ. 2) Νόμος του 2015

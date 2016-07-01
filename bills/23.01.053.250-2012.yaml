@@ -1,10 +1,13 @@
+_id: 23.01.053.250-2012
 _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2012-12-06.doc
 actions:
 - action: submission
-  at_plenary_id: 2012-12-06_Ι_Β_13
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2012-12-06_Ι_Β_13
   sponsors: Οικονομικών
+  title: Ο περί Βεβαιώσεως και Εισπράξεως Φόρων (Τροποποιητικός) (Αρ. 6) Νόμος του
+    2012
 identifier: 23.01.053.250-2012
 title: Ο περί Βεβαιώσεως και Εισπράξεως Φόρων (Τροποποιητικός) (Αρ. 6) Νόμος του 2012
 titles:

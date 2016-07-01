@@ -1,16 +1,21 @@
+_id: 23.03.051.040-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/996
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-06-19.pdf
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-07-03.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-06-19_Ι_Γ_39
   committees_referred_to: Εξωτερικών και Ευρωπαϊκών Υποθέσεων
+  plenary_id: 2014-06-19_Ι_Γ_39
   sponsors: Εξωτερικών
+  title: Οι περί Εξωτερικής Υπηρεσίας της Δημοκρατίας (Ειδικοί Όροι) (Τροποποιητικοί)
+    Κανονισμοί του 2014
 - action: submission
-  at_plenary_id: 2014-07-03_Ι_Γ_41
   committees_referred_to: Εξωτερικών και Ευρωπαϊκών Υποθέσεων
+  plenary_id: 2014-07-03_Ι_Γ_41
   sponsors: Εξωτερικών
+  title: Οι περί Εξωτερικής Υπηρεσίας της Δημοκρατίας (Ειδικοί Όροι) (Τροποποιητικοί)
+    Κανονισμοί του 2014
 identifier: 23.03.051.040-2014
 title: Οι περί Εξωτερικής Υπηρεσίας της Δημοκρατίας (Ειδικοί Όροι) (Τροποποιητικοί)
   Κανονισμοί του 2014

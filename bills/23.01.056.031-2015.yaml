@@ -1,12 +1,14 @@
+_id: 23.01.056.031-2015
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1550
 - http://www.parliament.cy/easyconsole.cfm/id/1589
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-02-12.pdf
 actions:
 - action: submission
-  at_plenary_id: 2015-02-12_Ι_Δ_22
   committees_referred_to: Εσωτερικών
+  plenary_id: 2015-02-12_Ι_Δ_22
   sponsors: Εσωτερικών
+  title: Ο περί Πολεοδομίας και Χωροταξίας (Τροποποιητικός) Νόμος του 2015
 identifier: 23.01.056.031-2015
 title: Ο περί Πολεοδομίας και Χωροταξίας (Τροποποιητικός) Νόμος του 2015
 titles:

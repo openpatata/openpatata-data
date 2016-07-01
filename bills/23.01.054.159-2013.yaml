@@ -1,3 +1,4 @@
+_id: 23.01.054.159-2013
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/671
 - http://www.parliament.cy/easyconsole.cfm/id/693
@@ -6,9 +7,10 @@ _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-07-11.pdf
 actions:
 - action: submission
-  at_plenary_id: 2013-07-11_Ι_Β_40
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2013-07-11_Ι_Β_40
   sponsors: Οικονομικών
+  title: Ο περί Φόρου Προστιθέμενης Αξίας (Τροποποιητικός) (Αρ. 4) Νόμος του 2013
 identifier: 23.01.054.159-2013
 title: Ο περί Φόρου Προστιθέμενης Αξίας (Τροποποιητικός) (Αρ. 4) Νόμος του 2013
 titles:

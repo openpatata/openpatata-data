@@ -1,11 +1,14 @@
+_id: 23.03.051.089-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1261
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2014-12-11.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-12-11_Ι_Δ_13
   committees_referred_to: Εσωτερικών
+  plenary_id: 2014-12-11_Ι_Δ_13
   sponsors: Εσωτερικών
+  title: Οι περί Προστασίας της Παραλίας (Άδειες και Δικαιώματα) (Τροποποιητικοί)
+    Κανονισμοί του 2014
 identifier: 23.03.051.089-2014
 title: Οι περί Προστασίας της Παραλίας (Άδειες και Δικαιώματα) (Τροποποιητικοί) Κανονισμοί
   του 2014

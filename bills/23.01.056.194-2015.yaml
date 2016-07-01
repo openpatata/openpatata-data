@@ -1,11 +1,14 @@
+_id: 23.01.056.194-2015
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1713
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-10-08.pdf
 actions:
 - action: submission
-  at_plenary_id: 2015-10-08_Ι_Ε_4
   committees_referred_to: Συγκοινωνιών και Έργων
+  plenary_id: 2015-10-08_Ι_Ε_4
   sponsors: Μεταφορών, Επικοινωνιών και Έργων
+  title: Ο περί Οδικής Μεταφοράς Επικίνδυνων Εμπορευμάτων (Τροποποιητικός) Νόμος του
+    2015
 identifier: 23.01.056.194-2015
 title: Ο περί Οδικής Μεταφοράς Επικίνδυνων Εμπορευμάτων (Τροποποιητικός) Νόμος του
   2015

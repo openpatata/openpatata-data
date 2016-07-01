@@ -1,11 +1,14 @@
+_id: 23.01.056.111-2015
 _sources:
 - http://www.parliament.cy/images/media/redirectfile/44-0907015 - agenda0001.pdf
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-06-04.pdf
 actions:
 - action: submission
-  at_plenary_id: 2015-06-04_Ι_Δ_39
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2015-06-04_Ι_Δ_39
   sponsors: Οικονομικών
+  title: Ο περί της Μεταφοράς Προσωπικού του Χρηματιστηρίου Αξιών Κύπρου στην Επιτροπή
+    Κεφαλαιαγοράς Κύπρου Νόμος του 2015
 identifier: 23.01.056.111-2015
 title: Ο περί της Μεταφοράς Προσωπικού του Χρηματιστηρίου Αξιών Κύπρου στην Επιτροπή
   Κεφαλαιαγοράς Κύπρου Νόμος του 2015

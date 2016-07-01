@@ -1,11 +1,13 @@
+_id: 23.01.054.132-2013
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/671
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-06-27.pdf
 actions:
 - action: submission
-  at_plenary_id: 2013-06-27_Ι_Β_38
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2013-06-27_Ι_Β_38
   sponsors: Οικονομικών
+  title: Ο περί Φόρου Προστιθέμενης Αξίας (Τροποποιητικός) (Αρ. 2) Νόμος του 2013
 identifier: 23.01.054.132-2013
 title: Ο περί Φόρου Προστιθέμενης Αξίας (Τροποποιητικός) (Αρ. 2) Νόμος του 2013
 titles:

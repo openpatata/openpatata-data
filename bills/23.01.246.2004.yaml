@@ -1,0 +1,22 @@
+_id: 23.01.246.2004
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2003-11-20.doc
+- http://www2.parliament.cy/parliamentgr/008_01/praktiko2004-05-13.doc
+actions:
+- action: submission
+  committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2003-11-20_Η_Γ_9
+  sponsors: Οικονομικών
+  title: Ο περί Εκτάκτου Εισφοράς για την Άμυνα της Δημοκρατίας (Τροποποιητικός) Νόμος
+    του 2003
+- action: submission
+  committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2004-05-13_Η_Γ_34
+  sponsors: Οικονομικών
+  title: Ο περί Φόρων Κατανάλωσης (Τροποποιητικός) Νόμος του 2004
+identifier: 23.01.246.2004
+title: Ο περί Φόρων Κατανάλωσης (Τροποποιητικός) Νόμος του 2004
+titles:
+- Ο περί Εκτάκτου Εισφοράς για την Άμυνα της Δημοκρατίας (Τροποποιητικός) Νόμος του
+  2003
+- Ο περί Φόρων Κατανάλωσης (Τροποποιητικός) Νόμος του 2004

@@ -1,3 +1,4 @@
+_id: 23.02.055.021-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1831
 - http://www.parliament.cy/easyconsole.cfm/id/1864
@@ -6,10 +7,12 @@ _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-02-27.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-02-27_Ι_Γ_26
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  plenary_id: 2014-02-27_Ι_Γ_26
   sponsors: Γιαννάκη Γαβριήλ, Αντρέα Φακοντή και Αντρέα Καυκαλιά εκ μέρους της κοινοβουλευτικής
     ομάδας ΑΚΕΛ-Αριστερά-Νέες Δυνάμεις
+  title: Ο περί Δημιουργίας Μητρώου Γεωργών και Γεωργικών Εκμεταλλεύσεων Νόμος του
+    2014
 identifier: 23.02.055.021-2014
 title: Ο περί Δημιουργίας Μητρώου Γεωργών και Γεωργικών Εκμεταλλεύσεων Νόμος του 2014
 titles:

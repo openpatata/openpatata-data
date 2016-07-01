@@ -1,3 +1,4 @@
+_id: 23.03.051.025-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1192
 - http://www.parliament.cy/easyconsole.cfm/id/1270
@@ -15,33 +16,47 @@ _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2015-09-03.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-04-10_Ι_Γ_33
   committees_referred_to: Νομικών
+  plenary_id: 2014-04-10_Ι_Γ_33
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+  title: Οι περί Τμήματος Δασών - Θέση Χειριστή Πτητικών Μέσων (Σχέδια Υπηρεσίας)
+    Κανονισμοί του 2014
 - action: submission
-  at_plenary_id: 2014-09-23_Ι_Δ_1
   committees_referred_to: Νομικών
+  plenary_id: 2014-09-23_Ι_Δ_1
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+  title: Οι περί Τμήματος Δασών - Θέση Χειριστή Πτητικών Μέσων (Σχέδια Υπηρεσίας)
+    Κανονισμοί του 2014
 - action: submission
-  at_plenary_id: 2014-11-20_Ι_Δ_10
   committees_referred_to: Νομικών
+  plenary_id: 2014-11-20_Ι_Δ_10
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
+  title: Οι περί Τμήματος Δασών - Θέση Χειριστή Πτητικών Μέσων (Σχέδια Υπηρεσίας)
+    Κανονισμοί του 2014
 - action: submission
-  at_plenary_id: 2015-01-15_Ι_Δ_17
   committees_referred_to: Νομικών
+  plenary_id: 2015-01-15_Ι_Δ_17
   sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
+  title: Οι περί Τμήματος Δασών - Θέση Χειριστή Πτητικών Μέσων (Σχέδια Υπηρεσίας)
+    Κανονισμοί του 2015
 - action: submission
-  at_plenary_id: 2015-03-12_Ι_Δ_26
   committees_referred_to: Νομικών
+  plenary_id: 2015-03-12_Ι_Δ_26
   sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
+  title: Οι περί Τμήματος Δασών - Θέση Χειριστή Πτητικών Μέσων (Σχέδια Υπηρεσίας)
+    Κανονισμοί του 2015
 - action: submission
-  at_plenary_id: 2015-05-07_Ι_Δ_35
   committees_referred_to: Νομικών
+  plenary_id: 2015-05-07_Ι_Δ_35
   sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
+  title: Οι περί Τμήματος Δασών - Θέση Χειριστή Πτητικών Μέσων (Σχέδια Υπηρεσίας)
+    Κανονισμοί του 2015
 - action: submission
-  at_plenary_id: 2015-09-03_Ι_Ε_1
   committees_referred_to: Νομικών
+  plenary_id: 2015-09-03_Ι_Ε_1
   sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
+  title: Οι περί Τμήματος Δασών - Θέση Χειριστή Πτητικών Μέσων (Σχέδια Υπηρεσίας)
+    Κανονισμοί του 2015
 identifier: 23.03.051.025-2014
 title: Οι περί Τμήματος Δασών - Θέση Χειριστή Πτητικών Μέσων (Σχέδια Υπηρεσίας) Κανονισμοί
   του 2015

@@ -1,11 +1,13 @@
+_id: 23.02.057.005-2016
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1924
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-01-28.pdf
 actions:
 - action: submission
-  at_plenary_id: 2016-01-28_Ι_Ε_19
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
+  plenary_id: 2016-01-28_Ι_Ε_19
   sponsors: Κυριάκο Χατζηγιάννη, βουλευτή εκλογικής περιφέρειας Αμμοχώστου
+  title: Ο περί Αλιείας (Τροποποιητικός) Νόμος του 2016
 identifier: 23.02.057.005-2016
 title: Ο περί Αλιείας (Τροποποιητικός) Νόμος του 2016
 titles:

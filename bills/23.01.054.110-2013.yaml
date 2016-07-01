@@ -1,11 +1,13 @@
+_id: 23.01.054.110-2013
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/557
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-06-06.pdf
 actions:
 - action: submission
-  at_plenary_id: 2013-06-06_Ι_Β_35
   committees_referred_to: Εσωτερικών
+  plenary_id: 2013-06-06_Ι_Β_35
   sponsors: Εσωτερικών
+  title: Ο περί Ευρωπαϊκής Πρωτοβουλίας Πολιτών Νόμος του 2013
 identifier: 23.01.054.110-2013
 title: Ο περί Ευρωπαϊκής Πρωτοβουλίας Πολιτών Νόμος του 2013
 titles:

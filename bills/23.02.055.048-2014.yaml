@@ -1,11 +1,13 @@
+_id: 23.02.055.048-2014
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/987
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2014-06-05.pdf
 actions:
 - action: submission
-  at_plenary_id: 2014-06-05_Ι_Γ_37
   committees_referred_to: Νομικών
+  plenary_id: 2014-06-05_Ι_Γ_37
   sponsors: (Τροποποιητικός) Ζαχαρία Κουλία, βουλευτή εκλογικής περιφέρειας Αμμοχώστου
+  title: Ο περί Πολιτικής Δικονομίας (Αρ. 2) Νόμος του 2014
 identifier: 23.02.055.048-2014
 title: Ο περί Πολιτικής Δικονομίας (Τροποποιητικός) (Αρ. 2) Νόμος του 2014
 titles:

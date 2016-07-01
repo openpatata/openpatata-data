@@ -1,12 +1,14 @@
+_id: 23.01.056.086-2015
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1462
 - http://www.parliament.cy/easyconsole.cfm/id/1475
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_ID/praktiko2015-04-23.pdf
 actions:
 - action: submission
-  at_plenary_id: 2015-04-23_Ι_Δ_33
   committees_referred_to: Παιδείας
+  plenary_id: 2015-04-23_Ι_Δ_33
   sponsors: Παιδείας και Πολιτισμού
+  title: Ο περί Προϋπολογισμού του Πανεπιστημίου Κύπρου του 2015 Νόμος του 2015
 identifier: 23.01.056.086-2015
 title: Ο περί Προϋπολογισμού του Πανεπιστημίου Κύπρου του 2015 Νόμος του 2015
 titles:

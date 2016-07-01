@@ -1,11 +1,14 @@
+_id: 23.01.053.060-2012
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/502
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IA/praktiko2012-03-08.doc
 actions:
 - action: submission
-  at_plenary_id: 2012-03-08_Ι_Α_27
   committees_referred_to: Οικονομικών και Προϋπολογισμού
+  plenary_id: 2012-03-08_Ι_Α_27
   sponsors: Οικονομικών
+  title: Ο περί Προϋπολογισμού του 2012 Νόμος του 2011 (Τροποποιητικός) (Αρ. 4) Νόμος
+    του 2012
 identifier: 23.01.053.060-2012
 title: Ο περί Προϋπολογισμού του 2012 Νόμος του 2011 (Τροποποιητικός) (Αρ. 4) Νόμος
   του 2012

@@ -1,11 +1,14 @@
+_id: 23.01.057.028-2016
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1911
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-02-11-1.pdf
 actions:
 - action: submission
-  at_plenary_id: 2016-02-11_Ι_Ε_21
   committees_referred_to: Ενέργειας, Εμπορίου, Βιομηχανίας και Τουρισμού
+  plenary_id: 2016-02-11_Ι_Ε_21
   sponsors: Ενέργειας, Εμπορίου, Βιομηχανίας και Τουρισμού
+  title: Ο περί των Προϋποθέσεων Πώλησης Εμπορευμάτων σε Τιμές Εκπτώσεων (Τροποποιητικός)
+    Νόμος του 2016
 identifier: 23.01.057.028-2016
 title: Ο περί των Προϋποθέσεων Πώλησης Εμπορευμάτων σε Τιμές εκπτώσεων (Τροποποιητικός)
   Νόμος του 2016
