@@ -5,13 +5,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2005-06-16_Η_Δ_35
+  plenary_sitting_id: 2005-06-16_Η_Δ_35
   sponsors: Οικονομικών
   title: Οι περί Αξιών και Χρηματιστηρίου Αξιών Κύπρου (Τροποποιητικοί) Κανονισμοί
     του 2005
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2005-10-06_Η_Ε_3
+  plenary_sitting_id: 2005-10-06_Η_Ε_3
   sponsors: Οικονομικών
   title: Οι περί Αξιών και Χρηματιστηρίου Αξιών Κύπρου (Τροποποιητικοί) Κανονισμοί
     του 2005

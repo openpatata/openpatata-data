@@ -5,13 +5,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2004-03-11_Η_Γ_26
+  plenary_sitting_id: 2004-03-11_Η_Γ_26
   sponsors: Εμπορίου, Βιομηχανίας και Τουρισμού
   title: Οι περί Πτώχευσης (Τέλη και Δικαιώματα του Επίσημου Παραλήπτη) Κανονισμοί
     του 2004
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2004-05-06_Η_Γ_33
+  plenary_sitting_id: 2004-05-06_Η_Γ_33
   sponsors: Εμπορίου, Βιομηχανίας και Τουρισμού
   title: Οι περί Πτώχευσης (Τέλη και Δικαιώματα του Επίσημου Παραλήπτη) Κανονισμοί
     του 2004

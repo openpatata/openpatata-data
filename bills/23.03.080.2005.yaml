@@ -7,22 +7,22 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Εσωτερικών
-  plenary_id: 2005-06-16_Η_Δ_35
+  plenary_sitting_id: 2005-06-16_Η_Δ_35
   sponsors: Εσωτερικών
   title: Οι περί Πολιτικής Άμυνας (Γενικοί) (Τροποποιητικοί) Κανονισμοί του 2005
 - action: submission
   committees_referred_to: Εσωτερικών
-  plenary_id: 2005-10-06_Η_Ε_3
+  plenary_sitting_id: 2005-10-06_Η_Ε_3
   sponsors: Εσωτερικών
   title: Οι περί Πολιτικής Άμυνας (Γενικοί) (Τροποποιητικοί) Κανονισμοί του 2005
 - action: submission
   committees_referred_to: Εσωτερικών
-  plenary_id: 2005-12-01_Η_Ε_12
+  plenary_sitting_id: 2005-12-01_Η_Ε_12
   sponsors: Εσωτερικών
   title: Οι περί Πολιτικής Άμυνας (Γενικοί) (Τροποποιητικοί) Κανονισμοί του 2005
 - action: submission
   committees_referred_to: Εσωτερικών
-  plenary_id: 2006-01-26_Η_Ε_20
+  plenary_sitting_id: 2006-01-26_Η_Ε_20
   sponsors: Εσωτερικών
   title: Οι περί Πολιτικής Άμυνας (Γενικοί) (Τροποποιητικοί) Κανονισμοί του 2006
 identifier: 23.03.080.2005

@@ -14,27 +14,27 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2014-11-13_Ι_Δ_9
+  plenary_sitting_id: 2014-11-13_Ι_Δ_9
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Αστυνομίας (Πειθαρχικοί) (Τροποποιητικοί) Κανονισμοί του 2014
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2014-12-18_Ι_Δ_16
+  plenary_sitting_id: 2014-12-18_Ι_Δ_16
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Αστυνομίας (Πειθαρχικοί) (Τροποποιητικοί) Κανονισμοί του 2014
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2015-02-12_Ι_Δ_22
+  plenary_sitting_id: 2015-02-12_Ι_Δ_22
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Αστυνομίας (Πειθαρχικοί) (Τροποποιητικοί) Κανονισμοί του 2014
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2015-05-28_Ι_Δ_38
+  plenary_sitting_id: 2015-05-28_Ι_Δ_38
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Αστυνομίας (Πειθαρχικοί) (Τροποποιητικοί) Κανονισμοί του 2014
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2015-09-03_Ι_Ε_1
+  plenary_sitting_id: 2015-09-03_Ι_Ε_1
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Αστυνομίας (Πειθαρχικοί) (Τροποποιητικοί) Κανονισμοί του 2014
 identifier: 23.03.051.069-2014

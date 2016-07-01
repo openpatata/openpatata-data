@@ -7,22 +7,22 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Παιδείας
-  plenary_id: 2011-09-15_Ι_Α_1
+  plenary_sitting_id: 2011-09-15_Ι_Α_1
   sponsors: Παιδείας και Πολιτισμού
   title: Οι περί Ιδιωτικών Σχολών Γυμναστικής (Τροποποιητικοί) Κανονισμοί του 2011
 - action: submission
   committees_referred_to: Παιδείας
-  plenary_id: 2011-11-10_Ι_Α_10
+  plenary_sitting_id: 2011-11-10_Ι_Α_10
   sponsors: Παιδείας και Πολιτισμού
   title: Οι περί Ιδιωτικών Σχολών Γυμναστικής (Τροποποιητικοί) Κανονισμοί του 2011
 - action: submission
   committees_referred_to: Παιδείας
-  plenary_id: 2011-12-08_Ι_Α_14
+  plenary_sitting_id: 2011-12-08_Ι_Α_14
   sponsors: Παιδείας και Πολιτισμού
   title: Οι περί Ιδιωτικών Σχολών Γυμναστικής (Τροποποιητικοί) Κανονισμοί του 2011
 - action: submission
   committees_referred_to: Παιδείας
-  plenary_id: 2012-02-02_Ι_Α_22
+  plenary_sitting_id: 2012-02-02_Ι_Α_22
   sponsors: Παιδείας και Πολιτισμού
   title: Οι περί Ιδιωτικών Σχολών Γυμναστικής (Τροποποιητικοί) Κανονισμοί του 2012
 identifier: 23.03.048.090-2011

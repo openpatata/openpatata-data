@@ -6,17 +6,17 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Προσφύγων-Εγκλωβισμένων-Αγνοο υμένων-Παθόντων
-  plenary_id: 2005-06-02_Η_Δ_33
+  plenary_sitting_id: 2005-06-02_Η_Δ_33
   sponsors: Εξωτερικών
   title: Οι περί Προσφύγων (Συνθήκες Υποδοχής Αιτητών) Κανονισμοί του 2005
 - action: submission
   committees_referred_to: Εσωτερικών
-  plenary_id: 2005-10-06_Η_Ε_3
+  plenary_sitting_id: 2005-10-06_Η_Ε_3
   sponsors: Εξωτερικών
   title: Οι περί Προσφύγων (Συνθήκες Υποδοχής Αιτητών) Κανονισμοί του 2005
 - action: submission
   committees_referred_to: Εσωτερικών
-  plenary_id: 2005-12-01_Η_Ε_12
+  plenary_sitting_id: 2005-12-01_Η_Ε_12
   sponsors: Εξωτερικών
   title: Οι περί Προσφύγων (Συνθήκες Υποδοχής Αιτητών) Κανονισμοί του 2005
 identifier: 23.03.071.2005

@@ -5,12 +5,12 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2011-01-13_Θ_Ε_16
+  plenary_sitting_id: 2011-01-13_Θ_Ε_16
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Μεταλλείων και Λατομείων (Τροποποιητικοί) Κανονισμοί του 2011
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2011-03-10_Θ_Ε_25
+  plenary_sitting_id: 2011-03-10_Θ_Ε_25
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Μεταλλείων και Λατομείων (Τροποποιητικοί) Κανονισμοί του 2011
 identifier: 23.03.048.011-2011

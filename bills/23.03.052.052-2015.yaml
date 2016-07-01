@@ -10,19 +10,19 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2015-11-12_Ι_Ε_9
+  plenary_sitting_id: 2015-11-12_Ι_Ε_9
   sponsors: Οικονομικών
   title: Οι περί της Δημοσιονομικής Ευθύνης και του Δημοσιονομικού Πλαισίου Κανονισμοί
     του 2015
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2015-12-10_Ι_Ε_14
+  plenary_sitting_id: 2015-12-10_Ι_Ε_14
   sponsors: Οικονομικών
   title: Οι περί της Δημοσιονομικής Ευθύνης και του Δημοσιονομικού Πλαισίου Κανονισμοί
     του 2015
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2016-02-04_Ι_Ε_20
+  plenary_sitting_id: 2016-02-04_Ι_Ε_20
   sponsors: Οικονομικών
   title: Οι περί της Δημοσιονομικής Ευθύνης και του Δημοσιονομικού Πλαισίου Κανονισμοί
     του 2016

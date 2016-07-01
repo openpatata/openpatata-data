@@ -5,12 +5,12 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2011-11-24_Ι_Α_12
+  plenary_sitting_id: 2011-11-24_Ι_Α_12
   sponsors: Οικονομικών
   title: Οι περί Δανείου (Ανάπτυξη) (Τροποποιητικοί) Κανονισμοί του 2011
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2012-01-19_Ι_Α_20
+  plenary_sitting_id: 2012-01-19_Ι_Α_20
   sponsors: Οικονομικών
   title: Οι περί Δανείου (Ανάπτυξη) (Τροποποιητικοί) Κανονισμοί του 2012
 identifier: 23.03.048.114-2011

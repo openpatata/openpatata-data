@@ -5,13 +5,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Περιβάλλοντος
-  plenary_id: 2009-04-02_Θ_Γ_27
+  plenary_sitting_id: 2009-04-02_Θ_Γ_27
   sponsors: Εξωτερικών
   title: Οι περί Μεταλλείων και Λατομείων (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του
     2009
 - action: submission
   committees_referred_to: Περιβάλλοντος
-  plenary_id: 2009-05-21_Θ_Γ_33
+  plenary_sitting_id: 2009-05-21_Θ_Γ_33
   sponsors: Εξωτερικών
   title: Οι περί Μεταλλείων και Λατομείων (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του
     2009

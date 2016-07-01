@@ -7,13 +7,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Περιβάλλοντος
-  plenary_id: 2013-10-24_Ι_Γ_9
+  plenary_sitting_id: 2013-10-24_Ι_Γ_9
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Αποβλήτων (Χώροι Υγειονομικής Ταφής) (Τροποποιητικοί) Κανονισμοί
     του 2013
 - action: submission
   committees_referred_to: Περιβάλλοντος
-  plenary_id: 2014-01-16_Ι_Γ_20
+  plenary_sitting_id: 2014-01-16_Ι_Γ_20
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Αποβλήτων (Χώροι Υγειονομικής Ταφής) (Τροποποιητικοί) Κανονισμοί
     του 2013

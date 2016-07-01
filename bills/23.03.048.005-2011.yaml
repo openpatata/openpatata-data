@@ -5,13 +5,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Συγκοινωνιών και Έργων
-  plenary_id: 2011-01-13_Θ_Ε_16
+  plenary_sitting_id: 2011-01-13_Θ_Ε_16
   sponsors: Συγκοινωνιών και Έργων
   title: Οι περί Πολιτικής Αεροπορίας (Εθνικοί Κανονισμοί Ασφάλειας Πολιτικής Αεροπορίας)
     Κανονισμοί του 2011
 - action: submission
   committees_referred_to: Συγκοινωνιών και Έργων
-  plenary_id: 2011-03-10_Θ_Ε_25
+  plenary_sitting_id: 2011-03-10_Θ_Ε_25
   sponsors: Συγκοινωνιών και Έργων
   title: Οι περί Πολιτικής Αεροπορίας (Εθνικοί Κανονισμοί Ασφάλειας Πολιτικής Αεροπορίας)
     Κανονισμοί του 2011

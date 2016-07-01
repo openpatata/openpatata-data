@@ -9,12 +9,12 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Υγείας
-  plenary_id: 2013-07-04_Ι_Β_39
+  plenary_sitting_id: 2013-07-04_Ι_Β_39
   sponsors: Υγείας
   title: Οι περί Εγγραφής Ψυχολόγων (Γενικοί) Κανονισμοί του 2013
 - action: submission
   committees_referred_to: Υγείας
-  plenary_id: 2014-01-16_Ι_Γ_20
+  plenary_sitting_id: 2014-01-16_Ι_Γ_20
   sponsors: Υγείας
   title: Οι περί Εγγραφής Ψυχολόγων (Γενικοί) Κανονισμοί του 2013
 identifier: 23.03.050.041-2013

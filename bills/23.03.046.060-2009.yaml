@@ -5,13 +5,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Παιδείας
-  plenary_id: 2009-04-30_Θ_Γ_30
+  plenary_sitting_id: 2009-04-30_Θ_Γ_30
   sponsors: Παιδείας και Πολιτισμού
   title: Οι περί Ταμείου Προνοίας Τακτικού Ωρομίσθιου Προσωπικού του Θεατρικού Οργανισμού
     Κύπρου Κανονισμοί του 2009
 - action: submission
   committees_referred_to: Παιδείας
-  plenary_id: 2009-10-08_Θ_Δ_1
+  plenary_sitting_id: 2009-10-08_Θ_Δ_1
   sponsors: Παιδείας και Πολιτισμού
   title: Οι περί Ταμείου Προνοίας Τακτικού Ωρομίσθιου Προσωπικού του Θεατρικού Οργανισμού
     Κύπρου Κανονισμοί του 2009

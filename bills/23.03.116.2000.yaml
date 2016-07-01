@@ -6,17 +6,17 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2003-11-13_Η_Γ_8
+  plenary_sitting_id: 2003-11-13_Η_Γ_8
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Αστυνομίας (Γενικοί) (Τροποποιητικοί) (Αρ. 4) Κανονισμοί του 2003
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2004-01-08_Η_Γ_17
+  plenary_sitting_id: 2004-01-08_Η_Γ_17
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Αστυνομίας (Γενικοί) (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2004
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2004-03-04_Η_Γ_25
+  plenary_sitting_id: 2004-03-04_Η_Γ_25
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Αστυνομίας (Γενικοί) (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2004
 identifier: 23.03.116.2000

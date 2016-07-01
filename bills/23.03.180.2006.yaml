@@ -5,12 +5,12 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Εμπορίου και Βιομηχανίας
-  plenary_id: 2006-11-16_Θ_Α_7
+  plenary_sitting_id: 2006-11-16_Θ_Α_7
   sponsors: Εμπορίου, Βιομηχανίας και Τουρισμού
   title: Οι περί Κυπριακού Οργανισμού Τουρισμού (Ταμείο Προνοίας) Κανονισμοί του 2006
 - action: submission
   committees_referred_to: Εμπορίου και Βιομηχανίας
-  plenary_id: 2006-12-22_Θ_Α_15
+  plenary_sitting_id: 2006-12-22_Θ_Α_15
   sponsors: Εμπορίου, Βιομηχανίας και Τουρισμού
   title: Οι περί Κυπριακού Οργανισμού Τουρισμού (Ταμείο Προνοίας) Κανονισμοί του 2006
 identifier: 23.03.180.2006

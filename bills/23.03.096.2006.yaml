@@ -5,13 +5,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Εσωτερικών
-  plenary_id: 2006-06-08_Η_None_2
+  plenary_sitting_id: 2006-06-08_Η_None_2
   sponsors: Εσωτερικών
   title: Οι περί Οδών και Οικοδομών (Ενεργειακή Απόδοση των Κτιρίων) Κανονισμοί του
     2006
 - action: submission
   committees_referred_to: Εσωτερικών
-  plenary_id: 2006-10-05_Θ_Α_1
+  plenary_sitting_id: 2006-10-05_Θ_Α_1
   sponsors: Εσωτερικών
   title: Οι περί Οδών και Οικοδομών (Ενεργειακή Απόδοση των Κτιρίων) Κανονισμοί του
     2006

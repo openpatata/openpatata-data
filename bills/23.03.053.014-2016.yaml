@@ -7,13 +7,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Εσωτερικών
-  plenary_id: 2016-01-21_Ι_Ε_18
+  plenary_sitting_id: 2016-01-21_Ι_Ε_18
   sponsors: Εσωτερικών
   title: Οι περί Αποχετεύσεων Λεμεσού- Αμαθούντας (Τροποποιητικοί) Κανονισμοί του
     2016
 - action: submission
   committees_referred_to: Εσωτερικών
-  plenary_id: 2016-03-17_Ι_Ε_27
+  plenary_sitting_id: 2016-03-17_Ι_Ε_27
   sponsors: Εσωτερικών
   title: Οι περί Αποχετεύσεων Λεμεσού- Αμαθούντας (Τροποποιητικοί) Κανονισμοί του
     2016

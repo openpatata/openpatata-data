@@ -5,12 +5,12 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2005-03-24_Η_Δ_25
+  plenary_sitting_id: 2005-03-24_Η_Δ_25
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Oι περί Αστυνομίας (Προαγωγές) (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2005
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2005-05-19_Η_Δ_31
+  plenary_sitting_id: 2005-05-19_Η_Δ_31
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Oι περί Αστυνομίας (Προαγωγές) (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2005
 identifier: 23.03.033.2005

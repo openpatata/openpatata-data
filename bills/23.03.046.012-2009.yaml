@@ -5,12 +5,12 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Εμπορίου και Βιομηχανίας
-  plenary_id: 2009-01-22_Θ_Γ_17
+  plenary_sitting_id: 2009-01-22_Θ_Γ_17
   sponsors: Εμπορίου, Βιομηχανίας και Τουρισμού
   title: Οι περί Ενεργειακής Πιστοποίησης των Κτιρίων Κανονισμοί του 2009
 - action: submission
   committees_referred_to: Εμπορίου και Βιομηχανίας
-  plenary_id: 2009-03-19_Θ_Γ_25
+  plenary_sitting_id: 2009-03-19_Θ_Γ_25
   sponsors: Εμπορίου, Βιομηχανίας και Τουρισμού
   title: Οι περί Ενεργειακής Πιστοποίησης των Κτιρίων Κανονισμοί του 2009
 identifier: 23.03.046.012-2009

@@ -5,12 +5,12 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Ευρωπαϊκών Υποθέσεων
-  plenary_id: 2003-10-02_Η_Γ_2
+  plenary_sitting_id: 2003-10-02_Η_Γ_2
   sponsors: Εξωτερικών
   title: Οι περί Σπόρων (Τέλη) Κανονισμοί του 2003
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2003-11-27_Η_Γ_10
+  plenary_sitting_id: 2003-11-27_Η_Γ_10
   sponsors: Εξωτερικών
   title: Οι περί Σπόρων (Τέλη) Κανονισμοί του 2003
 identifier: 23.03.191.2003

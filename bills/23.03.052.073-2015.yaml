@@ -7,13 +7,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2015-12-16_Ι_Ε_15
+  plenary_sitting_id: 2015-12-16_Ι_Ε_15
   sponsors: Οικονομικών
   title: Οι περί Προσωπικού της Αρχής Τηλεπικοινωνιών Κύπρου (Γενικοί) (Τροποποιητικοί)
     Κανονισμοί του 2015
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2016-02-11_Ι_Ε_21
+  plenary_sitting_id: 2016-02-11_Ι_Ε_21
   sponsors: Οικονομικών
   title: Οι περί Προσωπικού της Αρχής Τηλεπικοινωνιών Κύπρου (Γενικοί) (Τροποποιητικοί)
     Κανονισμοί του 2016

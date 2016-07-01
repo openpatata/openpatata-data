@@ -5,13 +5,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Συγκοινωνιών και Έργων
-  plenary_id: 2011-03-10_Θ_Ε_25
+  plenary_sitting_id: 2011-03-10_Θ_Ε_25
   sponsors: Συγκοινωνιών και Έργων
   title: Οι περί Πολιτικής Αεροπορίας (Εποπτική Αρχή Αερολιμενικών Τελών) Κανονισμοί
     του 2011
 - action: submission
   committees_referred_to: Συγκοινωνιών και Έργων
-  plenary_id: 2011-09-15_Ι_Α_1
+  plenary_sitting_id: 2011-09-15_Ι_Α_1
   sponsors: Συγκοινωνιών και Έργων
   title: Οι περί Πολιτικής Αεροπορίας (Εποπτική Αρχή Αερολιμενικών Τελών) Κανονισμοί
     του 2011

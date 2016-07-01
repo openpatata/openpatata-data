@@ -7,22 +7,22 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2008-10-09_Θ_Γ_2
+  plenary_sitting_id: 2008-10-09_Θ_Γ_2
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Πυροσβεστικής Υπηρεσίας (Πειθαρχικοί) Κανονισμοί του 2008
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2008-12-04_Θ_Γ_10
+  plenary_sitting_id: 2008-12-04_Θ_Γ_10
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Πυροσβεστικής Υπηρεσίας (Πειθαρχικοί) Κανονισμοί του 2008
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2009-01-29_Θ_Γ_18
+  plenary_sitting_id: 2009-01-29_Θ_Γ_18
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Πυροσβεστικής Υπηρεσίας (Πειθαρχικοί) Κανονισμοί του 2009
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2009-03-26_Θ_Γ_26
+  plenary_sitting_id: 2009-03-26_Θ_Γ_26
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Πυροσβεστικής Υπηρεσίας (Πειθαρχικοί) Κανονισμοί του 2009
 identifier: 23.03.045.118-2008

@@ -7,13 +7,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2015-12-03_Ι_Ε_13
+  plenary_sitting_id: 2015-12-03_Ι_Ε_13
   sponsors: Οικονομικών
   title: Οι περί Παραχώρησης Αφορολόγητου Πετρελαίου για Γεωργικούς Σκοπούς (Καταργητικοί)
     Κανονισμοί του 2015
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2016-01-28_Ι_Ε_19
+  plenary_sitting_id: 2016-01-28_Ι_Ε_19
   sponsors: Οικονομικών
   title: Οι περί Παραχώρησης Αφορολόγητου Πετρελαίου για Γεωργικούς Σκοπούς (Καταργητικοί)
     Κανονισμοί του 2016

@@ -5,13 +5,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Εσωτερικών
-  plenary_id: 2006-11-09_Θ_Α_6
+  plenary_sitting_id: 2006-11-09_Θ_Α_6
   sponsors: Εσωτερικών
   title: Οι περί του Συμβουλίου Αποχετεύσεων Πάφου (Διάρθρωση και Όροι Υπηρεσίας)
     (Τροποποιητικοί) Κανονισμοί του 2006
 - action: submission
   committees_referred_to: Εσωτερικών
-  plenary_id: 2006-12-22_Θ_Α_15
+  plenary_sitting_id: 2006-12-22_Θ_Α_15
   sponsors: Εσωτερικών
   title: Οι περί του Συμβουλίου Αποχετεύσεων Πάφου (Διάρθρωση και Όροι Υπηρεσίας)
     (Τροποποιητικοί) Κανονισμοί του 2006

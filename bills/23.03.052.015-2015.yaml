@@ -7,13 +7,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Άμυνας
-  plenary_id: 2015-03-12_Ι_Δ_26
+  plenary_sitting_id: 2015-03-12_Ι_Δ_26
   sponsors: Άμυνας
   title: Οι περί Στρατού της Δημοκρατίας (Στολές των Μελών του Στρατού της Δημοκρατίας)
     Κανονισμοί του 2015
 - action: submission
   committees_referred_to: Άμυνας
-  plenary_id: 2015-05-07_Ι_Δ_35
+  plenary_sitting_id: 2015-05-07_Ι_Δ_35
   sponsors: Άμυνας
   title: Οι περί Στρατού της Δημοκρατίας (Στολές των Μελών του Στρατού της Δημοκρατίας)
     Κανονισμοί του 2015

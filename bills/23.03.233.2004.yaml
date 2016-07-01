@@ -6,19 +6,19 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2004-10-07_Η_Δ_1
+  plenary_sitting_id: 2004-10-07_Η_Δ_1
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Ταμείου Συντάξεως Δικηγόρων (Τέλη) (Τροποποιητικοί) Κανονισμοί του
     2004
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2004-12-02_Η_Δ_10
+  plenary_sitting_id: 2004-12-02_Η_Δ_10
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Ταμείου Συντάξεως Δικηγόρων (Τέλη) (Τροποποιητικοί) Κανονισμοί του
     2004
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2005-01-27_Η_Δ_17
+  plenary_sitting_id: 2005-01-27_Η_Δ_17
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Ταμείου Συντάξεως Δικηγόρων (Τέλη) (Τροποποιητικοί) Κανονισμοί του
     2005

@@ -5,13 +5,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2009-10-15_Θ_Δ_2
+  plenary_sitting_id: 2009-10-15_Θ_Δ_2
   sponsors: Εμπορίου, Βιομηχανίας και Τουρισμού
   title: Οι περί Αρχής Ηλεκτρισμού Κύπρου - Θέση Γενικού Διευθυντή (Σχέδια Υπηρεσίας)
     Κανονισμοί του 2009
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2009-12-10_Θ_Γ_11
+  plenary_sitting_id: 2009-12-10_Θ_Γ_11
   sponsors: Εμπορίου, Βιομηχανίας και Τουρισμού
   title: Οι περί Αρχής Ηλεκτρισμού Κύπρου - Θέση Γενικού Διευθυντή (Σχέδια Υπηρεσίας)
     Κανονισμοί του 2009

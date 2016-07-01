@@ -7,12 +7,12 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2015-06-04_Ι_Δ_39
+  plenary_sitting_id: 2015-06-04_Ι_Δ_39
   sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
   title: Οι περί των Βασικών Απαιτήσεων (Είδη Πυροτεχνίας) Κανονισμοί του 2015
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2015-09-03_Ι_Ε_1
+  plenary_sitting_id: 2015-09-03_Ι_Ε_1
   sponsors: Γεωργίας, Αγροτικής Ανάπτυξης και Περιβάλλοντος
   title: Οι περί των Βασικών Απαιτήσεων (Είδη Πυροτεχνίας) Κανονισμοί του 2015
 identifier: 23.03.052.034-2015

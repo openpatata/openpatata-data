@@ -5,13 +5,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Συγκοινωνιών και Έργων
-  plenary_id: 2009-02-12_Θ_Γ_20
+  plenary_sitting_id: 2009-02-12_Θ_Γ_20
   sponsors: Εξωτερικών
   title: Οι περί Μηχανοκινήτων Οχημάτων και Τροχαίας Κινήσεως (Τροποποιητικοί) Κανονισμοί
     του 2009
 - action: submission
   committees_referred_to: Συγκοινωνιών και Έργων
-  plenary_id: 2009-04-09_Θ_Γ_28
+  plenary_sitting_id: 2009-04-09_Θ_Γ_28
   sponsors: Εξωτερικών
   title: Οι περί Μηχανοκινήτων Οχημάτων και Τροχαίας Κινήσεως (Τροποποιητικοί) (Αρ.
     3) Κανονισμοί του 2009

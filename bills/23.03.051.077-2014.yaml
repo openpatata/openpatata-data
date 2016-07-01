@@ -11,22 +11,22 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2014-11-20_Ι_Δ_10
+  plenary_sitting_id: 2014-11-20_Ι_Δ_10
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Αστυνομίας (Προαγωγές) (Τροποποιητικοί) Κανονισμοί του 2014
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2015-01-15_Ι_Δ_17
+  plenary_sitting_id: 2015-01-15_Ι_Δ_17
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Αστυνομίας (Προαγωγές) (Τροποποιητικοί) Κανονισμοί του 2015
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2015-03-12_Ι_Δ_26
+  plenary_sitting_id: 2015-03-12_Ι_Δ_26
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Αστυνομίας (Προαγωγές) (Τροποποιητικοί) Κανονισμοί του 2015
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2015-05-07_Ι_Δ_35
+  plenary_sitting_id: 2015-05-07_Ι_Δ_35
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Αστυνομίας (Προαγωγές) (Τροποποιητικοί) Κανονισμοί του 2015
 identifier: 23.03.051.077-2014

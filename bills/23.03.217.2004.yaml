@@ -5,12 +5,12 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Εμπορίου και Βιομηχανίας
-  plenary_id: 2004-10-07_Η_Δ_1
+  plenary_sitting_id: 2004-10-07_Η_Δ_1
   sponsors: Εμπορίου, Βιομηχανίας και Τουρισμού
   title: Οι περί Εταιρειών (Τροποποιητικοί) Κανονισμοί του 2004
 - action: submission
   committees_referred_to: Εμπορίου και Βιομηχανίας
-  plenary_id: 2004-12-02_Η_Δ_10
+  plenary_sitting_id: 2004-12-02_Η_Δ_10
   sponsors: Εμπορίου, Βιομηχανίας και Τουρισμού
   title: Οι περί Εταιρειών (Τροποποιητικοί) Κανονισμοί του 2004
 identifier: 23.03.217.2004

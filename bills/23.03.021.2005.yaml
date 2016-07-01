@@ -6,17 +6,17 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2005-02-17_Η_Δ_20
+  plenary_sitting_id: 2005-02-17_Η_Δ_20
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Δικηγόρων (Πειθαρχική Διαδικασία) Κανονισμοί του 2005
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2005-04-14_Η_Δ_28
+  plenary_sitting_id: 2005-04-14_Η_Δ_28
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Δικηγόρων (Πειθαρχική Διαδικασία) Κανονισμοί του 2005
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2005-06-09_Η_Δ_34
+  plenary_sitting_id: 2005-06-09_Η_Δ_34
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Δικηγόρων (Πειθαρχική Διαδικασία) Κανονισμοί του 2005
 identifier: 23.03.021.2005

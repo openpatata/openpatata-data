@@ -5,13 +5,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2006-10-19_Θ_Α_3
+  plenary_sitting_id: 2006-10-19_Θ_Α_3
   sponsors: Οικονομικών
   title: Οι περί Φόρου Προστιθέμενης Αξίας (Γενικοί) (Τροποποιητικοί) Κανονισμοί του
     2006
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2007-02-08_Θ_Α_20
+  plenary_sitting_id: 2007-02-08_Θ_Α_20
   sponsors: Οικονομικών
   title: Οι περί Φόρου Προστιθέμενης Αξίας (Γενικοί) (Τροποποιητικοί) Κανονισμοί του
     2007

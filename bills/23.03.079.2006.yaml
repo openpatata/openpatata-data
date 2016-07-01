@@ -6,17 +6,17 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2006-02-23_Η_Ε_24
+  plenary_sitting_id: 2006-02-23_Η_Ε_24
   sponsors: Εμπορίου, Βιομηχανίας και Τουρισμού
   title: Οι περί Εταιρειών (Τέλη και Δικαιώματα) Κανονισμοί του 2006
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2006-06-08_Η_None_2
+  plenary_sitting_id: 2006-06-08_Η_None_2
   sponsors: Εμπορίου, Βιομηχανίας και Τουρισμού
   title: Οι περί Εταιρειών (Τέλη και Δικαιώματα) Κανονισμοί του 2006
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2006-10-05_Θ_Α_1
+  plenary_sitting_id: 2006-10-05_Θ_Α_1
   sponsors: Εμπορίου, Βιομηχανίας και Τουρισμού
   title: Οι περί Εταιρειών (Τέλη και Δικαιώματα) Κανονισμοί του 2006
 identifier: 23.03.079.2006

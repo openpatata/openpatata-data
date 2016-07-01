@@ -5,13 +5,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Υγείας
-  plenary_id: 2008-10-30_Θ_Γ_5
+  plenary_sitting_id: 2008-10-30_Θ_Γ_5
   sponsors: Υγείας
   title: Οι περί Φαρμάκων Ανθρώπινης Χρήσης (Τέλη) (Τροποποιητικοί) Κανονισμοί του
     2008
 - action: submission
   committees_referred_to: Υγείας
-  plenary_id: 2008-12-11_Θ_Γ_11
+  plenary_sitting_id: 2008-12-11_Θ_Γ_11
   sponsors: Υγείας
   title: Οι περί Φαρμάκων Ανθρώπινης Χρήσης (Τέλη) (Τροποποιητικοί) Κανονισμοί του
     2008

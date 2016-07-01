@@ -7,22 +7,22 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2008-10-02_Θ_Γ_1
+  plenary_sitting_id: 2008-10-02_Θ_Γ_1
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Αστυνομίας (Γενικοί) (Τροποποιητικοί) (Αρ. 3) Κανονισμοί του 2008
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2008-11-27_Θ_Γ_9
+  plenary_sitting_id: 2008-11-27_Θ_Γ_9
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Αστυνομίας (Γενικοί) (Τροποποιητικοί) (Αρ. 3) Κανονισμοί του 2008
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2009-01-22_Θ_Γ_17
+  plenary_sitting_id: 2009-01-22_Θ_Γ_17
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Αστυνομίας (Γενικοί) (Τροποποιητικοί) (Αρ. 3) Κανονισμοί του 2009
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2009-03-19_Θ_Γ_25
+  plenary_sitting_id: 2009-03-19_Θ_Γ_25
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Αστυνομίας (Γενικοί) (Τροποποιητικοί) (Αρ. 3) Κανονισμοί του 2009
 identifier: 23.03.045.080-2008

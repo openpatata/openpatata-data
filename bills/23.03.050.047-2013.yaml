@@ -8,12 +8,12 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2013-08-29_Ι_None_None
+  plenary_sitting_id: 2013-08-29_Ι_None_None
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Εκρηκτικών Υλών (Τροποποιητικοί) Κανονισμοί του 2013
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2013-10-24_Ι_Γ_9
+  plenary_sitting_id: 2013-10-24_Ι_Γ_9
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Εκρηκτικών Υλών (Τροποποιητικοί) Κανονισμοί του 2013
 identifier: 23.03.050.047-2013

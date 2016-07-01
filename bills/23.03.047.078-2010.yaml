@@ -5,12 +5,12 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Υγείας
-  plenary_id: 2010-06-10_Θ_Δ_34
+  plenary_sitting_id: 2010-06-10_Θ_Δ_34
   sponsors: Υγείας
   title: Οι περί Φαρμακευτικής και Δηλητηρίων (Τροποποιητικοί) Κανονισμοί του 2010
 - action: submission
   committees_referred_to: Υγείας
-  plenary_id: 2010-10-07_Θ_Ε_1
+  plenary_sitting_id: 2010-10-07_Θ_Ε_1
   sponsors: Υγείας
   title: Οι περί Φαρμακευτικής και Δηλητηρίων (Τροποποιητικοί) Κανονισμοί του 2010
 identifier: 23.03.047.078-2010

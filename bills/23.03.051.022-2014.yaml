@@ -7,12 +7,12 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Περιβάλλοντος
-  plenary_id: 2014-03-27_Ι_Γ_31
+  plenary_sitting_id: 2014-03-27_Ι_Γ_31
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Μεταλλείων και Λατομείων (Τροποποιητικοί) Κανονισμοί του 2014
 - action: submission
   committees_referred_to: Περιβάλλοντος
-  plenary_id: 2014-05-08_Ι_Γ_35
+  plenary_sitting_id: 2014-05-08_Ι_Γ_35
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Μεταλλείων και Λατομείων (Τροποποιητικοί) Κανονισμοί του 2014
 identifier: 23.03.051.022-2014

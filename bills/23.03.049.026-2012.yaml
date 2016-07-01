@@ -6,17 +6,17 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Συγκοινωνιών και Έργων
-  plenary_id: 2012-02-23_Ι_Α_25
+  plenary_sitting_id: 2012-02-23_Ι_Α_25
   sponsors: Συγκοινωνιών και Έργων
   title: Οι περί Αρχαιοτήτων (Τροποποιητικοί) Κανονισμοί του 2012
 - action: submission
   committees_referred_to: Συγκοινωνιών και Έργων
-  plenary_id: 2012-04-05_Ι_Α_31
+  plenary_sitting_id: 2012-04-05_Ι_Α_31
   sponsors: Συγκοινωνιών και Έργων
   title: Οι περί Αρχαιοτήτων (Τροποποιητικοί) Κανονισμοί του 2012
 - action: submission
   committees_referred_to: Συγκοινωνιών και Έργων
-  plenary_id: 2012-05-31_Ι_Α_40
+  plenary_sitting_id: 2012-05-31_Ι_Α_40
   sponsors: Συγκοινωνιών και Έργων
   title: Οι περί Αρχαιοτήτων (Τροποποιητικοί) Κανονισμοί του 2012
 identifier: 23.03.049.026-2012

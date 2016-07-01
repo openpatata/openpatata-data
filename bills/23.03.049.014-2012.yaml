@@ -5,12 +5,12 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2012-01-12_Ι_Α_19
+  plenary_sitting_id: 2012-01-12_Ι_Α_19
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Σπόρων (Λαχανικά) (Τροποποιητικοί) Κανονισμοί του 2012
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2012-03-08_Ι_Α_27
+  plenary_sitting_id: 2012-03-08_Ι_Α_27
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Σπόρων (Λαχανικά) (Τροποποιητικοί) Κανονισμοί του 2012
 identifier: 23.03.049.014-2012

@@ -5,13 +5,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2005-01-13_Η_Δ_15
+  plenary_sitting_id: 2005-01-13_Η_Δ_15
   sponsors: Εργασίας και Κοινωνικών Ασφαλίσεων
   title: Οι περί Υπηρεσιών Κοινωνικής Ευημερίας (Σχέδια Υπηρεσίας) - Θέση Διευθυντή
     Κανονισμοί του 2005
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2005-03-10_Η_Δ_23
+  plenary_sitting_id: 2005-03-10_Η_Δ_23
   sponsors: Εργασίας και Κοινωνικών Ασφαλίσεων
   title: Οι περί Υπηρεσιών Κοινωνικής Ευημερίας (Σχέδια Υπηρεσίας) - Θέση Διευθυντή
     Κανονισμοί του 2005

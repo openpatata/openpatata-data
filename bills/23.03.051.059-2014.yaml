@@ -10,17 +10,17 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Υγείας
-  plenary_id: 2014-10-02_Ι_Δ_2
+  plenary_sitting_id: 2014-10-02_Ι_Δ_2
   sponsors: Υγείας
   title: Οι περί Συμπληρωμάτων Διατροφής Κανονισμοί του 2014
 - action: submission
   committees_referred_to: Υγείας
-  plenary_id: 2014-11-27_Ι_Δ_11
+  plenary_sitting_id: 2014-11-27_Ι_Δ_11
   sponsors: Υγείας
   title: Οι περί Συμπληρωμάτων Διατροφής Κανονισμοί του 2014
 - action: submission
   committees_referred_to: Υγείας
-  plenary_id: 2015-03-19_Ι_Δ_27
+  plenary_sitting_id: 2015-03-19_Ι_Δ_27
   sponsors: Υγείας
   title: Οι περί Συμπληρωμάτων Διατροφής Κανονισμοί του 2015
 identifier: 23.03.051.059-2014

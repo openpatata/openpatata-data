@@ -5,12 +5,12 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2009-06-25_Θ_Γ_36
+  plenary_sitting_id: 2009-06-25_Θ_Γ_36
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Γεωργικής Ασφάλισης (Τροποποιητικοί) Κανονισμοί του 2009
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2009-10-08_Θ_Δ_1
+  plenary_sitting_id: 2009-10-08_Θ_Δ_1
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Γεωργικής Ασφάλισης (Τροποποιητικοί) Κανονισμοί του 2009
 identifier: 23.03.046.100-2009

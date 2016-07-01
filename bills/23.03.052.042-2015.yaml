@@ -7,13 +7,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Υγείας
-  plenary_id: 2015-09-03_Ι_Ε_1
+  plenary_sitting_id: 2015-09-03_Ι_Ε_1
   sponsors: Υγείας
   title: Οι περί Φαρμακευτικής και Δηλητηρίων (Διαδικασία και Περιεχόμενο Εξετάσεων
     για την Εγγραφή Φαρμακοποιού) Κανονισμοί του 2015
 - action: submission
   committees_referred_to: Υγείας
-  plenary_id: 2015-10-29_Ι_Ε_7
+  plenary_sitting_id: 2015-10-29_Ι_Ε_7
   sponsors: Υγείας
   title: Οι περί Φαρμακευτικής και Δηλητηρίων (Διαδικασία και Περιεχόμενο Εξετάσεων
     για την Εγγραφή Φαρμακοποιού) Κανονισμοί του 2015

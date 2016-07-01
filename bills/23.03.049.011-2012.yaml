@@ -6,19 +6,19 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2012-01-12_Ι_Α_19
+  plenary_sitting_id: 2012-01-12_Ι_Α_19
   sponsors: Συγκοινωνιών και Έργων
   title: Οι περί της Αρχής Λιμένων Κύπρου (Συνταξιοδοτικές Παροχές) Κανονισμοί του
     2012
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2012-03-08_Ι_Α_27
+  plenary_sitting_id: 2012-03-08_Ι_Α_27
   sponsors: Συγκοινωνιών και Έργων
   title: Οι περί της Αρχής Λιμένων Κύπρου (Συνταξιοδοτικές Παροχές) Κανονισμοί του
     2012
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2012-05-03_Ι_Α_35
+  plenary_sitting_id: 2012-05-03_Ι_Α_35
   sponsors: Συγκοινωνιών και Έργων
   title: Οι περί της Αρχής Λιμένων Κύπρου (Συνταξιοδοτικές Παροχές) Κανονισμοί του
     2012

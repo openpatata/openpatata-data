@@ -6,17 +6,17 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2009-10-08_Θ_Δ_1
+  plenary_sitting_id: 2009-10-08_Θ_Δ_1
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Γεωργικής Ασφάλισης (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2009
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2009-12-03_Θ_Δ_10
+  plenary_sitting_id: 2009-12-03_Θ_Δ_10
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Γεωργικής Ασφάλισης (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2009
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2010-01-28_Θ_Δ_17
+  plenary_sitting_id: 2010-01-28_Θ_Δ_17
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Γεωργικής Ασφάλισης (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2010
 identifier: 23.03.046.110-2009

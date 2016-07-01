@@ -5,13 +5,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Παιδείας
-  plenary_id: 2010-06-17_Θ_Δ_35
+  plenary_sitting_id: 2010-06-17_Θ_Δ_35
   sponsors: Παιδείας και Πολιτισμού
   title: Οι περί Πανεπιστημίου Κύπρου (Ίδρυση Ερευνητικών Μονάδων) (Τροποποιητικοί)
     Κανονισμοί του 2010
 - action: submission
   committees_referred_to: Παιδείας
-  plenary_id: 2010-10-07_Θ_Ε_1
+  plenary_sitting_id: 2010-10-07_Θ_Ε_1
   sponsors: Παιδείας και Πολιτισμού
   title: Οι περί Πανεπιστημίου Κύπρου (Ίδρυση Ερευνητικών Μονάδων) (Τροποποιητικοί)
     Κανονισμοί του 2010

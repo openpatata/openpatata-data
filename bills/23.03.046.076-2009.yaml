@@ -6,17 +6,17 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Εσωτερικών
-  plenary_id: 2009-06-11_Θ_Γ_34
+  plenary_sitting_id: 2009-06-11_Θ_Γ_34
   sponsors: Εσωτερικών
   title: Οι περί Αποχετεύσεων Λευκωσίας (Τροποποιητικοί) Κανονισμοί του 2009
 - action: submission
   committees_referred_to: Εσωτερικών
-  plenary_id: 2009-10-08_Θ_Δ_1
+  plenary_sitting_id: 2009-10-08_Θ_Δ_1
   sponsors: Εσωτερικών
   title: Οι περί Αποχετεύσεων Λευκωσίας (Τροποποιητικοί) Κανονισμοί του 2009
 - action: submission
   committees_referred_to: Εσωτερικών
-  plenary_id: 2009-12-03_Θ_Δ_10
+  plenary_sitting_id: 2009-12-03_Θ_Δ_10
   sponsors: Εσωτερικών
   title: Οι περί Αποχετεύσεων Λευκωσίας (Τροποποιητικοί) Κανονισμοί του 2009
 identifier: 23.03.046.076-2009

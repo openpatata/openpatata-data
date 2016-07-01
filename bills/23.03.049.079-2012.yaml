@@ -5,13 +5,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2012-11-01_Ι_Β_8
+  plenary_sitting_id: 2012-11-01_Ι_Β_8
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Ειδικών Αστυνομικών (Διαδικασία Διορισμού και Όροι Υπηρεσίας) (Τροποποιητικοί)
     Κανονισμοί του 2012
 - action: submission
   committees_referred_to: Νομικών
-  plenary_id: 2013-03-07_Ι_Β_21
+  plenary_sitting_id: 2013-03-07_Ι_Β_21
   sponsors: Δικαιοσύνης και Δημοσίας Τάξεως
   title: Οι περί Ειδικών Αστυνομικών (Διαδικασία Διορισμού και Όροι Υπηρεσίας) (Τροποποιητικοί)
     Κανονισμοί του 2013

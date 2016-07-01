@@ -6,19 +6,19 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Οικονομικών
-  plenary_id: 2009-04-09_Θ_Γ_28
+  plenary_sitting_id: 2009-04-09_Θ_Γ_28
   sponsors: Οικονομικών
   title: Οι περί Δημόσιας Υπηρεσίας (Χορήγηση Αδειών) (Τροποποιητικοί) Κανονισμοί
     του 2009
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2009-05-21_Θ_Γ_33
+  plenary_sitting_id: 2009-05-21_Θ_Γ_33
   sponsors: Οικονομικών
   title: Οι περί Δημόσιας Υπηρεσίας (Χορήγηση Αδειών) (Τροποποιητικοί) Κανονισμοί
     του 2009
 - action: submission
   committees_referred_to: Οικονομικών και Προϋπολογισμού
-  plenary_id: 2009-10-08_Θ_Δ_1
+  plenary_sitting_id: 2009-10-08_Θ_Δ_1
   sponsors: Οικονομικών
   title: Οι περί Δημόσιας Υπηρεσίας (Χορήγηση Αδειών) (Τροποποιητικοί) Κανονισμοί
     του 2009

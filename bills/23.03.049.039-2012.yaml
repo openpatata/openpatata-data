@@ -5,12 +5,12 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Εμπορίου και Βιομηχανίας
-  plenary_id: 2012-04-26_Ι_Α_34
+  plenary_sitting_id: 2012-04-26_Ι_Α_34
   sponsors: Εμπορίου, Βιομηχανίας και Τουρισμού
   title: Οι περί Εταιρειών (Τροποποιητικοί) Κανονισμοί του 2012
 - action: submission
   committees_referred_to: Εμπορίου και Βιομηχανίας
-  plenary_id: 2012-06-21_Ι_Α_43
+  plenary_sitting_id: 2012-06-21_Ι_Α_43
   sponsors: Εμπορίου, Βιομηχανίας και Τουρισμού
   title: Οι περί Εταιρειών (Τροποποιητικοί) Κανονισμοί του 2012
 identifier: 23.03.049.039-2012

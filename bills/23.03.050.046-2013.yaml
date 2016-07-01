@@ -8,13 +8,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Παιδείας
-  plenary_id: 2013-08-29_Ι_None_None
+  plenary_sitting_id: 2013-08-29_Ι_None_None
   sponsors: Παιδείας και Πολιτισμού
   title: Οι περί Αγωγής και Εκπαίδευσης Παιδιών με Ειδικές Ανάγκες (Τροποποιητικοί)
     Κανονισμοί του 2013
 - action: submission
   committees_referred_to: Παιδείας
-  plenary_id: 2013-10-24_Ι_Γ_9
+  plenary_sitting_id: 2013-10-24_Ι_Γ_9
   sponsors: Παιδείας και Πολιτισμού
   title: Οι περί Αγωγής και Εκπαίδευσης Παιδιών με Ειδικές Ανάγκες (Τροποποιητικοί)
     Κανονισμοί του 2013

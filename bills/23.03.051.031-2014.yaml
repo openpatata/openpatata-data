@@ -11,22 +11,22 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Παιδείας
-  plenary_id: 2014-05-06_Ι_Γ_34
+  plenary_sitting_id: 2014-05-06_Ι_Γ_34
   sponsors: Παιδείας και Πολιτισμού
   title: Οι περί Οργανισμού Νεολαίας (Συντάξεις και Χορηγήματα) Κανονισμοί του 2014
 - action: submission
   committees_referred_to: Παιδείας
-  plenary_id: 2014-09-23_Ι_Δ_1
+  plenary_sitting_id: 2014-09-23_Ι_Δ_1
   sponsors: Παιδείας και Πολιτισμού
   title: Οι περί Οργανισμού Νεολαίας (Συντάξεις και Χορηγήματα) Κανονισμοί του 2014
 - action: submission
   committees_referred_to: Παιδείας
-  plenary_id: 2014-11-20_Ι_Δ_10
+  plenary_sitting_id: 2014-11-20_Ι_Δ_10
   sponsors: Παιδείας και Πολιτισμού
   title: Οι περί Οργανισμού Νεολαίας (Συντάξεις και Χορηγήματα) Κανονισμοί του 2014
 - action: submission
   committees_referred_to: Παιδείας
-  plenary_id: 2015-01-15_Ι_Δ_17
+  plenary_sitting_id: 2015-01-15_Ι_Δ_17
   sponsors: Παιδείας και Πολιτισμού
   title: Οι περί Οργανισμού Νεολαίας (Συντάξεις και Χορηγήματα) Κανονισμοί του 2015
 identifier: 23.03.051.031-2014

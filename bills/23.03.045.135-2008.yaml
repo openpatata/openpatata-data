@@ -9,32 +9,32 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2008-11-13_Θ_Γ_7
+  plenary_sitting_id: 2008-11-13_Θ_Γ_7
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Αλιείας (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2008
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2008-12-11_Θ_Γ_11
+  plenary_sitting_id: 2008-12-11_Θ_Γ_11
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Αλιείας (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2008
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2009-02-05_Θ_Γ_19
+  plenary_sitting_id: 2009-02-05_Θ_Γ_19
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Αλιείας (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2009
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2009-04-02_Θ_Γ_27
+  plenary_sitting_id: 2009-04-02_Θ_Γ_27
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Αλιείας (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2009
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2009-05-21_Θ_Γ_33
+  plenary_sitting_id: 2009-05-21_Θ_Γ_33
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Αλιείας (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2009
 - action: submission
   committees_referred_to: Γεωργίας και Φυσικών Πόρων
-  plenary_id: 2009-10-08_Θ_Δ_1
+  plenary_sitting_id: 2009-10-08_Θ_Δ_1
   sponsors: Γεωργίας, Φυσικών Πόρων και Περιβάλλοντος
   title: Οι περί Αλιείας (Τροποποιητικοί) (Αρ. 2) Κανονισμοί του 2009
 identifier: 23.03.045.135-2008

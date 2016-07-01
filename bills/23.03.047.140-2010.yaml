@@ -5,13 +5,13 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Περιβάλλοντος
-  plenary_id: 2010-11-25_Θ_Ε_8
+  plenary_sitting_id: 2010-11-25_Θ_Ε_8
   sponsors: Συγκοινωνιών και Έργων
   title: Οι περί των Ουσιών που Καταστρέφουν τη Στιβάδα του Όζοντος (Εκτέλεση Σχετικής
     Εργασίας) Κανονισμοί του 2010
 - action: submission
   committees_referred_to: Περιβάλλοντος
-  plenary_id: 2011-01-13_Θ_Ε_16
+  plenary_sitting_id: 2011-01-13_Θ_Ε_16
   sponsors: Συγκοινωνιών και Έργων
   title: Οι περί των Ουσιών που Καταστρέφουν τη Στιβάδα του Όζοντος (Εκτέλεση Σχετικής
     Εργασίας) Κανονισμοί του 2011

@@ -5,12 +5,12 @@ _sources:
 actions:
 - action: submission
   committees_referred_to: Εργασίας και Κοινωνικών Ασφαλίσεων
-  plenary_id: 2010-04-15_Θ_Δ_26
+  plenary_sitting_id: 2010-04-15_Θ_Δ_26
   sponsors: Εργασίας και Κοινωνικών Ασφαλίσεων
   title: Οι περί Κοινωνικών Ασφαλίσεων (Εισφορές) Κανονισμοί του 2010
 - action: submission
   committees_referred_to: Εργασίας και Κοινωνικών Ασφαλίσεων
-  plenary_id: 2010-06-10_Θ_Δ_34
+  plenary_sitting_id: 2010-06-10_Θ_Δ_34
   sponsors: Εργασίας και Κοινωνικών Ασφαλίσεων
   title: Οι περί Κοινωνικών Ασφαλίσεων (Εισφορές) Κανονισμοί του 2010
 identifier: 23.03.047.051-2010
