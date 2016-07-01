@@ -1,10 +1,18 @@
 _id: 2016-06-30_Ι_None_5
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2126
+- https://morph.io/wfdd/cypriot-parliament-1r-scraper
 agenda:
   cap1:
   - 23.01.057.086-2016
-  cap2: []
+  cap2:
+  - 3.01.057.098-2016
+  - 23.01.057.099-2016
+  - 23.03.053.058-2016
+  - 23.03.053.059-2016
+  - 10.01.001.025
+  - 10.10.019
+  - 23.10.001
   cap4: []
 attendees: []
 date: '2016-06-30'
