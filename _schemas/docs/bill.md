@@ -14,17 +14,21 @@
 
             * submission
 
-        * [required] **at_plenary** (`string`)
-
-            The plenary sitting's unique id.
-
-        * [required] **committees_referred_to** (`string`)
+        * **committees_referred_to** (`string`)
 
             The committees the bill was referred to.
+
+        * [required] **plenary_sitting_id** (`string`)
+
+            The plenary sitting's ID.
 
         * [required] **sponsors** (`string`)
 
             The bill's sponsors.
+
+        * [required] **title** (`string`)
+
+            The bill's title upon submission.
 
 * **explanatory_note** (`object|null`)
 

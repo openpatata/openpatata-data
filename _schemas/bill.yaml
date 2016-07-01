@@ -18,20 +18,23 @@ properties:
             type: string
             enum:
             - submission
-          at_plenary: &_action_property_at_plenary
-            description: The plenary sitting's unique id.
+          committees_referred_to:
+            description: The committees the bill was referred to.
+            type: string
+          plenary_sitting_id:
+            description: The plenary sitting's ID.
             type: string
           sponsors:
             description: The bill's sponsors.
             type: string
-          committees_referred_to:
-            description: The committees the bill was referred to.
+          title:
+            description: The bill's title upon submission.
             type: string
         required:
         - action
-        - at_plenary
+        - plenary_sitting_id
         - sponsors
-        - committees_referred_to
+        - title
   explanatory_note:
     description: >
       An accompanying explanatory note as published in the Government Gazette.
