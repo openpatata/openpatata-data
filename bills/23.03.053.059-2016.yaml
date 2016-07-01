@@ -1,0 +1,13 @@
+_id: 23.03.053.059-2016
+_sources:
+- https://morph.io/wfdd/cypriot-parliament-1r-scraper
+actions:
+- action: submission
+  committees_referred_to: Υγείας
+  plenary_sitting_id: 2016-06-30_Ι_None_5
+  sponsors: Υγείας
+  title: Οι περί Προστασίας της Υγείας (Έλεγχος του Καπνίσματος) Κανονισμοί του 2016
+identifier: 23.03.053.059-2016
+title: Οι περί Προστασίας της Υγείας (Έλεγχος του Καπνίσματος) Κανονισμοί του 2016
+titles:
+- Οι περί Προστασίας της Υγείας (Έλεγχος του Καπνίσματος) Κανονισμοί του 2016
