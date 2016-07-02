@@ -26,8 +26,8 @@ def main(folder, schema):
     if not schema:
         schema = ('_schemas', '{}.yaml'.format(folder.rstrip('s/')))
     with Path(*schema).open() as file:
-        validator = Validator(yaml.load(file),
-                              format_checker=FormatChecker(('date', 'email')))
+        validator = Validator(yaml.safe_load(file),
+                              format_checker=FormatChecker(('email',)))
 
         errors = (error
                   for item in Path(folder).iterdir()
