@@ -1,14 +1,18 @@
 _id: pittokopitis-nikos
 _sources: []
 birth_date: null
+contact_details: []
+email: null
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
 image: null
+images: []
 links: []
 name:
   el: Πιττοκοπίτης Νίκος
   en: Pittokopitis Nikos
   tr: Pittokopítis Níkos
+other_names: []
 tenures: []

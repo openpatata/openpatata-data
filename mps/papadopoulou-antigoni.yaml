@@ -1,14 +1,18 @@
 _id: papadopoulou-antigoni
 _sources: []
 birth_date: null
+contact_details: []
+email: null
 gender: female
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
 image: null
+images: []
 links: []
 name:
   el: Παπαδοπούλου Αντιγόνη
   en: Papadopoulou Antigoni
   tr: Papadopúlu Andigóni
+other_names: []
 tenures: []

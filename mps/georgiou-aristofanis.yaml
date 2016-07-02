@@ -1,14 +1,18 @@
 _id: georgiou-aristofanis
 _sources: []
 birth_date: null
+contact_details: []
+email: null
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
 image: null
+images: []
 links: []
 name:
   el: Γεωργίου Αριστοφάνης
   en: Georgiou Aristofanis
   tr: Yeoryíu Aristofánis
+other_names: []
 tenures: []

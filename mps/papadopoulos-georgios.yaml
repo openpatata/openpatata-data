@@ -2,7 +2,7 @@ _id: papadopoulos-georgios
 _sources:
 - http://neavouli.eu/person/356
 - http://www.parliament.cy/easyconsole.cfm/id/185
-birth_date: ''
+birth_date: null
 contact_details:
 - type: email
   value: gpapadopoulos@parliament.cy

@@ -1,14 +1,18 @@
 _id: rotsas-christos
 _sources: []
 birth_date: null
+contact_details: []
+email: null
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
 image: null
+images: []
 links: []
 name:
   el: Ρότσας Χρίστος
   en: Rotsas Christos
   tr: Rótsas Hrístos
+other_names: []
 tenures: []

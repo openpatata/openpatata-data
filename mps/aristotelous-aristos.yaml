@@ -1,14 +1,18 @@
 _id: aristotelous-aristos
 _sources: []
 birth_date: null
+contact_details: []
+email: null
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
 image: null
+images: []
 links: []
 name:
   el: Αριστοτέλους Άριστος
   en: Aristotelous Aristos
   tr: Aristotélus Áristos
+other_names: []
 tenures: []

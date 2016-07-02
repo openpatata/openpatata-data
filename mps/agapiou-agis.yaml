@@ -1,14 +1,18 @@
 _id: agapiou-agis
 _sources: []
 birth_date: null
+contact_details: []
+email: null
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
 image: null
+images: []
 links: []
 name:
   el: Αγαπίου Άγις
   en: Agapiou Agis
   tr: Agapíu Áyis
+other_names: []
 tenures: []

@@ -1,14 +1,18 @@
 _id: charalampous-sotiroula
 _sources: []
 birth_date: null
+contact_details: []
+email: null
 gender: female
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
 image: null
+images: []
 links: []
 name:
   el: Χαραλάμπους Σωτηρούλα
   en: Charalampous Sotiroula
   tr: Haralámbus Sotirúla
+other_names: []
 tenures: []

@@ -2,7 +2,7 @@ _id: giorgallas-michalis
 _sources:
 - http://neavouli.eu/person/360
 - http://www.parliament.cy/easyconsole.cfm/id/185
-birth_date: ''
+birth_date: null
 contact_details:
 - type: email
   value: mgiorgallas@yahoo.gr

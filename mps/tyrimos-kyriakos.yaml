@@ -1,14 +1,18 @@
 _id: tyrimos-kyriakos
 _sources: []
 birth_date: null
+contact_details: []
+email: null
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
 image: null
+images: []
 links: []
 name:
   el: Τυρίμος Κυριάκος
   en: Tyrimos Kyriakos
   tr: Tirímos Kiriákos
+other_names: []
 tenures: []

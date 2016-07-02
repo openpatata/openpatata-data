@@ -2,11 +2,14 @@ _id: chatzigeorgiou-takis
 _sources:
 - http://www.europarl.europa.eu/meps/en/96907/TAKIS_HADJIGEORGIOU_home.html
 birth_date: '1956-12-11'
+contact_details: []
+email: null
 gender: male
 identifiers:
 - identifier: Q545492
   scheme: http://www.wikidata.org/entity/
 image: null
+images: []
 links:
 - note:
     el: Facebook

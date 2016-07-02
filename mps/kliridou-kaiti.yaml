@@ -1,11 +1,14 @@
 _id: kliridou-kaiti
 _sources: []
 birth_date: null
+contact_details: []
+email: null
 gender: female
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
 image: null
+images: []
 links: []
 name:
   el: Κληρίδου Καίτη

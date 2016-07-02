@@ -1,14 +1,18 @@
 _id: karas-antonis
 _sources: []
 birth_date: null
+contact_details: []
+email: null
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
 image: null
+images: []
 links: []
 name:
   el: Καράς Αντώνης
   en: Karas Antonis
   tr: Karás Andónis
+other_names: []
 tenures: []
