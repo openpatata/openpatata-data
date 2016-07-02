@@ -70,7 +70,7 @@
 
     The law number, if the bill has been enacted.
 
-* **sources** (`array [object]|null`)
+* **sources** (`array [object]`)
 
     A list of references used by editors in prose (e.g. in the `summary` field), or anywhere you might wanna direct readers.
 

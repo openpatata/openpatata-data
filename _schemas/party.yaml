@@ -42,5 +42,6 @@ properties:
     - en
     - tr
 required:
+- _id
 - abbreviation
 - name

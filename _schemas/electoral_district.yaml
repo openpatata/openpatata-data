@@ -16,11 +16,12 @@ properties:
         type: string
       tr:
         description: >
-          The name of the district in Turkish
+          The name of the district in Turkish.
         type: string
     required:
     - el
     - en
     - tr
 required:
+- _id
 - name

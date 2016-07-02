@@ -1,6 +1,6 @@
-* **_id** (`string`)
+* [required] **_id** (`string`)
 
-* **end_date** (`string|null`)
+* [required] **end_date** (`string|null`)
 
     The end date in the ISO format (YYYY-MM-DD).
 

@@ -1,4 +1,4 @@
-* **_id** (`string`)
+* [required] **_id** (`string`)
 
 * [required] **_sources** (`array [string]`)
 
@@ -6,15 +6,15 @@
 
     The day's agenda.
 
-    * [required] **cap1** (`array [string]|boolean`)
+    * [required] **cap1** (`array [string]`)
 
         A list of the numbers of documents on Chapter 1 of the agenda.
 
-    * [required] **cap2** (`array [string]|boolean`)
+    * [required] **cap2** (`array [string]`)
 
         A list of the numbers of documents on Chapter 2 of the agenda.
 
-    * [required] **cap4** (`array [string]|boolean`)
+    * [required] **cap4** (`array [string]`)
 
         A list of the numbers of documents on Chapter 4 of the agenda.
 

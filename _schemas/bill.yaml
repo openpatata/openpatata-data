@@ -99,9 +99,7 @@ properties:
     description: >
       A list of references used by editors in prose (e.g. in the `summary`
       field), or anywhere you might wanna direct readers.
-    type:
-    - array
-    - 'null'
+    type: array
     items:
       type: object
       properties:

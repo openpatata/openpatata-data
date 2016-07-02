@@ -1,4 +1,4 @@
-* **_id** (`string`)
+* [required] **_id** (`string`)
 
 * **_sources** (`array [string]`)
 

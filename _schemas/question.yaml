@@ -3,6 +3,8 @@ type: object
 properties:
   _id:
     type: string
+  _position_on_page:
+    type: number
   _sources:
     type: array
     items:
@@ -18,12 +20,16 @@ properties:
     description: The name(s) of the MP(s) asking the question.
     type: array
     items:
-      type: string
+      type: object
+      properties:
+        mp_id:
+          description: The `id` of the asking MP.
+          type: string
     minItems: 1
   date:
     description: Date when the question was asked.
     type: string
-    format: date
+    regex: ^[0-9]{4}(-[0-9]{2}){0,2}$
   heading:
     description: The heading of the question.
     type: string

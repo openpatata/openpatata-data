@@ -14,13 +14,13 @@ properties:
     type:
     - string
     - 'null'
-    format: date
+    regex: ^[0-9]{4}(-[0-9]{2}){0,2}$
   date_circulated:
     description: >
       The date when the report was circulated in the plenary, in the ISO
       format (YYYY-MM-DD).
     type: string
-    format: date
+    regex: ^[0-9]{4}(-[0-9]{2}){0,2}$
   mps_present:
     description: A list of MPs who were present.
     type: array
@@ -69,6 +69,7 @@ properties:
     - 'null'
     format: uri
 required:
+- _id
 - _sources
 - date_circulated
 - title

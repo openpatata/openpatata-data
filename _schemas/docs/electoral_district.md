@@ -1,4 +1,4 @@
-* **_id** (`string`)
+* [required] **_id** (`string`)
 
 * [required] **name** (`object`)
 
@@ -12,4 +12,4 @@
 
     * [required] **tr** (`string`)
 
-        The name of the district in Turkish
+        The name of the district in Turkish.

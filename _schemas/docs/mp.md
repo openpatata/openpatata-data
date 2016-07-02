@@ -1,24 +1,36 @@
-* **_id** (`string`)
+* [required] **_id** (`string`)
 
-* **_sources** (`array [string]`)
+* [required] **_sources** (`array [string]`)
 
-* **birth_date** (`string|null`)
+* [required] **birth_date** (`string|null`)
 
     Their date of birth in the ISO format.
+
+* [required] **contact_details** (`array [object]`)
+
+    The MP's contact details.  Their preferred email address should be duplicated here.
+
+    * [required] **type** (`string`)
+
+        The contact medium as per the [Popolo standard](http://www.popoloproject.com/specs/contact-detail.html).
+
+    * [required] **value** (`string`)
+
+        The corresponding value, e.g. a phone number or an email address.
 
 * **dofi** (`string|null`)
 
     A link to the MP's latest declaration of financial interests.
 
-* **email** (`string|null`)
+* [required] **email** (`string|null`)
 
     Official e-mail address.
 
-* **gender** (`string`)
+* [required] **gender** (`string|null`)
 
     See [`foaf:gender`](http://xmlns.com/foaf/spec/#term_gender).
 
-* **identifiers** (`array [object]|null`)
+* [required] **identifiers** (`array [object]`)
 
     A mapping of issued identifiers.
 
@@ -30,17 +42,17 @@
 
         * http://www.wikidata.org/entity/
 
-* **image** (`string|null`)
+* [required] **image** (`string|null`)
 
     A link to a preferred image of the MP.
 
-* **images** (`array [string|null]|null`)
+* [required] **images** (`array [string|null]`)
 
     All images of the MP available on Parliament.
 
-* **links** (`array [object]|null`)
+* [required] **links** (`array [object]`)
 
-    A list of pertinent links, e.g. to the MP's page on Parliament.  Generally no more than five.  If linking to Wikipedia, link only to one language edition of it, preferably the English Wikipedia.
+    A list of pertinent links, e.g. to the MP's page on Parliament.  Generally no more than five.
 
     * [required] **note** (`object`)
 
@@ -76,7 +88,7 @@
 
         Their name in Turkish, in the following order: last name, middle name, first name.
 
-* **other_names** (`array [object]|null`)
+* [required] **other_names** (`array [object]`)
 
     Alternate names and spellings.
 
@@ -88,7 +100,7 @@
 
         What sort of name is it?
 
-* **tenures** (`array [object]`)
+* [required] **tenures** (`array [object]`)
 
     The MP's tenures in parliament.
 

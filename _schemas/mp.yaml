@@ -33,9 +33,7 @@ properties:
     - tr
   other_names:
     description: Alternate names and spellings.
-    type:
-    - array
-    - 'null'
+    type: array
     items:
       type: object
       properties:
@@ -50,9 +48,7 @@ properties:
       - note
   identifiers:
     description: A mapping of issued identifiers.
-    type:
-    - array
-    - 'null'
+    type: array
     items:
       type: object
       properties:
@@ -71,7 +67,24 @@ properties:
     type:
     - string
     - 'null'
-    format: date
+    regex: ^[0-9]{4}(-[0-9]{2}){0,2}$
+  contact_details:
+    description: The MP's contact details.  Their preferred email address
+      should be duplicated here.
+    type: array
+    items:
+      type: object
+      properties:
+        type:
+          description: The contact medium as per the [Popolo standard](http://www.popoloproject.com/specs/contact-detail.html).
+          type: string
+        value:
+          description: The corresponding value, e.g. a phone number or
+            an email address.
+          type: string
+      required:
+      - type
+      - value
   dofi:
     description: A link to the MP's latest declaration of financial interests.
     type:
@@ -86,7 +99,9 @@ properties:
     format: email
   gender:
     description: See [`foaf:gender`](http://xmlns.com/foaf/spec/#term_gender).
-    type: string
+    type:
+    - string
+    - 'null'
   tenures:
     description: The MP's tenures in parliament.
     type: array
@@ -105,7 +120,7 @@ properties:
           type:
           - string
           - 'null'
-          format: date
+          regex: ^[0-9]{4}(-[0-9]{2}){0,2}$
         end_date:
           description: >
             The end date, in ISO format (YYYY-MM-DD).  Leave blank if MP
@@ -113,7 +128,7 @@ properties:
           type:
           - string
           - 'null'
-          format: date
+          regex: ^[0-9]{4}(-[0-9]{2}){0,2}$
         party_id:
           description: >
             The `id` of the party the MP is affiliated to, if any;
@@ -128,11 +143,8 @@ properties:
   links:
     description: >
       A list of pertinent links, e.g. to the MP's page on Parliament.  Generally
-      no more than five.  If linking to Wikipedia, link only to one language
-      edition of it, preferably the English Wikipedia.
-    type:
-    - array
-    - 'null'
+      no more than five.
+    type: array
     items:
       type: object
       properties:
@@ -167,13 +179,23 @@ properties:
     format: uri
   images:
     description: All images of the MP available on Parliament.
-    type:
-    - array
-    - 'null'
+    type: array
     items:
       type:
       - string
       - 'null'
       format: uri
 required:
+- _id
+- _sources
+- birth_date
+- contact_details
+- email
+- gender
+- identifiers
+- image
+- images
+- links
 - name
+- other_names
+- tenures
