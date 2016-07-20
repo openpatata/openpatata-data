@@ -3,6 +3,7 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/312
 - http://neavouli.eu/person/177
 - http://www.parliament.cy/easyconsole.cfm/id/185
+- http://www.parliament.cy/easyconsole.cfm/id/2057
 birth_date: '1957-10-09'
 contact_details:
 - type: email
@@ -17,15 +18,18 @@ contact_details:
   value: (+357) 24 659444
 - type: fax
   value: (+357) 24 628498
+- type: email
+  value: georgios@georgioullc.com
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/g_georgiou_DISI.pdf
 email: ggeorgiou@parliament.cy
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/GEORGIOU Georgios.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/Georgiou Giorgos_portrait.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/GEORGIOU Georgios.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/Georgiou Giorgos_portrait.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -49,6 +53,8 @@ name:
 other_names:
 - name: Georgiou Georgios
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Περιστερωνοπηγή Αμμοχώστου (κατεχόμενη από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: ammochostos
   parliamentary_period_id: '8'

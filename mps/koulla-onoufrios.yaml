@@ -2,19 +2,30 @@ _id: koulla-onoufrios
 _sources:
 - http://neavouli.eu/person/180
 - http://www.parliament.cy/easyconsole.cfm/id/185
-birth_date: '1974'
+- http://www.parliament.cy/easyconsole.cfm/id/2078
+birth_date: '1974-12-19'
 contact_details:
 - type: email
   value: okoullas@parliament.cy
 - type: voice
   value: (+357) 22 407204
+- type: address
+  value: Μαρίας Συγκλητικής 50, Διαμ. 4, 5280 Παραλίμνι
+- type: voice
+  value: (+357) 23 040250
+- type: fax
+  value: (+357) 23 040335
+- type: email
+  value: onoufrios.k@gmail.com
 email: okoullas@parliament.cy
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://neavouli.eu/media/images/images/180.png
-images: []
+image: http://www.parliament.cy/assets/image/imageoriginal/kOULLA-small.jpg
+images:
+- http://neavouli.eu/media/images/images/180.png
+- http://www.parliament.cy/assets/image/imageoriginal/kOULLA-small.jpg
 links:
 - note:
     el: twitter
@@ -26,6 +37,8 @@ name:
   en: Koulla Onoufrios
   tr: Kullá Onúfrios
 other_names: []
+place_of_origin:
+  el: Αγία Τριάδα Γιαλούσας (κατεχόμενη από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: ammochostos
   parliamentary_period_id: '11'

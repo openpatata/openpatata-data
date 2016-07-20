@@ -40,6 +40,8 @@ other_names:
   note: Official spelling in the 'en' locale; possibly anglicised
 - name: Παπαγεωργίου Χαράλαμπος
   note: Full form (el-Grek)
+place_of_origin:
+  el: Αργάκι Μόρφου (κατεχόμενο από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: keryneia
   parliamentary_period_id: '10'

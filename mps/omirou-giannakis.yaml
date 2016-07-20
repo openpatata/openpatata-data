@@ -41,6 +41,8 @@ name:
 other_names:
 - name: Omirou Yiannakis
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Κάτω Πάφος
 tenures:
 - electoral_district_id: pafos
   parliamentary_period_id: '8'

@@ -3,6 +3,7 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/309
 - http://neavouli.eu/person/229
 - http://www.parliament.cy/easyconsole.cfm/id/185
+- http://www.parliament.cy/easyconsole.cfm/id/2056
 birth_date: '1963-10-01'
 contact_details:
 - type: email
@@ -17,6 +18,8 @@ contact_details:
   value: (+357) 25 341123
 - type: fax
   value: (+357) 25 341926
+- type: email
+  value: angelos.votsis@gmail.com
 dofi: null
 email: avotsis@parliament.cy
 gender: male
@@ -26,6 +29,7 @@ identifiers:
 image: http://www.parliament.cy/assets/image/imageoriginal/VOTSIS Aggelos.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/VOTSIS Aggelos.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/V otsis0002.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -44,6 +48,8 @@ name:
 other_names:
 - name: Votsis Angelos
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Μόρφου Λευκωσίας (κατεχόμενη από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: lemesos
   parliamentary_period_id: '9'

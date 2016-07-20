@@ -25,6 +25,8 @@ name:
 other_names:
 - name: Nicolaou Ionas
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Γέρι Λευκωσίας
 tenures:
 - electoral_district_id: lefkosia
   parliamentary_period_id: '8'

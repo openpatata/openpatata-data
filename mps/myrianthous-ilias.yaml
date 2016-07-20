@@ -2,25 +2,37 @@ _id: myrianthous-ilias
 _sources:
 - http://neavouli.eu/person/116
 - http://www.parliament.cy/easyconsole.cfm/id/185
-birth_date: null
+- http://www.parliament.cy/easyconsole.cfm/id/2094
+birth_date: '1967-05-05'
 contact_details:
 - type: email
   value: emyrianthous@parliament.cy
 - type: voice
   value: (+357) 22 407261
+- type: address
+  value: Κρήτης 12, 8820 Πόλις Χρυσοχούς
+- type: voice
+  value: (+357) 26 323120
+- type: fax
+  value: (+357) 26 322516
+- type: email
+  value: elias@emyrianthous.eu
 email: emyrianthous@parliament.cy
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: null
-images: []
+image: http://www.parliament.cy/assets/image/imageoriginal/MYRIANTHOUS-small.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/MYRIANTHOUS-small.jpg
 links: []
 name:
   el: Μυριάνθους Ηλίας
   en: Myrianthous Ilias
   tr: Miriánthus İlías
 other_names: []
+place_of_origin:
+  el: Πάφος
 tenures:
 - electoral_district_id: pafos
   parliamentary_period_id: '11'

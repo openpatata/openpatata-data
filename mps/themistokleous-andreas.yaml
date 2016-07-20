@@ -39,6 +39,8 @@ name:
 other_names:
 - name: Themistocleous Andreas
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Πάχνα Λεμεσού
 tenures:
 - electoral_district_id: lemesos
   parliamentary_period_id: '9'

@@ -42,6 +42,8 @@ name:
 other_names:
 - name: Stavrianos Panikkos
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Στρουμπί Πάφου
 tenures:
 - electoral_district_id: larnaka
   parliamentary_period_id: '9'

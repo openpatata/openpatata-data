@@ -46,6 +46,8 @@ name:
 other_names:
 - name: Adamou Adamos
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Λεμεσός
 tenures:
 - electoral_district_id: lefkosia
   end_date: '2004-07-19'

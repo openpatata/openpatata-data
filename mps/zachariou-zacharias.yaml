@@ -3,6 +3,7 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/364
 - http://neavouli.eu/person/128
 - http://www.parliament.cy/easyconsole.cfm/id/185
+- http://www.parliament.cy/easyconsole.cfm/id/2069
 birth_date: '1963-12-13'
 contact_details:
 - type: email
@@ -17,6 +18,10 @@ contact_details:
   value: (+357) 24 627828
 - type: fax
   value: (+357) 24 628060
+- type: voice
+  value: (+357) 24 628007
+- type: fax
+  value: (+357) 24 628006
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/z_zachariou_DISI.pdf
 email: zzachariou@parliament.cy
 gender: male
@@ -26,6 +31,7 @@ identifiers:
 image: http://www.parliament.cy/assets/image/imageoriginal/ZACHARIOU Zacharias.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/ZACHARIOU Zacharias.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/ZACHARIOU_Zacharias.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -39,6 +45,8 @@ name:
 other_names:
 - name: Zachariou Zacharias
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Ξυλοτύμβου Λάρνακας
 tenures:
 - electoral_district_id: larnaka
   parliamentary_period_id: '8'

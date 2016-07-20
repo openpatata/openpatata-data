@@ -3,12 +3,23 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/368
 - http://neavouli.eu/person/120
 - http://www.parliament.cy/easyconsole.cfm/id/185
+- http://www.parliament.cy/easyconsole.cfm/id/2076
 birth_date: '1954-07-18'
 contact_details:
 - type: email
   value: skoukouma@parliament.cy
 - type: voice
   value: (+357) 22 407252
+- type: address
+  value: Τιτάνων 8, 6047 Λάρνακα
+- type: voice
+  value: (+357) 24 633912
+- type: voice
+  value: (+357) 24 661603
+- type: fax
+  value: (+357) 24 638988
+- type: email
+  value: koukoumas@hotmail.com
 dofi: null
 email: skoukouma@parliament.cy
 gender: female
@@ -19,6 +30,7 @@ image: http://www.parliament.cy/assets/image/imageoriginal/Koutra- Koukouma Skev
   a.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/Koutra- Koukouma Skevi a.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/Koutra- Koukouma Skevi.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -34,6 +46,8 @@ other_names:
   note: Short form (el-Grek)
 - name: Koukouma Koutra Skevi
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Αυγόρου Αμμοχώστου
 tenures:
 - electoral_district_id: ammochostos
   parliamentary_period_id: '9'

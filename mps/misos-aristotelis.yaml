@@ -43,6 +43,8 @@ other_names:
   note: Official spelling in the 'en' locale; possibly anglicised
 - name: Misos Aristotelis
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Ορμίδεια Λάρνακας
 tenures:
 - electoral_district_id: larnaka
   parliamentary_period_id: '10'

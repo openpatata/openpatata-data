@@ -38,6 +38,7 @@ images:
 - http://www.parliament.cy/assets/image/imageoriginal/SYLLOURIS Demetris.jpg
 - http://www.parliament.cy/assets/image/imageoriginal/Demetris Syllouris.JPG
 - http://www.parliament.cy/assets/image/imageoriginal/Sillouris - small.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/Sillouris-small.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -61,6 +62,8 @@ name:
 other_names:
 - name: Syllouris Demetris
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Ποταμιά Λευκωσίας
 tenures:
 - electoral_district_id: lefkosia
   end_date: '2004-07-01'

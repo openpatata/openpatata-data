@@ -2,25 +2,35 @@ _id: christou-christos
 _sources:
 - http://neavouli.eu/person/470
 - http://www.parliament.cy/easyconsole.cfm/id/185
-birth_date: null
+- http://www.parliament.cy/easyconsole.cfm/id/2113
+birth_date: '1980-10-19'
 contact_details:
 - type: email
   value: cchristou@parliament.cy
 - type: voice
   value: (+357) 22 407214
+- type: address
+  value: Νάξου 2, 1070 Λευκωσία
+- type: fax
+  value: (+357) 22 407332
+- type: email
+  value: christou@elamcy.com
 email: cchristou@parliament.cy
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: null
-images: []
+image: http://www.parliament.cy/assets/image/imageoriginal/CHRISTOU-small.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/CHRISTOU-small.jpg
 links: []
 name:
   el: Χρίστου Χρίστος
   en: Christou Christos
   tr: Hrístu Hrístos
 other_names: []
+place_of_origin:
+  el: Πολιτικό Λευκωσίας
 tenures:
 - electoral_district_id: lefkosia
   parliamentary_period_id: '11'

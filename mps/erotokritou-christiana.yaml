@@ -2,25 +2,38 @@ _id: erotokritou-christiana
 _sources:
 - http://neavouli.eu/person/243
 - http://www.parliament.cy/easyconsole.cfm/id/185
-birth_date: null
+- http://www.parliament.cy/easyconsole.cfm/id/2065
+birth_date: '1973-05-14'
 contact_details:
 - type: email
   value: cerotokritou@parliament.cy
 - type: voice
   value: (+357) 22 407229
+- type: address
+  value: Τ.Θ. 22154, 1518 Λευκωσία
+- type: voice
+  value: (+357) 22 764466
+- type: fax
+  value: (+357) 22 758566
+- type: email
+  value: christiana.erotokritou@gmail.com
 email: cerotokritou@parliament.cy
 gender: female
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://neavouli.eu/media/images/images/243.png
-images: []
+image: http://www.parliament.cy/assets/image/imageoriginal/erotokritou-small.jpg
+images:
+- http://neavouli.eu/media/images/images/243.png
+- http://www.parliament.cy/assets/image/imageoriginal/erotokritou-small.jpg
 links: []
 name:
   el: Ερωτοκρίτου Χριστιάνα
   en: Erotokritou Christiana
   tr: Erotokrítu Hristiána
 other_names: []
+place_of_origin:
+  el: Λευκωσία
 tenures:
 - electoral_district_id: lefkosia
   parliamentary_period_id: '11'

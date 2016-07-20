@@ -2,25 +2,43 @@ _id: mavrou-eleni
 _sources:
 - http://neavouli.eu/person/27
 - http://www.parliament.cy/easyconsole.cfm/id/185
-birth_date: '1961'
+- http://www.parliament.cy/easyconsole.cfm/id/2089
+birth_date: '1961-02-02'
 contact_details:
 - type: email
   value: emavrou@parliament.cy
 - type: voice
   value: (+357) 22 407244
+- type: address
+  value: Λεωφόρος Λάρνακας 7, Block B, Γραφείο 401, 2101 Αγλαντζιά
+- type: voice
+  value: (+357) 22 864500
+- type: fax
+  value: (+357) 22 864555
+- type: email
+  value: dialogue@cytanet.com.cy
 email: emavrou@parliament.cy
 gender: female
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://neavouli.eu/media/images/images/27.png
-images: []
-links: []
+image: http://www.parliament.cy/assets/image/imageoriginal/eleni mavrou-2.jpg
+images:
+- http://neavouli.eu/media/images/images/27.png
+- http://www.parliament.cy/assets/image/imageoriginal/eleni mavrou-2.jpg
+links:
+- note:
+    el: twitter
+    en: twitter
+    tr: twitter
+  url: https://twitter.com/Eleni_Mavrou
 name:
   el: Μαύρου Ελένη
   en: Mavrou Eleni
   tr: Mávru Eléni
 other_names: []
+place_of_origin:
+  el: Κερύνεια (κατεχόμενη από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: keryneia
   parliamentary_period_id: '11'

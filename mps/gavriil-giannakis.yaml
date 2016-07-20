@@ -37,6 +37,8 @@ name:
 other_names:
 - name: Gavriel Yiannakis
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Δερύνεια Αμμοχώστου
 tenures:
 - electoral_district_id: ammochostos
   parliamentary_period_id: '9'

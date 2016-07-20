@@ -2,7 +2,8 @@ _id: aristeidou-mariella
 _sources:
 - http://neavouli.eu/person/140
 - http://www.parliament.cy/easyconsole.cfm/id/185
-birth_date: '1985'
+- http://www.parliament.cy/easyconsole.cfm/id/2055
+birth_date: '1985-02-02'
 contact_details:
 - type: email
   value: mariella_aristeidou@hotmail.com
@@ -10,19 +11,27 @@ contact_details:
   value: maristidou@parliament.cy
 - type: voice
   value: (+357) 22 407212
+- type: address
+  value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
+- type: fax
+  value: (+357) 25 340567
 email: maristidou@parliament.cy
 gender: female
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://neavouli.eu/media/images/images/140.png
-images: []
+image: http://www.parliament.cy/assets/image/imageoriginal/ARISTIDOU Mariella.jpg
+images:
+- http://neavouli.eu/media/images/images/140.png
+- http://www.parliament.cy/assets/image/imageoriginal/ARISTIDOU Mariella.jpg
 links: []
 name:
   el: Αριστείδου Μαριέλλα
   en: Aristeidou Mariella
   tr: Aristídu Mariélla
 other_names: []
+place_of_origin:
+  el: Λεμεσός
 tenures:
 - electoral_district_id: keryneia
   parliamentary_period_id: '11'

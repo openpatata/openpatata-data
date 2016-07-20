@@ -38,6 +38,8 @@ name:
 other_names:
 - name: Sampson Sotiris
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Βασίλι Καρπασίας (κατεχόμενο από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: ammochostos
   parliamentary_period_id: '8'

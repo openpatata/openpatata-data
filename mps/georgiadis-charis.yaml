@@ -25,6 +25,8 @@ name:
 other_names:
 - name: Georgiades Haris
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Λευκωσία
 tenures:
 - electoral_district_id: lefkosia
   end_date: '2013-02-28'

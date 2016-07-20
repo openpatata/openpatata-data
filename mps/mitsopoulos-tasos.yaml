@@ -25,6 +25,8 @@ name:
 other_names:
 - name: Mitsopoulos Tasos
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Λάρνακα
 tenures:
 - electoral_district_id: larnaka
   parliamentary_period_id: '9'

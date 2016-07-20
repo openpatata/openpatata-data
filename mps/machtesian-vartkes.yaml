@@ -1,23 +1,37 @@
 _id: machtesian-vartkes
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/185
-birth_date: null
+- http://www.parliament.cy/easyconsole.cfm/id/2090
+birth_date: '1950-11-13'
 contact_details:
 - type: email
   value: vmahdessian@parliament.cy
 - type: voice
   value: (+357) 22 407202
+- type: address
+  value: Καστοριάς 9Β&Γ, 2002 Στρόβολος
+- type: voice
+  value: (+357) 22 454540
+- type: voice
+  value: (+357) 22 352357
+- type: fax
+  value: (+357) 22 424642
+- type: email
+  value: office@armenianmp.com
 email: vmahdessian@parliament.cy
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: null
-images: []
+image: http://www.parliament.cy/assets/image/imageoriginal/VMAHDESSIAN 2016.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/VMAHDESSIAN 2016.jpg
 links: []
 name:
   el: Μαχτεσιάν Βαρτκές
   en: Machtesian Vartkes
   tr: Mahtesián Vartkés
 other_names: []
+place_of_origin:
+  el: Λευκωσία
 tenures: []

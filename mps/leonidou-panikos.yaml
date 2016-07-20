@@ -2,7 +2,8 @@ _id: leonidou-panikos
 _sources:
 - http://neavouli.eu/person/231
 - http://www.parliament.cy/easyconsole.cfm/id/185
-birth_date: '1959'
+- http://www.parliament.cy/easyconsole.cfm/id/2084
+birth_date: '1959-09-15'
 contact_details:
 - type: email
   value: panleon@cytanet.com.cy
@@ -10,19 +11,34 @@ contact_details:
   value: pleonidou@parliament.cy
 - type: voice
   value: (+357) 22 407222
+- type: address
+  value: Γωνία Ρήγα Φεραίου και Ανδρέα Ζάκου, Χριστίνα Σέντερ, Διαμ. 101, 3732 Λεμεσός
+- type: voice
+  value: (+357) 25 820525
+- type: fax
+  value: (+357) 25 340894
 email: pleonidou@parliament.cy
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://neavouli.eu/media/images/images/231.png
-images: []
-links: []
+image: http://www.parliament.cy/assets/image/imageoriginal/Leonidou.jpg
+images:
+- http://neavouli.eu/media/images/images/231.png
+- http://www.parliament.cy/assets/image/imageoriginal/Leonidou.jpg
+links:
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Personal website
+    tr: Kişisel websitesi
+  url: http://panikosleonidou.com/
 name:
   el: Λεωνίδου Πανίκος
   en: Leonidou Panikos
   tr: Leonídu Paníkos
 other_names: []
+place_of_origin:
+  el: Πάχνα Λεμεσού
 tenures:
 - electoral_district_id: lemesos
   parliamentary_period_id: '11'

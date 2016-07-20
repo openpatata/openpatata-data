@@ -1,0 +1,41 @@
+_id: mantovani-antonella
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/2087
+birth_date: '1971-09-07'
+contact_details:
+- type: address
+  value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
+- type: address
+  value: Τ.Θ. 50001, 3600 Λεμεσός
+- type: voice
+  value: (+357) 22 407238
+- type: voice
+  value: (+357) 25 362045
+- type: fax
+  value: (+357) 22 407496
+- type: fax
+  value: (+357) 25 377842
+- type: email
+  value: amantovani@parliament.cy
+- type: email
+  value: antonela@logosnet.cy.net
+email: amantovani@parliament.cy
+gender: null
+identifiers: []
+image: http://www.parliament.cy/assets/image/imageoriginal/MANTOVANI 2016.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/MANTOVANI 2016.jpg
+links:
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Personal website
+    tr: Kişisel websitesi
+  url: http://www.antonellamantovani.com/
+name:
+  el: Μαντοβάνη Αντωνέλλα
+  en: Mantovani Antonella
+  tr: Mandováni Andonélla
+other_names: []
+place_of_origin:
+  el: Λεμεσός
+tenures: []

@@ -4,6 +4,7 @@ _sources:
 - http://neavouli.eu/person/71
 - http://www.parliament.cy/easyconsole.cfm/id/2029
 - http://www.parliament.cy/easyconsole.cfm/id/185
+- http://www.parliament.cy/easyconsole.cfm/id/2111
 birth_date: '1964-03-19'
 contact_details:
 - type: email
@@ -22,9 +23,10 @@ gender: female
 identifiers:
 - identifier: Q12876791
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/Charalambidou Eirini a.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/Charalambidou Eirini.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/Charalambidou Eirini a.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/Charalambidou Eirini.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -43,6 +45,8 @@ name:
 other_names:
 - name: Charalambides Irene
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Λεμεσός
 tenures:
 - electoral_district_id: lefkosia
   parliamentary_period_id: '10'

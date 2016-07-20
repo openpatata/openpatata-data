@@ -40,6 +40,8 @@ other_names:
   note: Official spelling in the 'en' locale; possibly anglicised
 - name: Sarikas Fidias
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Πάφος
 tenures:
 - electoral_district_id: pafos
   parliamentary_period_id: '9'

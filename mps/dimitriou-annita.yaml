@@ -2,19 +2,28 @@ _id: dimitriou-annita
 _sources:
 - http://neavouli.eu/person/127
 - http://www.parliament.cy/easyconsole.cfm/id/185
-birth_date: null
+- http://www.parliament.cy/easyconsole.cfm/id/2062
+birth_date: '1985-10-18'
 contact_details:
 - type: email
   value: ademetriou@parliament.cy
 - type: voice
   value: (+357) 22 407210
+- type: address
+  value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
+- type: fax
+  value: (+357) 22 407388
+- type: email
+  value: info@annitademetriou.com
 email: ademetriou@parliament.cy
 gender: female
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://neavouli.eu/media/images/images/127_UxkWpsi.png
-images: []
+image: http://www.parliament.cy/assets/image/imageoriginal/IMG_6953-Annita Demetriou.jpg
+images:
+- http://neavouli.eu/media/images/images/127_UxkWpsi.png
+- http://www.parliament.cy/assets/image/imageoriginal/IMG_6953-Annita Demetriou.jpg
 links:
 - note:
     el: twitter
@@ -31,6 +40,8 @@ name:
   en: Dimitriou Annita
   tr: Dimitríu Anníta
 other_names: []
+place_of_origin:
+  el: Τρούλλοι Λάρνακας και Αμμόχωστος (κατεχόμενη από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: larnaka
   parliamentary_period_id: '11'

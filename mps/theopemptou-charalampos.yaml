@@ -20,7 +20,7 @@ gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://neavouli.eu/media/images/images/327.png
+image: http://www.parliament.cy/assets/image/imageoriginal/TheopemptouX15.jpg
 images:
 - http://neavouli.eu/media/images/images/327.png
 - http://www.parliament.cy/assets/image/imageoriginal/TheopemptouX15.jpg
@@ -42,6 +42,8 @@ name:
 other_names:
 - name: Theopemptou Charalambos
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Αγλαντζιά Λευκωσίας
 tenures:
 - electoral_district_id: lefkosia
   parliamentary_period_id: '11'

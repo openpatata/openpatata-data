@@ -49,6 +49,8 @@ name:
 other_names:
 - name: Christoforou Lefteris
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Πραστειό Αμμοχώστου (κατεχόμενο από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: ammochostos
   parliamentary_period_id: '8'

@@ -40,6 +40,8 @@ name:
 other_names:
 - name: Fittis Sophoclis
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Λάπηθος Κερύνειας (κατεχόμενη από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: keryneia
   parliamentary_period_id: '8'

@@ -2,25 +2,36 @@ _id: karoullas-giorgos
 _sources:
 - http://neavouli.eu/person/179
 - http://www.parliament.cy/easyconsole.cfm/id/185
-birth_date: null
+- http://www.parliament.cy/easyconsole.cfm/id/2072
+birth_date: '1972-06-28'
 contact_details:
 - type: email
   value: gkaroullas@parliament.cy
 - type: voice
   value: (+357) 22 407256
+- type: address
+  value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
+- type: fax
+  value: (+357) 24 637202
+- type: email
+  value: karoullasg@gmail.com
 email: gkaroullas@parliament.cy
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://neavouli.eu/media/images/images/179.png
-images: []
+image: http://www.parliament.cy/assets/image/imageoriginal/KAroullas-small.jpg
+images:
+- http://neavouli.eu/media/images/images/179.png
+- http://www.parliament.cy/assets/image/imageoriginal/KAroullas-small.jpg
 links: []
 name:
   el: Καρουλλάς Γιώργος
   en: Karoullas Giorgos
   tr: Karullás Yórgos
 other_names: []
+place_of_origin:
+  el: Στύλλοι και Γαϊδουράς Αμμοχώστου (κατεχόμενα από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: ammochostos
   parliamentary_period_id: '11'

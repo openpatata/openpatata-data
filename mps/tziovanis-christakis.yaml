@@ -4,6 +4,7 @@ _sources:
 - http://neavouli.eu/person/123
 - http://www.parliament.cy/easyconsole.cfm/id/2025
 - http://www.parliament.cy/easyconsole.cfm/id/185
+- http://www.parliament.cy/easyconsole.cfm/id/2108
 birth_date: '1956-12-29'
 contact_details:
 - type: email
@@ -27,6 +28,7 @@ identifiers:
 image: http://www.parliament.cy/assets/image/imageoriginal/Giovanis Christakis a.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/Giovanis Christakis a.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/Giovanis Christakis.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -40,6 +42,8 @@ name:
 other_names:
 - name: Giovanis Christakis
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Αχερίτου Αμμοχώστου (κατεχόμενη από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: ammochostos
   parliamentary_period_id: '10'

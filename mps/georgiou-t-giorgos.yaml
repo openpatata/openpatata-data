@@ -2,25 +2,38 @@ _id: georgiou-t-giorgos
 _sources:
 - http://neavouli.eu/person/83
 - http://www.parliament.cy/easyconsole.cfm/id/185
-birth_date: null
+- http://www.parliament.cy/easyconsole.cfm/id/2059
+birth_date: '1961-06-26'
 contact_details:
 - type: email
   value: geogeorgiou@parliament.cy
 - type: voice
   value: (+357) 22 407260
+- type: address
+  value: Κώστα Παρτασίδη 1, 3030 Λεμεσός
+- type: voice
+  value: (+357) 25 370404
+- type: fax
+  value: (+357) 25 370465
+- type: email
+  value: georgetg61@gmail.com
 email: geogeorgiou@parliament.cy
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://neavouli.eu/media/images/images/83.png
-images: []
+image: http://www.parliament.cy/assets/image/imageoriginal/Georgiou LEM.jpg
+images:
+- http://neavouli.eu/media/images/images/83.png
+- http://www.parliament.cy/assets/image/imageoriginal/Georgiou LEM.jpg
 links: []
 name:
   el: Γεωργίου Τ. Γιώργος
   en: Georgiou T. Giorgos
   tr: Yeoryíu T. Yórgos
 other_names: []
+place_of_origin:
+  el: Βασίλεια Κερύνειας (κατεχόμενη από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: lemesos
   parliamentary_period_id: '11'

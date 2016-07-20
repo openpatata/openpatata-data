@@ -3,6 +3,7 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/371
 - http://neavouli.eu/person/191
 - http://www.parliament.cy/easyconsole.cfm/id/185
+- http://www.parliament.cy/easyconsole.cfm/id/2079
 birth_date: '1962-04-30'
 contact_details:
 - type: email
@@ -26,6 +27,7 @@ identifiers:
 image: http://www.parliament.cy/assets/image/imageoriginal/KYPRIANOU Andreas.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/KYPRIANOU Andreas.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/KyprianouDHSY.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -37,6 +39,11 @@ links:
     en: Personal website
     tr: Kişisel websitesi
   url: http://www.akyprianou.com/
+- note:
+    el: twitter
+    en: twitter
+    tr: twitter
+  url: https://twitter.com/azkyprianou
 name:
   el: Κυπριανού Ανδρέας
   en: Kyprianou Andreas
@@ -46,6 +53,8 @@ other_names:
   note: Official spelling in the 'en' locale; possibly anglicised
 - name: Kyprianou Andreas
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Λεμεσός
 tenures:
 - electoral_district_id: lemesos
   parliamentary_period_id: '9'

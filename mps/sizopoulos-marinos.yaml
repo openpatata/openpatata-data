@@ -2,6 +2,7 @@ _id: sizopoulos-marinos
 _sources:
 - http://neavouli.eu/person/265
 - http://www.parliament.cy/easyconsole.cfm/id/185
+- http://www.parliament.cy/easyconsole.cfm/id/2105
 birth_date: '1957-07-17'
 contact_details:
 - type: email
@@ -10,13 +11,23 @@ contact_details:
   value: msizopoulos@parliament.cy
 - type: voice
   value: (+357) 22 407223
+- type: address
+  value: Θεσσαλονίκης 43, 3025 Λεμεσός
+- type: voice
+  value: (+357) 22 476001
+- type: voice
+  value: (+357) 25 371180
+- type: fax
+  value: (+357) 25 370399
 email: msizopoulos@parliament.cy
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://neavouli.eu/media/images/images/265_c132Tv1.png
-images: []
+image: http://www.parliament.cy/assets/image/imageoriginal/SIZOPOULOS-small.jpg
+images:
+- http://neavouli.eu/media/images/images/265_c132Tv1.png
+- http://www.parliament.cy/assets/image/imageoriginal/SIZOPOULOS-small.jpg
 links:
 - note:
     el: twitter
@@ -28,6 +39,8 @@ name:
   en: Sizopoulos Marinos
   tr: Sizópulos Marínos
 other_names: []
+place_of_origin:
+  el: Λευκωσία
 tenures:
 - electoral_district_id: lemesos
   parliamentary_period_id: '11'

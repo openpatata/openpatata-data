@@ -3,6 +3,7 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/386
 - http://neavouli.eu/person/150
 - http://www.parliament.cy/easyconsole.cfm/id/185
+- http://www.parliament.cy/easyconsole.cfm/id/2082
 birth_date: '1957-03-23'
 contact_details:
 - type: email
@@ -19,6 +20,10 @@ contact_details:
   value: (+357) 26 936256
 - type: fax
   value: (+357) 26 937948
+- type: address
+  value: Τ.Θ. 60240, 8100 Πάφος
+- type: email
+  value: kostaskonstantinou.disi@gmail.com
 dofi: null
 email: cconstantinou@parliament.cy
 gender: male
@@ -28,6 +33,7 @@ identifiers:
 image: http://www.parliament.cy/assets/image/imageoriginal/KONSTANTINOU Kostas.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/KONSTANTINOU Kostas.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/Kostandinou Kostas 1 PAF.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -43,6 +49,8 @@ other_names:
   note: Official spelling in the 'en' locale; possibly anglicised
 - name: Constantinou Costas
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Έμπα Πάφου
 tenures:
 - electoral_district_id: pafos
   parliamentary_period_id: '8'

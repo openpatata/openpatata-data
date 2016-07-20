@@ -2,7 +2,8 @@ _id: mousiouttas-marinos
 _sources:
 - http://neavouli.eu/person/248
 - http://www.parliament.cy/easyconsole.cfm/id/185
-birth_date: '1964'
+- http://www.parliament.cy/easyconsole.cfm/id/2092
+birth_date: '1964-02-25'
 contact_details:
 - type: email
   value: marinosm2000@hotmail.com
@@ -10,13 +11,25 @@ contact_details:
   value: mmoushouttas@parliament.cy
 - type: voice
   value: (+357) 22 407220
+- type: address
+  value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
+- type: address
+  value: Λεωφόρος Γρίβα Διγενή 50, 1080 Λευκωσία
+- type: voice
+  value: (+357) 22 791043
+- type: fax
+  value: (+357) 22 437363
+- type: email
+  value: marinosm2000@cytanet.com.cy
 email: mmoushouttas@parliament.cy
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://neavouli.eu/media/images/images/248.png
-images: []
+image: http://www.parliament.cy/assets/image/imageoriginal/MoushouttasM-thumb.jpg
+images:
+- http://neavouli.eu/media/images/images/248.png
+- http://www.parliament.cy/assets/image/imageoriginal/MoushouttasM-thumb.jpg
 links:
 - note:
     el: Προσωπική ιστοσελίδα
@@ -28,6 +41,8 @@ name:
   en: Mousiouttas Marinos
   tr: Muşúttas Marínos
 other_names: []
+place_of_origin:
+  el: Λευκωσία
 tenures:
 - electoral_district_id: lefkosia
   parliamentary_period_id: '11'

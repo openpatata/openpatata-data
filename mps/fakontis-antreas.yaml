@@ -4,6 +4,7 @@ _sources:
 - http://neavouli.eu/person/44
 - http://www.parliament.cy/easyconsole.cfm/id/2027
 - http://www.parliament.cy/easyconsole.cfm/id/185
+- http://www.parliament.cy/easyconsole.cfm/id/2110
 birth_date: '1964-10-22'
 contact_details:
 - type: email
@@ -26,9 +27,10 @@ gender: male
 identifiers:
 - identifier: Q12873769
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/Fakontis Andreas a.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/Fakontis Andreas.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/Fakontis Andreas a.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/Fakontis Andreas.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -44,6 +46,8 @@ other_names:
   note: Alternative spelling (el-Grek)
 - name: Fakontis Andreas
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Γεροσκήπου Πάφου
 tenures:
 - electoral_district_id: pafos
   parliamentary_period_id: '9'

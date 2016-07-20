@@ -38,6 +38,8 @@ name:
 other_names:
 - name: Tasou Georgios
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Ξυλοφάγου Λάρνακας
 tenures:
 - electoral_district_id: larnaka
   parliamentary_period_id: '8'

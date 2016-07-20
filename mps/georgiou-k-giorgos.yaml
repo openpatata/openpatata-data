@@ -3,6 +3,7 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/313
 - http://neavouli.eu/person/15
 - http://www.parliament.cy/easyconsole.cfm/id/185
+- http://www.parliament.cy/easyconsole.cfm/id/2058
 birth_date: '1963-04-09'
 contact_details:
 - type: email
@@ -23,9 +24,10 @@ gender: male
 identifiers:
 - identifier: Q16329183
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/Georgiou Giwrgos a.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/Georgiou Giwrgos.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/Georgiou Giwrgos a.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/Georgiou Giwrgos.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -39,6 +41,8 @@ name:
 other_names:
 - name: Georgiou K. Giorgos
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Αφάνεια Αμμοχώστου (κατεχόμενη από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: larnaka
   parliamentary_period_id: '10'

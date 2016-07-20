@@ -4,6 +4,7 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/369
 - http://neavouli.eu/person/219
 - http://www.parliament.cy/easyconsole.cfm/id/185
+- http://www.parliament.cy/easyconsole.cfm/id/2077
 birth_date: '1950-12-07'
 contact_details:
 - type: email
@@ -18,6 +19,8 @@ contact_details:
   value: (+357) 24 626220
 - type: fax
   value: (+357) 24 654638
+- type: voice
+  value: (+357) 24 828777
 dofi: null
 email: zkoulias@parliament.cy
 gender: male
@@ -28,6 +31,7 @@ image: http://www.parliament.cy/assets/image/imageoriginal/KOULIAS ZACHARIAS.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/KOULIAS ZACHARIAS.jpg
 - http://www.parliament.cy/assets/image/imageoriginal/KOULIAS ZACHARIAS office.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/Koulias0001.jpg
 links:
 - note:
     el: Προφίλ στην ιστοσελίδα της Βουλής
@@ -43,6 +47,8 @@ other_names:
   note: Official spelling in the 'en' locale; possibly anglicised
 - name: Koulias Zacharias
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Ριζοκάρπασο Αμμοχώστου (κατεχόμενο από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: ammochostos
   parliamentary_period_id: '8'

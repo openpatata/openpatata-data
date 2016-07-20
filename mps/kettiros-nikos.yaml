@@ -2,19 +2,28 @@ _id: kettiros-nikos
 _sources:
 - http://neavouli.eu/person/119
 - http://www.parliament.cy/easyconsole.cfm/id/185
-birth_date: '1974'
+- http://www.parliament.cy/easyconsole.cfm/id/2075
+birth_date: '1974-11-25'
 contact_details:
 - type: email
   value: nkettiros@parliament.cy
 - type: voice
   value: (+357) 22 407259
+- type: address
+  value: Σίμου Μενάρδου 3, 6015 Λάρνακα
+- type: voice
+  value: (+357) 24 653758
+- type: fax
+  value: (+357) 24 629511
 email: nkettiros@parliament.cy
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://neavouli.eu/media/images/images/119.png
-images: []
+image: http://www.parliament.cy/assets/image/imageoriginal/Kettiros 1.jpg
+images:
+- http://neavouli.eu/media/images/images/119.png
+- http://www.parliament.cy/assets/image/imageoriginal/Kettiros 1.jpg
 links:
 - note:
     el: twitter
@@ -26,6 +35,8 @@ name:
   en: Kettiros Nikos
   tr: Kéttiros Níkos
 other_names: []
+place_of_origin:
+  el: Λύση Αμμοχώστου (κατεχόμενη από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: ammochostos
   parliamentary_period_id: '11'

@@ -2,7 +2,8 @@ _id: pittokopitis-charalampos
 _sources:
 - http://neavouli.eu/person/112
 - http://www.parliament.cy/easyconsole.cfm/id/185
-birth_date: '1955'
+- http://www.parliament.cy/easyconsole.cfm/id/2102
+birth_date: '1955-12-06'
 contact_details:
 - type: email
   value: pampospittokopitis@hotmail.com
@@ -10,19 +11,36 @@ contact_details:
   value: cpittokopitis@parliament.cy
 - type: voice
   value: (+357) 22 407225
+- type: address
+  value: Κάνιγγος 15, 8010 Πάφος
+- type: voice
+  value: (+357) 26 220196
+- type: voice
+  value: (+357) 26 819730
+- type: fax
+  value: (+357) 26 220668
 email: cpittokopitis@parliament.cy
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://neavouli.eu/media/images/images/112.png
-images: []
-links: []
+image: http://www.parliament.cy/assets/image/imageoriginal/pittokopitis.jpg
+images:
+- http://neavouli.eu/media/images/images/112.png
+- http://www.parliament.cy/assets/image/imageoriginal/pittokopitis.jpg
+links:
+- note:
+    el: Προσωπική ιστοσελίδα
+    en: Personal website
+    tr: Kişisel websitesi
+  url: http://www.pittokopitis.com/
 name:
   el: Πιττοκοπίτης Χαράλαμπος
   en: Pittokopitis Charalampos
   tr: Pittokopítis Harálambos
 other_names: []
+place_of_origin:
+  el: Ίνεια Πάφου
 tenures:
 - electoral_district_id: pafos
   parliamentary_period_id: '11'

@@ -45,6 +45,8 @@ name:
 other_names:
 - name: Koutsou Nikos
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Πηγή Αμμοχώστου (κατεχόμενη από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: ammochostos
   parliamentary_period_id: '9'

@@ -2,7 +2,8 @@ _id: giorgallas-michalis
 _sources:
 - http://neavouli.eu/person/360
 - http://www.parliament.cy/easyconsole.cfm/id/185
-birth_date: null
+- http://www.parliament.cy/easyconsole.cfm/id/2060
+birth_date: '1968-03-20'
 contact_details:
 - type: email
   value: mgiorgallas@yahoo.gr
@@ -10,19 +11,32 @@ contact_details:
   value: mgiorgallas@parliament.cy
 - type: voice
   value: (+357) 22 407228
+- type: address
+  value: Στασάνδρου 27, 1060 Λευκωσία
+- type: fax
+  value: (+357) 22 407493
 email: mgiorgallas@parliament.cy
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://neavouli.eu/media/images/images/360_I1mDlMS.png
-images: []
-links: []
+image: http://www.parliament.cy/assets/image/imageoriginal/GIORGALLAS_MICHALIS_Web.jpg
+images:
+- http://neavouli.eu/media/images/images/360_I1mDlMS.png
+- http://www.parliament.cy/assets/image/imageoriginal/GIORGALLAS_MICHALIS_Web.jpg
+links:
+- note:
+    el: twitter
+    en: twitter
+    tr: twitter
+  url: https://twitter.com/giorgallasm
 name:
   el: Γιωργαλλάς Μιχάλης
   en: Giorgallas Michalis
   tr: Yiorgallás Mihális
 other_names: []
+place_of_origin:
+  el: Μαραθόβουνος Αμμοχώστου (κατεχόμενος από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: ammochostos
   parliamentary_period_id: '11'

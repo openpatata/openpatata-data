@@ -38,6 +38,8 @@ name:
 other_names:
 - name: Mappourides Rikkos
   note: Official spelling in the 'en' locale; possibly anglicised
+place_of_origin:
+  el: Λευκωσία
 tenures:
 - electoral_district_id: lefkosia
   parliamentary_period_id: '10'

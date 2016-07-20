@@ -2,25 +2,36 @@ _id: efstathiou-kostis
 _sources:
 - http://neavouli.eu/person/261
 - http://www.parliament.cy/easyconsole.cfm/id/185
-birth_date: '1961'
+- http://www.parliament.cy/easyconsole.cfm/id/2066
+birth_date: '1961-06-13'
 contact_details:
 - type: email
   value: cefstathiou@parliament.cy
 - type: voice
   value: (+357) 22 407243
+- type: address
+  value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
+- type: fax
+  value: (+357) 22 407227
+- type: email
+  value: conefst@cytanet.com.cy
 email: cefstathiou@parliament.cy
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://neavouli.eu/media/images/images/261_4ZOnNib.png
-images: []
+image: http://www.parliament.cy/assets/image/imageoriginal/EYSTATHIOU-small.jpg
+images:
+- http://neavouli.eu/media/images/images/261_4ZOnNib.png
+- http://www.parliament.cy/assets/image/imageoriginal/EYSTATHIOU-small.jpg
 links: []
 name:
   el: Ευσταθίου Κωστής
   en: Efstathiou Kostis
   tr: Efstathíu Kostís
 other_names: []
+place_of_origin:
+  el: Λευκωσία
 tenures:
 - electoral_district_id: lefkosia
   parliamentary_period_id: '11'
