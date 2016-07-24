@@ -21,7 +21,9 @@ contact_details:
   value: antonela@logosnet.cy.net
 email: amantovani@parliament.cy
 gender: null
-identifiers: []
+identifiers:
+- identifier: null
+  scheme: http://www.wikidata.org/entity/
 image: http://www.parliament.cy/assets/image/imageoriginal/MANTOVANI 2016.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/MANTOVANI 2016.jpg
