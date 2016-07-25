@@ -40,6 +40,8 @@ properties:
     description: The question itself, formatted in Markdown.
     type: string
 required:
+- _id
+- _position_on_page
 - _sources
 - answers
 - by

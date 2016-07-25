@@ -1,6 +1,6 @@
-* **_id** (`string`)
+* [required] **_id** (`string`)
 
-* **_position_on_page** (`number`)
+* [required] **_position_on_page** (`number`)
 
 * [required] **_sources** (`array [string]`)
 

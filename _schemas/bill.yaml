@@ -232,5 +232,6 @@ properties:
       - counts
       - result
 required:
+- _id
 - identifier
 - title
