@@ -1,0 +1,19 @@
+_id: 2016-07-07_Ι_None_6
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/2134
+agenda:
+  cap1:
+  - 23.01.056.179-2015
+  - 23.01.057.082-2016
+  - 23.02.057.041-2016
+  - 23.10.001
+  cap2: []
+  cap4: []
+attendees: []
+date: '2016-07-07'
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/2134
+parliamentary_period_id: Ι
+session: null
+sitting: 6
