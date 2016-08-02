@@ -7,18 +7,20 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2095
 birth_date: '1961-07-31'
 contact_details:
-- type: email
+- type: address
+  value: Τ.Θ. 25305, 1308 Λευκωσία
+- note: parliament
+  type: email
   value: aneofytou@parliament.cy
 - type: email
   value: averof@disy.org.cy
-- type: voice
-  value: (+357) 22 407230
-- type: address
-  value: Τ.Θ. 25305, 1308 Λευκωσία
-- type: voice
-  value: (+357) 22 883151
 - type: fax
   value: (+357) 22 753821
+- note: parliament
+  type: voice
+  value: (+357) 22 407230
+- type: voice
+  value: (+357) 22 883151
 - type: voice
   value: (+357) 22 883170
 - type: voice

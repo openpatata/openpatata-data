@@ -7,18 +7,20 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2108
 birth_date: '1956-12-29'
 contact_details:
-- type: email
-  value: ctziovanis@parliament.cy
-- type: email
-  value: christakisgiovanis@gmail.com
-- type: voice
-  value: (+357) 22 407247
 - type: address
   value: Τ.Θ. 33480, 5314 Παραλίμνι
-- type: voice
-  value: (+357) 23 832444
+- type: email
+  value: christakisgiovanis@gmail.com
+- note: parliament
+  type: email
+  value: ctziovanis@parliament.cy
 - type: fax
   value: (+357) 23 831969
+- note: parliament
+  type: voice
+  value: (+357) 22 407247
+- type: voice
+  value: (+357) 23 832444
 dofi: null
 email: ctziovanis@parliament.cy
 gender: male

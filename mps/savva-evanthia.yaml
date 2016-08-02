@@ -5,18 +5,20 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2104
 birth_date: '1964-10-17'
 contact_details:
-- type: email
-  value: esavva@parliament.cy
-- type: voice
-  value: (+357) 22 407251
 - type: address
   value: Σίμου Μενάρδου 3, 6015 Λάρνακα
-- type: voice
-  value: (+357) 24 651322
-- type: fax
-  value: (+357) 24 623031
+- note: parliament
+  type: email
+  value: esavva@parliament.cy
 - type: email
   value: evanthiasavva17@gmail.com
+- type: fax
+  value: (+357) 24 623031
+- note: parliament
+  type: voice
+  value: (+357) 22 407251
+- type: voice
+  value: (+357) 24 651322
 email: esavva@parliament.cy
 gender: female
 identifiers:

@@ -6,20 +6,22 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2056
 birth_date: '1963-10-01'
 contact_details:
+- type: address
+  value: Δωδεκανήσου 19, 3021 Λεμεσός
 - type: email
+  value: angelos.votsis@gmail.com
+- note: parliament
+  type: email
   value: avotsis@parliament.cy
 - type: email
   value: vangelos@spidernet.com.cy
-- type: voice
-  value: (+357) 22 407239
-- type: address
-  value: Δωδεκανήσου 19, 3021 Λεμεσός
-- type: voice
-  value: (+357) 25 341123
 - type: fax
   value: (+357) 25 341926
-- type: email
-  value: angelos.votsis@gmail.com
+- note: parliament
+  type: voice
+  value: (+357) 22 407239
+- type: voice
+  value: (+357) 25 341123
 dofi: null
 email: avotsis@parliament.cy
 gender: male

@@ -3,20 +3,22 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/365
 birth_date: '1961-05-31'
 contact_details:
-- type: email
-  value: mgaroyan@parliament.cy
-- type: email
-  value: diko@diko.org.cy
 - type: address
   value: Γρίβα Διγενή 50, 1080 Λευκωσία
-- type: voice
-  value: (+357) 22 407229
-- type: voice
-  value: (+357) 22 873800
-- type: voice
-  value: (+357) 22 791011
+- type: email
+  value: diko@diko.org.cy
+- note: parliament
+  type: email
+  value: mgaroyan@parliament.cy
 - type: fax
   value: (+357) 22 873801
+- note: parliament
+  type: voice
+  value: (+357) 22 407229
+- type: voice
+  value: (+357) 22 791011
+- type: voice
+  value: (+357) 22 873800
 dofi: null
 email: mgaroyan@parliament.cy
 gender: male

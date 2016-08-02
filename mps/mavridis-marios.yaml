@@ -6,20 +6,24 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2088
 birth_date: '1963-08-05'
 contact_details:
-- type: email
-  value: mmavrides@parliament.cy
+- note: parliament
+  type: address
+  value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
 - type: email
   value: m.mavrides@euc.ac.cy
-- type: voice
-  value: (+357) 22 407219
-- type: address
-  value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
-- type: voice
-  value: (+357) 22 480523
-- type: fax
-  value: (+357) 22 480523
-- type: fax
+- note: parliament
+  type: email
+  value: mmavrides@parliament.cy
+- note: parliament
+  type: fax
   value: (+357) 22 407388
+- type: fax
+  value: (+357) 22 480523
+- note: parliament
+  type: voice
+  value: (+357) 22 407219
+- type: voice
+  value: (+357) 22 480523
 dofi: null
 email: mmavrides@parliament.cy
 gender: male

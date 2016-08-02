@@ -4,18 +4,20 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/395
 birth_date: '1962-04-15'
 contact_details:
-- type: email
+- type: address
+  value: Ασίας 60, 3048 Λεμεσός
+- note: parliament
+  type: email
   value: athemistocleous@parliament.cy
 - type: email
   value: themistocleousandreas@hotmail.com
-- type: address
-  value: Ασίας 60, 3048 Λεμεσός
-- type: voice
+- type: fax
+  value: (+357) 25 376363
+- note: parliament
+  type: voice
   value: (+357) 22 407204
 - type: voice
   value: (+357) 25 356505
-- type: fax
-  value: (+357) 25 376363
 dofi: null
 email: athemistocleous@parliament.cy
 gender: male

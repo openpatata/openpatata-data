@@ -4,14 +4,18 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/396
 birth_date: '1950-09-26'
 contact_details:
-- type: email
-  value: mkyriakou@parliament.cy
-- type: address
+- note: parliament
+  type: address
   value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
-- type: voice
-  value: (+357) 22 407206
-- type: fax
+- note: parliament
+  type: email
+  value: mkyriakou@parliament.cy
+- note: parliament
+  type: fax
   value: (+357) 22 407388
+- note: parliament
+  type: voice
+  value: (+357) 22 407206
 dofi: null
 email: mkyriakou@parliament.cy
 gender: female

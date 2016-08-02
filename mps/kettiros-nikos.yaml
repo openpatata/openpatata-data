@@ -5,16 +5,18 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2075
 birth_date: '1974-11-25'
 contact_details:
-- type: email
-  value: nkettiros@parliament.cy
-- type: voice
-  value: (+357) 22 407259
 - type: address
   value: Σίμου Μενάρδου 3, 6015 Λάρνακα
-- type: voice
-  value: (+357) 24 653758
+- note: parliament
+  type: email
+  value: nkettiros@parliament.cy
 - type: fax
   value: (+357) 24 629511
+- note: parliament
+  type: voice
+  value: (+357) 22 407259
+- type: voice
+  value: (+357) 24 653758
 email: nkettiros@parliament.cy
 gender: male
 identifiers:

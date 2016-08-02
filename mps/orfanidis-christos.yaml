@@ -5,18 +5,20 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2097
 birth_date: '1961-06-14'
 contact_details:
-- type: email
-  value: orphanidesch@gmail.com
-- type: email
-  value: corfanides@parliament.cy
-- type: voice
-  value: (+357) 22 407440
 - type: address
   value: Ερμού 59, Γραφείο 102, Ακίνητα Τσαγγαρίδη, 6022 Λάρνακα
-- type: voice
-  value: (+357) 24 650796
+- note: parliament
+  type: email
+  value: corfanides@parliament.cy
+- type: email
+  value: orphanidesch@gmail.com
 - type: fax
   value: (+357) 24 664394
+- note: parliament
+  type: voice
+  value: (+357) 22 407440
+- type: voice
+  value: (+357) 24 650796
 email: corfanides@parliament.cy
 gender: male
 identifiers:

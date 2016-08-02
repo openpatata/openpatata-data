@@ -7,20 +7,22 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2110
 birth_date: '1964-10-22'
 contact_details:
-- type: email
+- type: address
+  value: Παλλάδος 4, 8046 Πάφος
+- note: parliament
+  type: email
   value: afakontis@parliament.cy
 - type: email
   value: facontis@cytanet.com.cy
-- type: voice
-  value: (+357) 22 407257
-- type: address
-  value: Παλλάδος 4, 8046 Πάφος
-- type: voice
-  value: (+357) 26 932144
-- type: fax
-  value: (+357) 26 943531
 - type: fax
   value: (+357) 26 923679
+- type: fax
+  value: (+357) 26 943531
+- note: parliament
+  type: voice
+  value: (+357) 22 407257
+- type: voice
+  value: (+357) 26 932144
 dofi: null
 email: afakontis@parliament.cy
 gender: male

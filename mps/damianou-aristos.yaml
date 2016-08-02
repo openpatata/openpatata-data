@@ -6,18 +6,20 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2061
 birth_date: '1972-06-03'
 contact_details:
-- type: email
-  value: adamianou@parliament.cy
-- type: voice
-  value: (+357) 22 407249
 - type: address
   value: Γερασίμου Μαρκορά 3, 2ος όροφος, 1075 Λευκωσία
-- type: voice
-  value: (+357) 22 677001
-- type: fax
-  value: (+357) 22 677747
+- note: parliament
+  type: email
+  value: adamianou@parliament.cy
 - type: email
   value: info@damianoulaw.com
+- type: fax
+  value: (+357) 22 677747
+- note: parliament
+  type: voice
+  value: (+357) 22 407249
+- type: voice
+  value: (+357) 22 677001
 dofi: null
 email: adamianou@parliament.cy
 gender: male

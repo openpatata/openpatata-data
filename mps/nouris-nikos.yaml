@@ -7,14 +7,18 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2096
 birth_date: '1960-11-14'
 contact_details:
-- type: email
-  value: nnouris@parliament.cy
-- type: voice
-  value: (+357) 22 407235
-- type: address
+- note: parliament
+  type: address
   value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
-- type: fax
+- note: parliament
+  type: email
+  value: nnouris@parliament.cy
+- note: parliament
+  type: fax
   value: (+357) 22 407388
+- note: parliament
+  type: voice
+  value: (+357) 22 407235
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/n_nouris_DISI.pdf
 email: nnouris@parliament.cy
 gender: male

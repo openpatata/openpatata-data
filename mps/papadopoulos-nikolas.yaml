@@ -7,26 +7,28 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2100
 birth_date: '1973-04-22'
 contact_details:
-- type: email
-  value: npapadopoulos@parliament.cy
-- type: email
-  value: nicholas@papadopoulos.com.cy
-- type: voice
-  value: (+357) 22 407439
-- type: address
-  value: Σοφούλη 2, 2ος όροφος, 1096 Λευκωσία
-- type: voice
-  value: (+357) 22 369999
-- type: fax
-  value: (+357) 22 669090
 - type: address
   value: Λεωφόρος Γρίβα Διγενή 50, 1080 Λευκωσία
-- type: voice
-  value: (+357) 22 873800
-- type: fax
-  value: (+357) 22 873801
+- type: address
+  value: Σοφούλη 2, 2ος όροφος, 1096 Λευκωσία
+- type: email
+  value: nicholas@papadopoulos.com.cy
 - type: email
   value: npapadopoulos@diko.org.cy
+- note: parliament
+  type: email
+  value: npapadopoulos@parliament.cy
+- type: fax
+  value: (+357) 22 669090
+- type: fax
+  value: (+357) 22 873801
+- type: voice
+  value: (+357) 22 369999
+- note: parliament
+  type: voice
+  value: (+357) 22 407439
+- type: voice
+  value: (+357) 22 873800
 dofi: null
 email: npapadopoulos@parliament.cy
 gender: male

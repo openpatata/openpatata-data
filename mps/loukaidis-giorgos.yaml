@@ -6,20 +6,22 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2086
 birth_date: '1968-12-05'
 contact_details:
-- type: email
-  value: gloukaides@parliament.cy
+- type: address
+  value: Εζεκία Παπαϊωάννου 4, 1075 Λευκωσία
 - type: email
   value: george.loukaides@gmail.com
 - type: email
   value: gloukaides@akel.org.cy
-- type: voice
-  value: (+357) 22 407234
-- type: address
-  value: Εζεκία Παπαϊωάννου 4, 1075 Λευκωσία
-- type: voice
-  value: (+357) 22 761121
+- note: parliament
+  type: email
+  value: gloukaides@parliament.cy
 - type: fax
   value: (+357) 22 589503
+- note: parliament
+  type: voice
+  value: (+357) 22 407234
+- type: voice
+  value: (+357) 22 761121
 dofi: null
 email: gloukaides@parliament.cy
 gender: male

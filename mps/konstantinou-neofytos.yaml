@@ -3,18 +3,20 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/387
 birth_date: '1954-12-16'
 contact_details:
-- type: email
-  value: nconstantinou@parliament.cy
-- type: email
-  value: dico@org.cy
 - type: address
   value: Τ.Θ. 23979, 1687 Λευκωσία
-- type: voice
+- type: email
+  value: dico@org.cy
+- note: parliament
+  type: email
+  value: nconstantinou@parliament.cy
+- type: fax
+  value: (+357) 22 661938
+- note: parliament
+  type: voice
   value: (+357) 22 407231
 - type: voice
   value: (+357) 22 871035
-- type: fax
-  value: (+357) 22 661938
 dofi: null
 email: nconstantinou@parliament.cy
 gender: male

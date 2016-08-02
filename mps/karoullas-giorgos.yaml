@@ -5,16 +5,19 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2072
 birth_date: '1972-06-28'
 contact_details:
-- type: email
-  value: gkaroullas@parliament.cy
-- type: voice
-  value: (+357) 22 407256
-- type: address
+- note: parliament
+  type: address
   value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
-- type: fax
-  value: (+357) 24 637202
+- note: parliament
+  type: email
+  value: gkaroullas@parliament.cy
 - type: email
   value: karoullasg@gmail.com
+- type: fax
+  value: (+357) 24 637202
+- note: parliament
+  type: voice
+  value: (+357) 22 407256
 email: gkaroullas@parliament.cy
 gender: male
 identifiers:

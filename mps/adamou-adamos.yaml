@@ -7,22 +7,24 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1950-10-30'
 contact_details:
-- type: email
-  value: aadamou@parliament.cy
-- type: email
-  value: aadamou@logosnet.cy.net
-- type: email
-  value: adamosad@spidernet.com.cy
-- type: voice
-  value: (+357) 22 407245
-- type: address
-  value: Λαπήθου 24, 2410 Έγκωμη
 - type: address
   value: Κασσιανής 9Α, 3067 Λεμεσός
-- type: voice
-  value: (+357) 22 514335
+- type: address
+  value: Λαπήθου 24, 2410 Έγκωμη
+- type: email
+  value: aadamou@logosnet.cy.net
+- note: parliament
+  type: email
+  value: aadamou@parliament.cy
+- type: email
+  value: adamosad@spidernet.com.cy
 - type: fax
   value: (+357) 22 514337
+- note: parliament
+  type: voice
+  value: (+357) 22 407245
+- type: voice
+  value: (+357) 22 514335
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_adamou_AKEL.pdf
 email: aadamou@parliament.cy
 gender: male

@@ -4,20 +4,22 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/370
 birth_date: '1946-11-09'
 contact_details:
-- type: email
-  value: nkoutsou@parliament.cy
-- type: email
-  value: europaiko.komma@cytanet.com.cy
 - type: address
   value: Λήδρας 57, Γραφείο 5, 1011 Λευκωσία
-- type: voice
-  value: (+357) 22 407205
-- type: voice
-  value: (+357) 22 680413
-- type: voice
-  value: (+357) 22 460033
+- type: email
+  value: europaiko.komma@cytanet.com.cy
+- note: parliament
+  type: email
+  value: nkoutsou@parliament.cy
 - type: fax
   value: (+357) 22 668692
+- note: parliament
+  type: voice
+  value: (+357) 22 407205
+- type: voice
+  value: (+357) 22 460033
+- type: voice
+  value: (+357) 22 680413
 dofi: null
 email: nkoutsou@parliament.cy
 gender: male

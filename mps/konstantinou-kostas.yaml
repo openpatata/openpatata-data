@@ -6,24 +6,26 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2082
 birth_date: '1957-03-23'
 contact_details:
-- type: email
-  value: cconstantinou@parliament.cy
-- type: email
-  value: c.constantinou@yahoo.com
-- type: voice
-  value: (+357) 22 407208
-- type: address
-  value: Τ.Θ. 60327, 8101 Πάφος
-- type: voice
-  value: (+357) 26 936320
-- type: voice
-  value: (+357) 26 936256
-- type: fax
-  value: (+357) 26 937948
 - type: address
   value: Τ.Θ. 60240, 8100 Πάφος
+- type: address
+  value: Τ.Θ. 60327, 8101 Πάφος
+- type: email
+  value: c.constantinou@yahoo.com
+- note: parliament
+  type: email
+  value: cconstantinou@parliament.cy
 - type: email
   value: kostaskonstantinou.disi@gmail.com
+- type: fax
+  value: (+357) 26 937948
+- note: parliament
+  type: voice
+  value: (+357) 22 407208
+- type: voice
+  value: (+357) 26 936256
+- type: voice
+  value: (+357) 26 936320
 dofi: null
 email: cconstantinou@parliament.cy
 gender: male

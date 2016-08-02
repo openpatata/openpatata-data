@@ -3,16 +3,18 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/361
 birth_date: '1954-10-18'
 contact_details:
-- type: email
-  value: smisiaouli@parliament.cy
 - type: address
   value: Μισιαούλη και Καβάζογλου 8, 2008 Στρόβολος
-- type: voice
+- note: parliament
+  type: email
+  value: smisiaouli@parliament.cy
+- type: fax
+  value: (+357) 22 494600
+- note: parliament
+  type: voice
   value: (+357) 22 407261
 - type: voice
   value: (+357) 22 494543
-- type: fax
-  value: (+357) 22 494600
 dofi: null
 email: smisiaouli@parliament.cy
 gender: female

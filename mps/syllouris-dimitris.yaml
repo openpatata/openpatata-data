@@ -7,26 +7,31 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1953-07-27'
 contact_details:
-- type: email
-  value: president@parliament.cy
-- type: email
-  value: dsyllouris@parliament.cy
-- type: email
-  value: sylouris@cytanet.com.cy
-- type: voice
-  value: (+357) 22 407301
-- type: address
+- note: parliament
+  type: address
   value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
-- type: fax
-  value: (+357) 22 677201
 - type: address
   value: Στασάνδρου 27, 1060 Λευκωσία
-- type: voice
-  value: (+357) 22 407221
-- type: voice
-  value: (+357) 22 757234
+- note: parliament
+  type: email
+  value: dsyllouris@parliament.cy
+- note: parliament
+  type: email
+  value: president@parliament.cy
+- type: email
+  value: sylouris@cytanet.com.cy
 - type: fax
   value: (+357) 22 375690
+- type: fax
+  value: (+357) 22 677201
+- note: parliament
+  type: voice
+  value: (+357) 22 407221
+- note: parliament
+  type: voice
+  value: (+357) 22 407301
+- type: voice
+  value: (+357) 22 757234
 dofi: null
 email: dsyllouris@parliament.cy
 gender: male

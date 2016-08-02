@@ -6,20 +6,22 @@ birth_date: '1964-02-07'
 contact_details:
 - type: address
   value: Σίμου Μενάρδου 3, 6015 Λάρνακα
-- type: voice
+- type: email
+  value: pstavrianos@hotmail.com
+- note: parliament
+  type: email
+  value: pstavrianos@parliament.cy
+- type: fax
+  value: (+357) 24 623031
+- type: fax
+  value: (+357) 24 818893
+- note: parliament
+  type: voice
   value: (+357) 22 407251
 - type: voice
   value: (+357) 24 651355
 - type: voice
   value: (+357) 24 818892
-- type: fax
-  value: (+357) 24 818893
-- type: fax
-  value: (+357) 24 623031
-- type: email
-  value: pstavrianos@parliament.cy
-- type: email
-  value: pstavrianos@hotmail.com
 dofi: null
 email: pstavrianos@parliament.cy
 gender: male

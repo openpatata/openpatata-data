@@ -4,18 +4,21 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/399
 birth_date: '1959-07-14'
 contact_details:
-- type: email
-  value: amappourides@parliament.cy
 - type: address
   value: Ανδρέα Χάλιου 1, Γραφείο 101, 2408 Έγκωμη
-- type: voice
-  value: (+357) 22 407214
+- note: parliament
+  type: email
+  value: amappourides@parliament.cy
+- note: parliament
+  type: fax
+  value: (+357) 22 407388
 - type: voice
   value: (+357) 22 024777
+- note: parliament
+  type: voice
+  value: (+357) 22 407214
 - type: voice
   value: (+357) 99 685750
-- type: fax
-  value: (+357) 22 407388
 dofi: null
 email: amappourides@parliament.cy
 gender: male

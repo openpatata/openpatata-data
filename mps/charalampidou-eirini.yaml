@@ -7,16 +7,19 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2111
 birth_date: '1964-03-19'
 contact_details:
-- type: email
+- type: address
+  value: Λάμπρου Κατσώνη 15, 2414 Έγκωμη
+- note: parliament
+  type: email
   value: icharalambides@parliament.cy
 - type: email
   value: irene.pc@cytanet.com.cy
-- type: voice
-  value: (+357) 22 407246
-- type: address
-  value: Λάμπρου Κατσώνη 15, 2414 Έγκωμη
-- type: fax
+- note: parliament
+  type: fax
   value: (+357) 22 407291
+- note: parliament
+  type: voice
+  value: (+357) 22 407246
 dofi: null
 email: icharalambides@parliament.cy
 gender: female

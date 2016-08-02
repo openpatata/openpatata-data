@@ -7,22 +7,24 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2109
 birth_date: '1964-12-06'
 contact_details:
+- type: address
+  value: Τ.Θ. 20342, 2151 Λευκωσία
 - type: email
+  value: nicostorn@cytanet.com.cy
+- type: email
+  value: nicostorn@gmail.com
+- note: parliament
+  type: email
   value: ntornaritis@parliament.cy
 - type: email
   value: tornaritisn@gmail.com
-- type: email
-  value: nicostorn@cytanet.com.cy
-- type: voice
-  value: (+357) 22 407215
-- type: address
-  value: Τ.Θ. 20342, 2151 Λευκωσία
-- type: voice
-  value: (+357) 22 665616
 - type: fax
   value: (+357) 22 671166
-- type: email
-  value: nicostorn@gmail.com
+- note: parliament
+  type: voice
+  value: (+357) 22 407215
+- type: voice
+  value: (+357) 22 665616
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/n_tornaritis_DISI.pdf
 email: ntornaritis@parliament.cy
 gender: male

@@ -5,18 +5,21 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2032
 birth_date: '1963-08-31'
 contact_details:
-- type: email
-  value: lchristoforou@parliament.cy
 - type: address
   value: Ποσειδώνος 3, 7520 Ξυλοφάγου
-- type: voice
-  value: (+357) 22 407210
-- type: voice
-  value: (+357) 24 726452
-- type: fax
+- note: parliament
+  type: email
+  value: lchristoforou@parliament.cy
+- note: parliament
+  type: fax
   value: (+357) 22 407388
 - type: fax
   value: (+357) 24 725777
+- note: parliament
+  type: voice
+  value: (+357) 22 407210
+- type: voice
+  value: (+357) 24 726452
 dofi: null
 email: lchristoforou@parliament.cy
 gender: male

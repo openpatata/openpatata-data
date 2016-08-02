@@ -6,22 +6,24 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1980-03-18'
 contact_details:
-- type: email
-  value: ediplaros@parliament.cy
-- type: email
-  value: e.diplaros@cytanet.com.cy
-- type: voice
-  value: (+357) 22 407209
 - type: address
   value: Ηροδότου 16, 3095 Λεμεσός
-- type: voice
-  value: (+357) 25 822966
-- type: fax
-  value: (+357) 25 343031
 - type: address
   value: Λεοντίου Αˊ 187, 3ος όροφος, 3020 Λεμεσός
+- type: email
+  value: e.diplaros@cytanet.com.cy
+- note: parliament
+  type: email
+  value: ediplaros@parliament.cy
 - type: fax
   value: (+357) 25 333385
+- type: fax
+  value: (+357) 25 343031
+- note: parliament
+  type: voice
+  value: (+357) 22 407209
+- type: voice
+  value: (+357) 25 822966
 dofi: null
 email: ediplaros@parliament.cy
 gender: male

@@ -4,20 +4,22 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2028
 birth_date: '1947-03-31'
 contact_details:
-- type: email
-  value: sfittis@parliament.cy
-- type: email
-  value: fyttis@cytanet.com.cy
 - type: address
   value: Λαπήθου 7, 2412 Έγκωμη
+- type: email
+  value: fyttis@cytanet.com.cy
+- note: parliament
+  type: email
+  value: sfittis@parliament.cy
+- type: fax
+  value: (+357) 22 350695
 - type: voice
+  value: (+357) 22 356135 (οικίας)
+- note: parliament
+  type: voice
   value: (+357) 22 407226
 - type: voice
   value: (+357) 22 873871
-- type: voice
-  value: (+357) 22 356135 (οικίας)
-- type: fax
-  value: (+357) 22 350695
 dofi: null
 email: sfittis@parliament.cy
 gender: male

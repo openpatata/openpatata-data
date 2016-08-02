@@ -5,18 +5,21 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2063
 birth_date: '1981-05-04'
 contact_details:
-- type: email
-  value: ddemetriou@parliament.cy
-- type: voice
-  value: (+357) 22 407218
 - type: address
   value: Βασιλέως Παύλου 16, 1096 Λευκωσία
-- type: voice
-  value: (+357) 22 001188
-- type: fax
-  value: (+357) 22 407388
+- note: parliament
+  type: email
+  value: ddemetriou@parliament.cy
 - type: email
   value: info@dmdemetriou.com
+- note: parliament
+  type: fax
+  value: (+357) 22 407388
+- type: voice
+  value: (+357) 22 001188
+- note: parliament
+  type: voice
+  value: (+357) 22 407218
 email: ddemetriou@parliament.cy
 gender: male
 identifiers:

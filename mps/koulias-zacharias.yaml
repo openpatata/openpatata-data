@@ -7,18 +7,20 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2077
 birth_date: '1950-12-07'
 contact_details:
-- type: email
-  value: zkoulias@parliament.cy
-- type: email
-  value: z.koulias@cytanet.com.cy
-- type: voice
-  value: (+357) 22 407240
 - type: address
   value: Τ.Θ. 40659, 6306 Λάρνακα
-- type: voice
-  value: (+357) 24 626220
+- type: email
+  value: z.koulias@cytanet.com.cy
+- note: parliament
+  type: email
+  value: zkoulias@parliament.cy
 - type: fax
   value: (+357) 24 654638
+- note: parliament
+  type: voice
+  value: (+357) 22 407240
+- type: voice
+  value: (+357) 24 626220
 - type: voice
   value: (+357) 24 828777
 dofi: null

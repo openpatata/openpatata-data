@@ -7,14 +7,16 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2103
 birth_date: '1956-10-22'
 contact_details:
-- type: email
-  value: giprokopiou@parliament.cy
-- type: voice
-  value: (+357) 22 407224
 - type: address
   value: Καρυάτιδων 24, 7101 Αραδίππου
+- note: parliament
+  type: email
+  value: giprokopiou@parliament.cy
 - type: fax
   value: (+357) 24 531823
+- note: parliament
+  type: voice
+  value: (+357) 22 407224
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/g_prokopiou_DIKO.pdf
 email: giprokopiou@parliament.cy
 gender: male

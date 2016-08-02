@@ -5,16 +5,19 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2060
 birth_date: '1968-03-20'
 contact_details:
-- type: email
-  value: mgiorgallas@yahoo.gr
-- type: email
-  value: mgiorgallas@parliament.cy
-- type: voice
-  value: (+357) 22 407228
 - type: address
   value: Στασάνδρου 27, 1060 Λευκωσία
-- type: fax
+- note: parliament
+  type: email
+  value: mgiorgallas@parliament.cy
+- type: email
+  value: mgiorgallas@yahoo.gr
+- note: parliament
+  type: fax
   value: (+357) 22 407493
+- note: parliament
+  type: voice
+  value: (+357) 22 407228
 email: mgiorgallas@parliament.cy
 gender: male
 identifiers:

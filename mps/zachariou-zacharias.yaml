@@ -6,22 +6,24 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2069
 birth_date: '1963-12-13'
 contact_details:
-- type: email
-  value: zzachariou@parliament.cy
-- type: email
-  value: z.zachariou@cytanet.com.cy
-- type: voice
-  value: (+357) 22 407211
 - type: address
   value: Γλάδστωνος 27, Σοφιάνα Κωρτ, 6023 Λάρνακα
-- type: voice
-  value: (+357) 24 627828
-- type: fax
-  value: (+357) 24 628060
-- type: voice
-  value: (+357) 24 628007
+- type: email
+  value: z.zachariou@cytanet.com.cy
+- note: parliament
+  type: email
+  value: zzachariou@parliament.cy
 - type: fax
   value: (+357) 24 628006
+- type: fax
+  value: (+357) 24 628060
+- note: parliament
+  type: voice
+  value: (+357) 22 407211
+- type: voice
+  value: (+357) 24 627828
+- type: voice
+  value: (+357) 24 628007
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/z_zachariou_DISI.pdf
 email: zzachariou@parliament.cy
 gender: male

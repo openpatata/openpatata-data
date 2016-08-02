@@ -3,18 +3,20 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/373
 birth_date: null
 contact_details:
-- type: email
+- type: address
+  value: Αναξαγόρα 7, 3031 Λεμεσός
+- note: parliament
+  type: email
   value: akyriakidou@parliament.cy
 - type: email
   value: athinakyriakidou@cytanet.com.cy
-- type: address
-  value: Αναξαγόρα 7, 3031 Λεμεσός
-- type: voice
+- type: fax
+  value: (+357) 25 871731
+- note: parliament
+  type: voice
   value: (+357) 22 407225
 - type: voice
   value: (+357) 25 871740
-- type: fax
-  value: (+357) 25 871731
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_kyriakidou_DIKO.pdf
 email: akyriakidou@parliament.cy
 gender: female

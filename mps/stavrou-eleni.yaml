@@ -5,16 +5,19 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2106
 birth_date: '1975-07-04'
 contact_details:
-- type: email
-  value: elstavrou@parliament.cy
-- type: voice
-  value: (+357) 22 407232
 - type: address
   value: Λεωφόρος Μακαρίου 198, Γραφείο 3, 3030 Λεμεσός
-- type: fax
-  value: (+357) 22 407388
 - type: email
   value: eleni0407@yahoo.com
+- note: parliament
+  type: email
+  value: elstavrou@parliament.cy
+- note: parliament
+  type: fax
+  value: (+357) 22 407388
+- note: parliament
+  type: voice
+  value: (+357) 22 407232
 email: elstavrou@parliament.cy
 gender: female
 identifiers:

@@ -6,20 +6,24 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2057
 birth_date: '1957-10-09'
 contact_details:
+- type: address
+  value: Τ.Θ. 40985, 6308 Λάρνακα
 - type: email
+  value: georgios@georgioullc.com
+- note: parliament
+  type: email
   value: ggeorgiou@parliament.cy
 - type: email
   value: ggeorgiou_mp@yahoo.com
-- type: voice
-  value: (+357) 22 407207
-- type: address
-  value: Τ.Θ. 40985, 6308 Λάρνακα
-- type: voice
-  value: (+357) 24 659444
+- type: email
+  value: 'ggeorgiou_mp@yahoo.com '
 - type: fax
   value: (+357) 24 628498
-- type: email
-  value: georgios@georgioullc.com
+- note: parliament
+  type: voice
+  value: (+357) 22 407207
+- type: voice
+  value: (+357) 24 659444
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/g_georgiou_DISI.pdf
 email: ggeorgiou@parliament.cy
 gender: male
