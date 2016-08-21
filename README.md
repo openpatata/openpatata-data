@@ -18,6 +18,25 @@ ideas about how our data could be harnessed:
 - to calculate MPs' average tenure and see how it compares with the rest of the
   world.
 
+## Getting started
+
+The entire dataset is distributed as a [data package](http://frictionlessdata.io/).
+To load the data into Python, you can do:
+
+```py
+import datapackage
+
+dp = datapackage.DataPackage('https://raw.githubusercontent.com/openpatata/openpatata-data/export/datapackage.json')
+resources = {r.descriptor['name']: r for r in dp.resources}
+
+# Print all of the MPs' names in Greek
+for mp in resources['mps'].iter():
+    print(mp['name']['el'])
+```
+
+You will need to have previously installed the `datapackage` library
+(`pip3 install datapackage`).
+
 ## License
 
 *openpatata-data* is licensed under CC BY 4.0.
