@@ -7,23 +7,51 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2109
 birth_date: '1964-12-06'
 contact_details:
-- type: address
+- parliamentary_period_id: '10'
+  type: address
   value: Τ.Θ. 20342, 2151 Λευκωσία
-- type: email
+- parliamentary_period_id: '11'
+  type: address
+  value: Τ.Θ. 20342, 2151 Λευκωσία
+- parliamentary_period_id: '10'
+  type: email
   value: nicostorn@cytanet.com.cy
-- type: email
+- parliamentary_period_id: '11'
+  type: email
   value: nicostorn@gmail.com
 - note: parliament
+  parliamentary_period_id: '10'
   type: email
   value: ntornaritis@parliament.cy
-- type: email
+- note: parliament
+  parliamentary_period_id: '11'
+  type: email
+  value: ntornaritis@parliament.cy
+- parliamentary_period_id: '10'
+  type: email
   value: tornaritisn@gmail.com
-- type: fax
+- parliamentary_period_id: '11'
+  type: email
+  value: tornaritisn@gmail.com
+- parliamentary_period_id: '10'
+  type: fax
+  value: (+357) 22 671166
+- parliamentary_period_id: '11'
+  type: fax
   value: (+357) 22 671166
 - note: parliament
+  parliamentary_period_id: '10'
   type: voice
   value: (+357) 22 407215
-- type: voice
+- note: parliament
+  parliamentary_period_id: '11'
+  type: voice
+  value: (+357) 22 407215
+- parliamentary_period_id: '10'
+  type: voice
+  value: (+357) 22 665616
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 22 665616
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/n_tornaritis_DISI.pdf
 email: ntornaritis@parliament.cy
@@ -31,7 +59,7 @@ gender: male
 identifiers:
 - identifier: Q12881566
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/TORNARITIS Nikos.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/Tornaritis.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/TORNARITIS Nikos.jpg
 - http://www.parliament.cy/assets/image/imageoriginal/Tornaritis.jpg

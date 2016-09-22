@@ -3,19 +3,25 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2091
 birth_date: '1968-04-09'
 contact_details:
-- type: address
+- parliamentary_period_id: '11'
+  type: address
   value: Γρηγόρη Αυξεντίου 1, 1096 Λευκωσία
-- type: email
+- parliamentary_period_id: '11'
+  type: email
   value: j.mousas@gmail.com
 - note: parliament
+  parliamentary_period_id: '11'
   type: email
   value: ymoussas@parliament.cy
-- type: fax
+- parliamentary_period_id: '11'
+  type: fax
   value: (+357) 22 677057
 - note: parliament
+  parliamentary_period_id: '11'
   type: voice
   value: (+357) 22 407201
-- type: voice
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 22 677067
 email: ymoussas@parliament.cy
 gender: null

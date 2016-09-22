@@ -4,24 +4,32 @@ _sources:
 birth_date: '1971-09-07'
 contact_details:
 - note: parliament
+  parliamentary_period_id: '11'
   type: address
   value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
-- type: address
+- parliamentary_period_id: '11'
+  type: address
   value: Τ.Θ. 50001, 3600 Λεμεσός
 - note: parliament
+  parliamentary_period_id: '11'
   type: email
   value: amantovani@parliament.cy
-- type: email
+- parliamentary_period_id: '11'
+  type: email
   value: antonela@logosnet.cy.net
 - note: parliament
+  parliamentary_period_id: '11'
   type: fax
   value: (+357) 22 407496
-- type: fax
+- parliamentary_period_id: '11'
+  type: fax
   value: (+357) 25 377842
 - note: parliament
+  parliamentary_period_id: '11'
   type: voice
   value: (+357) 22 407238
-- type: voice
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 25 362045
 email: amantovani@parliament.cy
 gender: null

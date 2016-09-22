@@ -7,19 +7,45 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2108
 birth_date: '1956-12-29'
 contact_details:
-- type: address
+- parliamentary_period_id: '10'
+  type: address
   value: Τ.Θ. 33480, 5314 Παραλίμνι
-- type: email
+- parliamentary_period_id: '11'
+  type: address
+  value: Τ.Θ. 33480, 5314 Παραλίμνι
+- parliamentary_period_id: '10'
+  type: email
+  value: christakisgiovanis@gmail.com
+- parliamentary_period_id: '11'
+  type: email
   value: christakisgiovanis@gmail.com
 - note: parliament
+  parliamentary_period_id: '10'
   type: email
   value: ctziovanis@parliament.cy
-- type: fax
+- note: parliament
+  parliamentary_period_id: '11'
+  type: email
+  value: ctziovanis@parliament.cy
+- parliamentary_period_id: '10'
+  type: fax
+  value: (+357) 23 831969
+- parliamentary_period_id: '11'
+  type: fax
   value: (+357) 23 831969
 - note: parliament
+  parliamentary_period_id: '10'
   type: voice
   value: (+357) 22 407247
-- type: voice
+- note: parliament
+  parliamentary_period_id: '11'
+  type: voice
+  value: (+357) 22 407247
+- parliamentary_period_id: '10'
+  type: voice
+  value: (+357) 23 832444
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 23 832444
 dofi: null
 email: ctziovanis@parliament.cy
@@ -27,7 +53,7 @@ gender: male
 identifiers:
 - identifier: Q12886195
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/Giovanis Christakis a.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/Giovanis Christakis.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/Giovanis Christakis a.jpg
 - http://www.parliament.cy/assets/image/imageoriginal/Giovanis Christakis.jpg

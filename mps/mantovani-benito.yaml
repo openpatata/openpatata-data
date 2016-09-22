@@ -1,18 +1,42 @@
 _id: mantovani-benito
-_sources: []
-birth_date: null
-contact_details: []
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/2036
+birth_date: '1936-04-27'
+contact_details:
+- parliamentary_period_id: '10'
+  type: address
+  value: Αρχιεπισκόπου Κυπριανού 1, 3600 Λεμεσός
+- parliamentary_period_id: '10'
+  type: email
+  value: benitlim@logos.cy.net
+- note: parliament
+  parliamentary_period_id: '10'
+  type: email
+  value: bmantovani@parliament.cy
+- parliamentary_period_id: '10'
+  type: fax
+  value: (+357) 25 377842
+- note: parliament
+  parliamentary_period_id: '10'
+  type: voice
+  value: (+357) 22 407238
+- parliamentary_period_id: '10'
+  type: voice
+  value: (+357) 25 362045
 email: null
 gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: null
-images: []
+image: http://www.parliament.cy/assets/image/imageoriginal/MANTOVANI Antonio.jpg
+images:
+- http://www.parliament.cy/assets/image/imageoriginal/MANTOVANI Antonio.jpg
 links: []
 name:
   el: Μαντοβάνη Μπενίτο
   en: Mantovani Benito
   tr: Mandováni Beníto
 other_names: []
+place_of_origin:
+  el: Λάρνακα
 tenures: []

@@ -6,17 +6,22 @@ _sources:
 birth_date: '1967-03-01'
 contact_details:
 - note: parliament
+  parliamentary_period_id: '11'
   type: address
   value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
-- type: email
+- parliamentary_period_id: '11'
+  type: email
   value: mylonas.p@live.com
 - note: parliament
+  parliamentary_period_id: '11'
   type: email
   value: pmylonas@parliament.cy
 - note: parliament
+  parliamentary_period_id: '11'
   type: fax
   value: (+357) 22 407428
 - note: parliament
+  parliamentary_period_id: '11'
   type: voice
   value: (+357) 22 407233
 email: pmylonas@parliament.cy

@@ -8,37 +8,47 @@ _sources:
 birth_date: '1953-07-27'
 contact_details:
 - note: parliament
+  parliamentary_period_id: '11'
   type: address
   value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
-- type: address
+- parliamentary_period_id: '10'
+  type: address
   value: Στασάνδρου 27, 1060 Λευκωσία
 - note: parliament
+  parliamentary_period_id: '10'
   type: email
   value: dsyllouris@parliament.cy
 - note: parliament
+  parliamentary_period_id: '11'
   type: email
   value: president@parliament.cy
-- type: email
+- parliamentary_period_id: '10'
+  type: email
   value: sylouris@cytanet.com.cy
-- type: fax
+- parliamentary_period_id: '10'
+  type: fax
   value: (+357) 22 375690
-- type: fax
+- parliamentary_period_id: '11'
+  type: fax
   value: (+357) 22 677201
 - note: parliament
+  parliamentary_period_id: '10'
   type: voice
   value: (+357) 22 407221
 - note: parliament
+  parliamentary_period_id: '11'
   type: voice
   value: (+357) 22 407301
-- type: voice
+- parliamentary_period_id: '10'
+  type: voice
   value: (+357) 22 757234
 dofi: null
-email: dsyllouris@parliament.cy
+email: president@parliament.cy
 gender: male
 identifiers:
 - identifier: Q12875947
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/Sillouris - small.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/Sillouris-small.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/SYLLOURIS Demetris.jpg
 - http://www.parliament.cy/assets/image/imageoriginal/Demetris Syllouris.JPG

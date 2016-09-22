@@ -6,20 +6,25 @@ _sources:
 birth_date: '1958-11-23'
 contact_details:
 - note: parliament
+  parliamentary_period_id: '10'
   type: address
   value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
-- type: email
+- parliamentary_period_id: '10'
+  type: email
   value: ppmail@cytanet.com.cy
 - note: parliament
+  parliamentary_period_id: '10'
   type: email
   value: pprodromou@parliament.cy
-- type: fax
+- parliamentary_period_id: '10'
+  type: fax
   value: (+357) 22 375800
 - note: parliament
+  parliamentary_period_id: '10'
   type: voice
   value: (+357) 22 407232
 dofi: null
-email: pprodromou@parliament.cy
+email: null
 gender: male
 identifiers:
 - identifier: null

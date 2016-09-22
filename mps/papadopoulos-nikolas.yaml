@@ -7,27 +7,45 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2100
 birth_date: '1973-04-22'
 contact_details:
-- type: address
+- parliamentary_period_id: '11'
+  type: address
   value: Λεωφόρος Γρίβα Διγενή 50, 1080 Λευκωσία
-- type: address
+- parliamentary_period_id: '10'
+  type: address
   value: Σοφούλη 2, 2ος όροφος, 1096 Λευκωσία
-- type: email
+- parliamentary_period_id: '10'
+  type: email
   value: nicholas@papadopoulos.com.cy
-- type: email
+- parliamentary_period_id: '11'
+  type: email
   value: npapadopoulos@diko.org.cy
 - note: parliament
+  parliamentary_period_id: '10'
   type: email
   value: npapadopoulos@parliament.cy
-- type: fax
+- note: parliament
+  parliamentary_period_id: '11'
+  type: email
+  value: npapadopoulos@parliament.cy
+- parliamentary_period_id: '10'
+  type: fax
   value: (+357) 22 669090
-- type: fax
+- parliamentary_period_id: '11'
+  type: fax
   value: (+357) 22 873801
-- type: voice
+- parliamentary_period_id: '10'
+  type: voice
   value: (+357) 22 369999
 - note: parliament
+  parliamentary_period_id: '10'
   type: voice
   value: (+357) 22 407439
-- type: voice
+- note: parliament
+  parliamentary_period_id: '11'
+  type: voice
+  value: (+357) 22 407439
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 22 873800
 dofi: null
 email: npapadopoulos@parliament.cy
@@ -35,7 +53,7 @@ gender: male
 identifiers:
 - identifier: Q3161181
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/PAPADOPOULOS Nikolas.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/Nicholas0001.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/PAPADOPOULOS Nikolas.jpg
 - http://www.parliament.cy/assets/image/imageoriginal/Nicholas0001.jpg

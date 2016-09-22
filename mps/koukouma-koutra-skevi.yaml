@@ -6,21 +6,28 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2076
 birth_date: '1954-07-18'
 contact_details:
-- type: address
+- parliamentary_period_id: '11'
+  type: address
   value: Τιτάνων 8, 6047 Λάρνακα
-- type: email
+- parliamentary_period_id: '11'
+  type: email
   value: koukoumas@hotmail.com
 - note: parliament
+  parliamentary_period_id: '11'
   type: email
   value: skoukouma@parliament.cy
-- type: fax
+- parliamentary_period_id: '11'
+  type: fax
   value: (+357) 24 638988
 - note: parliament
+  parliamentary_period_id: '11'
   type: voice
   value: (+357) 22 407252
-- type: voice
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 24 633912
-- type: voice
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 24 661603
 dofi: null
 email: skoukouma@parliament.cy
@@ -28,8 +35,7 @@ gender: female
 identifiers:
 - identifier: Q12884514
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/Koutra- Koukouma Skevi
-  a.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/Koutra- Koukouma Skevi.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/Koutra- Koukouma Skevi a.jpg
 - http://www.parliament.cy/assets/image/imageoriginal/Koutra- Koukouma Skevi.jpg

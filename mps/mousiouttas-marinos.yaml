@@ -6,23 +6,28 @@ _sources:
 birth_date: '1964-02-25'
 contact_details:
 - note: parliament
+  parliamentary_period_id: '11'
   type: address
   value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
-- type: address
+- parliamentary_period_id: '11'
+  type: address
   value: Λεωφόρος Γρίβα Διγενή 50, 1080 Λευκωσία
-- type: email
+- parliamentary_period_id: '11'
+  type: email
   value: marinosm2000@cytanet.com.cy
-- type: email
-  value: marinosm2000@hotmail.com
 - note: parliament
+  parliamentary_period_id: '11'
   type: email
   value: mmoushouttas@parliament.cy
-- type: fax
+- parliamentary_period_id: '11'
+  type: fax
   value: (+357) 22 437363
 - note: parliament
+  parliamentary_period_id: '11'
   type: voice
   value: (+357) 22 407220
-- type: voice
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 22 791043
 email: mmoushouttas@parliament.cy
 gender: male

@@ -3,24 +3,31 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/389
 birth_date: '1955-10-14'
 contact_details:
-- type: address
+- parliamentary_period_id: '10'
+  type: address
   value: Πέτρου Τσίρου 58, 3075 Λεμεσός
-- type: address
+- parliamentary_period_id: '10'
+  type: address
   value: Τ.Θ. 51794, 3508 Λεμεσός
-- type: email
+- parliamentary_period_id: '10'
+  type: email
   value: lamaris@cytanet.com.cy
 - note: parliament
+  parliamentary_period_id: '10'
   type: email
   value: ylamaris@parliament.cy
-- type: fax
+- parliamentary_period_id: '10'
+  type: fax
   value: (+357) 25 370465
 - note: parliament
+  parliamentary_period_id: '10'
   type: voice
   value: (+357) 22 407260
-- type: voice
+- parliamentary_period_id: '10'
+  type: voice
   value: (+357) 25 370404
 dofi: null
-email: ylamaris@parliament.cy
+email: null
 gender: male
 identifiers:
 - identifier: Q16329147

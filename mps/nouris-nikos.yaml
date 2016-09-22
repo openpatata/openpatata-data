@@ -8,15 +8,35 @@ _sources:
 birth_date: '1960-11-14'
 contact_details:
 - note: parliament
+  parliamentary_period_id: '10'
   type: address
   value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
 - note: parliament
+  parliamentary_period_id: '11'
+  type: address
+  value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
+- note: parliament
+  parliamentary_period_id: '10'
   type: email
   value: nnouris@parliament.cy
 - note: parliament
+  parliamentary_period_id: '11'
+  type: email
+  value: nnouris@parliament.cy
+- note: parliament
+  parliamentary_period_id: '10'
   type: fax
   value: (+357) 22 407388
 - note: parliament
+  parliamentary_period_id: '11'
+  type: fax
+  value: (+357) 22 407388
+- note: parliament
+  parliamentary_period_id: '10'
+  type: voice
+  value: (+357) 22 407235
+- note: parliament
+  parliamentary_period_id: '11'
   type: voice
   value: (+357) 22 407235
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/n_nouris_DISI.pdf
@@ -25,7 +45,7 @@ gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/NOURIS Nikos.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/NICOS NOURIS.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/NOURIS Nikos.jpg
 - http://www.parliament.cy/assets/image/imageoriginal/NICOS NOURIS.jpg

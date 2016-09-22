@@ -5,19 +5,25 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2078
 birth_date: '1974-12-19'
 contact_details:
-- type: address
+- parliamentary_period_id: '11'
+  type: address
   value: Μαρίας Συγκλητικής 50, Διαμ. 4, 5280 Παραλίμνι
 - note: parliament
+  parliamentary_period_id: '11'
   type: email
   value: okoullas@parliament.cy
-- type: email
+- parliamentary_period_id: '11'
+  type: email
   value: onoufrios.k@gmail.com
-- type: fax
+- parliamentary_period_id: '11'
+  type: fax
   value: (+357) 23 040335
 - note: parliament
+  parliamentary_period_id: '11'
   type: voice
   value: (+357) 22 407204
-- type: voice
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 23 040250
 email: okoullas@parliament.cy
 gender: male

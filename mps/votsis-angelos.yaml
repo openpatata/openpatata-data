@@ -6,21 +6,45 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2056
 birth_date: '1963-10-01'
 contact_details:
-- type: address
+- parliamentary_period_id: '10'
+  type: address
   value: Δωδεκανήσου 19, 3021 Λεμεσός
-- type: email
+- parliamentary_period_id: '11'
+  type: address
+  value: Δωδεκανήσου 19, 3021 Λεμεσός
+- parliamentary_period_id: '11'
+  type: email
   value: angelos.votsis@gmail.com
 - note: parliament
+  parliamentary_period_id: '10'
   type: email
   value: avotsis@parliament.cy
-- type: email
+- note: parliament
+  parliamentary_period_id: '11'
+  type: email
+  value: avotsis@parliament.cy
+- parliamentary_period_id: '10'
+  type: email
   value: vangelos@spidernet.com.cy
-- type: fax
+- parliamentary_period_id: '10'
+  type: fax
+  value: (+357) 25 341926
+- parliamentary_period_id: '11'
+  type: fax
   value: (+357) 25 341926
 - note: parliament
+  parliamentary_period_id: '10'
   type: voice
   value: (+357) 22 407239
-- type: voice
+- note: parliament
+  parliamentary_period_id: '11'
+  type: voice
+  value: (+357) 22 407239
+- parliamentary_period_id: '10'
+  type: voice
+  value: (+357) 25 341123
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 25 341123
 dofi: null
 email: avotsis@parliament.cy
@@ -28,7 +52,7 @@ gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/VOTSIS Aggelos.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/V otsis0002.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/VOTSIS Aggelos.jpg
 - http://www.parliament.cy/assets/image/imageoriginal/V otsis0002.jpg
@@ -51,7 +75,7 @@ other_names:
 - name: Votsis Angelos
   note: Official spelling in the 'en' locale; possibly anglicised
 place_of_origin:
-  el: Μόρφου Λευκωσίας (κατεχόμενη από τα τουρκικά στρατεύματα)
+  el: Πεντάγια Μόρφου (κατεχόμενη από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: lemesos
   parliamentary_period_id: '9'

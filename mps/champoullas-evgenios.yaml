@@ -3,11 +3,9 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1226
 - http://www.parliament.cy/easyconsole.cfm/id/2030
 birth_date: '1969-01-12'
-contact_details:
-- type: email
-  value: ehamboullas@parliament.cy
+contact_details: []
 dofi: null
-email: ehamboullas@parliament.cy
+email: null
 gender: male
 identifiers:
 - identifier: null

@@ -6,21 +6,51 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2086
 birth_date: '1968-12-05'
 contact_details:
-- type: address
+- parliamentary_period_id: '10'
+  type: address
   value: Εζεκία Παπαϊωάννου 4, 1075 Λευκωσία
-- type: email
+- parliamentary_period_id: '11'
+  type: address
+  value: Εζεκία Παπαϊωάννου 4, 1075 Λευκωσία
+- parliamentary_period_id: '10'
+  type: email
   value: george.loukaides@gmail.com
-- type: email
+- parliamentary_period_id: '11'
+  type: email
+  value: george.loukaides@gmail.com
+- parliamentary_period_id: '10'
+  type: email
+  value: gloukaides@akel.org.cy
+- parliamentary_period_id: '11'
+  type: email
   value: gloukaides@akel.org.cy
 - note: parliament
+  parliamentary_period_id: '10'
   type: email
   value: gloukaides@parliament.cy
-- type: fax
+- note: parliament
+  parliamentary_period_id: '11'
+  type: email
+  value: gloukaides@parliament.cy
+- parliamentary_period_id: '10'
+  type: fax
+  value: (+357) 22 589503
+- parliamentary_period_id: '11'
+  type: fax
   value: (+357) 22 589503
 - note: parliament
+  parliamentary_period_id: '10'
   type: voice
   value: (+357) 22 407234
-- type: voice
+- note: parliament
+  parliamentary_period_id: '11'
+  type: voice
+  value: (+357) 22 407234
+- parliamentary_period_id: '10'
+  type: voice
+  value: (+357) 22 761121
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 22 761121
 dofi: null
 email: gloukaides@parliament.cy
@@ -28,7 +58,7 @@ gender: male
 identifiers:
 - identifier: Q12875354
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/Loukaidis Giwrgos a.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/Loukaidis Giwrgos.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/Loukaidis Giwrgos a.jpg
 - http://www.parliament.cy/assets/image/imageoriginal/Loukaidis Giwrgos.jpg

@@ -6,19 +6,45 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1971-10-21'
 contact_details:
-- type: address
+- parliamentary_period_id: '10'
+  type: address
   value: Γεωργίου Φραγκούδη 9Β, 3061 Λεμεσός
-- type: email
+- parliamentary_period_id: '11'
+  type: address
+  value: Γεωργίου Φραγκούδη 9Β, 3061 Λεμεσός
+- parliamentary_period_id: '10'
+  type: email
+  value: a.kafkalias@cytanet.com.cy
+- parliamentary_period_id: '11'
+  type: email
   value: a.kafkalias@cytanet.com.cy
 - note: parliament
+  parliamentary_period_id: '10'
   type: email
   value: akafkalias@parliament.cy
-- type: fax
+- note: parliament
+  parliamentary_period_id: '11'
+  type: email
+  value: akafkalias@parliament.cy
+- parliamentary_period_id: '10'
+  type: fax
+  value: (+357) 25 662455
+- parliamentary_period_id: '11'
+  type: fax
   value: (+357) 25 662455
 - note: parliament
+  parliamentary_period_id: '10'
   type: voice
   value: (+357) 22 407254
-- type: voice
+- note: parliament
+  parliamentary_period_id: '11'
+  type: voice
+  value: (+357) 22 407254
+- parliamentary_period_id: '10'
+  type: voice
+  value: (+357) 25 370404
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 25 370404
 dofi: null
 email: akafkalias@parliament.cy

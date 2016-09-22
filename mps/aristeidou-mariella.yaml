@@ -6,16 +6,21 @@ _sources:
 birth_date: '1985-02-02'
 contact_details:
 - note: parliament
+  parliamentary_period_id: '11'
   type: address
   value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
-- type: email
+- parliamentary_period_id: '11'
+  type: email
   value: mariella_aristeidou@hotmail.com
 - note: parliament
+  parliamentary_period_id: '11'
   type: email
   value: maristidou@parliament.cy
-- type: fax
+- parliamentary_period_id: '11'
+  type: fax
   value: (+357) 25 340567
 - note: parliament
+  parliamentary_period_id: '11'
   type: voice
   value: (+357) 22 407212
 email: maristidou@parliament.cy

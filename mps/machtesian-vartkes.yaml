@@ -2,23 +2,54 @@ _id: machtesian-vartkes
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/185
 - http://www.parliament.cy/easyconsole.cfm/id/2090
+- http://www.parliament.cy/easyconsole.cfm/id/2035
 birth_date: '1950-11-13'
 contact_details:
-- type: address
+- parliamentary_period_id: '10'
+  type: address
   value: Καστοριάς 9Β&Γ, 2002 Στρόβολος
-- type: email
+- parliamentary_period_id: '11'
+  type: address
+  value: Καστοριάς 9Β&Γ, 2002 Στρόβολος
+- parliamentary_period_id: '10'
+  type: email
+  value: office@armenianmp.com
+- parliamentary_period_id: '11'
+  type: email
   value: office@armenianmp.com
 - note: parliament
+  parliamentary_period_id: '10'
   type: email
   value: vmahdessian@parliament.cy
-- type: fax
+- note: parliament
+  parliamentary_period_id: '11'
+  type: email
+  value: vmahdessian@parliament.cy
+- parliamentary_period_id: '10'
+  type: fax
   value: (+357) 22 424642
-- type: voice
+- parliamentary_period_id: '11'
+  type: fax
+  value: (+357) 22 424642
+- parliamentary_period_id: '10'
+  type: voice
+  value: (+357) 22 352357
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 22 352357
 - note: parliament
+  parliamentary_period_id: '10'
   type: voice
   value: (+357) 22 407202
-- type: voice
+- note: parliament
+  parliamentary_period_id: '11'
+  type: voice
+  value: (+357) 22 407202
+- parliamentary_period_id: '10'
+  type: voice
+  value: (+357) 22 454540
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 22 454540
 email: vmahdessian@parliament.cy
 gender: male
@@ -28,6 +59,7 @@ identifiers:
 image: http://www.parliament.cy/assets/image/imageoriginal/VMAHDESSIAN 2016.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/VMAHDESSIAN 2016.jpg
+- http://www.parliament.cy/assets/image/imageoriginal/MACHTESSIAN Vartkes.jpg
 links: []
 name:
   el: Μαχτεσιάν Βαρτκές

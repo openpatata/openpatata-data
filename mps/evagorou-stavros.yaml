@@ -3,20 +3,25 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/363
 birth_date: '1959-09-23'
 contact_details:
-- type: address
+- parliamentary_period_id: '10'
+  type: address
   value: Γρηγόρη Αυξεντίου 1, 1096 Λευκωσία
-- type: email
+- parliamentary_period_id: '10'
+  type: email
   value: sevagorou@akel.org.cy
 - note: parliament
+  parliamentary_period_id: '10'
   type: email
   value: sevagorou@parliament.cy
-- type: fax
+- parliamentary_period_id: '10'
+  type: fax
   value: (+357) 22 752933
 - note: parliament
+  parliamentary_period_id: '10'
   type: voice
   value: (+357) 22 407258
 dofi: null
-email: sevagorou@parliament.cy
+email: null
 gender: male
 identifiers:
 - identifier: Q15950881

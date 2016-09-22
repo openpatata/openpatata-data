@@ -6,17 +6,22 @@ _sources:
 birth_date: '1955-11-26'
 contact_details:
 - note: parliament
+  parliamentary_period_id: '11'
   type: address
   value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
 - note: parliament
+  parliamentary_period_id: '11'
   type: email
   value: ctheopemptou@parliament.cy
-- type: email
+- parliamentary_period_id: '11'
+  type: email
   value: theopemptou@gmail.com
 - note: parliament
+  parliamentary_period_id: '11'
   type: fax
   value: (+357) 22 407430
 - note: parliament
+  parliamentary_period_id: '11'
   type: voice
   value: (+357) 22 407226
 email: ctheopemptou@parliament.cy

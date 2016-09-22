@@ -7,23 +7,57 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/185
 birth_date: '1950-10-30'
 contact_details:
-- type: address
+- parliamentary_period_id: '10'
+  type: address
   value: Κασσιανής 9Α, 3067 Λεμεσός
-- type: address
+- parliamentary_period_id: '11'
+  type: address
+  value: Κασσιανής 9Α, 3067 Λεμεσός
+- parliamentary_period_id: '10'
+  type: address
   value: Λαπήθου 24, 2410 Έγκωμη
-- type: email
+- parliamentary_period_id: '11'
+  type: address
+  value: Λαπήθου 24, 2410 Έγκωμη
+- parliamentary_period_id: '10'
+  type: email
+  value: aadamou@logosnet.cy.net
+- parliamentary_period_id: '11'
+  type: email
   value: aadamou@logosnet.cy.net
 - note: parliament
+  parliamentary_period_id: '10'
   type: email
   value: aadamou@parliament.cy
-- type: email
+- note: parliament
+  parliamentary_period_id: '11'
+  type: email
+  value: aadamou@parliament.cy
+- parliamentary_period_id: '10'
+  type: email
   value: adamosad@spidernet.com.cy
-- type: fax
+- parliamentary_period_id: '11'
+  type: email
+  value: adamosad@spidernet.com.cy
+- parliamentary_period_id: '10'
+  type: fax
+  value: (+357) 22 514337
+- parliamentary_period_id: '11'
+  type: fax
   value: (+357) 22 514337
 - note: parliament
+  parliamentary_period_id: '10'
   type: voice
   value: (+357) 22 407245
-- type: voice
+- note: parliament
+  parliamentary_period_id: '11'
+  type: voice
+  value: (+357) 22 407245
+- parliamentary_period_id: '10'
+  type: voice
+  value: (+357) 22 514335
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 22 514335
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/a_adamou_AKEL.pdf
 email: aadamou@parliament.cy

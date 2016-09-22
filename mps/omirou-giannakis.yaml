@@ -4,21 +4,26 @@ _sources:
 birth_date: '1951-09-18'
 contact_details:
 - note: parliament
+  parliamentary_period_id: '10'
   type: address
   value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
 - note: parliament
+  parliamentary_period_id: '10'
   type: email
   value: president@parliament.cy
 - note: parliament
+  parliamentary_period_id: '10'
   type: email
   value: yomirou@parliament.cy
-- type: fax
+- parliamentary_period_id: '10'
+  type: fax
   value: (+357) 22 677201
 - note: parliament
+  parliamentary_period_id: '10'
   type: voice
   value: (+357) 22 407301
 dofi: https://cdn.rawgit.com/openpatata/cypriot-mp-dofis/master/G_Omirou.pdf
-email: president@parliament.cy
+email: null
 gender: male
 identifiers:
 - identifier: Q8053482

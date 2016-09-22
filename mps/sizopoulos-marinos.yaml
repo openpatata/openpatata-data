@@ -5,21 +5,28 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2105
 birth_date: '1957-07-17'
 contact_details:
-- type: address
+- parliamentary_period_id: '11'
+  type: address
   value: Θεσσαλονίκης 43, 3025 Λεμεσός
-- type: email
+- parliamentary_period_id: '11'
+  type: email
   value: marinos@sizopoulos.com
 - note: parliament
+  parliamentary_period_id: '11'
   type: email
   value: msizopoulos@parliament.cy
-- type: fax
+- parliamentary_period_id: '11'
+  type: fax
   value: (+357) 25 370399
 - note: parliament
+  parliamentary_period_id: '11'
   type: voice
   value: (+357) 22 407223
-- type: voice
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 22 476001
-- type: voice
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 25 371180
 email: msizopoulos@parliament.cy
 gender: male

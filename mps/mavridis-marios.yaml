@@ -7,22 +7,41 @@ _sources:
 birth_date: '1963-08-05'
 contact_details:
 - note: parliament
+  parliamentary_period_id: '10'
   type: address
   value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
-- type: email
+- note: parliament
+  parliamentary_period_id: '11'
+  type: address
+  value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
+- parliamentary_period_id: '10'
+  type: email
   value: m.mavrides@euc.ac.cy
 - note: parliament
+  parliamentary_period_id: '10'
   type: email
   value: mmavrides@parliament.cy
 - note: parliament
+  parliamentary_period_id: '11'
+  type: email
+  value: mmavrides@parliament.cy
+- note: parliament
+  parliamentary_period_id: '11'
   type: fax
   value: (+357) 22 407388
-- type: fax
+- parliamentary_period_id: '10'
+  type: fax
   value: (+357) 22 480523
 - note: parliament
+  parliamentary_period_id: '10'
   type: voice
   value: (+357) 22 407219
-- type: voice
+- note: parliament
+  parliamentary_period_id: '11'
+  type: voice
+  value: (+357) 22 407219
+- parliamentary_period_id: '10'
+  type: voice
   value: (+357) 22 480523
 dofi: null
 email: mmavrides@parliament.cy
@@ -30,7 +49,7 @@ gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/MAVRIDES-Marios.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/Mavrides Marios.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/MAVRIDES-Marios.jpg
 - http://www.parliament.cy/assets/image/imageoriginal/Mavrides Marios.jpg

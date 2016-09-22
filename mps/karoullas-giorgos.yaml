@@ -6,16 +6,21 @@ _sources:
 birth_date: '1972-06-28'
 contact_details:
 - note: parliament
+  parliamentary_period_id: '11'
   type: address
   value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
 - note: parliament
+  parliamentary_period_id: '11'
   type: email
   value: gkaroullas@parliament.cy
-- type: email
+- parliamentary_period_id: '11'
+  type: email
   value: karoullasg@gmail.com
-- type: fax
+- parliamentary_period_id: '11'
+  type: fax
   value: (+357) 24 637202
 - note: parliament
+  parliamentary_period_id: '11'
   type: voice
   value: (+357) 22 407256
 email: gkaroullas@parliament.cy

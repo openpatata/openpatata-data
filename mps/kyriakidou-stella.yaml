@@ -7,15 +7,35 @@ _sources:
 birth_date: '1956-03-10'
 contact_details:
 - note: parliament
+  parliamentary_period_id: '10'
   type: address
   value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
 - note: parliament
+  parliamentary_period_id: '11'
+  type: address
+  value: Βουλή των Αντιπροσώπων, 1402 Λευκωσία
+- note: parliament
+  parliamentary_period_id: '10'
   type: email
   value: skyriakidou@parliament.cy
 - note: parliament
+  parliamentary_period_id: '11'
+  type: email
+  value: skyriakidou@parliament.cy
+- note: parliament
+  parliamentary_period_id: '10'
   type: fax
   value: (+357) 22 407388
 - note: parliament
+  parliamentary_period_id: '11'
+  type: fax
+  value: (+357) 22 407388
+- note: parliament
+  parliamentary_period_id: '10'
+  type: voice
+  value: (+357) 22 407213
+- note: parliament
+  parliamentary_period_id: '11'
   type: voice
   value: (+357) 22 407213
 dofi: null
@@ -24,7 +44,7 @@ gender: female
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/KYRIAKIDOU Stella.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/Kyriakidou Stella 5 LEF.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/KYRIAKIDOU Stella.jpg
 - http://www.parliament.cy/assets/image/imageoriginal/Kyriakidou Stella 5 LEF.jpg

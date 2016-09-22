@@ -5,19 +5,25 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2063
 birth_date: '1981-05-04'
 contact_details:
-- type: address
+- parliamentary_period_id: '11'
+  type: address
   value: Βασιλέως Παύλου 16, 1096 Λευκωσία
 - note: parliament
+  parliamentary_period_id: '11'
   type: email
   value: ddemetriou@parliament.cy
-- type: email
+- parliamentary_period_id: '11'
+  type: email
   value: info@dmdemetriou.com
 - note: parliament
+  parliamentary_period_id: '11'
   type: fax
   value: (+357) 22 407388
-- type: voice
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 22 001188
 - note: parliament
+  parliamentary_period_id: '11'
   type: voice
   value: (+357) 22 407218
 email: ddemetriou@parliament.cy

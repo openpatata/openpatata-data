@@ -5,18 +5,24 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2070
 birth_date: '1986-03-12'
 contact_details:
-- type: address
+- parliamentary_period_id: '11'
+  type: address
   value: Λεωφόρος Λεμεσού 138, 3ος όροφος, Γραφείο 204, 2015 Στρόβολος
-- type: email
+- parliamentary_period_id: '11'
+  type: email
   value: anna_theologou@hotmail.com
 - note: parliament
+  parliamentary_period_id: '11'
   type: email
   value: atheologou@parliament.cy
-- type: fax
+- parliamentary_period_id: '11'
+  type: fax
   value: (+357) 22 261020
-- type: voice
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 22 267020
 - note: parliament
+  parliamentary_period_id: '11'
   type: voice
   value: (+357) 22 407205
 email: atheologou@parliament.cy

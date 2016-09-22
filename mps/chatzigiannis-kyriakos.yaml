@@ -7,19 +7,45 @@ _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2112
 birth_date: '1963-08-22'
 contact_details:
-- type: address
+- parliamentary_period_id: '10'
+  type: address
   value: Κοκκίνου Πατρόκλου 000, 5523 Δασάκι Άχνας
-- type: email
+- parliamentary_period_id: '11'
+  type: address
+  value: Κοκκίνου Πατρόκλου 000, 5523 Δασάκι Άχνας
+- parliamentary_period_id: '10'
+  type: email
+  value: khadjiyianni@cytanet.com.cy
+- parliamentary_period_id: '11'
+  type: email
   value: khadjiyianni@cytanet.com.cy
 - note: parliament
+  parliamentary_period_id: '10'
   type: email
   value: khadjiyianni@parliament.cy
-- type: fax
+- note: parliament
+  parliamentary_period_id: '11'
+  type: email
+  value: khadjiyianni@parliament.cy
+- parliamentary_period_id: '10'
+  type: fax
+  value: (+357) 23 828702
+- parliamentary_period_id: '11'
+  type: fax
   value: (+357) 23 828702
 - note: parliament
+  parliamentary_period_id: '10'
   type: voice
   value: (+357) 22 407217
-- type: voice
+- note: parliament
+  parliamentary_period_id: '11'
+  type: voice
+  value: (+357) 22 407217
+- parliamentary_period_id: '10'
+  type: voice
+  value: (+357) 99 592323
+- parliamentary_period_id: '11'
+  type: voice
   value: (+357) 99 592323
 dofi: null
 email: khadjiyianni@parliament.cy
@@ -27,7 +53,8 @@ gender: male
 identifiers:
 - identifier: null
   scheme: http://www.wikidata.org/entity/
-image: http://www.parliament.cy/assets/image/imageoriginal/HADJIGIANNIS Kiriakos.jpg
+image: http://www.parliament.cy/assets/image/imageoriginal/Hadjiyiannis kiriakos 10
+  AM.jpg
 images:
 - http://www.parliament.cy/assets/image/imageoriginal/HADJIGIANNIS Kiriakos.jpg
 - http://www.parliament.cy/assets/image/imageoriginal/Hadjiyiannis kiriakos 10 AM.jpg
