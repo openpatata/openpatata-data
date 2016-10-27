@@ -1,0 +1,24 @@
+_id: 2016-10-07_ΙΑ_Α_4
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/2251
+agenda:
+  cap1:
+  - 23.03.052.052-2015
+  - 23.01.057.052-2016
+  - 23.01.057.027-2016
+  - 23.01.057.109-2016
+  - 23.02.056.128-2015
+  - 23.03.053.053-2016
+  - 23.01.057.100-2016
+  - 23.01.057.101-2016
+  - 13.06.001
+  cap2: []
+  cap4: []
+attendees: []
+date: '2016-10-07'
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/2251
+parliamentary_period_id: ΙΑ
+session: Α
+sitting: 4

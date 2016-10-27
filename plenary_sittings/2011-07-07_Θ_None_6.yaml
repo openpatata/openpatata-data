@@ -1,0 +1,61 @@
+_id: 2011-07-07_Θ_None_6
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_TES/praktiko2011-07-07.doc
+agenda:
+  cap1: []
+  cap2:
+  - 13.29.003.001
+  - 23.02.052.038-2011
+  - 23.02.052.039-2011
+  cap4: []
+attendees:
+- mp_id: adamou-adamos
+- mp_id: anastasiadis-nikos
+- mp_id: antoniou-antonis
+- mp_id: varnava-giorgos
+- mp_id: votsis-angelos
+- mp_id: gavriil-giannakis
+- mp_id: georgiou-k-giorgos
+- mp_id: georgiadis-charis
+- mp_id: diplaros-efthymios
+- mp_id: damianou-aristos
+- mp_id: dimitriou-misiaouli-stella
+- mp_id: evagorou-stavros
+- mp_id: karogian-marios
+- mp_id: katsouridis-nikos
+- mp_id: kafkalias-antreas
+- mp_id: koulias-zacharias
+- mp_id: kyprianou-andreas
+- mp_id: kyriakidou-athina
+- mp_id: konstantinou-kostas
+- mp_id: konstantinou-neofytos
+- mp_id: kosta-kostas
+- mp_id: lamaris-giannos
+- mp_id: loukaidis-giorgos
+- mp_id: mesis-christos
+- mp_id: mavridis-marios
+- mp_id: mavronikola-roula
+- mp_id: mitsopoulos-tasos
+- mp_id: michailidis-andreas
+- mp_id: nikolaou-ionas
+- mp_id: nikolaidis-nikos
+- mp_id: papageorgiou-pampos
+- mp_id: papadopoulos-nikolas
+- mp_id: perdikis-giorgos
+- mp_id: pitsillidis-andreas
+- mp_id: prokopiou-georgios
+- mp_id: sarikas-feidias
+- mp_id: stavrianos-panikkos
+- mp_id: syllouris-dimitris
+- mp_id: tziovanis-christakis
+- mp_id: tornaritis-nikos
+- mp_id: fakontis-antreas
+- mp_id: charalampidou-eirini
+- mp_id: chatzigiannis-kyriakos
+date: '2011-07-07'
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_TES/praktiko2011-07-07.doc
+parliamentary_period_id: Θ
+session: null
+sitting: 6
