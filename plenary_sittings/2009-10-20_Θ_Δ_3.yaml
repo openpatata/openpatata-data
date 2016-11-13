@@ -52,7 +52,7 @@ attendees:
 - mp_id: chatzigiannis-kyriakos
 - mp_id: chatzinikolas-ntinos
 - mp_id: christoforou-lefteris
-date: '2009-10-20'
+date: '2009-10-20T12:00:00'
 links:
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_TD/praktiko2009-10-20.doc

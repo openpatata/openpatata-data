@@ -129,14 +129,14 @@ attendees:
 - mp_id: charalampidou-eirini
 - mp_id: chatzigiannis-kyriakos
 - mp_id: christoforou-lefteris
-date: '2013-08-29'
+date: '2013-08-29T16:35:00'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/648
 - type: transcript
-  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-08-29.pdf
-- type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-08-29.pdf
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IB/praktiko2013-08-29.pdf
 parliamentary_period_id: Ι
 session: null
 sitting: null

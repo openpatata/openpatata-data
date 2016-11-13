@@ -89,7 +89,7 @@ attendees:
 - mp_id: charalampidou-eirini
 - mp_id: chatzigiannis-kyriakos
 - mp_id: christoforou-lefteris
-date: '2014-02-06'
+date: '2014-02-06T16:30:00'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/843

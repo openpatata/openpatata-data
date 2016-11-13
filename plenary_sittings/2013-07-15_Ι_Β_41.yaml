@@ -56,7 +56,7 @@ attendees:
 - mp_id: fyttis-sofoklis
 - mp_id: charalampidou-eirini
 - mp_id: christoforou-lefteris
-date: '2013-07-15'
+date: '2013-07-15T11:00:00'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/621

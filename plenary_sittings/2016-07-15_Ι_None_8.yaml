@@ -53,7 +53,7 @@ attendees:
 - mp_id: charalampidou-eirini
 - mp_id: chatzigiannis-kyriakos
 - mp_id: christou-christos
-date: '2016-07-15'
+date: '2016-07-15T11:00:00'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/2146

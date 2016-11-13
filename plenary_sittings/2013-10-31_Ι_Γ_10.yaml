@@ -68,12 +68,12 @@ attendees:
 - mp_id: fyttis-sofoklis
 - mp_id: charalampidou-eirini
 - mp_id: chatzigiannis-kyriakos
-date: '2013-10-31'
+date: '2013-10-31T16:20:00'
 links:
 - type: agenda
-  url: http://www.parliament.cy/easyconsole.cfm/id/718
-- type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/723
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/718
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IC/praktiko2013-10-31.pdf
 parliamentary_period_id: Ι

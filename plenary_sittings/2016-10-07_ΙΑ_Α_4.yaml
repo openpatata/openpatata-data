@@ -1,6 +1,8 @@
 _id: 2016-10-07_ΙΑ_Α_4
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/2251
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IAA/praktiko2016-10-07.pdf
+- https://morph.io/wfdd/cypriot-parliament-1r-scraper
 agenda:
   cap1:
   - 23.03.052.052-2015
@@ -12,13 +14,83 @@ agenda:
   - 23.01.057.100-2016
   - 23.01.057.101-2016
   - 13.06.001
-  cap2: []
+  cap2:
+  - 23.01.057.142-2016
+  - 23.03.053.082-2016
+  - 23.03.053.083-2016
+  - 23.03.053.084-2016
+  - 23.03.053.085-2016
+  - 23.03.053.086-2016
+  - 23.03.053.086-2016
+  - 13.04.001
+  - 23.10.001
+  - 23.02.057.075-2016
+  - 23.02.057.076-2016
+  - 23.02.057.077-2016
+  - 23.02.057.078-2016
+  - 23.02.057.079-2016
+  - 23.02.057.080-2016
   cap4: []
-attendees: []
-date: '2016-10-07'
+attendees:
+- mp_id: adamou-adamos
+- mp_id: aristeidou-mariella
+- mp_id: votsis-angelos
+- mp_id: georgiou-georgios
+- mp_id: georgiou-k-giorgos
+- mp_id: georgiou-t-giorgos
+- mp_id: giorgallas-michalis
+- mp_id: diplaros-efthymios
+- mp_id: damianou-aristos
+- mp_id: dimitriou-annita
+- mp_id: dimitriou-dimitris
+- mp_id: erotokritou-christiana
+- mp_id: efstathiou-kostis
+- mp_id: zachariou-zacharias
+- mp_id: theologou-anna
+- mp_id: theopemptou-charalampos
+- mp_id: karoullas-giorgos
+- mp_id: kettiros-nikos
+- mp_id: kafkalias-antreas
+- mp_id: koukouma-koutra-skevi
+- mp_id: koulias-zacharias
+- mp_id: koulla-onoufrios
+- mp_id: kyprianou-antros
+- mp_id: kyprianou-andreas
+- mp_id: kyriakidou-stella
+- mp_id: konstantinou-kostas
+- mp_id: kosta-kostas
+- mp_id: leonidou-panikos
+- mp_id: lillikas-giorgos
+- mp_id: loukaidis-giorgos
+- mp_id: mavridis-marios
+- mp_id: mavrou-eleni
+- mp_id: mousiouttas-marinos
+- mp_id: mylonas-pavlos
+- mp_id: myrianthous-ilias
+- mp_id: neofytou-averof
+- mp_id: nouris-nikos
+- mp_id: orfanidis-christos
+- mp_id: papagiannis-linos
+- mp_id: papadopoulos-georgios
+- mp_id: papadopoulos-nikolas
+- mp_id: perdikis-giorgos
+- mp_id: pittokopitis-charalampos
+- mp_id: prokopiou-georgios
+- mp_id: savva-evanthia
+- mp_id: sizopoulos-marinos
+- mp_id: stavrou-eleni
+- mp_id: stefanou-stefanos
+- mp_id: syllouris-dimitris
+- mp_id: tziovanis-christakis
+- mp_id: fakontis-antreas
+- mp_id: charalampidou-eirini
+- mp_id: christou-christos
+date: '2016-10-07T11:05:00'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/2251
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IAA/praktiko2016-10-07.pdf
 parliamentary_period_id: ΙΑ
 session: Α
 sitting: 4

@@ -60,7 +60,7 @@ attendees:
 - mp_id: christofidis-giorgos
 - mp_id: christoforou-lefteris
 - mp_id: christofias-dimitris
-date: '2001-02-01'
+date: '2001-02-01T17:25:00'
 links:
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/praktiko2001-02-01.doc

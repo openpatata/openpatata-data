@@ -55,7 +55,7 @@ attendees:
 - mp_id: fakontis-antreas
 - mp_id: fyttis-sofoklis
 - mp_id: charalampidou-eirini
-date: '2011-07-15'
+date: '2011-07-15T12:00:00'
 links:
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_TES/praktiko2011-07-15.doc

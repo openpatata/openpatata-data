@@ -92,7 +92,7 @@ attendees:
 - mp_id: champoullas-evgenios
 - mp_id: charalampidou-eirini
 - mp_id: chatzigiannis-kyriakos
-date: '2015-11-19'
+date: '2015-11-19T16:00:00'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/1752

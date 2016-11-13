@@ -50,7 +50,7 @@ attendees:
 - mp_id: christou-andreas
 - mp_id: christofidis-giorgos
 - mp_id: christoforou-lefteris
-date: '2000-09-01'
+date: '2000-09-01T11:42:00'
 links:
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/praktiko2000-09-01.doc

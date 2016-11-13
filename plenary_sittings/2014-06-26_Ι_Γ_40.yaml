@@ -81,7 +81,7 @@ attendees:
 - mp_id: fakontis-antreas
 - mp_id: charalampidou-eirini
 - mp_id: chatzigiannis-kyriakos
-date: '2014-06-26'
+date: '2014-06-26T16:15:00'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/970

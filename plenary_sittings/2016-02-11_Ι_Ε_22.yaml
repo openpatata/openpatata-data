@@ -2,7 +2,6 @@ _id: 2016-02-11_Ι_Ε_22
 _sources:
 - http://www.parliament.cy/easyconsole.cfm/id/1869
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-02-11-2.pdf
-- http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-02-11.pdf
 agenda:
   cap1: []
   cap2: []
@@ -57,12 +56,10 @@ attendees:
 - mp_id: fyttis-sofoklis
 - mp_id: champoullas-evgenios
 - mp_id: chatzigiannis-kyriakos
-date: '2016-02-11'
+date: '2016-02-11T18:35:00'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/1869
-- type: transcript
-  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-02-11.pdf
 - type: transcript
   url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IE/praktiko2016-02-11-2.pdf
 parliamentary_period_id: Ι

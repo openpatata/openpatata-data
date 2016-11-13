@@ -88,7 +88,7 @@ attendees:
 - mp_id: fakontis-antreas
 - mp_id: charalampidou-eirini
 - mp_id: chatzigiannis-kyriakos
-date: '2013-07-04'
+date: '2013-07-04T16:25:00'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/574

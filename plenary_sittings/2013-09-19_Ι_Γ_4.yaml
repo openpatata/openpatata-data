@@ -61,7 +61,7 @@ attendees:
 - mp_id: fyttis-sofoklis
 - mp_id: charalampidou-eirini
 - mp_id: chatzigiannis-kyriakos
-date: '2013-09-19'
+date: '2013-09-19T16:30:00'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/663

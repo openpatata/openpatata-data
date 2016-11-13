@@ -54,7 +54,7 @@ attendees:
 - mp_id: fyttis-sofoklis
 - mp_id: charalampidou-eirini
 - mp_id: chatzigiannis-kyriakos
-date: '2014-07-15'
+date: '2014-07-15T11:10:00'
 links:
 - type: agenda
   url: http://www.parliament.cy/easyconsole.cfm/id/1001
