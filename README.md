@@ -1,14 +1,11 @@
-This repo hosts the raw data of
-[*openpatata*](https://github.com/openpatata/openpatata), a Cypriot-parliament
-tracker.  Travis produces a
-[completeness and validity report](https://travis-ci.org/openpatata/openpatata-data).
-If you'd like to help with the collection of the data, kindly head to the
-[*openpatata-scrapers* repo](https://github.com/openpatata/openpatata-scrapers).
+This repo hosts the raw data of [*openpatata*](https://github.com/openpatata/), a Cypriot-parliament tracker.
+Travis produces a [completeness and validity report](https://travis-ci.org/openpatata/openpatata-data).
+If you'd like to help with the collection of the data, kindly head to the [*openpatata-scrapers* repo](https://github.com/openpatata/openpatata-scrapers).
 
 ## Data analysis
 
-Structured data lends itself easily to data analysis.  The following are some
-ideas about how our data could be harnessed:
+Structured data lends itself easily to data analysis.
+The following are some ideas about how our data could be harnessed:
 
 - to produce plenary attendance statistics (per party and MP; seasonal
   trends; etc.), and similarly with questions (e.g. by plotting question
@@ -39,4 +36,4 @@ You will need to have previously installed the `datapackage` library
 
 ## License
 
-*openpatata-data* is licensed under CC BY 4.0.
+*[openpatata-data](https://github.com/openpatata/openpatata-data)* is licensed under CC BY 4.0.
