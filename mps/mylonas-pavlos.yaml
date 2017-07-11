@@ -43,5 +43,10 @@ place_of_origin:
   el: Άγιος Αμβρόσιος Κερύνειας (κατεχόμενος από τα τουρκικά στρατεύματα)
 tenures:
 - electoral_district_id: lemesos
+  end_date: '2017-05-17'
   parliamentary_period_id: '11'
   party_id: sypol
+- electoral_district_id: lemesos
+  parliamentary_period_id: '11'
+  party_id: null
+  start_date: '2017-05-18'
