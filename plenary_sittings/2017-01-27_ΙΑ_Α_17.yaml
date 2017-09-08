@@ -1,0 +1,87 @@
+_id: 2017-01-27_ΙΑ_Α_17
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/2411
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IAA/praktiko2017-01-21.pdf
+agenda:
+  cap1:
+  - 23.02.057.093-2016
+  - 23.02.056.038-2015
+  - 23.03.052.005-2015
+  - 23.03.052.006-2015
+  - 23.01.057.136-2016
+  - 23.01.057.168-2016
+  - 23.01.057.172-2016
+  - 23.01.057.179-2016
+  - 23.01.056.186-2015
+  - 23.01.057.150-2016
+  - 23.03.053.058-2016
+  - 23.10.002.004
+  cap2:
+  - 23.01.058.021-2017
+  - 23.02.058.007-2017
+  - 23.02.058.008-2017
+  - 23.02.058.009-2017
+  - 23.02.058.010-2017
+  - 23.02.058.011-2017
+  - 23.02.058.012-2017
+  - 23.02.058.013-2017
+  cap4: []
+attendees:
+- mp_id: adamou-adamos
+- mp_id: aristeidou-mariella
+- mp_id: votsis-angelos
+- mp_id: georgiou-georgios
+- mp_id: georgiou-k-giorgos
+- mp_id: georgiou-t-giorgos
+- mp_id: giorgallas-michalis
+- mp_id: diplaros-efthymios
+- mp_id: damianou-aristos
+- mp_id: dimitriou-annita
+- mp_id: dimitriou-dimitris
+- mp_id: erotokritou-christiana
+- mp_id: zachariou-zacharias
+- mp_id: theologou-anna
+- mp_id: theopemptou-charalampos
+- mp_id: karoullas-giorgos
+- mp_id: kettiros-nikos
+- mp_id: kasinis-solon
+- mp_id: kafkalias-antreas
+- mp_id: koukouma-koutra-skevi
+- mp_id: koulias-zacharias
+- mp_id: koulla-onoufrios
+- mp_id: kyprianou-andreas
+- mp_id: konstantinou-kostas
+- mp_id: kosta-kostas
+- mp_id: leonidou-panikos
+- mp_id: lillikas-giorgos
+- mp_id: mavridis-marios
+- mp_id: mavrou-eleni
+- mp_id: mousiouttas-marinos
+- mp_id: mylonas-pavlos
+- mp_id: myrianthous-ilias
+- mp_id: neofytou-averof
+- mp_id: nouris-nikos
+- mp_id: orfanidis-christos
+- mp_id: papagiannis-linos
+- mp_id: papadopoulos-georgios
+- mp_id: perdikis-giorgos
+- mp_id: pittokopitis-charalampos
+- mp_id: prokopiou-georgios
+- mp_id: savva-evanthia
+- mp_id: sizopoulos-marinos
+- mp_id: stavrou-eleni
+- mp_id: stefanou-stefanos
+- mp_id: syllouris-dimitris
+- mp_id: tziovanis-christakis
+- mp_id: tornaritis-nikos
+- mp_id: charalampidou-eirini
+- mp_id: chatzigiannis-kyriakos
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/2411
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IAA/praktiko2017-01-21.pdf
+parliamentary_period_id: ΙΑ
+session: Α
+sitting: 17
+start_date: '2017-01-27T11:08:00'

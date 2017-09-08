@@ -1,0 +1,60 @@
+_id: 1999-02-18_Ζ_Γ_20
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/008_01_ZG/praktiko1999-02-18.pdf
+agenda:
+  cap1: []
+  cap2: []
+  cap4: []
+attendees:
+- mp_id: agapiou-giannakis
+- mp_id: anastasiadis-nikos
+- mp_id: antoniou-avraam
+- mp_id: vasileiou-androula
+- mp_id: veniamin-christodoulos
+- mp_id: gerasimou-stelios
+- mp_id: georgiou-aristofanis
+- mp_id: giankou-kikis
+- mp_id: dimitriou-panagiotis
+- mp_id: erotokritou-rikkos
+- mp_id: theodorou-doros
+- mp_id: thoma-giannakis
+- mp_id: kazamias-kikis
+- mp_id: karas-antonis
+- mp_id: katsouridis-nikos
+- mp_id: kittis-stathis
+- mp_id: kleanthous-nikos
+- mp_id: kliridou-kaiti
+- mp_id: lyssaridis-vasos
+- mp_id: matsis-giannakis
+- mp_id: makridis-isidoros
+- mp_id: matsakis-marios
+- mp_id: mavrokordatos-christos
+- mp_id: michailidis-thasos
+- mp_id: mousiouttas-nikos
+- mp_id: neofytou-averof
+- mp_id: omirou-giannakis
+- mp_id: pantelidou-katerina
+- mp_id: papakostas-kostas
+- mp_id: parisinos-andreas
+- mp_id: pittokopitis-nikos
+- mp_id: prodromou-prodromos
+- mp_id: sammoutas-evangelos
+- mp_id: stylianou-stelios
+- mp_id: syllouris-dimitris
+- mp_id: tyrimos-kyriakos
+- mp_id: filippou-andreas
+- mp_id: chasikos-sokratis
+- mp_id: chatzigeorgiou-giorgos
+- mp_id: chatzigiannis-sofoklis
+- mp_id: chatzidimitriou-takis
+- mp_id: christou-andreas
+- mp_id: christodoulidis-doros
+- mp_id: christoforou-lefteris
+- mp_id: christofias-dimitris
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_01_ZG/praktiko1999-02-18.pdf
+parliamentary_period_id: Ζ
+session: Γ
+sitting: 20
+start_date: '1999-02-18T16:46:00'

@@ -1,6 +1,7 @@
 _id: 2016-11-04_ΙΑ_Α_7
 _sources:
 - http://www.parliament.cy/images/media/redirectfile/07- 0411016- agenda0001.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IAA/praktiko2016-11-04.pdf
 agenda:
   cap1:
   - 23.02.057.070-2016
@@ -88,14 +89,152 @@ agenda:
   - 23.03.053.057-2016
   - 23.03.053.058-2016
   - 23.03.053.059-2016
-  cap2: []
+  cap2:
+  - 23.01.057.152-2016
+  - 23.01.057.155-2016
+  - 23.01.057.156-2016
+  - 23.01.057.157-2016
+  - 23.01.057.158-2016
+  - 23.01.057.159-2016
+  - 23.01.057.160-2016
+  - 23.01.057.161-2016
+  - 23.01.057.162-2016
+  - 23.03.053.093-2016
+  - 23.03.251.2002
+  - 23.03.048.079-2011
+  - 23.03.048.100-2011
+  - 23.03.048.107-2011
+  - 23.03.049.063-2012
+  - 23.03.050.013-2013
+  - 23.03.050.014-2013
+  - 23.03.050.028-2013
+  - 23.03.050.029-2013
+  - 23.03.050.069-2013
+  - 23.03.051.034-2014
+  - 23.03.051.055-2014
+  - 23.03.051.061-2014
+  - 23.03.051.065-2014
+  - 23.03.051.066-2014
+  - 23.03.051.067-2014
+  - 23.03.052.005-2015
+  - 23.03.052.006-2015
+  - 23.03.052.023-2015
+  - 23.03.052.024-2015
+  - 23.03.052.028-2015
+  - 23.03.052.036-2015
+  - 23.03.052.055-2015
+  - 23.03.052.059-2015
+  - 23.03.052.060-2015
+  - 23.03.052.072-2015
+  - 23.03.053.001-2016
+  - 23.03.053.002-2016
+  - 23.03.053.010-2016
+  - 23.03.053.013-2016
+  - 23.03.053.014-2016
+  - 23.03.053.015-2016
+  - 23.03.053.016-2016
+  - 23.03.053.017-2016
+  - 23.03.053.018-2016
+  - 23.03.053.019-2016
+  - 23.03.053.028-2016
+  - 23.03.053.030-2016
+  - 23.03.053.035-2016
+  - 23.03.053.037-2016
+  - 23.03.053.040-2016
+  - 23.03.053.043-2016
+  - 23.03.053.046-2016
+  - 23.03.053.049-2016
+  - 23.03.053.050-2016
+  - 23.03.053.051-2016
+  - 23.03.053.052-2016
+  - 23.03.053.057-2016
+  - 23.03.053.058-2016
+  - 23.03.053.059-2016
+  - 23.03.053.060-2016
+  - 23.03.053.061-2016
+  - 23.03.053.063-2016
+  - 23.03.053.067-2016
+  - 23.03.053.068-2016
+  - 23.03.053.069-2016
+  - 23.03.053.070-2016
+  - 23.03.053.071-2016
+  - 23.03.053.072-2016
+  - 23.03.053.073-2016
+  - 23.03.053.074-2016
+  - 23.03.053.075-2016
+  - 23.03.053.076-2016
+  - 23.03.053.077-2016
+  - 23.03.053.078-2016
+  - 13.04.001
+  - 23.02.057.086-2016
+  - 23.02.057.087-2016
+  - 23.02.057.088-2016
+  - 23.02.057.089-2016
+  - 23.02.057.090-2016
+  - 23.02.057.091-2016
   cap4:
   - 23.05.049.003-2016
-attendees: []
+attendees:
+- mp_id: adamou-adamos
+- mp_id: aristeidou-mariella
+- mp_id: votsis-angelos
+- mp_id: georgiou-georgios
+- mp_id: georgiou-k-giorgos
+- mp_id: georgiou-t-giorgos
+- mp_id: giorgallas-michalis
+- mp_id: diplaros-efthymios
+- mp_id: damianou-aristos
+- mp_id: dimitriou-annita
+- mp_id: dimitriou-dimitris
+- mp_id: erotokritou-christiana
+- mp_id: efstathiou-kostis
+- mp_id: zachariou-zacharias
+- mp_id: theologou-anna
+- mp_id: theopemptou-charalampos
+- mp_id: karoullas-giorgos
+- mp_id: kettiros-nikos
+- mp_id: kafkalias-antreas
+- mp_id: koukouma-koutra-skevi
+- mp_id: koulias-zacharias
+- mp_id: koulla-onoufrios
+- mp_id: kyprianou-antros
+- mp_id: kyprianou-andreas
+- mp_id: kyriakidou-stella
+- mp_id: konstantinou-kostas
+- mp_id: kosta-kostas
+- mp_id: leonidou-panikos
+- mp_id: loukaidis-giorgos
+- mp_id: mavrou-eleni
+- mp_id: mousiouttas-marinos
+- mp_id: mylonas-pavlos
+- mp_id: myrianthous-ilias
+- mp_id: neofytou-averof
+- mp_id: nouris-nikos
+- mp_id: orfanidis-christos
+- mp_id: papagiannis-linos
+- mp_id: papadopoulos-georgios
+- mp_id: papadopoulos-nikolas
+- mp_id: perdikis-giorgos
+- mp_id: pittokopitis-charalampos
+- mp_id: prokopiou-georgios
+- mp_id: savva-evanthia
+- mp_id: sizopoulos-marinos
+- mp_id: stavrou-eleni
+- mp_id: stefanou-stefanos
+- mp_id: syllouris-dimitris
+- mp_id: tziovanis-christakis
+- mp_id: tornaritis-nikos
+- mp_id: fakontis-antreas
+- mp_id: charalampidou-eirini
+- mp_id: chatzigiannis-kyriakos
+- mp_id: christou-christos
 date: '2016-11-04'
 links:
 - type: agenda
   url: http://www.parliament.cy/images/media/redirectfile/07- 0411016- agenda0001.pdf
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IAA/praktiko2016-11-04.pdf
 parliamentary_period_id: ΙΑ
 session: Α
 sitting: 7
+start_date: '2016-11-04T11:10:00'

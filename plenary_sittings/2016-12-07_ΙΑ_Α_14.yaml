@@ -1,0 +1,72 @@
+_id: 2016-12-07_ΙΑ_Α_14
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/2378
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IAA/praktiko2016-12-07.pdf
+agenda:
+  cap1:
+  - 23.01.057.141-2016
+  cap2: []
+  cap4: []
+attendees:
+- mp_id: adamou-adamos
+- mp_id: aristeidou-mariella
+- mp_id: votsis-angelos
+- mp_id: georgiou-georgios
+- mp_id: georgiou-k-giorgos
+- mp_id: georgiou-t-giorgos
+- mp_id: giorgallas-michalis
+- mp_id: diplaros-efthymios
+- mp_id: damianou-aristos
+- mp_id: dimitriou-annita
+- mp_id: dimitriou-dimitris
+- mp_id: erotokritou-christiana
+- mp_id: efstathiou-kostis
+- mp_id: zachariou-zacharias
+- mp_id: theologou-anna
+- mp_id: theopemptou-charalampos
+- mp_id: karoullas-giorgos
+- mp_id: kettiros-nikos
+- mp_id: kafkalias-antreas
+- mp_id: koukouma-koutra-skevi
+- mp_id: koulias-zacharias
+- mp_id: koulla-onoufrios
+- mp_id: kyprianou-antros
+- mp_id: kyprianou-andreas
+- mp_id: kyriakidou-stella
+- mp_id: konstantinou-kostas
+- mp_id: kosta-kostas
+- mp_id: leonidou-panikos
+- mp_id: lillikas-giorgos
+- mp_id: loukaidis-giorgos
+- mp_id: mavridis-marios
+- mp_id: mavrou-eleni
+- mp_id: mousiouttas-marinos
+- mp_id: mylonas-pavlos
+- mp_id: neofytou-averof
+- mp_id: nouris-nikos
+- mp_id: orfanidis-christos
+- mp_id: papagiannis-linos
+- mp_id: papadopoulos-georgios
+- mp_id: papadopoulos-nikolas
+- mp_id: perdikis-giorgos
+- mp_id: pittokopitis-charalampos
+- mp_id: prokopiou-georgios
+- mp_id: savva-evanthia
+- mp_id: sizopoulos-marinos
+- mp_id: stavrou-eleni
+- mp_id: stefanou-stefanos
+- mp_id: syllouris-dimitris
+- mp_id: tziovanis-christakis
+- mp_id: tornaritis-nikos
+- mp_id: fakontis-antreas
+- mp_id: charalampidou-eirini
+- mp_id: christou-christos
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/2378
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IAA/praktiko2016-12-07.pdf
+parliamentary_period_id: ΙΑ
+session: Α
+sitting: 14
+start_date: '2016-12-07T15:00:00'

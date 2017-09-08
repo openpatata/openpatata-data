@@ -1,0 +1,18 @@
+_id: 2017-09-08_ΙΑ_Β_1
+_sources:
+- http://www.parliament.cy/images/media/redirectfile/01- 0809017- agenda.pdf
+agenda:
+  cap1:
+  - 23.02.058.049-2017
+  - 23.02.058.051-2017
+  cap2: []
+  cap4:
+  - 23.04.033.086-2016
+attendees: []
+links:
+- type: agenda
+  url: http://www.parliament.cy/images/media/redirectfile/01- 0809017- agenda.pdf
+parliamentary_period_id: ΙΑ
+session: Β
+sitting: 1
+start_date: '2017-09-08'

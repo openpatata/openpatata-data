@@ -1,0 +1,17 @@
+_id: 1999-04-22_Ζ_Γ_26
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/008_01_ZG/praktiko1999-04-22.pdf
+agenda:
+  cap1: []
+  cap2: []
+  cap4: []
+attendees:
+- mp_id: kyprianou-spyros
+- mp_id: rotsas-christos
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_01_ZG/praktiko1999-04-22.pdf
+parliamentary_period_id: Ζ
+session: Γ
+sitting: 26
+start_date: '1999-04-22T16:19:00'

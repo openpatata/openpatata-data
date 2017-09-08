@@ -1,0 +1,17 @@
+_id: 1998-10-22_Ζ_Γ_4
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/008_01_ZG/praktiko1998-10-22.pdf
+agenda:
+  cap1: []
+  cap2: []
+  cap4: []
+attendees:
+- mp_id: kyprianou-spyros
+- mp_id: christou-andreas
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_01_ZG/praktiko1998-10-22.pdf
+parliamentary_period_id: Ζ
+session: Γ
+sitting: 4
+start_date: '1998-10-22T16:24:00'

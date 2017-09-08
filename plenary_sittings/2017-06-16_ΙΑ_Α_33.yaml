@@ -1,0 +1,104 @@
+_id: 2017-06-16_ΙΑ_Α_33
+_sources:
+- http://www.parliament.cy/images/media/redirectfile/33-16062017-agenda.αλλαγή ώρας
+  doc.pdf
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IAA/praktiko2017-06-16.pdf
+agenda:
+  cap1:
+  - 23.01.057.149-2016
+  - 23.03.054.031-2017
+  - 23.01.057.148-2016
+  - 23.01.055.168-2014
+  - 23.03.054.036-2017
+  - 23.03.054.044-2017
+  - 23.02.057.022-2016
+  - 23.01.058.051-2017
+  - 23.03.054.037-2017
+  - 23.03.054.038-2017
+  - 23.03.054.039-2017
+  - 23.03.054.040-2017
+  - 23.03.054.041-2017
+  - 23.02.058.020-2017
+  - 23.02.058.021-2017
+  - 23.02.058.022-2017
+  cap2:
+  - 23.01.058.107-2017
+  - 23.01.058.108-2017
+  - 23.01.058.109-2017
+  - 23.01.058.110-2017
+  - 23.01.058.111-2017
+  - 23.01.058.112-2017
+  - 23.01.058.113-2017
+  - 23.01.058.114-2017
+  - 23.01.058.115-2017
+  - 23.01.058.116-2017
+  - 23.03.054.057-2017
+  - 23.03.054.058-2017
+  - 23.03.054.059-2017
+  - 23.03.054.060-2017
+  - 23.03.054.061-2017
+  - 23.03.054.062-2017
+  cap4: []
+attendees:
+- mp_id: adamou-adamos
+- mp_id: aristeidou-mariella
+- mp_id: votsis-angelos
+- mp_id: georgiou-georgios
+- mp_id: georgiou-k-giorgos
+- mp_id: georgiou-t-giorgos
+- mp_id: giorgallas-michalis
+- mp_id: diplaros-efthymios
+- mp_id: damianou-aristos
+- mp_id: dimitriou-annita
+- mp_id: dimitriou-dimitris
+- mp_id: erotokritou-christiana
+- mp_id: efstathiou-kostis
+- mp_id: zachariou-zacharias
+- mp_id: theologou-anna
+- mp_id: theopemptou-charalampos
+- mp_id: kettiros-nikos
+- mp_id: kafkalias-antreas
+- mp_id: koukouma-koutra-skevi
+- mp_id: koulias-zacharias
+- mp_id: koulla-onoufrios
+- mp_id: kyprianou-antros
+- mp_id: kyprianou-andreas
+- mp_id: kyriakidou-stella
+- mp_id: konstantinou-kostas
+- mp_id: kosta-kostas
+- mp_id: leonidou-panikos
+- mp_id: lillikas-giorgos
+- mp_id: loukaidis-giorgos
+- mp_id: mavridis-marios
+- mp_id: mavrou-eleni
+- mp_id: mousiouttas-marinos
+- mp_id: mylonas-pavlos
+- mp_id: myrianthous-ilias
+- mp_id: neofytou-averof
+- mp_id: nouris-nikos
+- mp_id: orfanidis-christos
+- mp_id: papagiannis-linos
+- mp_id: papadopoulos-nikolas
+- mp_id: perdikis-giorgos
+- mp_id: pittokopitis-charalampos
+- mp_id: prokopiou-georgios
+- mp_id: savva-evanthia
+- mp_id: sizopoulos-marinos
+- mp_id: stavrou-eleni
+- mp_id: stefanou-stefanos
+- mp_id: syllouris-dimitris
+- mp_id: tziovanis-christakis
+- mp_id: tornaritis-nikos
+- mp_id: fakontis-antreas
+- mp_id: charalampidou-eirini
+- mp_id: chatzigiannis-kyriakos
+links:
+- type: agenda
+  url: http://www.parliament.cy/images/media/redirectfile/33-16062017-agenda.αλλαγή
+    ώρας doc.pdf
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IAA/praktiko2017-06-16.pdf
+parliamentary_period_id: ΙΑ
+session: Α
+sitting: 33
+start_date: '2017-06-16T10:00:00'

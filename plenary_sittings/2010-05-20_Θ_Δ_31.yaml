@@ -3,7 +3,14 @@ _sources:
 - http://www2.parliament.cy/parliamentgr/008_01/008_02_TD/praktiko2010-05-20.doc
 agenda:
   cap1: []
-  cap2: []
+  cap2:
+  - 23.03.047.070-2010
+  - 23.02.051.031-2010
+  - 23.06.009.04.863
+  - 23.06.009.04.912
+  - 23.03.2010
+  - 23.06.009.04.962
+  - 23.06.009.04.981
   cap4: []
 attendees:
 - mp_id: angelidis-andreas
@@ -58,3 +65,4 @@ links:
 parliamentary_period_id: Θ
 session: Δ
 sitting: 31
+start_date: '2010-05-20T16:10:00'

@@ -1,0 +1,27 @@
+_id: 2017-02-17_ΙΑ_Α_None
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/2446
+agenda:
+  cap1:
+  - 23.01.057.043-2016
+  - 23.03.053.030-2016
+  - 23.01.057.192-2016
+  - 23.01.057.195-2016
+  - 23.01.057.161-2016
+  - 23.02.058.016-2017
+  - 23.03.053.060-2016
+  - 23.03.053.095-2016
+  - 23.02.058.003-2017
+  - 23.01.057.175-2016
+  - 23.01.057.183-2016
+  - 23.03.053.099-2016
+  cap2: []
+  cap4: []
+attendees: []
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/2446
+parliamentary_period_id: ΙΑ
+session: Α
+sitting: null
+start_date: '2017-02-17'

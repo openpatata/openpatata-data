@@ -1,0 +1,16 @@
+_id: 1998-11-05_Ζ_Γ_None
+_sources:
+- http://www2.parliament.cy/parliamentgr/008_01/008_01_ZG/praktiko1998-11-05.pdf
+agenda:
+  cap1: []
+  cap2: []
+  cap4: []
+attendees:
+- mp_id: kyprianou-spyros
+links:
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_01_ZG/praktiko1998-11-05.pdf
+parliamentary_period_id: Ζ
+session: Γ
+sitting: null
+start_date: '1998-11-05T16:15:00'

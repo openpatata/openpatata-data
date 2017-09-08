@@ -1,0 +1,84 @@
+_id: 2017-02-24_ΙΑ_Α_21
+_sources:
+- http://www.parliament.cy/easyconsole.cfm/id/2455
+- http://www2.parliament.cy/parliamentgr/008_01/008_02_IAA/praktiko2017-02-24.pdf
+agenda:
+  cap1:
+  - 23.01.057.099-2016
+  - 23.03.053.059-2016
+  - 23.02.057.090-2016
+  - 23.01.057.175-2016
+  - 23.03.054.006-2017
+  - 23.01.058.006-2017
+  - 23.01.058.007-2017
+  - 23.01.057.111-2016
+  - 23.01.057.112-2016
+  - 23.01.058.019-2017
+  cap2:
+  - 23.01.058.037-2017
+  - 23.01.058.038-2017
+  - 23.01.058.039-2017
+  - 23.01.058.040-2017
+  - 23.02.058.024-2017
+  - 23.02.058.025-2017
+  - 23.02.058.026-2017
+  - 23.02.058.027-2017
+  - 23.02.058.028-2017
+  cap4: []
+attendees:
+- mp_id: adamou-adamos
+- mp_id: aristeidou-mariella
+- mp_id: votsis-angelos
+- mp_id: georgiou-t-giorgos
+- mp_id: giorgallas-michalis
+- mp_id: diplaros-efthymios
+- mp_id: damianou-aristos
+- mp_id: dimitriou-annita
+- mp_id: dimitriou-dimitris
+- mp_id: erotokritou-christiana
+- mp_id: efstathiou-kostis
+- mp_id: zachariou-zacharias
+- mp_id: theologou-anna
+- mp_id: karoullas-giorgos
+- mp_id: kettiros-nikos
+- mp_id: kasinis-solon
+- mp_id: koukouma-koutra-skevi
+- mp_id: koulias-zacharias
+- mp_id: koulla-onoufrios
+- mp_id: kyprianou-antros
+- mp_id: kyprianou-andreas
+- mp_id: kyriakidou-stella
+- mp_id: konstantinou-kostas
+- mp_id: kosta-kostas
+- mp_id: leonidou-panikos
+- mp_id: loukaidis-giorgos
+- mp_id: mavridis-marios
+- mp_id: mavrou-eleni
+- mp_id: mousiouttas-marinos
+- mp_id: mylonas-pavlos
+- mp_id: myrianthous-ilias
+- mp_id: nouris-nikos
+- mp_id: papagiannis-linos
+- mp_id: papadopoulos-georgios
+- mp_id: papadopoulos-nikolas
+- mp_id: perdikis-giorgos
+- mp_id: prokopiou-georgios
+- mp_id: savva-evanthia
+- mp_id: sizopoulos-marinos
+- mp_id: stavrou-eleni
+- mp_id: stefanou-stefanos
+- mp_id: syllouris-dimitris
+- mp_id: tziovanis-christakis
+- mp_id: tornaritis-nikos
+- mp_id: fakontis-antreas
+- mp_id: charalampidou-eirini
+- mp_id: christou-christos
+links:
+- type: agenda
+  url: http://www.parliament.cy/easyconsole.cfm/id/2455
+- type: transcript
+  url: http://www2.parliament.cy/parliamentgr/008_01/008_02_IAA/praktiko2017-02-24.pdf
+parliamentary_period_id: ΙΑ
+session: Α
+sitting: 21
+start_date: '2017-02-24T11:15:00'
